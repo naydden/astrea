@@ -18,3 +18,16 @@ There are FOUR additional documents to be delivered :
 * Planning and Scheduling (will be evaluated as a part of the report).
 * Project presentation.
 * Project poster (will be evaluated as a part of the presentation). 
+
+### For some LatEx help: 
+[Link](https://en.wikibooks.org/wiki/LaTeX)
+
+### For configuring GitHub with your computer:
+*on Mac: [Link](http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf)
+*on Windwos: [Link](http://www.app-softwarefactory.com/tutorial-de-introduccion-a-git-y-github-en-windows/)
+*on Linux: [Link](https://www.linux.com/learn/beginning-git-and-github-linux-users)
+
+
+
+
+
