@@ -1,4 +1,4 @@
-# sat_constellation
+# astrea_constellation
 
 ### Description
 
