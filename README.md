@@ -1,4 +1,4 @@
-# astrea_constellation1
+# astrea_constellation
 
 ### Description
 
