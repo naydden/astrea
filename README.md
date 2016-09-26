@@ -24,7 +24,7 @@ There are FOUR additional documents to be delivered :
 
 ### For configuring GitHub with your computer:
 * on Mac: [Link](http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf)
-* on Windwos: [Link](http://www.app-softwarefactory.com/tutorial-de-introduccion-a-git-y-github-en-windows/)
+* on Windows: [Link](http://www.app-softwarefactory.com/tutorial-de-introduccion-a-git-y-github-en-windows/)
 * on Linux: [Link](https://www.linux.com/learn/beginning-git-and-github-linux-users)
 
 
