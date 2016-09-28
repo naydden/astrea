@@ -1,0 +1,14 @@
+This is TeX, Version 3.14159265 (TeX Live 2015/Debian) (preloaded format=tex 2016.9.28)  28 SEP 2016 10:56
+**thesis-info.tex
+(./thesis-info.tex
+! Undefined control sequence.
+l.3 \title
+          {Writing your PhD thesis in \texorpdfstring{\\ \LaTeX2e}{LaTeX2e}}
+? 
+! Interruption.
+<to be read again> 
+                   {
+l.3 \title{
+           Writing your PhD thesis in \texorpdfstring{\\ \LaTeX2e}{LaTeX2e}}
+? exit
+No pages of output.
