@@ -13,4 +13,4 @@
 \contentsline {subsection}{\numberline {7.1}Engineering hours budget}{14}
 \contentsline {subsection}{\numberline {7.2}Preliminary total costs budget}{16}
 \contentsline {section}{\numberline {8}Gantt of the project}{18}
-\contentsline {section}{\numberline {9}References}{18}
+\contentsline {section}{\numberline {9}References}{19}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  4 OCT 2016 02:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  4 OCT 2016 03:10
 entering extended mode
 **./simple.tex
 (simple.tex
@@ -1241,7 +1241,7 @@ Overfull \hbox (46.74513pt too wide) in paragraph at lines 6--7
 
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 9.
+Package pdftex.def Info: ./img/logo.png used on input line 10.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1689,7 +1689,54 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[17] (8.tex) (ref.tex 
+[17] (8.tex <./external_pdf/wbs_final.pdf, id=74, 1195.01572pt x 845.04686pt>
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
+
+<use ./external_pdf/wbs_final.pdf>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf used on input line 3.
+(pdftex.def)             Requested size: 514.16795pt x 363.58228pt.
+
+Overfull \hbox (46.74513pt too wide) in paragraph at lines 3--4
+[][] 
+ []
+
+)
+File: ./img/logo.png Graphic file (type png)
+ <use ./img/logo.png>
+Package pdftex.def Info: ./img/logo.png used on input line 130.
+(pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
+
+Overfull \hbox (5.5044pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (18.125pt): 
+ Make it at least 74.69994pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Overfull \hbox (5.5044pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[18 <./external_pdf/wbs_final.pdf>] (ref.tex 
 AED: lastpage setting LastPage
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
@@ -1726,12 +1773,12 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[18] (simple.aux) ) ) 
+[19] (simple.aux) ) ) 
 Here is how much of TeX's memory you used:
- 13259 strings out of 493334
- 229290 string characters out of 3139252
+ 13264 strings out of 493334
+ 229434 string characters out of 3139252
  410254 words of memory out of 3000000
- 16538 multiletter control sequences out of 15000+200000
+ 16542 multiletter control sequences out of 15000+200000
  10340 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,24n,72p,8866b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1743,9 +1790,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/eurosym/feybr10.pfb>
-Output written on simple.pdf (18 pages, 222405 bytes).
+Output written on simple.pdf (19 pages, 305833 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 158 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
