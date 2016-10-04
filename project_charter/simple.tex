@@ -1,0 +1,130 @@
+\documentclass[12pt, titlepage]{scrartcl}
+\setkomafont{disposition}{\normalfont\bfseries}
+
+\title{\textbf{\textit{Astrea}} Constellation }
+\subtitle{Project Charter \vspace{7cm}}
+
+
+%\author{ Pol Fontanes Molina, \and  Victor Martinez Viol, \and David Morata Carranza,
+%        Josep Maria Serra Moncunill, \and
+%        Eva Mar\'{i}a Urbano Gonz\'{a}lez,  \and
+%        Nando Herr\'{a}n Albelda, \and
+%        Lluís Foreman Campins, \and
+%        Oscar Fuentes Mu\~noz, \and
+%        Silvia Gonz\'{a}lez Garc\'{i}a, \and
+%        Laura Pla Olea, \and
+%        Joan Cebrian,  \and
+%        Josep Puig Ruiz, \and
+%        Roger Fraixedas	, \and
+%        Marina Pons, \and
+%		Sergi Tarroc, \and
+%		Xavi Ti\'{o}, \and
+%		Boyan Naydenov
+%}
+\author{\emph{Group 4}}
+
+\date{\textit{\today}}
+
+\usepackage{booktabs}
+\usepackage{xcolor,colortbl}
+\usepackage{pstricks}
+\usepackage{eurosym} 
+\usepackage{longtable}
+\usepackage{blindtext}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{booktabs}
+\usepackage{pdfpages}
+\usepackage{tabularx} 
+\usepackage{booktabs}
+\usepackage{xcolor,colortbl}
+\usepackage{pstricks}
+\usepackage{eurosym} 
+\usepackage{longtable}
+\usepackage{transparent}
+\usepackage{array}
+\usepackage[margin=0.9in,bottom=2.5in,top=1in]{geometry}
+\usepackage{etoolbox}
+\usepackage{float}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+\setlength{\headsep}{2.0cm}
+\fancyhead[C]{
+ \transparent{0.5}\begin{tabular}{ |m{5cm}|m{4.5cm}|m{5.8cm}|  }
+ \hline
+ \transparent{0.5}\includegraphics[width=0.25\textwidth]{./img/logo}& \centering\arraybackslash \textbf{ASTREA} & Date: \today \newline Page: \thepage \hspace{1pt}/\pageref{LastPage} \newline Code: Group 04: EA-T2016 \\
+ \hline
+ \multicolumn{3}{|c|}{\textbf{Astrea Constellation}} \\ \hline
+ \end{tabular}
+}
+
+\fancyfoot[C]{
+ \transparent{0.5}\begin{tabular}{ |m{5cm}|m{4.5cm}|m{5.8cm}|  }
+ \hline
+Prepared by: \newline\newline Date: & Revised by: \newline\newline Date: & Charter acceptance by: \newline\newline Date: \\ \hline
+ \end{tabular}
+}
+
+
+\fancypagestyle{titlepage}{
+\renewcommand{\headrulewidth}{0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{Group 04: EA-T2016}
+\cfoot{}
+\rfoot{\today}
+}
+
+%----------------------------------------------------------
+\begin{document}
+\begin{titlepage}
+	\thispagestyle{titlepage}
+	\centering
+	\includegraphics{./img/logo}\par\vspace{5cm}
+	{\scshape\LARGE ESEIAAT \par}
+	{\scshape\Large Engineering Project\par}
+	\vspace{1.5cm}
+	{\huge\bfseries Astrea Constellation\par}
+	\vspace{2cm}
+	{\Large\itshape Project Charter\par}
+	\vfill
+\end{titlepage}
+\tableofcontents
+\pagebreak
+\pagebreak
+
+
+%\Aim of the project
+\input{1.tex}
+
+%\Scope of the Project
+\input{2.tex}
+
+%\Basic requirements of the project
+\input{3.tex}
+\pagebreak
+%\Justification
+\input{4.tex}
+\pagebreak
+%\Organization of the group
+\input{5.tex}
+\pagebreak
+%\Planning of the project
+\input{6.tex}
+
+\pagebreak
+%\Budget
+\input{7.tex}
+
+\pagebreak
+%\gantt
+\input{8.tex}
+
+
+%\references
+\input{ref.tex}
