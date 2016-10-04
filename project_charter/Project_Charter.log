@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.8)  4 OCT 2016 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.8)  4 OCT 2016 23:55
 entering extended mode
 **./Project_Charter.tex
 (Project_Charter.tex
@@ -1877,7 +1877,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 AED: lastpage setting LastPage
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 12.
+Package pdftex.def Info: ./img/logo.png used on input line 10.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1930,7 +1930,7 @@ ublic/amsfonts/cm/cmsy10.pfb><C:/Users/micke/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/micke/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/micke/AppData/
 Local/Programs/MiKTeX 2.9/fonts/type1/public/eurosym/feybr10.pfb>
-Output written on Project_Charter.pdf (20 pages, 337857 bytes).
+Output written on Project_Charter.pdf (20 pages, 337814 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
