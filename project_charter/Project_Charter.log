@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.4)  4 OCT 2016 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  4 OCT 2016 22:52
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **Project_Charter.tex
 (./Project_Charter.tex
@@ -1083,14 +1082,27 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[4] (./4.tex <img/launches.png, id=23, 969.71239pt x 545.8003pt>
-File: img/launches.png Graphic file (type png)
+[4] (./4.tex
 
-<use img/launches.png>
+LaTeX Warning: Citation `SpaceWorks' on page 5 undefined on input line 9.
+
+
+LaTeX Warning: Citation `keppler' on page 5 undefined on input line 9.
+
+<img/launches.png, id=23, 969.71239pt x 545.8003pt>
+File: img/launches.png Graphic file (type png)
+ <use img/launches.png>
 Package pdftex.def Info: img/launches.png used on input line 13.
 (pdftex.def)             Requested size: 455.7649pt x 256.52617pt.
+
+
+LaTeX Warning: Citation `nanosats' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation `nanosats' on page 5 undefined on input line 14.
+
 File: ./img/logo.png Graphic file (type png)
- <use ./img/logo.png>
+<use ./img/logo.png>
 Package pdftex.def Info: ./img/logo.png used on input line 17.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
@@ -1128,6 +1140,18 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 Overfull \hbox (21.55316pt too wide) in paragraph at lines 28--41
  [][] 
  []
+
+
+LaTeX Warning: Citation `nanosats' on page 6 undefined on input line 41.
+
+
+LaTeX Warning: Citation `ISC' on page 6 undefined on input line 41.
+
+
+LaTeX Warning: Citation `nanosats' on page 6 undefined on input line 41.
+
+
+LaTeX Warning: Citation `ISC' on page 6 undefined on input line 41.
 
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
@@ -1812,12 +1836,21 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[19 <./external_pdf/wbs_final.pdf>] (./ref.tex
+[19 <./external_pdf/wbs_final.pdf>] (./ref.tex (./Project_Charter.bbl
+Overfull \hbox (53.10277pt too wide) in paragraph at lines 56--60
+[]
+ []
 
+
+Overfull \hbox (37.07317pt too wide) in paragraph at lines 72--80
+[]
+ []
+
+) 
 AED: lastpage setting LastPage
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 23.
+Package pdftex.def Info: ./img/logo.png used on input line 12.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1850,28 +1883,32 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[20] (./Project_Charter.aux) ) ) 
+[20] (./Project_Charter.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) ) 
 Here is how much of TeX's memory you used:
- 13200 strings out of 493014
- 229108 string characters out of 6133351
- 408994 words of memory out of 5000000
- 16489 multiletter control sequences out of 15000+600000
- 10340 words of font info for 37 fonts, out of 8000000 for 9000
+ 13229 strings out of 493014
+ 229554 string characters out of 6133351
+ 409393 words of memory out of 5000000
+ 16514 multiletter control sequences out of 15000+600000
+ 11125 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,24n,72p,8541b,561s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/eurosym/feybr10.pfb>
-Output written on Project_Charter.pdf (20 pages, 291175 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/eurosym/feybr10.pfb>
+Output written on Project_Charter.pdf (20 pages, 320724 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 167 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

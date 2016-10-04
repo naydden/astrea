@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ref.aux
+The style file: plainnat.bst
+Database file #1: CubeSat.bib
+Warning--empty journal in CalPoly2014
+Warning--empty journal in CalPoly2014a
+Warning--empty journal in Cote2011
+Warning--there's a number but no volume in Cote2011
+Warning--there's a number but no volume in ESA2003
+Warning--empty year in Force
+Warning--empty year in Force
+Warning--empty journal in Hanley2013
+Warning--empty journal in HillScottA;RickmanSteven;KostykChristopher;MotilBrian;NotardonatoWilliam;Swanson2010
+Warning--empty journal in Lempereur
+Warning--empty year in Lempereur
+Warning--empty year in Lempereur
+Warning--empty journal in Madni
+Warning--empty year in Madni
+Warning--empty year in Madni
+Warning--there's a number but no volume in Radhakrishnan2016
+Warning--empty journal in SpaceWorks2014
+Warning--empty journal in Startup2015
+You've used 14 entries,
+            2773 wiz_defined-function locations,
+            677 strings with 6789 characters,
+and the built_in function-call counts, 5732 in all, are:
+= -- 522
+> -- 231
+< -- 19
++ -- 84
+- -- 69
+* -- 389
+:= -- 863
+add.period$ -- 45
+call.type$ -- 14
+change.case$ -- 65
+chr.to.int$ -- 13
+cite$ -- 46
+duplicate$ -- 315
+empty$ -- 505
+format.name$ -- 91
+if$ -- 1218
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 14
+newline$ -- 81
+num.names$ -- 56
+pop$ -- 162
+preamble$ -- 1
+purify$ -- 51
+quote$ -- 0
+skip$ -- 227
+stack$ -- 0
+substring$ -- 183
+swap$ -- 45
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 154
+warning$ -- 18
+while$ -- 61
+width$ -- 0
+write$ -- 181
+(There were 18 warnings)
