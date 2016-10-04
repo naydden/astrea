@@ -1,9 +1,13 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[kep(2016)]{keppler}
+{Kepler Communications}, 2016.
+\newblock URL \url{http://www.keplercommunications.com/about}.
 
 \bibitem[Bedon(2013)]{Bedon2013}
 Hector Bedon.
@@ -14,26 +18,25 @@ Hector Bedon.
 \newblock ISSN 22344624.
 \newblock \doi{10.6029/smartcr.2013.05.009}.
 
-\bibitem[CalPoly(2014{\natexlab{a}})]{CalPoly2014}
+\bibitem[CalPoly(2014)]{CalPoly2014}
 CalPoly.
 \newblock {Cubesat design specification (CDS)}.
-\newblock page~42, 2014{\natexlab{a}}.
-
-\bibitem[CalPoly(2014{\natexlab{b}})]{CalPoly2014a}
-CalPoly.
-\newblock {Cubesat design specification (CDS)}.
-\newblock page~42, 2014{\natexlab{b}}.
+\newblock pages 1--42, 2014.
 
 \bibitem[Cote(2011)]{Cote2011}
 Keith Cote.
 \newblock {Mechanical, Power, and Propulsion Subsystem Design for a CubeSat}.
 \newblock \penalty0 (March):\penalty0 1--92, 2011.
-\newblock \doi{10.1.1.467.5552}.
 
 \bibitem[Duchon(1996)]{Duchon1996}
 P~Duchon.
 \newblock {Attitude and orbit control}.
 \newblock \emph{Spacecraft Orbital Motion}, pages 114--118, 1996.
+
+\bibitem[{E. Buchen} and {D. DePasquale}(2014)]{SpaceWorks}
+{E. Buchen} and {D. DePasquale}.
+\newblock {Nano/Microsatellite Market Assessment 2014}.
+\newblock pages 1--18, 2014.
 
 \bibitem[ESA(2003)]{ESA2003}
 ESA.
@@ -48,7 +51,7 @@ Air Force and Indian Ocean.
 \bibitem[Hanley and Trudeau(2013)]{Hanley2013}
 Jennifer Hanley and Joshua Trudeau.
 \newblock {Thermal , Telecommunication and Power Systems for a CubeSat}.
-\newblock 2013.
+\newblock pages 1--132, 2013.
 
 \bibitem[{Hill, Scott A; Rickman, Steven; Kostyk, Christopher ; Motil, Brian;
   Notardonato William;
@@ -56,32 +59,33 @@ Jennifer Hanley and Joshua Trudeau.
 Theodore {Hill, Scott A; Rickman, Steven; Kostyk, Christopher ; Motil, Brian;
   Notardonato William; Swanson}.
 \newblock {Thermal Management Systems Roadmap}.
-\newblock 2010.
+\newblock pages 1--30, 2010.
+
+\bibitem[Kulu(2016)]{nanosats}
+Erik Kulu.
+\newblock {Nanosatellite and CubeSat Database}, 2016.
 
 \bibitem[Lempereur()]{Lempereur}
 Vincent Lempereur.
 \newblock {Electrical Power Systems}.
+\newblock pages 1--112.
 
 \bibitem[Madni and Tubbal()]{Madni}
 Mohamed~Atef Madni and Faisel Tubbal.
 \newblock {Inter-CubeSat Communications : Routing Between CubeSat Swarms in a
   DTN Architecture}.
+\newblock pages 1--10.
 
 \bibitem[Radhakrishnan et~al.(2016)Radhakrishnan, Edmonson, Afghah,
-  Rodriguez-Osorio, Pinto, and Burleigh]{Radhakrishnan2016}
+  Rodriguez-Osorio, Pinto, and Burleigh]{ISC}
 Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
   Rodriguez-Osorio, Frank Pinto, and Scott Burleigh.
 \newblock {Survey of Inter-satellite Communication for Small Satellite Systems:
   An OSI Framework Approach}.
 \newblock \emph{IEEE Communications Surveys {\&} Tutorials}, \penalty0
-  (c):\penalty0 1--1, 2016.
+  (c):\penalty0 1--51, 2016.
 \newblock ISSN 1553-877X.
 \newblock \doi{10.1109/COMST.2016.2564990}.
-
-\bibitem[SpaceWorks(2014)]{SpaceWorks2014}
-SpaceWorks.
-\newblock {Nano/Microsatellite Market Assessment 2014}.
-\newblock page~18, 2014.
 
 \bibitem[Startup and Lee(2015)]{Startup2015}
 Jim Startup and David~K Lee.

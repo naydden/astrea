@@ -3,10 +3,11 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ref.aux
 The style file: plainnat.bst
 Database file #1: CubeSat.bib
+Warning--to sort, need author or key in keppler
 Warning--empty journal in CalPoly2014
-Warning--empty journal in CalPoly2014a
 Warning--empty journal in Cote2011
 Warning--there's a number but no volume in Cote2011
+Warning--empty journal in SpaceWorks
 Warning--there's a number but no volume in ESA2003
 Warning--empty year in Force
 Warning--empty year in Force
@@ -18,48 +19,47 @@ Warning--empty year in Lempereur
 Warning--empty journal in Madni
 Warning--empty year in Madni
 Warning--empty year in Madni
-Warning--there's a number but no volume in Radhakrishnan2016
-Warning--empty journal in SpaceWorks2014
+Warning--there's a number but no volume in ISC
 Warning--empty journal in Startup2015
-You've used 14 entries,
+You've used 15 entries,
             2773 wiz_defined-function locations,
-            677 strings with 6789 characters,
-and the built_in function-call counts, 5732 in all, are:
-= -- 522
-> -- 231
-< -- 19
-+ -- 84
-- -- 69
-* -- 389
-:= -- 863
-add.period$ -- 45
-call.type$ -- 14
-change.case$ -- 65
-chr.to.int$ -- 13
-cite$ -- 46
-duplicate$ -- 315
-empty$ -- 505
-format.name$ -- 91
-if$ -- 1218
-int.to.chr$ -- 2
+            684 strings with 6889 characters,
+and the built_in function-call counts, 6550 in all, are:
+= -- 621
+> -- 242
+< -- 22
++ -- 87
+- -- 72
+* -- 445
+:= -- 939
+add.period$ -- 47
+call.type$ -- 15
+change.case$ -- 69
+chr.to.int$ -- 15
+cite$ -- 49
+duplicate$ -- 344
+empty$ -- 590
+format.name$ -- 96
+if$ -- 1423
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 14
-newline$ -- 81
+missing$ -- 13
+newline$ -- 85
 num.names$ -- 56
-pop$ -- 162
+pop$ -- 176
 preamble$ -- 1
-purify$ -- 51
+purify$ -- 54
 quote$ -- 0
-skip$ -- 227
+skip$ -- 269
 stack$ -- 0
-substring$ -- 183
-swap$ -- 45
-text.length$ -- 6
+substring$ -- 297
+swap$ -- 60
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 154
+type$ -- 165
 warning$ -- 18
-while$ -- 61
+while$ -- 76
 width$ -- 0
-write$ -- 181
+write$ -- 193
 (There were 18 warnings)

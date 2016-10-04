@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  4 OCT 2016 22:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  4 OCT 2016 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -78,7 +78,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \begin{thebibliography}
-                           {14}
+                           {15}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -91,12 +91,12 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \begin{thebibliography}{1
-                             4}
+                             5}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 4 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 1--7
 []
@@ -109,8 +109,65 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \bibitem[Bedon(2013)]{Bedon2013}
-                                    
+l.8 \bibitem[kep(2016)]{keppler}
+                                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\bibcite{keppler}{kep(2016)}
+Missing character: There is no K in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.10 \newblock
+               URL \url{http://www.keplercommunications.com/about}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (215.24812pt too wide) in paragraph at lines 9--11
+\OT1/cmtt/m/n/10 http://www.keplercommunications.com/about 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \bibitem[Bedon(2013)]{Bedon2013}
+                                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -128,7 +185,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.10 \newblock
+l.14 \newblock
                {A DTN System for Nanosatellite-based Sensor Networks using a...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -231,7 +288,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.12 \newblock
+l.16 \newblock
                \emph{The Smart Computing Review}, 3\penalty0 (5):\penalty0 3...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -260,7 +317,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.14 \newblock
+l.18 \newblock
                ISSN 22344624.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -282,7 +339,7 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.15 \newblock
+l.19 \newblock
                \doi{10.6029/smartcr.2013.05.009}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -323,37 +380,37 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (16.86655pt too wide) in paragraph at lines 9--16
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 The
  []
 
 
-Overfull \hbox (26.44983pt too wide) in paragraph at lines 9--16
+Overfull \hbox (26.44983pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 Smart
  []
 
 
-Overfull \hbox (24.02206pt too wide) in paragraph at lines 9--16
+Overfull \hbox (24.02206pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 Com-
  []
 
 
-Overfull \hbox (17.37766pt too wide) in paragraph at lines 9--16
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 put-
  []
 
 
-Overfull \hbox (13.2888pt too wide) in paragraph at lines 9--16
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 ing
  []
 
 
-Overfull \hbox (14.96098pt too wide) in paragraph at lines 9--16
+Overfull \hbox (14.96098pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 Re-
  []
 
 
-Overfull \hbox (18.91098pt too wide) in paragraph at lines 9--16
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 13--20
 \OT1/cmr/m/it/10 view
  []
 
@@ -364,12 +421,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 ...[CalPoly(2014{\natexlab{a}})]{CalPoly2014}
-                                                  
+l.21 \bibitem[CalPoly(2014)]{CalPoly2014}
+                                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-\bibcite{CalPoly2014}{CalPoly(2014{a})}
+\bibcite{CalPoly2014}{CalPoly(2014)}
 Missing character: There is no C in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -379,7 +436,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.19 \newblock
+l.23 \newblock
                {Cubesat design specification (CDS)}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -418,94 +475,10 @@ Missing character: There is no C in font nullfont!
 Missing character: There is no D in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no ) in font nullfont!
-Missing character: There is no . in font nullfont!
-! Undefined control sequence.
-l.20 \newblock
-               page~42, 2014{\natexlab{a}}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no . in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ...CalPoly(2014{\natexlab{b}})]{CalPoly2014a}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-\bibcite{CalPoly2014a}{CalPoly(2014{b})}
-Missing character: There is no C in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 l.24 \newblock
-               {Cubesat design specification (CDS)}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no C in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no ) in font nullfont!
-Missing character: There is no . in font nullfont!
-! Undefined control sequence.
-l.25 \newblock
-               page~42, 2014{\natexlab{b}}.
+               pages 1--42, 2014.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -516,6 +489,10 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -523,7 +500,6 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 4 in font nullfont!
-Missing character: There is no b in font nullfont!
 Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
@@ -532,7 +508,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \bibitem[Cote(2011)]{Cote2011}
+l.26 \bibitem[Cote(2011)]{Cote2011}
                                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -549,7 +525,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.29 \newblock
+l.28 \newblock
                {Mechanical, Power, and Propulsion Subsystem Design for a Cub...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -615,7 +591,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.30 \newblock
+l.29 \newblock
                \penalty0 (March):\penalty0 1--92, 2011.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -642,35 +618,6 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no . in font nullfont!
-! Undefined control sequence.
-l.31 \newblock
-               \doi{10.1.1.467.5552}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -678,7 +625,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \bibitem[Duchon(1996)]{Duchon1996}
+l.31 \bibitem[Duchon(1996)]{Duchon1996}
                                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -693,7 +640,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.35 \newblock
+l.33 \newblock
                {Attitude and orbit control}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -726,7 +673,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.36 \newblock
+l.34 \newblock
                \emph{Spacecraft Orbital Motion}, pages 114--118, 1996.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -755,32 +702,32 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (27.59978pt too wide) in paragraph at lines 34--37
+Overfull \hbox (27.59978pt too wide) in paragraph at lines 32--35
 \OT1/cmr/m/it/10 Space-
  []
 
 
-Overfull \hbox (19.80539pt too wide) in paragraph at lines 34--37
+Overfull \hbox (19.80539pt too wide) in paragraph at lines 32--35
 \OT1/cmr/m/it/10 craft
  []
 
 
-Overfull \hbox (15.461pt too wide) in paragraph at lines 34--37
+Overfull \hbox (15.461pt too wide) in paragraph at lines 32--35
 \OT1/cmr/m/it/10 Or-
  []
 
 
-Overfull \hbox (18.65543pt too wide) in paragraph at lines 34--37
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 32--35
 \OT1/cmr/m/it/10 bital
  []
 
 
-Overfull \hbox (17.65544pt too wide) in paragraph at lines 34--37
+Overfull \hbox (17.65544pt too wide) in paragraph at lines 32--35
 \OT1/cmr/m/it/10 Mo-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 34--37
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 32--35
 \OT1/cmr/m/it/10 tion
  []
 
@@ -791,7 +738,118 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \bibitem[ESA(2003)]{ESA2003}
+l.36 ...en} and {D. DePasquale}(2014)]{SpaceWorks}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\bibcite{SpaceWorks}{{E. Buchen} and {D. DePasquale}(2014)}
+Missing character: There is no E in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.38 \newblock
+               {Nano/Microsatellite Market Assessment 2014}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.39 \newblock
+               pages 1--18, 2014.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \bibitem[ESA(2003)]{ESA2003}
                                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -802,7 +860,7 @@ Missing character: There is no S in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.40 \newblock
+l.43 \newblock
                {Satellite Power Systems}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -833,7 +891,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.41 \newblock
+l.44 \newblock
                \emph{May 2003}, \penalty0 (May):\penalty0 12, 2003.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -857,12 +915,12 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (18.93321pt too wide) in paragraph at lines 39--42
+Overfull \hbox (18.93321pt too wide) in paragraph at lines 42--45
 \OT1/cmr/m/it/10 May
  []
 
 
-Overfull \hbox (20.44434pt too wide) in paragraph at lines 39--42
+Overfull \hbox (20.44434pt too wide) in paragraph at lines 42--45
 \OT1/cmr/m/it/10 2003
  []
 
@@ -873,7 +931,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43 \bibitem[Force and Ocean()]{Force}
+l.46 \bibitem[Force and Ocean()]{Force}
                                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -903,7 +961,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.45 \newblock
+l.48 \newblock
                {Telemetry and Command}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -932,7 +990,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.46 \newblock
+l.49 \newblock
                \emph{ReVision}, pages 102--106.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -956,17 +1014,17 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (14.96098pt too wide) in paragraph at lines 44--47
+Overfull \hbox (14.96098pt too wide) in paragraph at lines 47--50
 \OT1/cmr/m/it/10 Re-
  []
 
 
-Overfull \hbox (14.07768pt too wide) in paragraph at lines 44--47
+Overfull \hbox (14.07768pt too wide) in paragraph at lines 47--50
 \OT1/cmr/m/it/10 Vi-
  []
 
 
-Overfull \hbox (17.8888pt too wide) in paragraph at lines 44--47
+Overfull \hbox (17.8888pt too wide) in paragraph at lines 47--50
 \OT1/cmr/m/it/10 sion
  []
 
@@ -977,7 +1035,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 ...item[Hanley and Trudeau(2013)]{Hanley2013}
+l.51 ...item[Hanley and Trudeau(2013)]{Hanley2013}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1015,7 +1073,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.50 \newblock
+l.53 \newblock
                {Thermal , Telecommunication and Power Systems for a CubeSat}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1076,14 +1134,26 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.51 \newblock
-               2013.
+l.54 \newblock
+               pages 1--132, 2013.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
@@ -1096,7 +1166,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.55 ...MotilBrian;NotardonatoWilliam;Swanson2010}
+l.58 ...MotilBrian;NotardonatoWilliam;Swanson2010}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1198,7 +1268,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.58 \newblock
+l.61 \newblock
                {Thermal Management Systems Roadmap}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1239,14 +1309,25 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.59 \newblock
-               2010.
+l.62 \newblock
+               pages 1--30, 2010.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
@@ -1259,7 +1340,75 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \bibitem[Lempereur()]{Lempereur}
+l.64 \bibitem[Kulu(2016)]{nanosats}
+                                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\bibcite{nanosats}{Kulu(2016)}
+Missing character: There is no E in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.66 \newblock
+               {Nanosatellite and CubeSat Database}, 2016.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \bibitem[Lempereur()]{Lempereur}
                                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1283,7 +1432,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.63 \newblock
+l.70 \newblock
                {Electrical Power Systems}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1314,6 +1463,27 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.71 \newblock
+               pages 1--112.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -1321,7 +1491,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 \bibitem[Madni and Tubbal()]{Madni}
+l.73 \bibitem[Madni and Tubbal()]{Madni}
                                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1360,7 +1530,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.67 \newblock
+l.75 \newblock
                {Inter-CubeSat Communications : Routing Between CubeSat Swarm...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1442,6 +1612,26 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.77 \newblock
+               pages 1--10.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -1449,13 +1639,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71 ...o, Pinto, and Burleigh]{Radhakrishnan2016}
+l.80   Rodriguez-Osorio, Pinto, and Burleigh]{ISC}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-\bibcite{Radhakrishnan2016}{Radhakrishnan et\nobreakspace  {}al.(2016)Radhakris
-hnan, Edmonson, Afghah, Rodriguez-Osorio, Pinto, and Burleigh}
+\bibcite{ISC}{Radhakrishnan et\nobreakspace  {}al.(2016)Radhakrishnan, Edmonson
+, Afghah, Rodriguez-Osorio, Pinto, and Burleigh}
 Missing character: There is no R in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -1558,7 +1748,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.74 \newblock
+l.83 \newblock
                {Survey of Inter-satellite Communication for Small Satellite ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1651,7 +1841,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.76 \newblock
+l.85 \newblock
                \emph{IEEE Communications Surveys {\&} Tutorials}, \penalty0
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1667,6 +1857,7 @@ Missing character: There is no : in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no - in font nullfont!
+Missing character: There is no 5 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no 2 in font nullfont!
@@ -1675,7 +1866,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.78 \newblock
+l.87 \newblock
                ISSN 1553-877X.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1698,7 +1889,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no X in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.79 \newblock
+l.88 \newblock
                \doi{10.1109/COMST.2016.2564990}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1738,67 +1929,67 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (24.20541pt too wide) in paragraph at lines 72--80
+Overfull \hbox (24.20541pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 IEEE
  []
 
 
-Overfull \hbox (24.02206pt too wide) in paragraph at lines 72--80
+Overfull \hbox (24.02206pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 Com-
  []
 
 
-Overfull \hbox (17.12212pt too wide) in paragraph at lines 72--80
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 mu-
  []
 
 
-Overfull \hbox (12.26659pt too wide) in paragraph at lines 72--80
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 ni-
  []
 
 
-Overfull \hbox (12.77766pt too wide) in paragraph at lines 72--80
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 ca-
  []
 
 
-Overfull \hbox (21.21098pt too wide) in paragraph at lines 72--80
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 tions
  []
 
 
-Overfull \hbox (18.7832pt too wide) in paragraph at lines 72--80
+Overfull \hbox (18.7832pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 Sur-
  []
 
 
-Overfull \hbox (18.1443pt too wide) in paragraph at lines 72--80
+Overfull \hbox (18.1443pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 veys
  []
 
 
-Overfull \hbox (7.66663pt too wide) in paragraph at lines 72--80
+Overfull \hbox (7.66663pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 &
  []
 
 
-Overfull \hbox (15.33322pt too wide) in paragraph at lines 72--80
+Overfull \hbox (15.33322pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 Tu-
  []
 
 
-Overfull \hbox (12.01102pt too wide) in paragraph at lines 72--80
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 to-
  []
 
 
-Overfull \hbox (10.86102pt too wide) in paragraph at lines 72--80
+Overfull \hbox (10.86102pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 ri-
  []
 
 
-Overfull \hbox (11.7555pt too wide) in paragraph at lines 72--80
+Overfull \hbox (11.7555pt too wide) in paragraph at lines 81--89
 \OT1/cmr/m/it/10 als
  []
 
@@ -1809,101 +2000,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 \bibitem[SpaceWorks(2014)]{SpaceWorks2014}
-                                               
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-\bibcite{SpaceWorks2014}{SpaceWorks(2014)}
-Missing character: There is no S in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-! Undefined control sequence.
-l.83 \newblock
-               {Nano/Microsatellite Market Assessment 2014}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no N in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no . in font nullfont!
-! Undefined control sequence.
-l.84 \newblock
-               page~18, 2014.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no . in font nullfont!
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \bibitem[Startup and Lee(2015)]{Startup2015}
+l.90 \bibitem[Startup and Lee(2015)]{Startup2015}
                                                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1933,7 +2030,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.88 \newblock
+l.92 \newblock
                {Space Symposium, Technical Track, Colorado Springs, Colorado...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2047,7 +2144,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.90 \newblock
+l.94 \newblock
                pages 1--11, 2015.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2078,7 +2175,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \end{thebibliography}
+l.96 \end{thebibliography}
                           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2119,19 +2216,20 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 39 strings out of 493014
- 540 string characters out of 6133351
+ 41 strings out of 493014
+ 561 string characters out of 6133351
  56601 words of memory out of 5000000
- 3675 multiletter control sequences out of 15000+600000
- 3986 words of font info for 15 fonts, out of 8000000 for 9000
+ 3676 multiletter control sequences out of 15000+600000
+ 4154 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  22i,4n,15p,312b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
->
-Output written on ref.pdf (1 page, 16709 bytes).
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+
+Output written on ref.pdf (1 page, 28239 bytes).
 PDF statistics:
- 12 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
