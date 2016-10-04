@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 20:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  4 OCT 2016 20:28
 entering extended mode
 **./Project_Charter.tex
 (Project_Charter.tex
@@ -168,7 +168,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
 Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 
@@ -183,7 +183,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@depth=\count93
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex"
 `pst-fp' v0.05, 2010/01/17 (hv)
 \pstFP@xs=\count94
 \pstFP@xia=\count95
@@ -262,7 +262,7 @@ hmetics.code.tex")))
 )
 \psLoopIndex=\count111
 
-`PSTricks' v2.70  <2016/09/23> (tvz)
+`PSTricks' v2.68  <2016/06/09> (tvz)
 \pst@dima=\dimen131
 \pst@dimb=\dimen132
 \pst@dimc=\dimen133
@@ -288,7 +288,7 @@ hmetics.code.tex")))
 \pst@cntp=\count121
 \@zero=\count122
 \pst@toks=\toks28
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.con")
 \psunit=\dimen141
 \psxunit=\dimen142
 \psyunit=\dimen143
@@ -308,10 +308,10 @@ hmetics.code.tex")))
 \sh@wgridYunit=\dimen154
 \pst@shift=\dimen155
 )
-File: pstricks.tex 2016/09/23 v2.70 `PSTricks' (tvz,hv)
+File: pstricks.tex 2016/06/09 v2.68 `PSTricks' (tvz,hv)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
-File: pst-fp.tex 2016/09/23 v2.70 `PST-fp' (hv)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2016/06/09 v2.68 `PST-fp' (hv)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
@@ -1562,22 +1562,22 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  []
 
 [12]) (6_3.tex
-Overfull \hbox (3.678pt too wide) in alignment at lines 1--26
+Overfull \hbox (3.678pt too wide) in alignment at lines 1--24
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 26
+Underfull \vbox (badness 10000) detected at line 24
  []
 
 
-Overfull \hbox (3.678pt too wide) in alignment at lines 26--40
+Overfull \hbox (3.678pt too wide) in alignment at lines 24--38
  [] [] [] [] 
  []
 
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 40.
+Package pdftex.def Info: ./img/logo.png used on input line 38.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1901,10 +1901,10 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 
 [20] (Project_Charter.aux) ) ) 
 Here is how much of TeX's memory you used:
- 13290 strings out of 493334
- 229946 string characters out of 3139252
- 410294 words of memory out of 3000000
- 16563 multiletter control sequences out of 15000+200000
+ 13285 strings out of 493334
+ 229905 string characters out of 3139246
+ 410239 words of memory out of 3000000
+ 16558 multiletter control sequences out of 15000+200000
  11125 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,24n,72p,8875b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1917,7 +1917,7 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/eurosym/feybr10.pfb>
-Output written on Project_Charter.pdf (20 pages, 344982 bytes).
+Output written on Project_Charter.pdf (20 pages, 345087 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
