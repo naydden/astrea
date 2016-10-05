@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 20:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 20:50
 entering extended mode
 **./Project_Charter.tex
 (Project_Charter.tex
@@ -1417,27 +1417,32 @@ Underfull \hbox (badness 1418) in paragraph at lines 30--30
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 []|\OT1/cmr/m/n/12 Payload Data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 \OT1/cmr/m/n/12 Han-dling Sys-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\OT1/cmr/m/n/12 Constellation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\OT1/cmr/m/n/12 Satellite De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/cmr/m/n/12 Replacement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []|\OT1/cmr/m/n/12 Communication
  []
 
@@ -1451,48 +1456,48 @@ Underfull \vbox (badness 10000) detected at line 66
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []|\OT1/cmr/m/n/12 Maintenance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []|\OT1/cmr/m/n/12 Insurance cost
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []|\OT1/cmr/m/n/12 Administration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/12 Manufacturing
  []
 
 
-Underfull \hbox (badness 6252) in paragraph at lines 85--85
+Underfull \hbox (badness 6252) in paragraph at lines 88--88
 []|\OT1/cmr/m/n/12 Launching cost
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 94--94
+Underfull \hbox (badness 1831) in paragraph at lines 97--97
 []|\OT1/cmr/m/n/12 Economic fea-si-
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 98--98
+Underfull \hbox (badness 2941) in paragraph at lines 104--104
 []|\OT1/cmr/m/n/12 Project Ex-hi-bi-
  []
 
 
-Overfull \hbox (5.50438pt too wide) in alignment at lines 66--102
+Overfull \hbox (5.50438pt too wide) in alignment at lines 66--108
  [] [] [] 
  []
 
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 102.
+Package pdftex.def Info: ./img/logo.png used on input line 108.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1528,7 +1533,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 [11]
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 102.
+Package pdftex.def Info: ./img/logo.png used on input line 108.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1562,22 +1567,22 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  []
 
 [12]) (6_3.tex
-Overfull \hbox (3.678pt too wide) in alignment at lines 1--26
+Overfull \hbox (3.678pt too wide) in alignment at lines 1--25
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 26
+Underfull \vbox (badness 10000) detected at line 25
  []
 
 
-Overfull \hbox (3.678pt too wide) in alignment at lines 26--40
+Overfull \hbox (3.678pt too wide) in alignment at lines 25--42
  [] [] [] [] 
  []
 
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 40.
+Package pdftex.def Info: ./img/logo.png used on input line 42.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1649,7 +1654,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 [14] (7.tex
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 93.
+Package pdftex.def Info: ./img/logo.png used on input line 97.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1685,7 +1690,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 [15]
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 96.
+Package pdftex.def Info: ./img/logo.png used on input line 100.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1719,33 +1724,33 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  []
 
 [16]
-Overfull \hbox (12.67416pt too wide) in alignment at lines 98--102
+Overfull \hbox (12.67416pt too wide) in alignment at lines 102--106
  [] [] [] [] 
  []
 
 
-Overfull \hbox (12.67416pt too wide) in alignment at lines 102--107
+Overfull \hbox (12.67416pt too wide) in alignment at lines 106--111
  [] [] [] [] 
  []
 
 
-Overfull \hbox (12.67416pt too wide) in alignment at lines 107--137
+Overfull \hbox (12.67416pt too wide) in alignment at lines 111--141
  [] [] [] [] 
  []
 
 
-Overfull \hbox (12.67416pt too wide) in alignment at lines 137--173
+Overfull \hbox (12.67416pt too wide) in alignment at lines 141--177
  [] [] [] [] 
  []
 
 
-Overfull \hbox (12.67416pt too wide) in alignment at lines 173--184
+Overfull \hbox (12.67416pt too wide) in alignment at lines 177--190
  [] [] [] [] 
  []
 
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 184.
+Package pdftex.def Info: ./img/logo.png used on input line 190.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1903,7 +1908,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 Here is how much of TeX's memory you used:
  13290 strings out of 493334
  229946 string characters out of 3139252
- 410294 words of memory out of 3000000
+ 412294 words of memory out of 3000000
  16563 multiletter control sequences out of 15000+200000
  11125 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1917,7 +1922,7 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/eurosym/feybr10.pfb>
-Output written on Project_Charter.pdf (20 pages, 344982 bytes).
+Output written on Project_Charter.pdf (20 pages, 345679 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
