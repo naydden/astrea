@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 21:58
 entering extended mode
 **./Project_Charter.tex
 (Project_Charter.tex
@@ -808,21 +808,26 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box39
 \@float@everytoks=\toks39
 \@floatcapt=\box40
-) (Project_Charter.aux)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(Project_Charter.aux)
 \openout1 = `Project_Charter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count157
@@ -880,15 +885,11 @@ G,.JBIG2,.JB2,.eps]
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 84.
+(lastpage)             ! on input line 86.
 \AtBeginShipoutBox=\box42
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 *geometry* driver: auto-detecting
@@ -928,7 +929,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <./img/logo.png, id=1, 250.536pt x 52.39575pt>
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 88.
+Package pdftex.def Info: ./img/logo.png used on input line 90.
 (pdftex.def)             Requested size: 250.53537pt x 52.39561pt.
  [1
 Non-PDF special ignored!
@@ -953,7 +954,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 99.
+Package pdftex.def Info: ./img/logo.png used on input line 101.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1035,7 +1036,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
 [3])
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 109.
+Package pdftex.def Info: ./img/logo.png used on input line 111.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1076,7 +1077,7 @@ Overfull \hbox (13.29465pt too wide) in paragraph at lines 9--10
 )
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 112.
+Package pdftex.def Info: ./img/logo.png used on input line 114.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1218,7 +1219,7 @@ Overfull \hbox (6.52301pt too wide) in paragraph at lines 28--41
 )
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 115.
+Package pdftex.def Info: ./img/logo.png used on input line 117.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1357,16 +1358,31 @@ File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
 
 <use ./external_pdf/G4-PC-WBS-10-04.pdf>
 Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf used on input line 
-6.
-(pdftex.def)             Requested size: 514.16795pt x 363.5678pt.
+4.
+(pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
+File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
 
-Overfull \hbox (46.74513pt too wide) in paragraph at lines 6--7
-[][] 
- []
+<use ./external_pdf/G4-PC-WBS-10-04.pdf>
+Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf used on input line 
+4.
+(pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
 
+<./external_pdf/G4-PC-WBS-10-04.pdf, id=42, page=1, 845.0471pt x 597.50829pt>
+File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
+
+<use ./external_pdf/G4-PC-WBS-10-04.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf, page1 used on inpu
+t line 4.
+(pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
+File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
+
+<use ./external_pdf/G4-PC-WBS-10-04.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf, page1 used on inpu
+t line 4.
+(pdftex.def)             Requested size: 845.08372pt x 597.53416pt.
 File: ./img/logo.png Graphic file (type png)
-<use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 10.
+ <use ./img/logo.png>
+Package pdftex.def Info: ./img/logo.png used on input line 4.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1399,7 +1415,26 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[10 <./external_pdf/G4-PC-WBS-10-04.pdf, page is rotated 90 degrees>] (6_2.tex
+[10]
+File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
+ <use ./external_pdf/G4-PC-WBS-10-04.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf, page1 used on inpu
+t line 4.
+(pdftex.def)             Requested size: 845.08372pt x 597.53416pt.
+File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
+
+<use ./external_pdf/G4-PC-WBS-10-04.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf, page1 used on inpu
+t line 4.
+(pdftex.def)             Requested size: 845.08372pt x 597.53416pt.
+File: ./external_pdf/G4-PC-WBS-10-04.pdf Graphic file (type pdf)
+
+<use ./external_pdf/G4-PC-WBS-10-04.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/G4-PC-WBS-10-04.pdf, page1 used on inpu
+t line 4.
+(pdftex.def)             Requested size: 845.08372pt x 597.53416pt.
+ [11 <./external_pdf/G4-PC-WBS-10-04.pdf, page is rotated 90 degrees>] (6_2.tex
+
 Underfull \hbox (badness 1226) in paragraph at lines 7--7
 []|\OT1/cmr/m/n/12 Meetings Doc-u-
  []
@@ -1530,7 +1565,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[11]
+[12]
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
 Package pdftex.def Info: ./img/logo.png used on input line 108.
@@ -1566,7 +1601,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[12]) (6_3.tex
+[13]) (6_3.tex
 Overfull \hbox (3.678pt too wide) in alignment at lines 1--23
  [] [] [] [] 
  []
@@ -1615,10 +1650,10 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[13]))
+[14]))
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 122.
+Package pdftex.def Info: ./img/logo.png used on input line 124.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1651,7 +1686,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[14] (7.tex
+[15] (7.tex
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
 Package pdftex.def Info: ./img/logo.png used on input line 97.
@@ -1687,7 +1722,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[15]
+[16]
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
 Package pdftex.def Info: ./img/logo.png used on input line 100.
@@ -1723,7 +1758,7 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[16]
+[17]
 Overfull \hbox (12.67416pt too wide) in alignment at lines 102--106
  [] [] [] [] 
  []
@@ -1783,10 +1818,10 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[17])
+[18])
 File: ./img/logo.png Graphic file (type png)
  <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 126.
+Package pdftex.def Info: ./img/logo.png used on input line 128.
 (pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
 
 Overfull \hbox (5.5044pt too wide) has occurred while \output is active
@@ -1819,55 +1854,87 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[18] (8.tex <./external_pdf/wbs_final.pdf, id=77, 1195.01572pt x 845.04686pt>
+[19] (8.tex
+File: ./img/logo.png Graphic file (type png)
+ <use ./img/logo.png>
+Package pdftex.def Info: ./img/logo.png used on input line 7.
+(pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
+
+Overfull \hbox (5.5044pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (18.125pt): 
+ Make it at least 74.69994pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Overfull \hbox (5.5044pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[20] <./external_pdf/wbs_final.pdf, id=87, 1195.01572pt x 845.04686pt>
 File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
 
 <use ./external_pdf/wbs_final.pdf>
-Package pdftex.def Info: ./external_pdf/wbs_final.pdf used on input line 3.
-(pdftex.def)             Requested size: 514.16795pt x 363.58228pt.
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf used on input line 8.
+(pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
+ <use ./external_pdf/wbs_final.pdf>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf used on input line 8.
+(pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
 
-Overfull \hbox (46.74513pt too wide) in paragraph at lines 3--4
-[][] 
- []
+<./external_pdf/wbs_final.pdf, id=90, page=1, 1195.01572pt x 845.04686pt>
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
 
-)
-File: ./img/logo.png Graphic file (type png)
- <use ./img/logo.png>
-Package pdftex.def Info: ./img/logo.png used on input line 130.
-(pdftex.def)             Requested size: 116.8557pt x 24.43892pt.
+<use ./external_pdf/wbs_final.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf, page1 used on input line
+ 8.
+(pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
 
-Overfull \hbox (5.5044pt too wide) has occurred while \output is active
- [][] 
- []
+<use ./external_pdf/wbs_final.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf, page1 used on input line
+ 8.
+(pdftex.def)             Requested size: 845.00256pt x 597.53755pt.
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
 
+<use ./external_pdf/wbs_final.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf, page1 used on input line
+ 8.
+(pdftex.def)             Requested size: 845.00256pt x 597.53755pt.
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
 
-Package Fancyhdr Warning: \headheight is too small (18.125pt): 
- Make it at least 74.69994pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+<use ./external_pdf/wbs_final.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf, page1 used on input line
+ 8.
+(pdftex.def)             Requested size: 845.00256pt x 597.53755pt.
+File: ./external_pdf/wbs_final.pdf Graphic file (type pdf)
 
+<use ./external_pdf/wbs_final.pdf, page 1>
+Package pdftex.def Info: ./external_pdf/wbs_final.pdf, page1 used on input line
+ 8.
+(pdftex.def)             Requested size: 845.00256pt x 597.53755pt.
+ [21
 
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-
-Overfull \hbox (5.5044pt too wide) has occurred while \output is active
- [][] 
- []
-
-[19 <./external_pdf/wbs_final.pdf>] (ref.tex (Project_Charter.bbl)
-
+ <./external_pdf/wbs_final.pdf>]) (ref.tex (Project_Charter.bbl) 
 AED: lastpage setting LastPage
 File: ./img/logo.png Graphic file (type png)
 <use ./img/logo.png>
@@ -1904,27 +1971,29 @@ Overfull \hbox (5.5044pt too wide) has occurred while \output is active
  [][] 
  []
 
-[20] (Project_Charter.aux) ) ) 
+[22
+
+] (Project_Charter.aux) ) ) 
 Here is how much of TeX's memory you used:
- 13290 strings out of 493334
- 229946 string characters out of 3139252
- 412294 words of memory out of 3000000
- 16563 multiletter control sequences out of 15000+200000
+ 13287 strings out of 493334
+ 230029 string characters out of 3139252
+ 412339 words of memory out of 3000000
+ 16558 multiletter control sequences out of 15000+200000
  11125 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,24n,72p,8875b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcs
-c10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/eurosym/feybr10.pfb>
-Output written on Project_Charter.pdf (20 pages, 345824 bytes).
+ 49i,24n,72p,8875b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/eurosym/feybr10.pfb>
+Output written on Project_Charter.pdf (22 pages, 339996 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
