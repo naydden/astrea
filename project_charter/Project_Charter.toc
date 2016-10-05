@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Aim of the project}{3}
+\contentsline {section}{\numberline {2}Scope of the project}{3}
+\contentsline {section}{\numberline {3}Basic requirements of the project}{5}
+\contentsline {section}{\numberline {4}Justification}{6}
+\contentsline {section}{\numberline {5}Internal Structure}{8}
+\contentsline {subsection}{\numberline {5.1}Hierarchy}{8}
+\contentsline {subsection}{\numberline {5.2}Documents organisation}{9}
+\contentsline {section}{\numberline {6}Planning of the project}{10}
+\contentsline {subsection}{\numberline {6.1}Tasks identification from work breakdown structure (WBS)}{10}
+\contentsline {subsection}{\numberline {6.2}Description of the tasks}{11}
+\contentsline {subsection}{\numberline {6.3}Interdepency relationships among tasks, human resources and level of effort}{13}
+\contentsline {section}{\numberline {7}Budget}{15}
+\contentsline {subsection}{\numberline {7.1}Engineering hours budget}{15}
+\contentsline {subsection}{\numberline {7.2}Preliminary total costs budget}{17}
+\contentsline {section}{\numberline {8}Gantt of the project}{19}
