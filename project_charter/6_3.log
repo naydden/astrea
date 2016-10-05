@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.27)  6 OCT 2016 00:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  5 OCT 2016 01:56
 entering extended mode
 **./6_3.tex
 (6_3.tex
@@ -163,16 +163,16 @@ Overfull \hbox (24.34152pt too wide) in paragraph at lines 4--4
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -182,16 +182,16 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -201,16 +201,16 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -220,16 +220,16 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -239,8 +239,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@classi ->\ifcase \@lastchclass \@acol 
                                         \@arrayrule \or \@addtopreamble {\hs...
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -254,15 +254,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \multicolumn{4}{|c|}{\textbf{1.Managment}}
-                                               \\ \hline
+l.5 \multicolumn{4}{|c|}{\textbf{1.Management}}
+                                                \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.5 ...umn{4}{|c|}{\textbf{1.Managment}} \\ \hline
+l.5 ...mn{4}{|c|}{\textbf{1.Management}} \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1872,7 +1872,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.24 5
-      .3 & End of life Strategy & 80 & BF - 5.2; \\
+      .3 & End of life Strategy & 80 & BF - 5.2 \\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1881,7 +1881,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.24 5.3 &
-           End of life Strategy & 80 & BF - 5.2; \\
+           End of life Strategy & 80 & BF - 5.2 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1908,7 +1908,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no y in font nullfont!
 ! Misplaced alignment tab character &.
 l.24 5.3 & End of life Strategy &
-                                  80 & BF - 5.2; \\
+                                  80 & BF - 5.2 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1920,7 +1920,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.24 5.3 & End of life Strategy & 80 &
-                                       BF - 5.2; \\
+                                       BF - 5.2 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1934,7 +1934,6 @@ Missing character: There is no - in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
-Missing character: There is no ; in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
@@ -3259,7 +3258,7 @@ or  <return>  to continue without it.
  
 Here is how much of TeX's memory you used:
  11 strings out of 493334
- 113 string characters out of 3139249
+ 113 string characters out of 3139246
  56242 words of memory out of 3000000
  3640 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
