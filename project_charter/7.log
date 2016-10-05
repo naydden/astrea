@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 22:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.27)  6 OCT 2016 00:30
 entering extended mode
 **./7.tex
 (7.tex
@@ -2087,7 +2087,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{C:/Users/Oscar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
@@ -5397,13 +5397,13 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.156 	\textbf{Ground station}
-                               & 5000 & 80 & 1600 \\
+                               & 50000 & 80 & 1600 \\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Misplaced alignment tab character &.
 l.156 	\textbf{Ground station} &
-                                 5000 & 80 & 1600 \\
+                                 50000 & 80 & 1600 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5415,9 +5415,10 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.156 	\textbf{Ground station} & 5000 &
-                                        80 & 1600 \\
+l.156 	\textbf{Ground station} & 50000 &
+                                         80 & 1600 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -5428,8 +5429,8 @@ might try typing `S' now just to see what is salvageable.
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.156 	\textbf{Ground station} & 5000 & 80 &
-                                             1600 \\
+l.156 	\textbf{Ground station} & 50000 & 80 &
+                                              1600 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6631,7 +6632,7 @@ Overfull \hbox (19.80545pt too wide) in paragraph at lines 185--186
 
 ! Undefined control sequence.
 l.187 \rowcolor
-               [gray]{0.65} \textbf{TOTAL ESTIMATED} & \textbf{18000 + ?} & ...
+               [gray]{0.65} \textbf{TOTAL ESTIMATED} & \textbf{63000 + ?} & ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -6646,7 +6647,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.187 \rowcolor[
-                gray]{0.65} \textbf{TOTAL ESTIMATED} & \textbf{18000 + ?} & ...
+                gray]{0.65} \textbf{TOTAL ESTIMATED} & \textbf{63000 + ?} & ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6663,7 +6664,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
 l.187 ...or[gray]{0.65} \textbf{TOTAL ESTIMATED} &
-                                                   \textbf{18000 + ?} & \tex...
+                                                   \textbf{63000 + ?} & \tex...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6672,8 +6673,8 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.187 ...f{TOTAL ESTIMATED} & \textbf{18000 + ?} &
-                                                   \textbf{1600} & \textbf{3...
+l.187 ...f{TOTAL ESTIMATED} & \textbf{63000 + ?} &
+                                                   \textbf{1975} & \textbf{3...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6682,8 +6683,8 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.187 ...D} & \textbf{18000 + ?} & \textbf{1600} &
-                                                   \textbf{32000} \\
+l.187 ...D} & \textbf{63000 + ?} & \textbf{1975} &
+                                                   \textbf{39500} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -6731,7 +6732,7 @@ Overfull \hbox (43.02754pt too wide) in paragraph at lines 187--188
 
 
 Overfull \hbox (28.74985pt too wide) in paragraph at lines 187--188
-\OT1/cmr/bx/n/10 18000
+\OT1/cmr/bx/n/10 63000
  []
 
 
@@ -6746,12 +6747,12 @@ Overfull \hbox (5.43053pt too wide) in paragraph at lines 187--188
 
 
 Overfull \hbox (22.99988pt too wide) in paragraph at lines 187--188
-\OT1/cmr/bx/n/10 1600
+\OT1/cmr/bx/n/10 1975
  []
 
 
 Overfull \hbox (28.74985pt too wide) in paragraph at lines 187--188
-\OT1/cmr/bx/n/10 32000 
+\OT1/cmr/bx/n/10 39500 
  []
 
 
@@ -6776,7 +6777,7 @@ or  <return>  to continue without it.
  
 Here is how much of TeX's memory you used:
  18 strings out of 493334
- 153 string characters out of 3130222
+ 153 string characters out of 3139249
  57242 words of memory out of 3000000
  3645 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000

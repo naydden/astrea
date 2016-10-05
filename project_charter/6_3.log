@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.3)  5 OCT 2016 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.27)  6 OCT 2016 00:29
 entering extended mode
 **./6_3.tex
 (6_3.tex
@@ -562,7 +562,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.9 2
-     .1 & Spacecraft Subsystems & 80 & BF-3.1 \\ \hline
+     .1 & Spacecraft Subsystems & 180 & BB - 1 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -571,7 +571,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.9 2.1 &
-          Spacecraft Subsystems & 80 & BF-3.1 \\ \hline
+          Spacecraft Subsystems & 180 & BB - 1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -601,7 +601,7 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.9 2.1 & Spacecraft Subsystems &
-                                  80 & BF-3.1 \\ \hline
+                                  180 & BB - 1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -609,11 +609,12 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+Missing character: There is no 1 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.9 2.1 & Spacecraft Subsystems & 80 &
-                                       BF-3.1 \\ \hline
+l.9 2.1 & Spacecraft Subsystems & 180 &
+                                        BB - 1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -622,15 +623,13 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
-Missing character: There is no F in font nullfont!
+Missing character: There is no B in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.9 ...acecraft Subsystems & 80 & BF-3.1 \\ \hline
+l.9 ...cecraft Subsystems & 180 & BB - 1 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -648,7 +647,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.10 2
-      .2.1 & Payload antenna & 40 & BF-3 \\ \hline
+      .2.1 & Payload antenna & 40 & BB - 2.1 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -659,7 +658,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.10 2.2.1 &
-             Payload antenna & 40 & BF-3 \\ \hline
+             Payload antenna & 40 & BB - 2.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -683,7 +682,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no a in font nullfont!
 ! Misplaced alignment tab character &.
 l.10 2.2.1 & Payload antenna &
-                               40 & BF-3 \\ \hline
+                               40 & BB - 2.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -695,7 +694,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.10 2.2.1 & Payload antenna & 40 &
-                                    BF-3 \\ \hline
+                                    BB - 2.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -704,13 +703,15 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
-Missing character: There is no F in font nullfont!
+Missing character: There is no B in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.10 2.2.1 & Payload antenna & 40 & BF-3 \\ \hline
+l.10 ... Payload antenna & 40 & BB - 2.1 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -728,7 +729,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.11 2
-      .2.2 & PDHS & 50 & BF-3.2; BB - 6 \\ \hline
+      .2.2 & PDHS & 50 & BB - 2.1 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -739,7 +740,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 l.11 2.2.2 &
-             PDHS & 50 & BF-3.2; BB - 6 \\ \hline
+             PDHS & 50 & BB - 2.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -753,7 +754,7 @@ Missing character: There is no H in font nullfont!
 Missing character: There is no S in font nullfont!
 ! Misplaced alignment tab character &.
 l.11 2.2.2 & PDHS &
-                    50 & BF-3.2; BB - 6 \\ \hline
+                    50 & BB - 2.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -765,7 +766,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.11 2.2.2 & PDHS & 50 &
-                         BF-3.2; BB - 6 \\ \hline
+                         BB - 2.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -774,21 +775,16 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
-Missing character: There is no F in font nullfont!
+Missing character: There is no B in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.11 2.2.2 & PDHS & 50 & BF-3.2; BB - 6 \\ \hline
-                                                 
+l.11 2.2.2 & PDHS & 50 & BB - 2.1 \\ \hline
+                                           
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
@@ -1359,7 +1355,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.18 4
-      .1 & Vehicle & 60 & BB 3.2 \\ \hline
+      .1 & Vehicle & 60 & BF - 4.3 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1368,7 +1364,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.18 4.1 &
-           Vehicle & 60 & BB 3.2 \\ \hline
+           Vehicle & 60 & BF - 4.3 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1385,7 +1381,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Misplaced alignment tab character &.
 l.18 4.1 & Vehicle &
-                     60 & BB 3.2 \\ \hline
+                     60 & BF - 4.3 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1397,7 +1393,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.18 4.1 & Vehicle & 60 &
-                          BB 3.2 \\ \hline
+                          BF - 4.3 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1406,15 +1402,16 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.18 4.1 & Vehicle & 60 & BB 3.2 \\ \hline
-                                          
+l.18 4.1 & Vehicle & 60 & BF - 4.3 \\ \hline
+                                            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
@@ -1431,7 +1428,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.19 4
-      .2 & Satellite Deployer & 10 & BB 3.1  \\ \hline
+      .2 & Satellite Deployer & 10 & BF - 4.3  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1440,7 +1437,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 l.19 4.2 &
-           Satellite Deployer & 10 & BB 3.1  \\ \hline
+           Satellite Deployer & 10 & BF - 4.3  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1467,7 +1464,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 ! Misplaced alignment tab character &.
 l.19 4.2 & Satellite Deployer &
-                                10 & BB 3.1  \\ \hline
+                                10 & BF - 4.3  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1479,7 +1476,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.19 4.2 & Satellite Deployer & 10 &
-                                     BB 3.1  \\ \hline
+                                     BF - 4.3  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1488,14 +1485,15 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.19 ...atellite Deployer & 10 & BB 3.1  \\ \hline
+l.19 ...ellite Deployer & 10 & BF - 4.3  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1513,7 +1511,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.20 4
-      .3 & Replacement Strategy & 100 & BB 3.1  \\ \hline
+      .3 & Replacement Strategy & 100 & BB - 1  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1522,7 +1520,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.20 4.3 &
-           Replacement Strategy & 100 & BB 3.1  \\ \hline
+           Replacement Strategy & 100 & BB - 1  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1551,7 +1549,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no y in font nullfont!
 ! Misplaced alignment tab character &.
 l.20 4.3 & Replacement Strategy &
-                                  100 & BB 3.1  \\ \hline
+                                  100 & BB - 1  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1564,7 +1562,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.20 4.3 & Replacement Strategy & 100 &
-                                        BB 3.1  \\ \hline
+                                        BB - 1  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1574,13 +1572,12 @@ might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
 Missing character: There is no B in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.20 ...acement Strategy & 100 & BB 3.1  \\ \hline
+l.20 ...acement Strategy & 100 & BB - 1  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1710,7 +1707,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.22 5
-      .1 & Communication protocol & 100 & BF - 3.2.1 \\ \hline
+      .1 & Communication protocol & 100 & BB - 1 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1719,7 +1716,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.22 5.1 &
-           Communication protocol & 100 & BF - 3.2.1 \\ \hline
+           Communication protocol & 100 & BB - 1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1750,7 +1747,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 ! Misplaced alignment tab character &.
 l.22 5.1 & Communication protocol &
-                                    100 & BF - 3.2.1 \\ \hline
+                                    100 & BB - 1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1763,7 +1760,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.22 5.1 & Communication protocol & 100 &
-                                          BF - 3.2.1 \\ \hline
+                                          BB - 1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1772,17 +1769,13 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no B in font nullfont!
-Missing character: There is no F in font nullfont!
+Missing character: There is no B in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.22 ...tion protocol & 100 & BF - 3.2.1 \\ \hline
+l.22 ...nication protocol & 100 & BB - 1 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1800,7 +1793,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.23 5
-      .2 & Ground station & 60 & BF- 5.1 \newline BF - 3.3 \\ \hline
+      .2 & Ground station & 80 & BF - 5.1 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1809,7 +1802,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 l.23 5.2 &
-           Ground station & 60 & BF- 5.1 \newline BF - 3.3 \\ \hline
+           Ground station & 80 & BF - 5.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1832,7 +1825,7 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Misplaced alignment tab character &.
 l.23 5.2 & Ground station &
-                            60 & BF- 5.1 \newline BF - 3.3 \\ \hline
+                            80 & BF - 5.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1840,11 +1833,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.23 5.2 & Ground station & 60 &
-                                 BF- 5.1 \newline BF - 3.3 \\ \hline
+l.23 5.2 & Ground station & 80 &
+                                 BF - 5.1 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1858,16 +1851,10 @@ Missing character: There is no - in font nullfont!
 Missing character: There is no 5 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 3 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.23 ...& 60 & BF- 5.1 \newline BF - 3.3 \\ \hline
+l.23 ...& Ground station & 80 & BF - 5.1 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1885,7 +1872,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.24 5
-      .3 & End of life strategy & 20 & BF - 3.2.1 \\
+      .3 & End of life Strategy & 80 & BF - 5.2; \\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1894,7 +1881,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.24 5.3 &
-           End of life strategy & 20 & BF - 3.2.1 \\
+           End of life Strategy & 80 & BF - 5.2; \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1911,7 +1898,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no S in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1920,8 +1907,8 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no y in font nullfont!
 ! Misplaced alignment tab character &.
-l.24 5.3 & End of life strategy &
-                                  20 & BF - 3.2.1 \\
+l.24 5.3 & End of life Strategy &
+                                  80 & BF - 5.2; \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1929,11 +1916,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.24 5.3 & End of life strategy & 20 &
-                                       BF - 3.2.1 \\
+l.24 5.3 & End of life Strategy & 80 &
+                                       BF - 5.2; \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1944,11 +1931,10 @@ might try typing `S' now just to see what is salvageable.
 Missing character: There is no B in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no - in font nullfont!
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
+Missing character: There is no ; in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
@@ -2082,7 +2068,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.27 6
-      .1.1.1 & Maintenance Cost Analysis & 7 & BF -1,2,3,4,5 \\ \hline
+      .1.1.1 & Maintenance Cost Analysis & 10 & BF - 1,2,3,4,5 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2095,7 +2081,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.27 6.1.1.1 &
-               Maintenance Cost Analysis & 7 & BF -1,2,3,4,5 \\ \hline
+               Maintenance Cost Analysis & 10 & BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2128,7 +2114,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.27 6.1.1.1 & Maintenance Cost Analysis &
-                                           7 & BF -1,2,3,4,5 \\ \hline
+                                           10 & BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2136,10 +2122,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 7 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.27 6.1.1.1 & Maintenance Cost Analysis & 7 &
-                                               BF -1,2,3,4,5 \\ \hline
+l.27 6.1.1.1 & Maintenance Cost Analysis & 10 &
+                                                BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2162,7 +2149,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.27 ...ost Analysis & 7 & BF -1,2,3,4,5 \\ \hline
+l.27 ...t Analysis & 10 & BF - 1,2,3,4,5 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2180,7 +2167,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.28 6
-      .1.1.2 & Insurance Cost Analysis & 10 & BF -1,2,3,4,5  \\ \hline
+      .1.1.2 & Insurance Cost Analysis & 15 & BF - 1,2,3,4,5  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2193,7 +2180,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 l.28 6.1.1.2 &
-               Insurance Cost Analysis & 10 & BF -1,2,3,4,5  \\ \hline
+               Insurance Cost Analysis & 15 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2224,7 +2211,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.28 6.1.1.2 & Insurance Cost Analysis &
-                                         10 & BF -1,2,3,4,5  \\ \hline
+                                         15 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2233,10 +2220,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.28 6.1.1.2 & Insurance Cost Analysis & 10 &
-                                              BF -1,2,3,4,5  \\ \hline
+l.28 6.1.1.2 & Insurance Cost Analysis & 15 &
+                                              BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2259,7 +2246,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.28 ...t Analysis & 10 & BF -1,2,3,4,5  \\ \hline
+l.28 ... Analysis & 15 & BF - 1,2,3,4,5  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2277,7 +2264,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.29 6
-      .1.1.3 & Administration Cost Analysis & 8 & BF -1,2,3,4,5 \\ \hline
+      .1.1.3 & Administration Cost Analysis & 15 & BF -1,2,3,4,5 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2290,7 +2277,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.29 6.1.1.3 &
-               Administration Cost Analysis & 8 & BF -1,2,3,4,5 \\ \hline
+               Administration Cost Analysis & 15 & BF -1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2326,7 +2313,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.29 6.1.1.3 & Administration Cost Analysis &
-                                              8 & BF -1,2,3,4,5 \\ \hline
+                                              15 & BF -1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2334,10 +2321,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 8 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.29 6.1.1.3 & Administration Cost Analysis & 8 &
-                                                  BF -1,2,3,4,5 \\ \hline
+l.29 6.1.1.3 & Administration Cost Analysis & 15 &
+                                                   BF -1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2360,7 +2348,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.29 ...ost Analysis & 8 & BF -1,2,3,4,5 \\ \hline
+l.29 ...st Analysis & 15 & BF -1,2,3,4,5 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2378,7 +2366,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.30 6
-      .1.1.4 & Taxes Cost Analysis  & 10 & BF -1,2,3,4,5  \\ \hline
+      .1.1.4 & Taxes Cost Analysis  & 25 & BF - 1,2,3,4,5  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2391,7 +2379,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 4 in font nullfont!
 ! Misplaced alignment tab character &.
 l.30 6.1.1.4 &
-               Taxes Cost Analysis  & 10 & BF -1,2,3,4,5  \\ \hline
+               Taxes Cost Analysis  & 25 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2418,7 +2406,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.30 6.1.1.4 & Taxes Cost Analysis  &
-                                      10 & BF -1,2,3,4,5  \\ \hline
+                                      25 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2426,11 +2414,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.30 6.1.1.4 & Taxes Cost Analysis  & 10 &
-                                           BF -1,2,3,4,5  \\ \hline
+l.30 6.1.1.4 & Taxes Cost Analysis  & 25 &
+                                           BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2453,7 +2441,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.30 ... Analysis  & 10 & BF -1,2,3,4,5  \\ \hline
+l.30 ...Analysis  & 25 & BF - 1,2,3,4,5  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2471,7 +2459,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.31 6
-      .1.2.1 & Manufacturing Cost Report & 10 & BF -1,2,3,4,5  \\ \hline
+      .1.2.1 & Manufacturing Cost Report & 10 & BF - 1,2,3,4,5  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2484,7 +2472,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.31 6.1.2.1 &
-               Manufacturing Cost Report & 10 & BF -1,2,3,4,5  \\ \hline
+               Manufacturing Cost Report & 10 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2517,7 +2505,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
 l.31 6.1.2.1 & Manufacturing Cost Report &
-                                           10 & BF -1,2,3,4,5  \\ \hline
+                                           10 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2529,7 +2517,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.31 6.1.2.1 & Manufacturing Cost Report & 10 &
-                                                BF -1,2,3,4,5  \\ \hline
+                                                BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2552,7 +2540,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.31 ...ost Report & 10 & BF -1,2,3,4,5  \\ \hline
+l.31 ...st Report & 10 & BF - 1,2,3,4,5  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2570,7 +2558,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.32 6
-      .1.2.2 & Launching Cost Report  & 10 & BF -1,2,3,4,5 \\ \hline
+      .1.2.2 & Launching Cost Report  & 10 & BF - 1,2,3,4,5 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2583,7 +2571,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 l.32 6.1.2.2 &
-               Launching Cost Report  & 10 & BF -1,2,3,4,5 \\ \hline
+               Launching Cost Report  & 10 & BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2612,7 +2600,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
 l.32 6.1.2.2 & Launching Cost Report  &
-                                        10 & BF -1,2,3,4,5 \\ \hline
+                                        10 & BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2624,7 +2612,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
 l.32 6.1.2.2 & Launching Cost Report  & 10 &
-                                             BF -1,2,3,4,5 \\ \hline
+                                             BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2647,7 +2635,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.32 ...ost Report  & 10 & BF -1,2,3,4,5 \\ \hline
+l.32 ...st Report  & 10 & BF - 1,2,3,4,5 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2665,7 +2653,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.33 6
-      .2.1 & Price Analysis & 15 & BF -1,2,3,4,5  \\ \hline
+      .2.1 & Price Analysis & 25 & BF - 1,2,3,4,5  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2676,7 +2664,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 1 in font nullfont!
 ! Misplaced alignment tab character &.
 l.33 6.2.1 &
-             Price Analysis & 15 & BF -1,2,3,4,5  \\ \hline
+             Price Analysis & 25 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2699,7 +2687,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
 l.33 6.2.1 & Price Analysis &
-                              15 & BF -1,2,3,4,5  \\ \hline
+                              25 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2707,11 +2695,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.33 6.2.1 & Price Analysis & 15 &
-                                   BF -1,2,3,4,5  \\ \hline
+l.33 6.2.1 & Price Analysis & 25 &
+                                   BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2734,7 +2722,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.33 ...e Analysis & 15 & BF -1,2,3,4,5  \\ \hline
+l.33 ... Analysis & 25 & BF - 1,2,3,4,5  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2752,7 +2740,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.34 6
-      .2.2 & Revenue Forecast & 10 & BF -1,2,3,4,5  \\ \hline
+      .2.2 & Revenue Forecast & 25 & BF - 1,2,3,4,5  \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2763,7 +2751,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Misplaced alignment tab character &.
 l.34 6.2.2 &
-             Revenue Forecast & 10 & BF -1,2,3,4,5  \\ \hline
+             Revenue Forecast & 25 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2788,7 +2776,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
 l.34 6.2.2 & Revenue Forecast &
-                                10 & BF -1,2,3,4,5  \\ \hline
+                                25 & BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2796,11 +2784,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 ! Misplaced alignment tab character &.
-l.34 6.2.2 & Revenue Forecast & 10 &
-                                     BF -1,2,3,4,5  \\ \hline
+l.34 6.2.2 & Revenue Forecast & 25 &
+                                     BF - 1,2,3,4,5  \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2823,7 +2811,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.34 ...e Forecast & 10 & BF -1,2,3,4,5  \\ \hline
+l.34 ... Forecast & 25 & BF - 1,2,3,4,5  \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2841,7 +2829,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.35 6
-      .3 & Economic Feasibility Report & 30 & BF -1,2,3,4,5 \\ \hline
+      .3 & Economic Feasibility Report & 40 & BF - 1,2,3,4,5 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2850,7 +2838,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.35 6.3 &
-           Economic Feasibility Report & 30 & BF -1,2,3,4,5 \\ \hline
+           Economic Feasibility Report & 40 & BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2885,7 +2873,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no t in font nullfont!
 ! Misplaced alignment tab character &.
 l.35 6.3 & Economic Feasibility Report &
-                                         30 & BF -1,2,3,4,5 \\ \hline
+                                         40 & BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2893,11 +2881,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.35 6.3 & Economic Feasibility Report & 30 &
-                                              BF -1,2,3,4,5 \\ \hline
+l.35 6.3 & Economic Feasibility Report & 40 &
+                                              BF - 1,2,3,4,5 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2920,7 +2908,7 @@ Missing character: There is no 5 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.35 ...lity Report & 30 & BF -1,2,3,4,5 \\ \hline
+l.35 ...ity Report & 40 & BF - 1,2,3,4,5 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -2938,7 +2926,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.36 6
-      .3 & Marketing Plan & 30 & BF -6.2.1,6.2.2 \\ \hline
+      .3 & Marketing Plan & 20 & BF - 6.2.1,6.2.2 \\ \hline
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2947,7 +2935,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Misplaced alignment tab character &.
 l.36 6.3 &
-           Marketing Plan & 30 & BF -6.2.1,6.2.2 \\ \hline
+           Marketing Plan & 20 & BF - 6.2.1,6.2.2 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2970,7 +2958,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Misplaced alignment tab character &.
 l.36 6.3 & Marketing Plan &
-                            30 & BF -6.2.1,6.2.2 \\ \hline
+                            20 & BF - 6.2.1,6.2.2 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2978,11 +2966,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Misplaced alignment tab character &.
-l.36 6.3 & Marketing Plan & 30 &
-                                 BF -6.2.1,6.2.2 \\ \hline
+l.36 6.3 & Marketing Plan & 20 &
+                                 BF - 6.2.1,6.2.2 \\ \hline
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -3007,7 +2995,7 @@ Missing character: There is no 2 in font nullfont!
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.36 ...ting Plan & 30 & BF -6.2.1,6.2.2 \\ \hline
+l.36 ...ing Plan & 20 & BF - 6.2.1,6.2.2 \\ \hline
                                                   
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -3271,7 +3259,7 @@ or  <return>  to continue without it.
  
 Here is how much of TeX's memory you used:
  11 strings out of 493334
- 113 string characters out of 3139252
+ 113 string characters out of 3139249
  56242 words of memory out of 3000000
  3640 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
