@@ -1,0 +1,72 @@
+%-----------------------------------------------------------------------------
+%	HEADERS AND FOOTERS
+%-----------------------------------------------------------------------------
+
+% Changes default margins.
+\usepackage[left=2cm,right=2cm,top=2.5cm]{geometry}
+   \setlength{\headheight}{50pt}         % Header Space.
+   \setlength{\textheight}{640pt}        % Text height.
+   \setlength{\footskip}{30pt}           % Foot Space.
+
+\usepackage{fancyhdr}
+	\pagestyle{fancy} % Headers and footers -> "fancy" style.
+	
+	% Obtain the name of the section:
+	\renewcommand{\sectionmark}[1]{\markright{Section \thesection : #1}} 
+
+	\fancyhf{} % Clear all headers and footers fields
+
+% Package info and examples
+%		% O/E = Odd/Even page // L/C/R = Left/Center/Right field
+%	\fancyhead[LE]{\hspace{-10pt}
+%		\raisebox{-\height+12pt}{
+%		\includegraphics[height=30pt]{./doc_config/images/UPC_dpt}
+%		}
+%	}
+%	\fancyhead[RE]{\bf \Department}
+%	\fancyhead[LO]{\bf \DocType}
+%	\fancyhead[RO]{\bf \emph{\ProjectName}}
+%	\fancyfoot[LE,RO]{\thepage} % Adds customized pages numbers
+
+
+
+%-----------------------------------------------
+% General headers and footers of the document:
+%-----------------------------------------------
+	% Headers
+	\fancyhead[LO]{\textbf{\rightmark}} % Section mark
+	\fancyhead[RO]{\includegraphics[height=35pt]{./doc_config/images/logo}}
+	\fancyhead[LE]{\textbf{\rightmark}}
+	\fancyhead[RE]{\includegraphics[height=35pt]{./doc_config/images/logo}}
+
+	% Footers
+	\fancyfoot[LE,RO]{\precPage{} - \thepage}
+	\fancyfoot[LO,RE]{\textbf{\ProjectName}}
+
+	\renewcommand{\headrulewidth}{0.5pt} % Header decorative line
+	\renewcommand{\footrulewidth}{0.5pt} % Footer decorative line
+
+
+%-----------------------------------------------
+% Cover headers and footers:
+%-----------------------------------------------
+
+	\fancypagestyle{CoverPage}{ % This creates a new headers and footers page style.
+	                            % To use it type "\thispagestyle{FirstPage}" on the first page.
+	                                % (right after "\maketitle")
+		\fancyhf{}
+		%\fancyfoot[C]{Group \GrCode \hfill [\DocDate]}
+		\renewcommand{\headrulewidth}{0pt}
+		\renewcommand{\footrulewidth}{0pt}
+	}
+
+
+%-----------------------------------------------
+% No headers nor footers page (ie: Back cover)
+%-----------------------------------------------
+
+	\fancypagestyle{EmptyPage}{
+		\fancyhf{}
+		\renewcommand{\headrulewidth}{0pt}
+		\renewcommand{\footrulewidth}{0pt}
+	}

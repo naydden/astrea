@@ -1,0 +1,138 @@
+%------------------------------------------------------------------------------------------------
+%	DOCUMENT CONFIGURATIONS
+%------------------------------------------------------------------------------------------------
+
+% DOCUMENT
+%   - Properties
+\documentclass[a4paper,12pt]{article} % Sets a two-sided A4 sized paper.
+                                         % (Two-sided for LaTeX to distinguish between odd/even
+                                         % pages while using headers and footers.)
+\linespread{1.2}                         % Default space between lines
+                                    % Margin sizes defined in headers_and_footers file.
+\usepackage[nottoc,numbib]{tocbibind}    % Makes References section appear in the Table of contents (nottoc). Conuts the References like section.
+\usepackage{lastpage}                    % To get the total number of pages.
+
+%   - Sectioning
+\usepackage{titlesec}                   % Extra features for sectioning
+    % The following lines create: \subsubsubsection{}
+    
+    
+%%%%%%%%% From here: creation of \subsubsubsection{} %%%%%%%%%
+    \titleclass{\subsubsubsection}{straight}[\subsection]
+
+    \newcounter{subsubsubsection}[subsubsection]
+    \renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
+    \renewcommand\theparagraph{\thesubsubsubsection.\arabic{paragraph}} % optional; useful if paragraphs are to be numbered
+
+    \titleformat{\subsubsubsection}
+      {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
+    \titlespacing*{\subsubsubsection}
+    {0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+    \makeatletter
+    \renewcommand\paragraph{\@startsection{paragraph}{5}{\z@}%
+      {3.25ex \@plus1ex \@minus.2ex}%
+      {-1em}%
+      {\normalfont\normalsize\bfseries}}
+    \renewcommand\subparagraph{\@startsection{subparagraph}{6}{\parindent}%
+      {3.25ex \@plus1ex \@minus .2ex}%
+      {-1em}%
+      {\normalfont\normalsize\bfseries}}
+    \def\toclevel@subsubsubsection{4}
+    \def\toclevel@paragraph{5}
+    \def\toclevel@paragraph{6}
+    \def\l@subsubsubsection{\@dottedtocline{4}{7em}{4em}}
+    \def\l@paragraph{\@dottedtocline{5}{10em}{5em}}
+    \def\l@subparagraph{\@dottedtocline{6}{14em}{6em}}
+    \makeatother
+
+    \setcounter{secnumdepth}{4}
+    \setcounter{tocdepth}{4}
+%%%%%%%%% Until here: creation of \subsubsubsection{} %%%%%%%%%
+
+
+\let\oldsection\section % This line and the following force sections to start on odd pages.
+\def\section{\cleardoublepage\oldsection}
+
+\newcommand*{\blankpage}{%
+    \vspace*{\fill}
+        \begin{center}
+            (This page was intentionally left in blank.)
+        \end{center}
+    \vspace{\fill}
+}
+\makeatletter
+\renewcommand*{\cleardoublepage}{\clearpage\if@twoside \ifodd\c@page\else
+\blankpage
+\thispagestyle{empty}
+\newpage
+\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+% WRITING
+%   - Math/Chemistry/...
+\usepackage{amsmath}                % Mathematical features.
+    % Section numbering
+    \numberwithin{equation}{section}    % Equation numbering by section
+    \numberwithin{table}{section}       % Table numbering by section
+    \numberwithin{figure}{section}      % Table numbering by section
+\usepackage{amssymb}                % Symbols.
+\usepackage[version=3]{mhchem}                 % Chemical equation typesetting. i.e.: \ce{CO2 + C <=> 2CO}
+\usepackage{siunitx}                % Simplifies the usage of values with units.
+                                    % i.e.: "\SI{5.4}{kg·m^{-1}·s^{-2}}"
+                                    % instead of "5.4 kg·m$ ^{-1} $·s$ ^{-2} $"
+\usepackage{eurosym}                % Use EURO symbol (\euro)
+
+%%   - Language
+\usepackage[utf8]{inputenc}         % Required for the usage of characters like 'ñ', 'ú', ...
+%\renewcommand{\figurename}{Figura}  % In captions, print "Figura" (in Catalan) instead of
+                                    % "Figure" (English default name).
+%\renewcommand{\tablename}{Tabla}
+%\renewcommand{\contentsname}{Índice}
+%\renewcommand{\refname}{Bibliografía}
+
+%   - Text
+%\let\oldsection\section             % This line and the nextone force sections to start always in new odd pages.
+%\def\section{\cleardoublepage\oldsection} %
+\usepackage[none]{hyphenat}         % [none] Prevents any hyphenation throughout the document.
+                                    % (hyphenation -> "separació per síl·labes")
+\sloppy                             % Forces wrapping at word boundaries by relaxing the interword space constraints.
+%\usepackage{indentfirst}            % Forces indentation from paragraphs after a section.
+                                    % (see notes 1 and 2)
+\setlength\parindent{1cm}           % Removes all indentation from paragraphs.
+%\newenvironment{paragraphs}{\setlength\parindent{1cm}}{\setlength\parindent{0cm}}
+                                    % "\begin{paragraphs}" will create an environment where
+                                    % indentation from paragraphs is activated.
+\usepackage[font=footnotesize]{caption} % Captions
+\setlength{\abovecaptionskip}{0pt}      %
+\setlength{\belowcaptionskip}{0pt}      %
+\usepackage{lmodern}                % Allow the use of font size larger tha 25pt
+\usepackage[T1]{fontenc}            %
+
+% GRAPHICS, TABLES AND OTHERS
+\usepackage{graphicx}               % Required for the inclusion of images.
+\usepackage{float}                  % Required for some float properties.
+\usepackage{pdfpages}               % Required for the inclusion of PDF files.
+\usepackage{multirow,longtable,array,booktabs,tabularx} % More features for tables.
+\usepackage{enumerate}              % Gives the enumerate environment an optional argument which
+                                    % determines the style in which the counter is printed.
+\usepackage{enumitem}               % Extra options for "enumerate" lists
+\usepackage{color}                  % Use some color options.
+\usepackage{colortbl}               % Use some other color options.
+	\definecolor{UPC_blue}{RGB}{67,142,197}
+	\definecolor{lightgrey}{RGB}{166,166,166}
+\usepackage{hyperref}               % Provides LeTeX the hability to create hyperlinks.
+
+\usepackage{inputenc}         % It makes possible to use roman numbers for the pages before the first chapter and arabic for the rest of the document
+
+\usepackage{booktabs}
+\usepackage{xcolor,colortbl}
+\usepackage{pstricks}
+\usepackage{blindtext}
+\usepackage{transparent}
+\usepackage{etoolbox}
+\usepackage{lscape}
+
+%   - NOTES
+% (1) LaTeX implements a style that doesn't indent the first paragraph after a section heading. There are coherent reasons for this. Some typography rules state that first indent should be suppressed only after a centered title and that all other paragraphs must be indented.
+% (2) We have already removed all indentation from paragraphs with the command "\setlength\parindent{0cm}", but when using the environment we've created "escrit" we set indent to 1cm. Then, if this environment is used right after a section the first indent will be suppressed unless we use the package "indentfirst".
