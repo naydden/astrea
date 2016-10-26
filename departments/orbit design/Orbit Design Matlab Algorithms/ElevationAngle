@@ -8,7 +8,9 @@ clear all;
 clear command window;
 
 %%
-R = 6371; % [km] Earth Radius
+lat = 90; % [deg] Latitude angle
+
+R = 6371; 
 
 h = 550;
 
@@ -16,7 +18,7 @@ N = 180;
 
 deg = 180;
 
-x = linspace(0,R,N);
+x = linspace(0,lat,N);
 
 Per = 2*pi*(R); % [km] Perimeter of a plane intersecting the Earth
 
@@ -35,7 +37,7 @@ kp = Ang/R^2;
 elevation (N) = 180/pi*atan(2*h/Ang); % [degrees] elevation at equator
 elevation (1) = 70; % [degrees] elevation at Earth's poles
 
-elevation =  ((elevation(1)-elevation(N))/R^2)*x.^2 + (2*(elevation(N)-elevation(1))/R)*x + elevation(1);
+elevation =  ((elevation(1)-elevation(N))/lat^2)*x.^2 + (2*(elevation(N)-elevation(1))/lat)*x + elevation(1);
 
 % Linear model of the distances between satellites
 
@@ -86,5 +88,5 @@ end
 figure;
 plot (x,elevation,x,elvlat);
 grid;
-xlabel('Earth latitude. Reference point at the South Pole [km]');
+xlabel('Latitude angle. Reference point at South Pole [deg]');
 ylabel('Elevation angle [deg]');
