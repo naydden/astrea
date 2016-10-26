@@ -1,0 +1,90 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Routine created to analyse the angle of elevation for a Walker Delta
+%Constellation Configuration among Astrea Satellites and Clients
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+clear all;
+
+clear command window;
+
+%%
+R = 6371; % [km] Earth Radius
+
+h = 550;
+
+N = 180;
+
+deg = 180;
+
+x = linspace(0,R,N);
+
+Per = 2*pi*(R); % [km] Perimeter of a plane intersecting the Earth
+
+M = 6; % Number of planes
+
+Ang = Per/M; % [km] DIstance between two near planes at the equator
+
+% Parabola model of the distances between satellites
+
+kp = Ang/R^2;
+
+% y = -kp*((x-R).^2-R^2);
+
+
+
+elevation (N) = 180/pi*atan(2*h/Ang); % [degrees] elevation at equator
+elevation (1) = 70; % [degrees] elevation at Earth's poles
+
+elevation =  ((elevation(1)-elevation(N))/R^2)*x.^2 + (2*(elevation(N)-elevation(1))/R)*x + elevation(1);
+
+% Linear model of the distances between satellites
+
+% kl = Ang/R;
+%     
+% for i=1:N/2
+%     
+% y(i) = kl*x(i);
+% end
+% 
+% for i=N/2+1:N
+%     
+% y(i) = -kl*x(i)+ 2*y(N/2);
+% end
+ 
+
+%%%% Minimum angle of elevation due to atmospheric conditions at given
+%%%% latitudes. 0 km represents the poles whereas 6371 km represents the
+%%%% Earth's equator taking as reference point the south pole.
+
+elvlat = zeros (deg,1);
+
+for i = 1:deg/5
+    
+    elvlat(i) = 32-(30-15)/(2*(90-75))*i;
+end
+
+for i = deg/5+1:4*deg/10
+    
+    elvlat(i) = elvlat(deg/5);
+end
+
+for i = 4*deg/10+1:6*deg/10
+    
+    elvlat(i) = elvlat(2*deg/5)+3/15*(i-4*deg/10);
+end
+
+for i = 6*deg/10+1:8*deg/10
+    
+    elvlat(i) = elvlat(6*deg/10)-3/15*(i-6*deg/10);
+end
+
+for i = 8*deg/10+1:10*deg/10
+    
+    elvlat(i) = elvlat(8*deg/10)-1/15*(i-8*deg/10);
+end
+
+figure;
+plot (x,elevation,x,elvlat);
+grid;
+xlabel('Earth latitude. Reference point at the South Pole [km]');
+ylabel('Elevation angle [deg]');
