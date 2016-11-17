@@ -1,0 +1,125 @@
+\BOOKMARK [0][-]{chapter*.2}{List of Tables}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 2
+\BOOKMARK [-1][-]{part.1}{I Communications}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Space Segment Protocol Stack}{part.1}% 4
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 5
+\BOOKMARK [2][-]{section*.4}{}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Layer 2: Data Link}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Functions of the DLL}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Working procedure}{section.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.2.1}{Simplest Protocol}{subsection.1.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.2.2.2}{Stop-and-Wait Protocol}{subsection.1.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.1.2.2.3}{Stop-and-Wait Automatic Repeat Request}{subsection.1.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.1.2.2.4}{Go-Back-N Automatic Repeat Request}{subsection.1.2.2}% 13
+\BOOKMARK [3][-]{subsubsection.1.2.2.5}{Selective Repeat Automatic Repeat Request}{subsection.1.2.2}% 14
+\BOOKMARK [3][-]{subsubsection.1.2.2.6}{Bidirecional links: Piggybacking}{subsection.1.2.2}% 15
+\BOOKMARK [3][-]{subsubsection.1.2.2.7}{Working procedure ranking}{subsection.1.2.2}% 16
+\BOOKMARK [2][-]{subsection.1.2.3}{Protocols}{section.1.2}% 17
+\BOOKMARK [2][-]{subsection.1.2.4}{TC Space Data Link Protocol}{section.1.2}% 18
+\BOOKMARK [2][-]{subsection.1.2.5}{TC Sync and Channel Coding}{section.1.2}% 19
+\BOOKMARK [1][-]{section.1.3}{Layer 3: The Network}{chapter.1}% 20
+\BOOKMARK [2][-]{subsection.1.3.1}{Functions of the Network Layer}{section.1.3}% 21
+\BOOKMARK [3][-]{section*.27}{}{subsection.1.3.1}% 22
+\BOOKMARK [2][-]{subsection.1.3.2}{Protocols}{section.1.3}% 23
+\BOOKMARK [3][-]{section*.28}{}{subsection.1.3.2}% 24
+\BOOKMARK [4][-]{section*.29}{}{section*.28}% 25
+\BOOKMARK [4][-]{section*.32}{}{section*.28}% 26
+\BOOKMARK [4][-]{section*.33}{}{section*.28}% 27
+\BOOKMARK [3][-]{subsubsection.1.3.2.1}{Main protocols}{subsection.1.3.2}% 28
+\BOOKMARK [4][-]{section*.34}{}{subsubsection.1.3.2.1}% 29
+\BOOKMARK [4][-]{section*.35}{}{subsubsection.1.3.2.1}% 30
+\BOOKMARK [4][-]{section*.36}{}{subsubsection.1.3.2.1}% 31
+\BOOKMARK [4][-]{section*.37}{}{subsubsection.1.3.2.1}% 32
+\BOOKMARK [4][-]{section*.38}{}{subsubsection.1.3.2.1}% 33
+\BOOKMARK [4][-]{section*.40}{}{subsubsection.1.3.2.1}% 34
+\BOOKMARK [4][-]{section*.41}{}{subsubsection.1.3.2.1}% 35
+\BOOKMARK [4][-]{section*.43}{}{subsubsection.1.3.2.1}% 36
+\BOOKMARK [4][-]{section*.45}{}{subsubsection.1.3.2.1}% 37
+\BOOKMARK [4][-]{section*.46}{}{subsubsection.1.3.2.1}% 38
+\BOOKMARK [3][-]{subsubsection.1.3.2.2}{Auxiliary protocols}{subsection.1.3.2}% 39
+\BOOKMARK [4][-]{section*.48}{}{subsubsection.1.3.2.2}% 40
+\BOOKMARK [4][-]{section*.49}{}{subsubsection.1.3.2.2}% 41
+\BOOKMARK [4][-]{section*.50}{}{subsubsection.1.3.2.2}% 42
+\BOOKMARK [4][-]{section*.51}{}{subsubsection.1.3.2.2}% 43
+\BOOKMARK [4][-]{section*.53}{}{subsubsection.1.3.2.2}% 44
+\BOOKMARK [4][-]{section*.54}{}{subsubsection.1.3.2.2}% 45
+\BOOKMARK [4][-]{section*.55}{}{subsubsection.1.3.2.2}% 46
+\BOOKMARK [4][-]{section*.56}{}{subsubsection.1.3.2.2}% 47
+\BOOKMARK [4][-]{section*.57}{}{subsubsection.1.3.2.2}% 48
+\BOOKMARK [4][-]{section*.58}{}{subsubsection.1.3.2.2}% 49
+\BOOKMARK [4][-]{section*.59}{}{subsubsection.1.3.2.2}% 50
+\BOOKMARK [4][-]{section*.60}{}{subsubsection.1.3.2.2}% 51
+\BOOKMARK [4][-]{section*.61}{}{subsubsection.1.3.2.2}% 52
+\BOOKMARK [4][-]{section*.62}{}{subsubsection.1.3.2.2}% 53
+\BOOKMARK [4][-]{section*.63}{}{subsubsection.1.3.2.2}% 54
+\BOOKMARK [3][-]{subsubsection.1.3.2.3}{Routing protocols}{subsection.1.3.2}% 55
+\BOOKMARK [4][-]{section*.64}{}{subsubsection.1.3.2.3}% 56
+\BOOKMARK [4][-]{section*.65}{}{subsubsection.1.3.2.3}% 57
+\BOOKMARK [4][-]{section*.66}{}{subsubsection.1.3.2.3}% 58
+\BOOKMARK [4][-]{section*.67}{}{subsubsection.1.3.2.3}% 59
+\BOOKMARK [4][-]{section*.68}{}{subsubsection.1.3.2.3}% 60
+\BOOKMARK [4][-]{section*.69}{}{subsubsection.1.3.2.3}% 61
+\BOOKMARK [4][-]{section*.70}{}{subsubsection.1.3.2.3}% 62
+\BOOKMARK [4][-]{section*.71}{}{subsubsection.1.3.2.3}% 63
+\BOOKMARK [4][-]{section*.72}{}{subsubsection.1.3.2.3}% 64
+\BOOKMARK [4][-]{section*.73}{}{subsubsection.1.3.2.3}% 65
+\BOOKMARK [4][-]{section*.74}{}{subsubsection.1.3.2.3}% 66
+\BOOKMARK [2][-]{subsection.1.3.3}{Protocol Selection}{section.1.3}% 67
+\BOOKMARK [3][-]{subsubsection.1.3.3.1}{Choice of the main protocol}{subsection.1.3.3}% 68
+\BOOKMARK [4][-]{section*.75}{}{subsubsection.1.3.3.1}% 69
+\BOOKMARK [4][-]{section*.76}{}{subsubsection.1.3.3.1}% 70
+\BOOKMARK [4][-]{section*.77}{}{subsubsection.1.3.3.1}% 71
+\BOOKMARK [4][-]{section*.78}{}{subsubsection.1.3.3.1}% 72
+\BOOKMARK [4][-]{section*.79}{}{subsubsection.1.3.3.1}% 73
+\BOOKMARK [3][-]{subsubsection.1.3.3.2}{Choice of routing protocol}{subsection.1.3.3}% 74
+\BOOKMARK [4][-]{section*.80}{}{subsubsection.1.3.3.2}% 75
+\BOOKMARK [4][-]{section*.81}{}{subsubsection.1.3.3.2}% 76
+\BOOKMARK [4][-]{section*.82}{}{subsubsection.1.3.3.2}% 77
+\BOOKMARK [4][-]{section*.83}{}{subsubsection.1.3.3.2}% 78
+\BOOKMARK [4][-]{section*.84}{}{subsubsection.1.3.3.2}% 79
+\BOOKMARK [4][-]{section*.85}{}{subsubsection.1.3.3.2}% 80
+\BOOKMARK [3][-]{subsubsection.1.3.3.3}{Choice of complementary protocols}{subsection.1.3.3}% 81
+\BOOKMARK [4][-]{section*.86}{}{subsubsection.1.3.3.3}% 82
+\BOOKMARK [4][-]{section*.87}{}{subsubsection.1.3.3.3}% 83
+\BOOKMARK [3][-]{subsubsection.1.3.3.4}{Conclusion}{subsection.1.3.3}% 84
+\BOOKMARK [4][-]{section*.88}{}{subsubsection.1.3.3.4}% 85
+\BOOKMARK [2][-]{subsection.1.3.4}{Final structure}{section.1.3}% 86
+\BOOKMARK [3][-]{section*.89}{}{subsection.1.3.4}% 87
+\BOOKMARK [4][-]{section*.90}{}{section*.89}% 88
+\BOOKMARK [4][-]{section*.91}{}{section*.89}% 89
+\BOOKMARK [4][-]{section*.92}{}{section*.89}% 90
+\BOOKMARK [4][-]{section*.93}{}{section*.89}% 91
+\BOOKMARK [1][-]{section.1.4}{Layer 4: Transport and Session}{chapter.1}% 92
+\BOOKMARK [2][-]{section*.94}{}{section.1.4}% 93
+\BOOKMARK [3][-]{section*.95}{}{section*.94}% 94
+\BOOKMARK [2][-]{subsection.1.4.1}{User Datagram Protocol \(UDP\)}{section.1.4}% 95
+\BOOKMARK [2][-]{subsection.1.4.2}{Stream Control Transmission Protocol \(SCTP\)}{section.1.4}% 96
+\BOOKMARK [2][-]{subsection.1.4.3}{ Transmission Control Protocol \(TCP\)}{section.1.4}% 97
+\BOOKMARK [3][-]{subsubsection.1.4.3.1}{TCP Services}{subsection.1.4.3}% 98
+\BOOKMARK [4][-]{section*.96}{}{subsubsection.1.4.3.1}% 99
+\BOOKMARK [4][-]{section*.97}{}{subsubsection.1.4.3.1}% 100
+\BOOKMARK [4][-]{section*.98}{}{subsubsection.1.4.3.1}% 101
+\BOOKMARK [4][-]{section*.99}{}{subsubsection.1.4.3.1}% 102
+\BOOKMARK [3][-]{subsubsection.1.4.3.2}{TCP features}{subsection.1.4.3}% 103
+\BOOKMARK [3][-]{subsubsection.1.4.3.3}{Numbering Systems}{subsection.1.4.3}% 104
+\BOOKMARK [3][-]{subsubsection.1.4.3.4}{Flow Control}{subsection.1.4.3}% 105
+\BOOKMARK [3][-]{subsubsection.1.4.3.5}{Error Control}{subsection.1.4.3}% 106
+\BOOKMARK [3][-]{subsubsection.1.4.3.6}{Congestion Control}{subsection.1.4.3}% 107
+\BOOKMARK [3][-]{subsubsection.1.4.3.7}{Segment}{subsection.1.4.3}% 108
+\BOOKMARK [3][-]{subsubsection.1.4.3.8}{Source Port Adress}{subsection.1.4.3}% 109
+\BOOKMARK [3][-]{subsubsection.1.4.3.9}{Destination Port Adress}{subsection.1.4.3}% 110
+\BOOKMARK [3][-]{subsubsection.1.4.3.10}{Sequence Number}{subsection.1.4.3}% 111
+\BOOKMARK [3][-]{subsubsection.1.4.3.11}{Acknowledgement Number}{subsection.1.4.3}% 112
+\BOOKMARK [3][-]{subsubsection.1.4.3.12}{Header Length}{subsection.1.4.3}% 113
+\BOOKMARK [3][-]{subsubsection.1.4.3.13}{Reserved}{subsection.1.4.3}% 114
+\BOOKMARK [3][-]{subsubsection.1.4.3.14}{Control}{subsection.1.4.3}% 115
+\BOOKMARK [3][-]{subsubsection.1.4.3.15}{Window Size}{subsection.1.4.3}% 116
+\BOOKMARK [3][-]{subsubsection.1.4.3.16}{Urgent Pointer}{subsection.1.4.3}% 117
+\BOOKMARK [3][-]{subsubsection.1.4.3.17}{Options}{subsection.1.4.3}% 118
+\BOOKMARK [3][-]{subsubsection.1.4.3.18}{Adaptation to space needs}{subsection.1.4.3}% 119
+\BOOKMARK [2][-]{subsection.1.4.4}{Choice of protocol for the transport layer}{section.1.4}% 120
+\BOOKMARK [1][-]{section.1.5}{Global Overview}{chapter.1}% 121
+\BOOKMARK [2][-]{section*.100}{}{section.1.5}% 122
+\BOOKMARK [0][-]{chapter.2}{Ground Segment Protocols}{part.1}% 123
+\BOOKMARK [0][-]{chapter.3}{Ground Station Design}{part.1}% 124
+\BOOKMARK [0][-]{chapter.4}{Bibliography}{part.1}% 125

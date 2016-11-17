@@ -1,0 +1,152 @@
+\begin{thebibliography}{10}
+
+\bibitem{Forouzan2012}
+Behrouz~a. Forouzan.
+\newblock {\em {Data Communications and Networking - Global Edition}}.
+\newblock 2012.
+
+\bibitem{Secretariat2014}
+CCSDS Secretariat.
+\newblock {Overview of Space Communications Protocols}.
+\newblock (CCSDS 130.0-G-3):43, 2014.
+
+\bibitem{CCSDS2010}
+CCSDS.
+\newblock {TC Space Data Link Protocol}.
+\newblock (September), 2010.
+
+\bibitem{Synchronization2012}
+CCSDS.
+\newblock {TM Synchronization and Channel Coding—Summary of Concept and
+  Rationale}.
+\newblock {\em CCSDS Green Book}, (November 2012), 2012.
+
+\bibitem{X200}
+{International Telecommunication Union}.
+\newblock {\em {X.200: Data Networks and open system communications}},
+  volume~4.
+\newblock 1994.
+
+\bibitem{CCSDSOverview}
+CCSDS.
+\newblock {\em {Report Concerning Space Data System Standards - Overview of
+  Space Communications Protocols}}.
+\newblock Number CCSDS 130.0-G-3. 2014.
+
+\bibitem{SPP}
+CCSDS.
+\newblock {\em {Recommendation for Space Data System Standards - Space Packet
+  Protocol}}.
+\newblock Number CCSDS 133.0-B-1. 2003.
+
+\bibitem{ES}
+CCSDS.
+\newblock {\em {Recommendation for Space Data System Standards - Encapsulation
+  Service}}.
+\newblock Number 133.1-B-2. 2009.
+
+\bibitem{SANA}
+{Space Assigned Number Authority (SANA) Registry}.
+\newblock http://sanaregistry.org/.
+
+\bibitem{IPoC}
+CCSDS.
+\newblock {\em {Recommendation for Space Data System Standards - IP over CCSDS
+  Space Links}}.
+\newblock Number CCSDS 702.1-B-1. 2012.
+
+\bibitem{IP}
+{Information Sciences Institute University of Southern California 4676
+  Admiralty Way} and California~90291 {Marina del Rey}.
+\newblock {\em {Internet Protocol Specification}}.
+\newblock 1981.
+
+\bibitem{IPv6}
+S~Deering and R~Hinden.
+\newblock {\em {Internet Protocol, Version 6 (IPv6) Specification}}.
+\newblock 1998.
+
+\bibitem{SANAPVN}
+{Space Assigned Number Authority (SANA) Registry: Packet Version Number}.
+\newblock
+  http://sanaregistry.org/r/packet{\_}version{\_}number/packet{\_}version{\_}number.html.
+
+\bibitem{SANAAPID}
+{Space Assigned Number Authority (SANA) Registry: Application Identifier}.
+\newblock
+  http://sanaregistry.org/r/space{\_}packet{\_}protocol{\_}application{\_}process{\_}id/space{\_}packet{\_}protocol{\_}application{\_}process{\_}id.html.
+
+\bibitem{SANAPID}
+{Space Assigned Number Authority (SANA) Registry: Protocol Identifier}.
+\newblock http://sanaregistry.org/r/protocol{\_}id/protocol{\_}id.html.
+
+\bibitem{SANAIPE}
+{Space Assigned Number Authority (SANA) Registry: IP Extension header}.
+\newblock http://sanaregistry.org/r/ipe{\_}header/ipe{\_}header.html.
+
+\bibitem{ICMP}
+J~Postel.
+\newblock {Internet Control Message Protocol}.
+\newblock pages 1--21, 1981.
+
+\bibitem{ICMPv6}
+A~Conta, S~Deering, and M~Gupta.
+\newblock {Internet Control Message Protocol (ICMPv6) for the Internet Protocol
+  Version 6 (IPv6) Specification}.
+\newblock 6:1--24, 2006.
+
+\bibitem{IGMP}
+H~Holbrook, B~Cain, and B~Haberman.
+\newblock {\em {Using Internet Group Management Protocol Version 3 (IGMPv3) and
+  Multicast Listener Discovery Protocol Version 2 (MLDv2) for Source-Specific
+  Multicast}}.
+\newblock 2006.
+
+\bibitem{IPsec}
+S~Kent and K~Seo.
+\newblock {Security Architecture for the Internet Protocol}.
+\newblock pages 1--101, 2005.
+
+\bibitem{PIMSM}
+B~Fenner, M~Handley, H~Holbrook, I~Kouvelas, R~Parekh, Z~Zhang, and L~Zheng.
+\newblock {\em {Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol
+  Specification (Revised)}}.
+\newblock 2016.
+
+\bibitem{PIMDM}
+A~Adams, J~Nicholas, and W~Siadak.
+\newblock {\em {Protocol Independent Multicast - Dense Mode (PIM-DM): Protocol
+  Specification (Revised)}}.
+\newblock 2005.
+
+\bibitem{EIGRP}
+D~Savage, J~Ng, S~Moore, D~Slice, P~Paluch, and R~White.
+\newblock {\em {Cisco's Enhanced Interior Gateway Routing Protocol (EIGRP)}}.
+\newblock 2016.
+
+\bibitem{OSPFv2}
+J~Moy.
+\newblock {\em {OSPF Version 2 Status}}.
+\newblock 1998.
+
+\bibitem{OSPFIPv6}
+R~Coltun, D~Ferguson, J~Moy, and A~Lindem.
+\newblock {\em {OSPF for IPv6}}.
+\newblock 2008.
+
+\bibitem{RIPv2}
+G~Malkin.
+\newblock {RIP Version 2}.
+\newblock pages 1--39, 1998.
+
+\bibitem{RIPng}
+G~Malkin and R~Minnear.
+\newblock {RIPng for IPv6}.
+\newblock pages 1--19, 1997.
+
+\bibitem{IANAPN}
+{Internet Assigned Number Authority (IANA) Registry: Protocol Numbers}.
+\newblock
+  http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml.
+
+\end{thebibliography}

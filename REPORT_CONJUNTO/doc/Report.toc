@@ -1,0 +1,125 @@
+\contentsline {chapter}{List of Tables}{iii}{chapter*.2}
+\contentsline {chapter}{List of Figures}{iv}{chapter*.3}
+\contentsline {part}{I\hspace {1em}Communications}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Space Segment Protocol Stack}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
+\contentsline {paragraph}{}{3}{section*.4}
+\contentsline {section}{\numberline {1.2}Layer 2: Data Link}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Functions of the DLL}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Working procedure}{6}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Simplest Protocol}{6}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Stop-and-Wait Protocol}{7}{subsubsection.1.2.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.3}Stop-and-Wait Automatic Repeat Request}{8}{subsubsection.1.2.2.3}
+\contentsline {subsubsection}{\numberline {1.2.2.4}Go-Back-N Automatic Repeat Request}{10}{subsubsection.1.2.2.4}
+\contentsline {subsubsection}{\numberline {1.2.2.5}Selective Repeat Automatic Repeat Request}{12}{subsubsection.1.2.2.5}
+\contentsline {subsubsection}{\numberline {1.2.2.6}Bidirecional links: Piggybacking}{15}{subsubsection.1.2.2.6}
+\contentsline {subsubsection}{\numberline {1.2.2.7}Working procedure ranking}{16}{subsubsection.1.2.2.7}
+\contentsline {subsection}{\numberline {1.2.3}Protocols}{17}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}TC Space Data Link Protocol}{20}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}TC Sync and Channel Coding}{21}{subsection.1.2.5}
+\contentsline {section}{\numberline {1.3}Layer 3: The Network}{24}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Functions of the Network Layer}{24}{subsection.1.3.1}
+\contentsline {paragraph}{}{24}{section*.27}
+\contentsline {subsection}{\numberline {1.3.2}Protocols}{24}{subsection.1.3.2}
+\contentsline {paragraph}{}{24}{section*.28}
+\contentsline {paragraph}{}{25}{section*.29}
+\contentsline {paragraph}{}{26}{section*.32}
+\contentsline {paragraph}{}{26}{section*.33}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Main protocols}{27}{subsubsection.1.3.2.1}
+\contentsline {paragraph}{}{27}{section*.34}
+\contentsline {paragraph}{}{27}{section*.35}
+\contentsline {paragraph}{}{27}{section*.36}
+\contentsline {paragraph}{}{28}{section*.37}
+\contentsline {paragraph}{}{28}{section*.38}
+\contentsline {paragraph}{}{28}{section*.40}
+\contentsline {paragraph}{}{28}{section*.41}
+\contentsline {paragraph}{}{29}{section*.43}
+\contentsline {paragraph}{}{29}{section*.45}
+\contentsline {paragraph}{}{29}{section*.46}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Auxiliary protocols}{31}{subsubsection.1.3.2.2}
+\contentsline {paragraph}{}{31}{section*.48}
+\contentsline {paragraph}{}{31}{section*.49}
+\contentsline {paragraph}{}{31}{section*.50}
+\contentsline {paragraph}{}{32}{section*.51}
+\contentsline {paragraph}{}{32}{section*.53}
+\contentsline {paragraph}{}{32}{section*.54}
+\contentsline {paragraph}{}{32}{section*.55}
+\contentsline {paragraph}{}{33}{section*.56}
+\contentsline {paragraph}{}{33}{section*.57}
+\contentsline {paragraph}{}{34}{section*.58}
+\contentsline {paragraph}{}{34}{section*.59}
+\contentsline {paragraph}{}{34}{section*.60}
+\contentsline {paragraph}{}{34}{section*.61}
+\contentsline {paragraph}{}{35}{section*.62}
+\contentsline {paragraph}{}{35}{section*.63}
+\contentsline {subsubsection}{\numberline {1.3.2.3}Routing protocols}{36}{subsubsection.1.3.2.3}
+\contentsline {paragraph}{}{36}{section*.64}
+\contentsline {paragraph}{}{36}{section*.65}
+\contentsline {paragraph}{}{36}{section*.66}
+\contentsline {paragraph}{}{37}{section*.67}
+\contentsline {paragraph}{}{37}{section*.68}
+\contentsline {paragraph}{}{37}{section*.69}
+\contentsline {paragraph}{}{38}{section*.70}
+\contentsline {paragraph}{}{38}{section*.71}
+\contentsline {paragraph}{}{39}{section*.72}
+\contentsline {paragraph}{}{39}{section*.73}
+\contentsline {paragraph}{}{40}{section*.74}
+\contentsline {subsection}{\numberline {1.3.3}Protocol Selection}{40}{subsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.3.1}Choice of the main protocol}{40}{subsubsection.1.3.3.1}
+\contentsline {paragraph}{}{40}{section*.75}
+\contentsline {paragraph}{}{40}{section*.76}
+\contentsline {paragraph}{}{40}{section*.77}
+\contentsline {paragraph}{}{41}{section*.78}
+\contentsline {paragraph}{}{41}{section*.79}
+\contentsline {subsubsection}{\numberline {1.3.3.2}Choice of routing protocol}{41}{subsubsection.1.3.3.2}
+\contentsline {paragraph}{}{41}{section*.80}
+\contentsline {paragraph}{}{41}{section*.81}
+\contentsline {paragraph}{}{41}{section*.82}
+\contentsline {paragraph}{}{41}{section*.83}
+\contentsline {paragraph}{}{42}{section*.84}
+\contentsline {paragraph}{}{42}{section*.85}
+\contentsline {subsubsection}{\numberline {1.3.3.3}Choice of complementary protocols}{42}{subsubsection.1.3.3.3}
+\contentsline {paragraph}{}{42}{section*.86}
+\contentsline {paragraph}{}{42}{section*.87}
+\contentsline {subsubsection}{\numberline {1.3.3.4}Conclusion}{43}{subsubsection.1.3.3.4}
+\contentsline {paragraph}{}{43}{section*.88}
+\contentsline {subsection}{\numberline {1.3.4}Final structure}{43}{subsection.1.3.4}
+\contentsline {paragraph}{}{43}{section*.89}
+\contentsline {paragraph}{}{43}{section*.90}
+\contentsline {paragraph}{}{44}{section*.91}
+\contentsline {paragraph}{}{44}{section*.92}
+\contentsline {paragraph}{}{44}{section*.93}
+\contentsline {section}{\numberline {1.4}Layer 4: Transport and Session}{45}{section.1.4}
+\contentsline {paragraph}{}{45}{section*.94}
+\contentsline {paragraph}{}{45}{section*.95}
+\contentsline {subsection}{\numberline {1.4.1}User Datagram Protocol (UDP)}{46}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Stream Control Transmission Protocol (SCTP)}{46}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3} Transmission Control Protocol (TCP)}{46}{subsection.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3.1}TCP Services}{46}{subsubsection.1.4.3.1}
+\contentsline {paragraph}{}{47}{section*.96}
+\contentsline {paragraph}{}{47}{section*.97}
+\contentsline {paragraph}{}{47}{section*.98}
+\contentsline {paragraph}{}{48}{section*.99}
+\contentsline {subsubsection}{\numberline {1.4.3.2}TCP features}{48}{subsubsection.1.4.3.2}
+\contentsline {subsubsection}{\numberline {1.4.3.3}Numbering Systems}{48}{subsubsection.1.4.3.3}
+\contentsline {subsubsection}{\numberline {1.4.3.4}Flow Control}{49}{subsubsection.1.4.3.4}
+\contentsline {subsubsection}{\numberline {1.4.3.5}Error Control}{49}{subsubsection.1.4.3.5}
+\contentsline {subsubsection}{\numberline {1.4.3.6}Congestion Control}{49}{subsubsection.1.4.3.6}
+\contentsline {subsubsection}{\numberline {1.4.3.7}Segment}{49}{subsubsection.1.4.3.7}
+\contentsline {subsubsection}{\numberline {1.4.3.8}Source Port Adress}{50}{subsubsection.1.4.3.8}
+\contentsline {subsubsection}{\numberline {1.4.3.9}Destination Port Adress}{50}{subsubsection.1.4.3.9}
+\contentsline {subsubsection}{\numberline {1.4.3.10}Sequence Number}{50}{subsubsection.1.4.3.10}
+\contentsline {subsubsection}{\numberline {1.4.3.11}Acknowledgement Number}{51}{subsubsection.1.4.3.11}
+\contentsline {subsubsection}{\numberline {1.4.3.12}Header Length}{51}{subsubsection.1.4.3.12}
+\contentsline {subsubsection}{\numberline {1.4.3.13}Reserved}{51}{subsubsection.1.4.3.13}
+\contentsline {subsubsection}{\numberline {1.4.3.14}Control}{51}{subsubsection.1.4.3.14}
+\contentsline {subsubsection}{\numberline {1.4.3.15}Window Size}{51}{subsubsection.1.4.3.15}
+\contentsline {subsubsection}{\numberline {1.4.3.16}Urgent Pointer}{51}{subsubsection.1.4.3.16}
+\contentsline {subsubsection}{\numberline {1.4.3.17}Options}{52}{subsubsection.1.4.3.17}
+\contentsline {subsubsection}{\numberline {1.4.3.18}Adaptation to space needs}{52}{subsubsection.1.4.3.18}
+\contentsline {subsection}{\numberline {1.4.4}Choice of protocol for the transport layer}{52}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}Global Overview}{53}{section.1.5}
+\contentsline {paragraph}{}{53}{section*.100}
+\contentsline {chapter}{\numberline {2}Ground Segment Protocols}{54}{chapter.2}
+\contentsline {chapter}{\numberline {3}Ground Station Design}{55}{chapter.3}
+\contentsline {chapter}{\numberline {4}Bibliography}{56}{chapter.4}

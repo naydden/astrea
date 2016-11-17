@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{Forouzan2012}
+Behrouz~a. Forouzan.
+\newblock {\em {Data Communications and Networking - Global Edition}}.
+\newblock 2012.
+
+\bibitem{Secretariat2014}
+CCSDS Secretariat.
+\newblock {Overview of Space Communications Protocols}.
+\newblock (CCSDS 130.0-G-3):43, 2014.
+
+\bibitem{CCSDS2010}
+CCSDS.
+\newblock {TC Space Data Link Protocol}.
+\newblock (September), 2010.
+
+\bibitem{Synchronization2012}
+CCSDS.
+\newblock {TM Synchronization and Channel Coding—Summary of Concept and
+  Rationale}.
+\newblock {\em CCSDS Green Book}, (November 2012), 2012.
+
+\end{thebibliography}
