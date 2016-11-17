@@ -1,0 +1,164 @@
+\documentclass{article}
+\title{Constellation Deployment General Strategy}
+\author{Joan Cebr\'ian, Roger Fraixedas, Marina Pons and Xavi Ti\'o}
+\date{19th October 2016}
+\begin{document}
+   \maketitle
+
+\section{General strategy:}
+
+\subsection{Launching platform: }
+
+\begin{itemize} 
+
+\item Number of satellites which can be launched with a particular launcher:
+	\begin{itemize} 
+	\item Payload mass that the launcher can inject into      the desired orbit
+    \item The volume of the launcher fairing
+    \end{itemize}
+\item Launch site (extremely relevant when choosing the launcher): highly dependent on the orbit inclination.					
+\item Satellite mass, orbit altitude, eccentricity, orbit inclination angle, and optionally the satellite dimensions (length, width and height) and launcher adaptor mass.  
+\item Main steps:
+    \begin{itemize}
+	\item Launch site selection: based on the orbit inclination.
+    \item Launcher-Spacecraft fit
+    \item Mass and fairing dimensions 
+    \item Constraint analysis with respect to the three aspects mentioned above
+    \item Determination of candidate launchers.			
+    \item Transfer Strategy necessary from the launcher injection orbit to the operative orbits? If so, evaluate the required fuel budget, add it to the mass of the spacecraft, and start the analysis all over again. 
+    \item Launcher selection: possible launchers and number of satellites that each can inject into the target orbit.
+    \end{itemize}
+\item Few launchers are capable of launching satellites into different orbital planes (eg. Ariane 5, Rockot). 
+\item The mass of the adaptor: approximately a 15 percent of the spacecraft mass		
+\item Athena 1, Pegasus XL and Taurus can be classified as relatively small launchers, which are suitable to inject small payloads into LEO. 				
+\item The most powerful launchers, which have a considerable mass injection capability, do not prove to be advantageous possibilities because they can launch a considerable number of spacecraft into an injection plane (sometimes more than the number of satellites in the whole constellation). In addition the costs of such a big launcher are very large.  
+\item Two orbital injection ways can be carried out:
+    \begin{itemize}
+    \item	Direct injection:
+        \begin{itemize}
+        \item May require an additional stage to achieve the final orbit increasing the costs. 
+        \item Otherwise, the spacecraft must perform the propulsive manoeuvres to reach the final orbit. (compromises the Sat design)
+        \end{itemize}
+    \item	Indirect injection: can be useful if the platform can launch more satellites than the needed in every orbital plane. Allows the population of several orbital planes in a single launching. 
+    \end{itemize}
+\end{itemize}
+
+\subsection{Set-up}
+
+\begin{itemize}
+\item Achieve a substantial level of service while arranging the constellation.
+\item Dependant on the number of Sats that the chosen launcher can deploy in a single launching. 
+\end{itemize}
+
+\subsection{Replacement and Spare Strategy: }
+
+\begin{itemize}
+
+\item Spare satellites in constellation
+    \begin{itemize}
+    \item \emph{Overpopulated by One Satellite:} one extra operational satellite per orbital plane. Telecommunications constellations are often overpopulated by one satellite in order to provide redundancy.
+    \item \emph{Overpopulated by Two Satellites:} when reliability is crucial. Two extra satellites per orbital plane. Provides reliability in 99.99 percent of situations. Usually selected method in navigation constellations.
+    \item  No time delay.
+    \end{itemize}
+\item In-orbit spares
+    \begin{itemize}
+    \item Some constellations allow that during a reduced period the constellation service may be “degraded” to a lower performance level so that the constellation is functioning with a reduced number of in-orbit “spare” satellites.
+    \item The spare satellites are not placed at the operational attitude in order to avoid possible collisions of the non-controlled spares with the operational spacecraft.
+    \item Time to replace a failed satellite is usually on the order of few days.
+    \end{itemize}
+\item Spare Satellites in Parking orbits
+    \begin{itemize}
+    \item Time delay is usually on the order of one to two months
+    \end{itemize} 
+\item Spare Satellites on the Ground
+    \begin{itemize}
+    \item Consists in keeping one or more “spare” satellites on the ground. Or being able to manufacture a “spare” fast enough.
+    \item Time delay is on the order of months up to a year.
+    \end{itemize}
+\item Driving parameters
+	\begin{itemize}
+    \item A trade-off between the satellite reliability and the level of constellation redundancy is to be accomplished versus the service availability required.
+    \item Performance level: capability to meet the mission requirements, according to mission profile.
+    \item MTTR: Mean Time To Replace. Proves to be a good indicator of the system service ability.
+	\end{itemize}
+\end{itemize}
+
+\subsection{End of life strategy: }
+
+The main objective is to determine the best strategy to implement at the end of the operational lifetime of the satellites forming the constellation. In this way, it is possible to avoid an increase in space debris and in the collision risk between satellites positioned in the same altitude	band. 
+
+
+Depending on the orbit altitude, the de-orbit strategy will change because the number of relevant orbital perturbations that could affect the system change. As Astrea constellation will be positioned at LEO those perturbations are useful to de-orbit the satellites due to the fact they actually burn-up in the atmosphere during the re-entry. 
+
+
+In spite all, the possibility to obtain fragments which had survived the re-entry phase exits and it is essential to assess the consequences of break-up and incomplete burn-up.
+
+
+
+3 de-orbit manoeuvre:
+
+
+\begin{itemize}
+
+\item Controlled de-orbit:
+
+Controlled re-entry and burn-up in the atmosphere or to the ground impact at a pre-assigned safe-location. 
+Manoeuvre initiated by a large increment of potential energy to change the orbital altitude to a lower one well into the atmosphere.
+
+\item Uncontrolled de-orbit:
+
+Orbit altitude reduction to cause a decay and final re-entry. This manoeuvre consists in de-orbiting the satellite by short manoeuvres such as low-thrust manoeuvres which help to decay the satellite position but you don’t have its trajectory control
+
+\item Non-propulsive orbit lifetime reduction:
+
+As the satellites are placed at the LEO this strategy takes advantage of LEO perturbations which assist in lowering the orbit altitude.
+
+\emph{IMPORTANT:} the residual lifetime of the satellites has to be lower than 25 years.
+
+\end{itemize}
+
+\section{Tasks:}
+
+\subsection{Launcher}
+\begin{itemize}
+
+\item \emph{Launch site and vehicle analysis}
+
+
+First of all, it is necessary to invest which are the different launcher sites in the market. Usually, the information that is needed such as prices, launch frequency and more is not provided in the website so it has to be asked by e-mail. 
+Moreover, at the beginning of the project the main orbital parameters aren’t determined yet that’s why an optimization shall be made. 
+
+\item \emph{Optimization}
+
+Once a review of the different existing commercial launch sites has been made, it highly needs to read and understand the information obtained. In this way, the most economically combination could be determined in function the number of satellites, the orbit high and inclination. 
+This is useful because the orbit team can have slack to decide which the best constellation design is and to know if it is too expensive or not. 
+
+
+\item \emph{Deployer}
+
+Analysis and decision of the CubeSat deployer.
+
+\end{itemize}
+
+\subsection{Replacement Strategy}
+\begin{itemize}
+
+\item \emph{1rst Placement Strategy}
+
+Once the launcher site is known such as the number of satellites, and the orbital parameters, a strategy has to be made in order to plan how the satellites will be placed the first time. 
+
+\item \emph{Spare}
+
+A fast replacement must be made when a satellite collapse. In other words, it is essential to plan how the spare satellites will replace the collapse ones. The objective is to study the explained at the beginning of the document and decide which one is the most suitable. 
+
+\item \emph{Replacement}
+
+This section is the one of the most challenging parts. The constellation is going to work for many years, besides the satellites life is only about a few years and they must be replaced in order to preserve the constellation network.
+\end{itemize} 
+ 
+\subsection{End of life strategy}
+
+Basically, reducing space debris is imperative. CubeSats are placed at LEO where the perturbations are quite important and can be helpful in terms of satellite de-orbiting. Three manoeuvers are possible, nevertheless depending on the satellites subsystems, the orbit high and the cost only one will be used.
+
+
+\end{document}

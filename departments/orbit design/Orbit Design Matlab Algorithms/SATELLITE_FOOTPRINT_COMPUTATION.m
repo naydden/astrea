@@ -11,7 +11,7 @@ Re = 6378;          %Earth's Radius [Km]
 
 Se = 4*pi*Re^2;     %Earth's Surface [Km^2]
 
-h = 500:100:1000;   %Satellte hight [Km]
+h = 500:100:1000;   %Satellte height [Km]
 eo = 0:5:40;      %Elevation angle [º]
 
 %% SOLVER
@@ -60,8 +60,20 @@ title('Num.Satellites vs Elevation')
 xlabel('Elevation [deg]') % x-axis label
 ylabel('Num.Satellites') % y-axis label
 legend(num2str(h(1)),num2str(h(2)),num2str(h(3)),...
+    num2str(h(4)),num2str(h(5)),num2str(h(6)))       
+
+figure
+for k = 1:length(h)
+    plot ( eo , 2*Bo(k,:) )
+    hold on
+end
+title('Angle vs Elevation')
+xlabel('Elevation [deg]') % x-axis label
+ylabel('Angle between satellites[deg]') % y-axis label
+legend(num2str(h(1)),num2str(h(2)),num2str(h(3)),...
     num2str(h(4)),num2str(h(5)),num2str(h(6)))
-       
+
+
 
 % Calcular radio
 % Buscar angle elevation
