@@ -1,0 +1,54 @@
+In this subsection the decision between building ground stations or renting existent ones will be taken. There are a few things to be taken into account before starting to talk about the benedits and drawbacks of each of the options. First of all, the number of ground stations required is needed. A major failure regarding satellites have been already exposed, but from the ground station point of view, a major failure would be the loss of the communication with the satellite network. If there is no communication with the satellites, the mission would not be accomplished. For this reason, the nodes of the ground stations are very important. The number of ground stations required is the minimum number that, with two failures, can still transfer the data from the satellite of the client to the client itself in less than 5 minutes. Supposing that three ground stations are built or rent, if two of them fail the communication between the client and its satelline can still be done using the left ground station. Regarding the latency, as it has been already exposed, the communication will take place with a latency of less than 5 minutes (as only 2 nodes are unavailable). Regarding the position of the ground station, as the code developed shows, the ideal will be to have them close to the equator, because they would be capabile to stablish more links with different satellites and then the communication to the client's satellite is assured. In the following lines the factors to take into account to decide the ground stations will be explained. After doing so, an OWA will be done if needed.
+\subsection{Availability}
+\subsubsection{Building a ground station}
+If the decision to build a ground station is taken, it will be available as soon as it is constructed. The time taken to construct the ground stations depend on the efforts employed, but the three ground stations will be surely completed at the time the satellite network is completely deployed. From the moment the ground stations are built, they are totally available to accomplish the missions of Astrea constellation.
+\subsubsection{Renting a ground station}
+The sections regarding the renting of a ground station will be done considering LeafSpace (as it has been already said). LeafSpace is a company that does not work only with Astrea constellation, so total availability of the antenna's and its transmissions can not be assured. For this reason, is not possible to assure that the communication rate established in the project charter will be accomplished. Moreover, LeafSpace's Ground Stations are still non-existent, and they predict that the first ones will be available next year.
+\subsection{Cost}
+\subsubsection{Building a ground station}
+The costs of building a ground station can be divided into an initial investment an a maintenance. The initial investment have been estimated in 390940 \euro and the maintenance in 30000\euro /year. The Net Present Cost (NPC) in 10 years will be calculated in order to compare this option with the option of renting a ground station. The discount rate used to do so will be 12\%.
+\begin{equation}
+NPC=+I_{o}+\sum_{i=1}^{10} \frac{CF_{i}}{(1+r)^i}
+\end{equation}
+\begin{equation}
+NPC=390940+\sum_{i=1}^{10} \frac{30000}{(1+0.12)^i}=560450
+\end{equation}
+\subsubsection{Renting a ground station}
+In this case maintenance is not needed as it is carried out by the owners of the ground station. The cost, however, comes from the amount of data that is transfered from the satellites to the client. The estimation of the Mbyte transfered over a whole year is difficult to calculate. LeafSpace provides a minimum cost per month of 2400 \euro . This has been calculated for small communications  with X-band. To calculate an approximation, this number will be increased a 40\% because Astrea constellation will probably has quite higher transfer of data. The cost per year is, then 40320 \euro. The NPC will be calculated too: 
+ \begin{equation}
+NPC=\sum_{i=1}^{10} \frac{40320}{(1+0.12)^i}=227820 
+\end{equation}
+\subsection{Position}
+\subsubsection{Building a ground station}
+In the case the ground station is constructed an operated for the Astrea constellation, there is the possibility of build them in latitudes close to the equator, so more links will be available during more time. 
+\subsubsection{Renting a ground station}
+In the case the ground station is rented, there is no possibility to choose the position of the ground station. In the case of LeafSpace, most of the ground stations that will be built in 2017 are located at 45º north. However, there are other ground stations that can be used but from which renting information haven't been obtained due to the fact of non successful communication with the ground stations.
+\subsection{Ease to improve}
+\subsubsection{Building a ground station}
+The fact of building a ground station implies that it can be improved and adapted to the constellation and the needs of the clients along the developement of the mission. 
+\subsubsection{Renting a ground station}
+If the ground station is rented, it can not be improved according to the needs of the constellation, and maybe the constellation will have to be adapted to the ground station in order to accomplish the mission. The improvement in this case is, then, difficult and probably impossible.
+\section{Decision}
+The factors used to decide will be the ones presented previously. They will be rated from 1 to 2, being 2 the best option and 1 the worst option. As there are only two options, no linear interpolation is needed. Taking into account the requirements and needs of the project, the weights are the following ones:
+\begin{itemize}
+\item Availability: 6
+\item Cost: 9
+\item Position: 6 
+\item Ease to improve: 5
+\end{itemize}
+The rating and the OWA of the decision between building a ground station or renting an existent one is:
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+&\textbf{Availability}&\textbf{Cost}&\textbf{Position}&\textbf{Ease to improve}&\textbf{OWA}\\
+\hline
+\textbf{Build}&2&1&2&2&0.83\\
+\hline
+\textbf{Rent}&1&2&1&1&0.67\\
+\hline
+\end{tabular}
+\caption{OWA of the GS}
+\end{center}
+\end{table}
+Looking at the results, the fact of building a ground station is the best option for the Atrea Constellation in order to accomplish its requirements and to give a high-quality service.
