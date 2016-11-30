@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.17)  30 NOV 2016 17:36
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.27)  30 NOV 2016 09:49
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -7,8 +11,8 @@ Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (doc_config/doc_config.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -1498,42 +1502,86 @@ Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 \epigraphwidth=\skip91
 \epigraphrule=\skip92
 )
+<<<<<<< HEAD
 (Report.aux
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip93
+\cftbeforetoctitleskip=\skip94
+\cftaftertoctitleskip=\skip95
+\cftbeforepartskip=\skip96
+\cftpartnumwidth=\skip97
+\cftpartindent=\skip98
+\cftbeforechapskip=\skip99
+\cftchapindent=\skip100
+\cftchapnumwidth=\skip101
+\cftbeforesecskip=\skip102
+\cftsecindent=\skip103
+\cftsecnumwidth=\skip104
+\cftbeforesubsecskip=\skip105
+\cftsubsecindent=\skip106
+\cftsubsecnumwidth=\skip107
+\cftbeforesubsubsecskip=\skip108
+\cftsubsubsecindent=\skip109
+\cftsubsubsecnumwidth=\skip110
+\cftbeforeparaskip=\skip111
+\cftparaindent=\skip112
+\cftparanumwidth=\skip113
+\cftbeforesubparaskip=\skip114
+\cftsubparaindent=\skip115
+\cftsubparanumwidth=\skip116
+\cftbeforeloftitleskip=\skip117
+\cftafterloftitleskip=\skip118
+\cftbeforefigskip=\skip119
+\cftfigindent=\skip120
+\cftfignumwidth=\skip121
+\c@lofdepth=\count343
+\c@lotdepth=\count344
+\cftbeforelottitleskip=\skip122
+\cftafterlottitleskip=\skip123
+\cftbeforetabskip=\skip124
+\cfttabindent=\skip125
+\cfttabnumwidth=\skip126
+) (Report.aux
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 LaTeX Warning: Label `fig:osi' multiply defined.
 
 )
 \openout1 = `Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 22.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 21.
+(lastpage)             ! on input line 22.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 21.
+. Activating mapping `default' on line 22.
 .................................................
 
 (C:\Users\Sergi\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
+<<<<<<< HEAD
 \scratchcounter=\count342
 \scratchdimen=\dimen309
 \scratchbox=\box67
@@ -1544,6 +1592,18 @@ Package lastpage Info: Please have a look at the pageslts package at
 \MPscratchDim=\dimen310
 \MPnumerator=\count346
 \makeMPintoPDFobject=\count347
+=======
+\scratchcounter=\count345
+\scratchdimen=\dimen309
+\scratchbox=\box67
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen310
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 \everyMPtoPDFconversion=\toks50
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1657,7 +1717,7 @@ Package caption Info: End \AtBeginDocument code.
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring OFF on input line 21.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1665,11 +1725,15 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
+<<<<<<< HEAD
 \c@section@level=\count348
+=======
+\c@section@level=\count351
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (Report.out) (Report.out)
 \@outlinefile=\write3
@@ -1684,23 +1748,23 @@ LaTeX Info: Redefining \nameref on input line 21.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(71.13188pt, 672.50832pt, 101.40665pt)
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
+* \textwidth=426.79135pt
 * \textheight=640.0pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
 * \topmargin=-38.1381pt
 * \headheight=50.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1710,76 +1774,94 @@ LaTeX Info: Redefining \nameref on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<<<<<<< HEAD
 \c__siunitx_mathsf_int=\count349
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 21.
+=======
+\c__siunitx_mathsf_int=\count352
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 22.
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 21.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 22.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 21.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 22.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 21.
+(Font)              <10.95> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 21.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 21.
-LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+(Font)              <6> on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 21.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 22.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 21.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 22.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+<<<<<<< HEAD
 \c__siunitx_mathtt_int=\count350
 LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 21.
+=======
+\c__siunitx_mathtt_int=\count353
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 22.
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (doc_config/cover.tex
+<<<<<<< HEAD
 <./doc_config/images/logo.png, id=1099, 3862.43pt x 1275.76625pt>
+=======
+<./doc_config/images/logo.png, id=287, 3862.43pt x 1275.76625pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
+(pdftex.def)             Requested size: 149.37958pt x 49.32835pt.
 
+<<<<<<< HEAD
 <./doc_config/images/UPC_ESEIAAT.jpg, id=1100, 782.925pt x 145.54375pt>
+=======
+<./doc_config/images/UPC_ESEIAAT.jpg, id=288, 782.925pt x 145.54375pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
 Package pdftex.def Info: ./doc_config/images/UPC_ESEIAAT.jpg used on input line
  19.
-(pdftex.def)             Requested size: 193.47578pt x 35.96611pt.
+(pdftex.def)             Requested size: 170.71393pt x 31.73323pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
@@ -1804,6 +1886,7 @@ Non-PDF special ignored!
 
 Non-PDF special ignored!
 Non-PDF special ignored!
+<<<<<<< HEAD
 Non-PDF special ignored!{C:/Users/Sergi/AppData/Local/MiKTeX/2.9/pdftex/config/
 pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg
 >] [2] (Report.toc [1
@@ -1812,6 +1895,17 @@ pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 151.
+=======
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <.
+/doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg>] [2]
+(Report.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 3.
+ [1]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 138.
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [2]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -1824,14 +1918,21 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 272.
 \openout4 = `Report.toc'.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
+<<<<<<< HEAD
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 33.
+=======
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
 [4] (Report.lot)
 \tf@lot=\write5
 \openout5 = `Report.lot'.
 
+<<<<<<< HEAD
  [5
 
 ] (Report.lof
@@ -1877,16 +1978,28 @@ Overfull \hbox (3.00328pt too wide) detected at line 18
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
  been already used, duplicate ignored
+=======
+ [4] (Report.lof)
+\tf@lof=\write6
+\openout6 = `Report.lof'.
+
+ [5]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) 
+has been already used, duplicate ignored
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 <to be read again> 
                    \relax 
-l.46 \part{Communications}
+l.52 \part{Communications}
                            [1
 
 ]
 (sections/CommunicationsDept/Ch1-SpaceSegment.tex
 Chapter 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 8.
+(Font)              <10> on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 8.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1895,6 +2008,7 @@ l.10 \section
              {Introduction} [2
 
 ] (sections/CommunicationsDept/introduction.tex
+<<<<<<< HEAD
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
@@ -1902,6 +2016,9 @@ Package hyperref Warning: Difference (3) between bookmark levels is greater
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 7.
 <./sections/CommunicationsDept/OSI.png, id=1309, 420.97275pt x 284.262pt>
+=======
+<./sections/CommunicationsDept/OSI.png, id=462, 420.97275pt x 284.262pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: ./sections/CommunicationsDept/OSI.png Graphic file (type png)
 
 <use ./sections/CommunicationsDept/OSI.png>
@@ -1927,7 +2044,7 @@ LaTeX Font Info:    Try loading font information for OMS+lmr on input line 27.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 27.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
@@ -1937,8 +2054,13 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 40.
  [5
 
 ]
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG, id=1327, 3
 77.15906pt x 124.96687pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG, id=480, 37
+7.15906pt x 124.96687pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG Graphi
 c file (type png)
 
@@ -1947,8 +2069,13 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/simple
 stsender.PNG used on input line 48.
 (pdftex.def)             Requested size: 377.15814pt x 124.96657pt.
 
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG, id=1329,
  374.90062pt x 121.95563pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG, id=482, 
+374.90062pt x 121.95563pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG Grap
 hic file (type png)
 
@@ -1962,8 +2089,13 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [6 <./sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG>]
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG, id=1336, 377.1
 5906pt x 217.5628pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG, id=490, 377.15
+906pt x 217.5628pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG Graphic fi
 le (type png)
 
@@ -1972,8 +2104,25 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/sender
 sawp.PNG used on input line 70.
 (pdftex.def)             Requested size: 377.15814pt x 217.56227pt.
 
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG, id=1337, 377
 .15906pt x 137.01187pt>
+=======
+Underfull \hbox (badness 1082) in paragraph at lines 59--73
+\T1/lmr/m/n/10.95 from the re-ceiver and then sends the next frame. We still ha
+ve uni-di-rec-tional
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 59--73
+\T1/lmr/m/n/10.95 com-mu-ni-ca-tion for data frames, but aux-il-iary ACK frames
+ (sim-ple to-kens of
+ []
+
+
+<sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG, id=491, 377.
+15906pt x 137.01187pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG Graphic 
 file (type png)
 
@@ -1984,11 +2133,18 @@ ersawp.PNG used on input line 76.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 79.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 80.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [7 <./sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG, id=1343, 365.
 86688pt x 312.41719pt>
+=======
+ [7 <./sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG> <.
+/sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG>]
+<sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG, id=498, 365.8
+6688pt x 312.41719pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG Graphic f
 ile (type png)
 
@@ -1999,12 +2155,18 @@ agram.PNG used on input line 95.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 98.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [8 <./sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG> <./secti
 ons/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer2/diagramN.PNG, id=1350, 382.428
 76pt x 280.79906pt>
+=======
+ [8 <./sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG>]
+<sections/CommunicationsDept/SpaceSegment/Layer2/diagramN.PNG, id=504, 382.4287
+6pt x 280.79906pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/diagramN.PNG Graphic file
  (type png)
 
@@ -2018,8 +2180,13 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 119.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [9 <./sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG>]
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG, id=1356, 376.40
 625pt x 229.60782pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG, id=510, 376.406
+25pt x 229.60782pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG Graphic fil
 e (type png)
 
@@ -2028,8 +2195,13 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/receiv
 erN.PNG used on input line 122.
 (pdftex.def)             Requested size: 376.40532pt x 229.60725pt.
 
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG, id=1357, 248.4281
 3pt x 350.05782pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG, id=511, 248.42813
+pt x 350.05782pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG Graphic file 
 (type png)
 
@@ -2048,8 +2220,13 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 132.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [11 <./sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG>]
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG, id=1369, 54
 4.28343pt x 356.0803pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG, id=522, 544
+.28343pt x 356.0803pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG Graphic
  file (type png)
 
@@ -2057,14 +2234,23 @@ File: sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG Graphic
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/flowse
 lective.PNG used on input line 142.
 (pdftex.def)             Requested size: 435.42734pt x 284.86462pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
 
+<<<<<<< HEAD
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 145.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [12 <./sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer2/senderselective1.PNG, id=1375,
  381.67593pt x 131.74219pt>
+=======
+Overfull \hbox (8.63599pt too wide) in paragraph at lines 142--143
+ [] 
+ []
+
+
+<sections/CommunicationsDept/SpaceSegment/Layer2/senderselective1.PNG, id=523, 
+381.67593pt x 131.74219pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/senderselective1.PNG Grap
 hic file (type png)
 
@@ -2072,9 +2258,19 @@ hic file (type png)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/sender
 selective1.PNG used on input line 148.
 (pdftex.def)             Requested size: 305.34116pt x 105.39388pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
 
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/senderselective2.PNG, id=1376,
  339.51843pt x 412.54124pt>
+=======
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 150.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [12 <./sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG>]
+<sections/CommunicationsDept/SpaceSegment/Layer2/senderselective2.PNG, id=530, 
+339.51843pt x 412.54124pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/senderselective2.PNG Grap
 hic file (type png)
 
@@ -2083,8 +2279,13 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/sender
 selective2.PNG used on input line 153.
 (pdftex.def)             Requested size: 339.5176pt x 412.54024pt.
 
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/receiverselective.PNG, id=1377
 , 313.9228pt x 432.86719pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/receiverselective.PNG, id=531,
+ 313.9228pt x 432.86719pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/receiverselective.PNG Gra
 phic file (type png)
 
@@ -2118,11 +2319,16 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 204.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 233.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 235.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [17]
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG, id=1406, 532.991
 26pt x 129.48375pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG, id=559, 532.9912
+6pt x 129.48375pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG Graphic file
  (type png)
 
@@ -2131,12 +2337,17 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCS
 DS.PNG used on input line 242.
 (pdftex.def)             Requested size: 479.6877pt x 116.53427pt.
 
+Overfull \hbox (52.89635pt too wide) in paragraph at lines 242--243
+ [] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 237--245
 
  []
 
 
-Overfull \hbox (41.83336pt too wide) in paragraph at lines 273--290
+Overfull \hbox (65.7207pt too wide) in paragraph at lines 273--290
  [] 
  []
 
@@ -2145,6 +2356,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 292.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [18 <./sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG>]
+<<<<<<< HEAD
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 296.
@@ -2152,6 +2364,10 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 296.
  [19]
 <sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG, id=1417, 329
 .73187pt x 119.69719pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG, id=567, 329.
+73187pt x 119.69719pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG Graphic 
 file (type png)
 
@@ -2159,9 +2375,18 @@ file (type png)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/transf
 erfram.PNG used on input line 303.
 (pdftex.def)             Requested size: 329.73105pt x 119.69688pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
 
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 306.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [19]
 <sections/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryheader.PNG
+<<<<<<< HEAD
 , id=1418, 482.55281pt x 197.23688pt>
+=======
+, id=572, 482.55281pt x 197.23688pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryheade
 r.PNG Graphic file (type png)
 
@@ -2170,6 +2395,7 @@ r.PNG Graphic file (type png)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/transf
 erframeprimaryheader.PNG used on input line 310.
 (pdftex.def)             Requested size: 482.55162pt x 197.23637pt.
+<<<<<<< HEAD
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 314.
@@ -2177,6 +2403,16 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 314.
  [20 <./sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PNG, id=1
 425, 198.7425pt x 295.1025pt>
+=======
+
+Overfull \hbox (55.76027pt too wide) in paragraph at lines 310--311
+ [] 
+ []
+
+
+<sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PNG, id=5
+73, 198.7425pt x 295.1025pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PNG 
 Graphic file (type png)
 
@@ -2184,9 +2420,19 @@ Graphic file (type png)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/Proced
 uressendingend.PNG used on input line 319.
 (pdftex.def)             Requested size: 198.742pt x 295.10176pt.
+File: ./doc_config/images/logo.png Graphic file (type png)
 
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 322.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [20 <./sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG> <./se
+ctions/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryheader.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.PNG, id
+<<<<<<< HEAD
 =1426, 201.00093pt x 237.88875pt>
+=======
+=581, 201.00093pt x 237.88875pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.PN
 G Graphic file (type png)
 
@@ -2197,41 +2443,31 @@ uresreceivingend.PNG used on input line 325.
 (pdftex.def)             Requested size: 201.00043pt x 237.88815pt.
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 328.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 329.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [21 <./sections/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryhea
-der.PNG>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 334.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [22 <./sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PN
-G> <./sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.PN
+ [21 <./sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PN
 G>])
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[23] (sections/CommunicationsDept/SpaceSegment/Layer3/NetworkLayer.tex
+[22 <./sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.P
+NG>] (sections/CommunicationsDept/SpaceSegment/Layer3/NetworkLayer.tex
+Underfull \hbox (badness 1496) in paragraph at lines 34--36
+ [][] \T1/lmr/m/n/10.95 Ac-cord-ing to [[]5[]], the Net-work layer is the third
+ layer in the Open Sys-tems
+ []
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 34.
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 44.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 45.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [24
-
+<<<<<<< HEAD
 ]
 <sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG, id=1465, 4
 05.01312pt x 426.84468pt>
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG, id=605, 40
+5.01312pt x 426.84468pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG Graphi
 c file (type png)
 
@@ -2240,8 +2476,31 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSp
 rotocols.PNG used on input line 48.
 (pdftex.def)             Requested size: 405.01212pt x 426.84364pt.
 
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG, id=1468
 , 398.99063pt x 401.24907pt>
+=======
+Underfull \hbox (badness 4582) in paragraph at lines 45--52
+ [][] \T1/lmr/m/n/10.95 Fig-ure []1.3.1[], shows the rec-om-mended pro-to-cols 
+by the CCSDS for Space
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 45--52
+\T1/lmr/m/n/10.95 Com-mu-ni-ca-tions. In Fig-ure []1.3.2[] those pro-to-cols ar
+e-ar-ranged in some pos-si-ble
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [23
+
+]
+<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG, id=620,
+ 398.99063pt x 401.24907pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG Gra
 phic file (type png)
 
@@ -2254,20 +2513,26 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 60.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [25 <./sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG>]
+ [24 <./sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG>]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 67.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [26 <./sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG>]
+ [25 <./sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 75.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 79.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [27]
 <sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG, id=1486, 934.9
 9312pt x 168.63pt>
+=======
+ [26]
+<sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG, id=644, 934.99
+312pt x 168.63pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG Graphic fi
 le (type png)
 
@@ -2275,14 +2540,23 @@ le (type png)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/SPP_he
 ader.PNG used on input line 85.
 (pdftex.def)             Requested size: 467.4954pt x 84.31479pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
 
+<<<<<<< HEAD
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 108.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [28 <./sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG, id=1495, 813.
 79031pt x 169.38281pt>
+=======
+Overfull \hbox (40.70406pt too wide) in paragraph at lines 85--86
+ [] 
+ []
+
+
+<sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG, id=648, 813.7
+9031pt x 169.38281pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG Graphic f
 ile (type png)
 
@@ -2291,17 +2565,28 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_h
 eader.PNG used on input line 112.
 (pdftex.def)             Requested size: 488.27795pt x 101.63046pt.
 
-Overfull \hbox (4.58109pt too wide) in paragraph at lines 112--113
+Overfull \hbox (61.4866pt too wide) in paragraph at lines 112--113
  [] 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 122.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 116.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [27 <./sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG>]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 125.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [29 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG, id=1505, 813.
 79031pt x 184.43906pt>
+=======
+ [28 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG>]
+<sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG, id=669, 813.7
+9031pt x 184.43906pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG Graphic f
 ile (type png)
 
@@ -2310,17 +2595,23 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_h
 eader.PNG used on input line 133.
 (pdftex.def)             Requested size: 488.27795pt x 110.66428pt.
 
-Overfull \hbox (4.58109pt too wide) in paragraph at lines 133--134
+Overfull \hbox (61.4866pt too wide) in paragraph at lines 133--134
  [] 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 138.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 145.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [30]
 <sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG, id=1515, 408.02
 437pt x 154.32657pt>
+=======
+ [29 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG>]
+<sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG, id=681, 408.024
+37pt x 154.32657pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG Graphic fil
 e (type png)
 
@@ -2331,106 +2622,95 @@ der.PNG used on input line 156.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 160.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 165.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [31 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG>]
+ [30 <./sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG>]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 167.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 177.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [32 <./sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG>]
+ [31]
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 184.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 192.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [33]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
-[]\T1/lmr/m/n/12 Encapsulating Se-cu-rity Pay-loads (ESP): Pro-vide con-fi-den-
-tial-ity, data-origin
+ [32]
+Underfull \hbox (badness 3343) in paragraph at lines 193--194
+[]\T1/lmr/m/n/10.95 Encapsulating Se-cu-rity Pay-loads (ESP): Pro-vide con-fi-d
+en-tial-ity, data-origin
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 193--194
+\T1/lmr/m/n/10.95 au-then-ti-ca-tion, con-nec-tion-less in-tegrity, an anti-rep
+lay ser-vice, and lim-ited
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 194.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [34]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 211.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[35]
+ [33]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 219.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 220.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[34]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 232.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [35]
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 243.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [36]
 File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 255.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[37]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 258.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [38]
+File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 231.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [37]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 238.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[38]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 248.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 267.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [39]
 File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 257.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [40]
-File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 265.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 281.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[41]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 275.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [42]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 276.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 286.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [43])
+[40])
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[44]
+ [41]
 (sections/CommunicationsDept/SpaceSegment/Layer4_5/SessionTransportLayer.tex
-
-Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 29.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 35.
+Underfull \hbox (badness 2799) in paragraph at lines 31--32
+\T1/lmr/m/n/10.95 A con-nec-tion-less pro-to-col, such as UDP, treats each seg-
+ment sep-a-rately. A
+ []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [45
+ [42
 
 ]
+<<<<<<< HEAD
 <sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg, id=1609, 343.2825p
 t x 306.39468pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg Graphic file (
@@ -2441,6 +2721,10 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1
 .jpg used on input line 61.
 (pdftex.def)             Requested size: 39.21213pt x 35.0pt.
  [46 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg>]
+=======
+<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg, id=813, 343.2825pt
+ x 306.39468pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg Graphic file (
 type jpg)
 
@@ -2448,25 +2732,32 @@ type jpg)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1
 .jpg used on input line 61.
 (pdftex.def)             Requested size: 343.28165pt x 306.39394pt.
-
-Underfull \hbox (badness 1648) in paragraph at lines 64--65
- [][][] \T1/lmr/m/n/12 Stream De-liv-ery Ser-vice: as has been men-tioned be-fo
-re, TCP, un-like UDP, is a
- []
-
 File: ./doc_config/images/logo.png Graphic file (type png)
+
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 72.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [47]
+ [43]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 74.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
+<<<<<<< HEAD
 [48]
 <sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg, id=1623, 432.86719
 pt x 219.06844pt>
+=======
+[44 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg>]
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 94.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [45]
+<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg, id=830, 432.86719p
+t x 219.06844pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg Graphic file (
 type jpg)
 
@@ -2474,26 +2765,29 @@ type jpg)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2
 .jpg used on input line 108.
 (pdftex.def)             Requested size: 432.86612pt x 219.06789pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
 
+Overfull \hbox (6.07477pt too wide) in paragraph at lines 108--109
+[][] 
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 110.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 117.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [49]
+ [46 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg>]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 125.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 137.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[50 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 144.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [51]
 <sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg, id=1636
 , 201.75375pt x 63.98906pt>
+=======
+ [47]
+<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg, id=839,
+ 201.75375pt x 63.98906pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg Gra
 phic file (type jpg)
 
@@ -2501,20 +2795,28 @@ phic file (type jpg)
 Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3
 (extension).jpg used on input line 152.
 (pdftex.def)             Requested size: 201.75325pt x 63.98889pt.
-)
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 157.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [48 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg>]
+)
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [52 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg>]
-
+ [49]
 (sections/CommunicationsDept/globalOverview.tex
+<<<<<<< HEAD
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
 <./sections/CommunicationsDept/results2.png, id=1641, 361.35pt x 301.125pt>
+=======
+<./sections/CommunicationsDept/results2.png, id=849, 361.35pt x 301.125pt>
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: ./sections/CommunicationsDept/results2.png Graphic file (type png)
 
 <use ./sections/CommunicationsDept/results2.png>
@@ -2528,10 +2830,11 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [53
+ [50
 
  <./sections/CommunicationsDept/results2.png>]
 Chapter 2.
+<<<<<<< HEAD
 [54
 
 ] (sections/CommunicationsDept/GroundSegment/Model.tex
@@ -2582,6 +2885,9 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 21.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [57
+=======
+) (sections/CommunicationsDept/Ch3-GroundStation.tex [51
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 ]
 
@@ -2769,7 +3075,11 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [75]
 Chapter 3.
+<<<<<<< HEAD
 [76
+=======
+[52
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 ] (sections/CommunicationsDept/GroundStation/Decisiontaking/DT.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2777,86 +3087,89 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [77
+=======
+ [53
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 ]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 24.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 26.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
+<<<<<<< HEAD
 [78]
+=======
+[54]
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [79])) (Report.bbl
+=======
+ [55])) (Report.bbl
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [80
+=======
+ [56
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 ]
 Chapter 4.
 
-Underfull \hbox (badness 2653) in paragraph at lines 9--12
-[]\T1/lmr/m/n/12 CCSDS Sec-re-tariat.  Overview of Space Com-mu-ni-ca-tions Pro
--to-cols.  (CCSDS
+Underfull \hbox (badness 1748) in paragraph at lines 75--78
+[]\T1/lmr/m/n/10.95 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: Ap-pl
+i-ca-tion Iden-ti-fier.
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 31--35
-[]\T1/lmr/m/n/12 CCSDS.  \T1/lmr/m/it/12 Re-port Con-cern-ing Space Data Sys-te
-m Stan-dards - Overview of Space
+Overfull \hbox (220.59738pt too wide) in paragraph at lines 75--78
+\T1/lmr/m/n/10.95 http://sanaregistry.org/r/space_-packet_-pro-to-col_-ap-pli-c
+a-tion_-pro-cess_-id/space_-packet_-pro-to-col_-ap-pli-ca-tion_-pro-cess_-id.ht
+ml. 
  []
 
+<<<<<<< HEAD
 [81
+=======
+[57
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 ]
-Underfull \hbox (badness 3078) in paragraph at lines 70--73
-[]\T1/lmr/m/n/12 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: Packet V
-er-sion Num-ber.
+Underfull \hbox (badness 4765) in paragraph at lines 80--82
+[]\T1/lmr/m/n/10.95 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: Pro-t
+o-col Iden-ti-fier.
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 75--78
-[]\T1/lmr/m/n/12 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: Ap-pli-c
-a-tion Iden-ti-fier.
+Underfull \hbox (badness 1755) in paragraph at lines 84--86
+[]\T1/lmr/m/n/10.95 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: IP Ex
+-ten-sion header.
  []
 
 
-Overfull \hbox (210.68285pt too wide) in paragraph at lines 75--78
-\T1/lmr/m/n/12 http://sanaregistry.org/r/space_-packet_-pro-to-col_-ap-pli-ca-t
-ion_-pro-cess_-id/space_-packet_-pro-to-col_-ap-pli-ca-tion_-pro-cess_-id.html.
- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
-[]\T1/lmr/m/n/12 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: Pro-to-c
-ol Iden-ti-fier.
- []
-
-
-Underfull \hbox (badness 6741) in paragraph at lines 84--86
-[]\T1/lmr/m/n/12 Space As-signed Num-ber Au-thor-ity (SANA) Reg-istry: IP Ex-te
-n-sion header.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--151
-[]\T1/lmr/m/n/12 Internet As-signed Num-ber Au-thor-ity (IANA) Reg-istry: Pro-t
-o-col Num-bers.
+Underfull \hbox (badness 2790) in paragraph at lines 148--151
+[]\T1/lmr/m/n/10.95 Internet As-signed Num-ber Au-thor-ity (IANA) Reg-istry: Pr
+o-to-col Num-bers.
  []
 
 ) 
 AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 68.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 74.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+<<<<<<< HEAD
  [82]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
@@ -2874,13 +3187,24 @@ Package rerunfilecheck Info: Checksums for `Report.out':
 (rerunfilecheck)             After:  012687796001A2FA39287DAE8BB7391C;17937.
 
 LaTeX Warning: There were undefined references.
+=======
+ [58]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+ (Report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
+Package rerunfilecheck Info: File `Report.out' has not changed.
+(rerunfilecheck)             Checksum: E9882C5C3A37FA422B28BBF527A0615D;5572.
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  30145 strings out of 493334
  568663 string characters out of 3139251
  626912 words of memory out of 3000000
@@ -2988,4 +3312,32 @@ PDF statistics:
  1946 PDF objects out of 2073 (max. 8388607)
  453 named destinations out of 1000 (max. 500000)
  2343 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 29874 strings out of 493334
+ 560799 string characters out of 3139249
+ 630744 words of memory out of 3000000
+ 32613 multiletter control sequences out of 15000+200000
+ 106028 words of font info for 90 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,16n,91p,10486b,883s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm
+.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmex10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/symbols/msam10.pfb>
+Output written on Report.pdf (65 pages, 1256699 bytes).
+PDF statistics:
+ 1001 PDF objects out of 1200 (max. 8388607)
+ 266 named destinations out of 1000 (max. 500000)
+ 719 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 

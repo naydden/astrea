@@ -16,6 +16,7 @@
 \setlength{\parindent}{0pt}
 
 \usepackage{epigraph}
+\usepackage{tocloft}
 
 
 \begin{document}
@@ -27,12 +28,17 @@
 \pagenumbering{roman}
 
 % TABLE OF CONTENTS
+\setcounter{tocdepth}{3}
 \tableofcontents
+\pagebreak
 
 %\mbox{}\newpage
+\renewcommand{\cfttabnumwidth}{4em}
 \listoftables
+\pagebreak
 
 %\mbox{}\newpage
+\renewcommand{\cftfignumwidth}{4em}
 \listoffigures
 
 
