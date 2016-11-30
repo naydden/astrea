@@ -1,10 +1,33 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Report.aux
 The style file: unsrt.bst
+White space in argument---line 394 of file Report.aux
+ : \bibdata{sections/CommunicationsDept/SpaceSegment/Layer2/forouzan,sections/CommunicationsDept/SpaceSegment/Layer2/Secretariat2014,sections/CommunicationsDept/SpaceSegment/Layer2/tmsynch,sections/CommunicationsDept/SpaceSegment/Layer2/TC,sections/CommunicationsDept/SpaceSegment/Layer3/Network,
+ :                                                                                                                                                                                                                                                                                                       sections/CommunicationsDept/GroundSegment/Bib_GS}
+I'm skipping whatever remains of this command
 Database file #1: sections/CommunicationsDept/SpaceSegment/Layer2/forouzan.bib
 Database file #2: sections/CommunicationsDept/SpaceSegment/Layer2/Secretariat2014.bib
 Database file #3: sections/CommunicationsDept/SpaceSegment/Layer2/tmsynch.bib
 Database file #4: sections/CommunicationsDept/SpaceSegment/Layer2/TC.bib
 Database file #5: sections/CommunicationsDept/SpaceSegment/Layer3/Network.bib
+Warning--I didn't find a database entry for "OSI"
+Warning--I didn't find a database entry for "TCPIP"
+Warning--I didn't find a database entry for "NetBEUI"
+Warning--I didn't find a database entry for "IPX"
+Warning--I didn't find a database entry for "Ethernet"
+Warning--I didn't find a database entry for "80211"
+Warning--I didn't find a database entry for "FrameRelay"
+Warning--I didn't find a database entry for "ATM"
+Warning--I didn't find a database entry for "IP_TCP_UDP"
+Warning--I didn't find a database entry for "NDP_SEND"
+Warning--I didn't find a database entry for "MLD"
+Warning--I didn't find a database entry for "SCTP"
+Warning--I didn't find a database entry for "DCCP"
+Warning--I didn't find a database entry for "SCTP_TCP"
+Warning--I didn't find a database entry for "FTP"
+Warning--I didn't find a database entry for "SSH"
+Warning--I didn't find a database entry for "SMTP"
+Warning--I didn't find a database entry for "HTTPS"
+Warning--I didn't find a database entry for "SNMP"
 Warning--empty publisher in Forouzan2012
 Warning--empty journal in Secretariat2014
 Warning--there's a number but no volume in Secretariat2014
@@ -35,4 +58,4 @@ Warning--empty journal in RIPv2
 Warning--empty journal in RIPng
 Warning--empty journal in IANAPN
 Warning--empty year in IANAPN
-(There were 30 warnings)
+(There was 1 error message)
