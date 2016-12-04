@@ -1,6 +1,9 @@
-function [mp,deltaV,tHoh] = thrust(hmax,hmin,ms,Isp,Thr)
+% function [mp,deltaV,tHoh] = thrust(hmax,hmin,ms,Isp,Thr)
 % This function computes the deltaV and propellant mass necessary to
 % maintain an orbit between to heights
+
+clear;
+clc;
 
 % Input variables:
 % - hmax: maximum height [m]
@@ -15,11 +18,11 @@ function [mp,deltaV,tHoh] = thrust(hmax,hmin,ms,Isp,Thr)
 % - tHoh: array of time necessary to do a Hohmann transfer [s]
 
 % Proposed values:
-% hmax = 550e3;
-% hmin = 545e3;
-% ms = 2.6633;       % Dry mass [kg]
-% Isp = 1.375;
-% Thr = 0.013;
+hmax = 545e3;
+hmin = hmax-80;
+ms = 3.99;       % Dry mass [kg]
+Isp = 2150;
+Thr = 100e-6;
 
 %% Data
 
@@ -41,7 +44,7 @@ A0 = RE+H0;
 
 % SIMULATION PARAMETERS
 N=100000;
-M = 10;
+M = 10000;
 
 %% 2. Perturbations propagation
 
@@ -50,6 +53,7 @@ temp=zeros(M,N);
 temp(1,1)=0;
 H = zeros(M,N); 
 H(1,1) = H0;
+% deltaV = zeros(2,N);
 
 % Asign initial values
 W0=0; OMEGA0=0;
@@ -104,7 +108,8 @@ for j = 1:M
         break
     end
     
-    deltaV(j) = deltaV1+deltaV2;
+    deltaV(1,j) = deltaV1; % first row of the column -> deltaV1
+    deltaV(2,j) = deltaV2; % second row of the column -> deltaV2
     mp(j) = mpit;
     tHoh(j) = tHohit;
     
@@ -122,7 +127,7 @@ end
 
 %% Post process
 
-mfr = Thr/(g0*Isp);
+mfr = Thr/(g0*Isp); % [kg]
 
 for i = 1:N
     if H(1,i)<=0
@@ -165,18 +170,10 @@ titulaso=['Orbit decay in ' num2str(tfin) ' days = ' num2str(floor(tfin/365)) ' 
 title(titulaso)
 
 %% Final calculations
-% Check if deltaV is possible for the given thruster
 
-OK = true;
-for j = 1:length(mp)
-    mfrnecessary = deltaV(j)*mp(j)/(hmax-hmin);
-    if mfrnecessary>mfr
-        OK = false;
-    end
-end
+deltaVbudget = sum(sum(deltaV))
+propellant = sum(mp)
 
-if OK ==true
-    fprintf('The trajectory is possible\n\n');
-else
-    fprintf('Trajectory not possible\n\n');
+if m > ms
+    fprintf('There is still some propellant left...\n\n')
 end

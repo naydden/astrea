@@ -24,7 +24,7 @@ v2 = sqrt(mu/r2); % [m/s]
 vp = sqrt(2*mu*r2/(r1*(r1+r2))); % [m/s]
 va = sqrt(2*mu*r1/(r2*(r1+r2))); % [m/s]
 a = (r1+r2)/2;
-T = sqrt(2*pi^2*a^3/mu);
+T = 2*pi*sqrt(a^3/mu);
 
 % deltaV 1 -> p(transfer orbit)
 deltaV1 = vp-v1;
