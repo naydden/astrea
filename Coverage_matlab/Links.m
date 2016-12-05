@@ -25,10 +25,10 @@ L=zeros(1,l); %L will contain the number of links in every instant. It is
 for i=1:l   %going through each instant 
     for j=1:N_sat  %for every sat
         Xgs=Xs(:,j,i)-Xg(:,i); %vector station-sat(j) at the instant i
-        alpha(j,i)=acos((Xgs'*Xg(:,i))/(norm(Xgs))); %angle between the 
+        alpha=acos((Xgs'*Xg(:,i))/norm(Xgs)); %angle between the 
         %the vector position of the station and the vector station-sat(j)
         %at the instant i
-        if alpha(j,i)<alpha_lim %if the ange alpha is smaller of alpha_lim 
+        if alpha<alpha_lim %if the ange alpha is smaller of alpha_lim 
             L(i)=L(i)+1;    %the station can contact with the sat and it is
             %added a link at the instant i
         end
