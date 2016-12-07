@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-\contentsline {chapter}{List of Tables}{v}{chapter*.2}
-\contentsline {chapter}{List of Figures}{vi}{chapter*.3}
-=======
 \contentsline {chapter}{List of Tables}{iv}{section*.1}
 \contentsline {chapter}{List of Figures}{v}{section*.2}
->>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
 \contentsline {part}{I\hspace {1em}Communications}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Space Segment Protocol Stack}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
@@ -35,250 +30,6 @@
 \contentsline {paragraph}{}{26}{section*.34}
 \contentsline {paragraph}{}{26}{section*.35}
 \contentsline {paragraph}{}{27}{section*.36}
-<<<<<<< HEAD
-\contentsline {paragraph}{}{28}{section*.37}
-\contentsline {paragraph}{}{28}{section*.38}
-\contentsline {paragraph}{}{28}{section*.40}
-\contentsline {paragraph}{}{28}{section*.41}
-\contentsline {paragraph}{}{29}{section*.43}
-\contentsline {paragraph}{}{29}{section*.45}
-\contentsline {paragraph}{}{29}{section*.46}
-\contentsline {subsubsection}{\numberline {1.3.2.2}Auxiliary protocols}{31}{subsubsection.1.3.2.2}
-\contentsline {paragraph}{}{31}{section*.48}
-\contentsline {paragraph}{}{31}{section*.49}
-\contentsline {paragraph}{}{31}{section*.50}
-\contentsline {paragraph}{}{32}{section*.51}
-\contentsline {paragraph}{}{32}{section*.53}
-\contentsline {paragraph}{}{32}{section*.54}
-\contentsline {paragraph}{}{32}{section*.55}
-\contentsline {paragraph}{}{33}{section*.56}
-\contentsline {paragraph}{}{33}{section*.57}
-\contentsline {paragraph}{}{34}{section*.58}
-\contentsline {paragraph}{}{34}{section*.59}
-\contentsline {paragraph}{}{34}{section*.60}
-\contentsline {paragraph}{}{34}{section*.61}
-\contentsline {paragraph}{}{35}{section*.62}
-\contentsline {paragraph}{}{35}{section*.63}
-\contentsline {subsubsection}{\numberline {1.3.2.3}Routing protocols}{36}{subsubsection.1.3.2.3}
-\contentsline {paragraph}{}{36}{section*.64}
-\contentsline {paragraph}{}{36}{section*.65}
-\contentsline {paragraph}{}{36}{section*.66}
-\contentsline {paragraph}{}{37}{section*.67}
-\contentsline {paragraph}{}{37}{section*.68}
-\contentsline {paragraph}{}{37}{section*.69}
-\contentsline {paragraph}{}{38}{section*.70}
-\contentsline {paragraph}{}{38}{section*.71}
-\contentsline {paragraph}{}{39}{section*.72}
-\contentsline {paragraph}{}{39}{section*.73}
-\contentsline {paragraph}{}{40}{section*.74}
-\contentsline {subsection}{\numberline {1.3.3}Protocol Selection}{40}{subsection.1.3.3}
-\contentsline {subsubsection}{\numberline {1.3.3.1}Choice of the main protocol}{40}{subsubsection.1.3.3.1}
-\contentsline {paragraph}{}{40}{section*.75}
-\contentsline {paragraph}{}{40}{section*.76}
-\contentsline {paragraph}{}{40}{section*.77}
-\contentsline {paragraph}{}{41}{section*.78}
-\contentsline {paragraph}{}{41}{section*.79}
-\contentsline {subsubsection}{\numberline {1.3.3.2}Choice of routing protocol}{41}{subsubsection.1.3.3.2}
-\contentsline {paragraph}{}{41}{section*.80}
-\contentsline {paragraph}{}{41}{section*.81}
-\contentsline {paragraph}{}{41}{section*.82}
-\contentsline {paragraph}{}{41}{section*.83}
-\contentsline {paragraph}{}{42}{section*.84}
-\contentsline {paragraph}{}{42}{section*.85}
-\contentsline {subsubsection}{\numberline {1.3.3.3}Choice of complementary protocols}{42}{subsubsection.1.3.3.3}
-\contentsline {paragraph}{}{42}{section*.86}
-\contentsline {paragraph}{}{42}{section*.87}
-\contentsline {subsubsection}{\numberline {1.3.3.4}Conclusion}{43}{subsubsection.1.3.3.4}
-\contentsline {paragraph}{}{43}{section*.88}
-\contentsline {subsection}{\numberline {1.3.4}Final structure}{43}{subsection.1.3.4}
-\contentsline {paragraph}{}{43}{section*.89}
-\contentsline {paragraph}{}{43}{section*.90}
-\contentsline {paragraph}{}{44}{section*.91}
-\contentsline {paragraph}{}{44}{section*.92}
-\contentsline {paragraph}{}{44}{section*.93}
-\contentsline {section}{\numberline {1.4}Layer 4: Transport and Session}{45}{section.1.4}
-\contentsline {paragraph}{}{45}{section*.94}
-\contentsline {paragraph}{}{45}{section*.95}
-\contentsline {subsection}{\numberline {1.4.1}User Datagram Protocol (UDP)}{46}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Stream Control Transmission Protocol (SCTP)}{46}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3} Transmission Control Protocol (TCP)}{46}{subsection.1.4.3}
-\contentsline {subsubsection}{\numberline {1.4.3.1}TCP Services}{46}{subsubsection.1.4.3.1}
-\contentsline {paragraph}{}{47}{section*.96}
-\contentsline {paragraph}{}{47}{section*.97}
-\contentsline {paragraph}{}{47}{section*.98}
-\contentsline {paragraph}{}{48}{section*.99}
-\contentsline {subsubsection}{\numberline {1.4.3.2}TCP features}{48}{subsubsection.1.4.3.2}
-\contentsline {subsubsection}{\numberline {1.4.3.3}Numbering Systems}{48}{subsubsection.1.4.3.3}
-\contentsline {subsubsection}{\numberline {1.4.3.4}Flow Control}{49}{subsubsection.1.4.3.4}
-\contentsline {subsubsection}{\numberline {1.4.3.5}Error Control}{49}{subsubsection.1.4.3.5}
-\contentsline {subsubsection}{\numberline {1.4.3.6}Congestion Control}{49}{subsubsection.1.4.3.6}
-\contentsline {subsubsection}{\numberline {1.4.3.7}Segment}{49}{subsubsection.1.4.3.7}
-\contentsline {subsubsection}{\numberline {1.4.3.8}Source Port Adress}{50}{subsubsection.1.4.3.8}
-\contentsline {subsubsection}{\numberline {1.4.3.9}Destination Port Adress}{50}{subsubsection.1.4.3.9}
-\contentsline {subsubsection}{\numberline {1.4.3.10}Sequence Number}{50}{subsubsection.1.4.3.10}
-\contentsline {subsubsection}{\numberline {1.4.3.11}Acknowledgement Number}{51}{subsubsection.1.4.3.11}
-\contentsline {subsubsection}{\numberline {1.4.3.12}Header Length}{51}{subsubsection.1.4.3.12}
-\contentsline {subsubsection}{\numberline {1.4.3.13}Reserved}{51}{subsubsection.1.4.3.13}
-\contentsline {subsubsection}{\numberline {1.4.3.14}Control}{51}{subsubsection.1.4.3.14}
-\contentsline {subsubsection}{\numberline {1.4.3.15}Window Size}{51}{subsubsection.1.4.3.15}
-\contentsline {subsubsection}{\numberline {1.4.3.16}Urgent Pointer}{51}{subsubsection.1.4.3.16}
-\contentsline {subsubsection}{\numberline {1.4.3.17}Options}{52}{subsubsection.1.4.3.17}
-\contentsline {subsubsection}{\numberline {1.4.3.18}Adaptation to space needs}{52}{subsubsection.1.4.3.18}
-\contentsline {subsection}{\numberline {1.4.4}Choice of protocol for the transport layer}{52}{subsection.1.4.4}
-\contentsline {section}{\numberline {1.5}Global Overview}{53}{section.1.5}
-\contentsline {paragraph}{}{53}{section*.100}
-\contentsline {chapter}{\numberline {2}Ground Segment Protocols}{54}{chapter.2}
-\contentsline {section}{\numberline {2.1}Protocol model/suit}{55}{section.2.1}
-\contentsline {paragraph}{}{55}{section*.102}
-\contentsline {paragraph}{}{55}{section*.103}
-\contentsline {paragraph}{}{55}{section*.104}
-\contentsline {paragraph}{}{55}{section*.105}
-\contentsline {paragraph}{}{55}{section*.106}
-\contentsline {paragraph}{}{56}{section*.107}
-\contentsline {section}{\numberline {2.2}TCP/IP layers}{57}{section.2.2}
-\contentsline {paragraph}{}{57}{section*.108}
-\contentsline {subsection}{\numberline {2.2.1}Link layer}{57}{subsection.2.2.1}
-\contentsline {paragraph}{}{57}{section*.109}
-\contentsline {paragraph}{}{57}{section*.110}
-\contentsline {paragraph}{}{57}{section*.111}
-\contentsline {subsubsection}{\numberline {2.2.1.1}Ethernet}{57}{subsubsection.2.2.1.1}
-\contentsline {paragraph}{}{57}{section*.112}
-\contentsline {paragraph}{}{58}{section*.113}
-\contentsline {paragraph}{}{58}{section*.114}
-\contentsline {paragraph}{}{58}{section*.115}
-\contentsline {subsubsection}{\numberline {2.2.1.2}IEEE 802.11}{58}{subsubsection.2.2.1.2}
-\contentsline {paragraph}{}{58}{section*.116}
-\contentsline {paragraph}{}{58}{section*.117}
-\contentsline {paragraph}{}{58}{section*.118}
-\contentsline {subsubsection}{\numberline {2.2.1.3}Frame Relay}{58}{subsubsection.2.2.1.3}
-\contentsline {paragraph}{}{58}{section*.119}
-\contentsline {paragraph}{}{58}{section*.120}
-\contentsline {paragraph}{}{59}{section*.121}
-\contentsline {subsubsection}{\numberline {2.2.1.4}ATM}{59}{subsubsection.2.2.1.4}
-\contentsline {paragraph}{}{59}{section*.122}
-\contentsline {paragraph}{}{59}{section*.123}
-\contentsline {paragraph}{}{59}{section*.124}
-\contentsline {paragraph}{}{59}{section*.125}
-\contentsline {subsubsection}{\numberline {2.2.1.5}Conclusion}{59}{subsubsection.2.2.1.5}
-\contentsline {paragraph}{}{59}{section*.126}
-\contentsline {paragraph}{}{59}{section*.127}
-\contentsline {subsection}{\numberline {2.2.2}Internet Layer}{60}{subsection.2.2.2}
-\contentsline {paragraph}{}{60}{section*.128}
-\contentsline {paragraph}{}{60}{section*.129}
-\contentsline {subsubsection}{\numberline {2.2.2.1}IPv4}{60}{subsubsection.2.2.2.1}
-\contentsline {paragraph}{}{60}{section*.130}
-\contentsline {subsubsection}{\numberline {2.2.2.2}IPv6}{60}{subsubsection.2.2.2.2}
-\contentsline {paragraph}{}{60}{section*.131}
-\contentsline {paragraph}{}{60}{section*.132}
-\contentsline {paragraph}{}{61}{section*.133}
-\contentsline {paragraph}{}{61}{section*.134}
-\contentsline {paragraph}{}{61}{section*.135}
-\contentsline {subsubsection}{\numberline {2.2.2.3}IPsec}{61}{subsubsection.2.2.2.3}
-\contentsline {paragraph}{}{61}{section*.136}
-\contentsline {paragraph}{}{62}{section*.137}
-\contentsline {subsubsection}{\numberline {2.2.2.4}ICMPv6}{62}{subsubsection.2.2.2.4}
-\contentsline {paragraph}{}{62}{section*.138}
-\contentsline {paragraph}{}{62}{section*.139}
-\contentsline {subsubsection}{\numberline {2.2.2.5}NDP}{62}{subsubsection.2.2.2.5}
-\contentsline {paragraph}{}{62}{section*.140}
-\contentsline {paragraph}{}{62}{section*.141}
-\contentsline {paragraph}{}{62}{section*.142}
-\contentsline {paragraph}{}{62}{section*.143}
-\contentsline {subsubsection}{\numberline {2.2.2.6}MLD}{63}{subsubsection.2.2.2.6}
-\contentsline {paragraph}{}{63}{section*.144}
-\contentsline {paragraph}{}{63}{section*.145}
-\contentsline {subsubsection}{\numberline {2.2.2.7}Conclusion}{63}{subsubsection.2.2.2.7}
-\contentsline {paragraph}{}{63}{section*.146}
-\contentsline {paragraph}{}{63}{section*.147}
-\contentsline {paragraph}{}{63}{section*.148}
-\contentsline {subsection}{\numberline {2.2.3}Transport Layer}{63}{subsection.2.2.3}
-\contentsline {paragraph}{}{63}{section*.149}
-\contentsline {paragraph}{}{64}{section*.150}
-\contentsline {subsubsection}{\numberline {2.2.3.1}TCP}{64}{subsubsection.2.2.3.1}
-\contentsline {paragraph}{}{64}{section*.151}
-\contentsline {paragraph}{}{64}{section*.152}
-\contentsline {paragraph}{}{64}{section*.153}
-\contentsline {subsubsection}{\numberline {2.2.3.2}UDP}{65}{subsubsection.2.2.3.2}
-\contentsline {paragraph}{}{65}{section*.154}
-\contentsline {paragraph}{}{65}{section*.155}
-\contentsline {paragraph}{}{65}{section*.156}
-\contentsline {subsubsection}{\numberline {2.2.3.3}SCTP}{65}{subsubsection.2.2.3.3}
-\contentsline {paragraph}{}{65}{section*.157}
-\contentsline {paragraph}{}{65}{section*.158}
-\contentsline {paragraph}{}{66}{section*.159}
-\contentsline {subsubsection}{\numberline {2.2.3.4}DCCP}{66}{subsubsection.2.2.3.4}
-\contentsline {paragraph}{}{66}{section*.160}
-\contentsline {paragraph}{}{66}{section*.161}
-\contentsline {paragraph}{}{66}{section*.162}
-\contentsline {subsubsection}{\numberline {2.2.3.5}Conclusion}{66}{subsubsection.2.2.3.5}
-\contentsline {paragraph}{}{66}{section*.163}
-\contentsline {paragraph}{}{66}{section*.164}
-\contentsline {paragraph}{}{67}{section*.165}
-\contentsline {subsection}{\numberline {2.2.4}Application layer}{67}{subsection.2.2.4}
-\contentsline {paragraph}{}{67}{section*.166}
-\contentsline {paragraph}{}{67}{section*.167}
-\contentsline {subsubsection}{\numberline {2.2.4.1}FTP}{67}{subsubsection.2.2.4.1}
-\contentsline {paragraph}{}{67}{section*.168}
-\contentsline {paragraph}{}{67}{section*.169}
-\contentsline {paragraph}{}{68}{section*.170}
-\contentsline {paragraph}{}{68}{section*.171}
-\contentsline {subsubsection}{\numberline {2.2.4.2}SSH}{68}{subsubsection.2.2.4.2}
-\contentsline {paragraph}{}{68}{section*.172}
-\contentsline {paragraph}{}{68}{section*.173}
-\contentsline {paragraph}{}{68}{section*.174}
-\contentsline {subsubsection}{\numberline {2.2.4.3}SMTP}{68}{subsubsection.2.2.4.3}
-\contentsline {paragraph}{}{68}{section*.175}
-\contentsline {paragraph}{}{69}{section*.176}
-\contentsline {paragraph}{}{69}{section*.177}
-\contentsline {paragraph}{}{69}{section*.178}
-\contentsline {paragraph}{}{69}{section*.179}
-\contentsline {paragraph}{}{69}{section*.180}
-\contentsline {paragraph}{}{69}{section*.181}
-\contentsline {paragraph}{}{69}{section*.182}
-\contentsline {paragraph}{}{69}{section*.183}
-\contentsline {subsubsection}{\numberline {2.2.4.4}HTTPS}{70}{subsubsection.2.2.4.4}
-\contentsline {paragraph}{}{70}{section*.184}
-\contentsline {paragraph}{}{70}{section*.185}
-\contentsline {subsubsection}{\numberline {2.2.4.5}Conclusions}{70}{subsubsection.2.2.4.5}
-\contentsline {paragraph}{}{70}{section*.186}
-\contentsline {paragraph}{}{71}{section*.187}
-\contentsline {paragraph}{}{71}{section*.188}
-\contentsline {paragraph}{}{71}{section*.189}
-\contentsline {paragraph}{}{71}{section*.190}
-\contentsline {paragraph}{}{72}{section*.191}
-\contentsline {paragraph}{}{72}{section*.192}
-\contentsline {paragraph}{}{72}{section*.193}
-\contentsline {paragraph}{}{72}{section*.194}
-\contentsline {paragraph}{}{72}{section*.195}
-\contentsline {paragraph}{}{73}{section*.196}
-\contentsline {paragraph}{}{73}{section*.197}
-\contentsline {paragraph}{}{73}{section*.198}
-\contentsline {section}{\numberline {2.3}Management of the system}{74}{section.2.3}
-\contentsline {paragraph}{}{74}{section*.199}
-\contentsline {paragraph}{}{74}{section*.200}
-\contentsline {paragraph}{}{74}{section*.201}
-\contentsline {paragraph}{}{74}{section*.202}
-\contentsline {paragraph}{}{74}{section*.203}
-\contentsline {paragraph}{}{74}{section*.204}
-\contentsline {paragraph}{}{74}{section*.205}
-\contentsline {paragraph}{}{75}{section*.206}
-\contentsline {chapter}{\numberline {3}Ground Station Design}{76}{chapter.3}
-\contentsline {section}{\numberline {3.1}Decision taking}{77}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Availability}{77}{subsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.1}Building a ground station}{77}{subsubsection.3.1.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.2}Renting a ground station}{78}{subsubsection.3.1.1.2}
-\contentsline {subsection}{\numberline {3.1.2}Cost}{78}{subsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.2.1}Building a ground station}{78}{subsubsection.3.1.2.1}
-\contentsline {subsubsection}{\numberline {3.1.2.2}Renting a ground station}{78}{subsubsection.3.1.2.2}
-\contentsline {subsection}{\numberline {3.1.3}Position}{79}{subsection.3.1.3}
-\contentsline {subsubsection}{\numberline {3.1.3.1}Building a ground station}{79}{subsubsection.3.1.3.1}
-\contentsline {subsubsection}{\numberline {3.1.3.2}Renting a ground station}{79}{subsubsection.3.1.3.2}
-\contentsline {subsection}{\numberline {3.1.4}Ease to improve}{79}{subsection.3.1.4}
-\contentsline {subsubsection}{\numberline {3.1.4.1}Building a ground station}{79}{subsubsection.3.1.4.1}
-\contentsline {subsubsection}{\numberline {3.1.4.2}Renting a ground station}{79}{subsubsection.3.1.4.2}
-\contentsline {section}{\numberline {3.2}Decision}{80}{section.3.2}
-\contentsline {chapter}{\numberline {4}Bibliography}{81}{chapter.4}
-=======
 \contentsline {paragraph}{}{27}{section*.37}
 \contentsline {paragraph}{}{27}{section*.39}
 \contentsline {paragraph}{}{27}{section*.40}
@@ -370,20 +121,25 @@
 \contentsline {section}{\numberline {1.5}Global Overview}{50}{section.1.5}
 \contentsline {paragraph}{}{50}{section*.99}
 \contentsline {chapter}{\numberline {2}Ground Segment Protocols}{51}{chapter.2}
-\contentsline {chapter}{\numberline {3}Ground Station Design}{52}{chapter.3}
-\contentsline {section}{\numberline {3.1}Decision taking}{53}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Availability}{53}{subsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.1}Building a ground station}{53}{subsubsection.3.1.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.2}Renting a ground station}{53}{subsubsection.3.1.1.2}
-\contentsline {subsection}{\numberline {3.1.2}Cost}{54}{subsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.2.1}Building a ground station}{54}{subsubsection.3.1.2.1}
-\contentsline {subsubsection}{\numberline {3.1.2.2}Renting a ground station}{54}{subsubsection.3.1.2.2}
-\contentsline {subsection}{\numberline {3.1.3}Position}{54}{subsection.3.1.3}
-\contentsline {subsubsection}{\numberline {3.1.3.1}Building a ground station}{54}{subsubsection.3.1.3.1}
-\contentsline {subsubsection}{\numberline {3.1.3.2}Renting a ground station}{55}{subsubsection.3.1.3.2}
-\contentsline {subsection}{\numberline {3.1.4}Ease to improve}{55}{subsection.3.1.4}
-\contentsline {subsubsection}{\numberline {3.1.4.1}Building a ground station}{55}{subsubsection.3.1.4.1}
-\contentsline {subsubsection}{\numberline {3.1.4.2}Renting a ground station}{55}{subsubsection.3.1.4.2}
-\contentsline {section}{\numberline {3.2}Decision}{56}{section.3.2}
-\contentsline {chapter}{\numberline {4}Bibliography}{57}{chapter.4}
->>>>>>> eba8c40fb174ab1fcbbbffdda2dc39bc1bade48c
+\contentsline {part}{II\hspace {1em}Ground segment}{52}{part.2}
+\contentsline {chapter}{\numberline {3}Ground Station Design}{53}{chapter.3}
+\contentsline {section}{\numberline {3.1}Decision taking}{54}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Availability}{54}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}Building a ground station}{54}{subsubsection.3.1.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.2}Renting a ground station}{54}{subsubsection.3.1.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Cost}{55}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Building a ground station}{55}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Renting a ground station}{55}{subsubsection.3.1.2.2}
+\contentsline {subsection}{\numberline {3.1.3}Position}{55}{subsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.1}Building a ground station}{55}{subsubsection.3.1.3.1}
+\contentsline {subsubsection}{\numberline {3.1.3.2}Renting a ground station}{56}{subsubsection.3.1.3.2}
+\contentsline {subsection}{\numberline {3.1.4}Ease to improve}{56}{subsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.4.1}Building a ground station}{56}{subsubsection.3.1.4.1}
+\contentsline {subsubsection}{\numberline {3.1.4.2}Renting a ground station}{56}{subsubsection.3.1.4.2}
+\contentsline {section}{\numberline {3.2}Decision}{57}{section.3.2}
+\contentsline {section}{\numberline {3.3}Ground Station localization}{58}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Method}{58}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Latitude analysis}{59}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Longitude analysis}{64}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Conclusion}{65}{subsection.3.3.4}
+\contentsline {chapter}{\numberline {4}Bibliography}{67}{chapter.4}
