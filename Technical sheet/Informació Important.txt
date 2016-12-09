@@ -1,0 +1,39 @@
+La plantilla és tota la carpeta.
+
+Tot i que la plantilla està pensada pel Report, alterant una valors als arxius de configuració 
+es pot adaptar pels anexos i altres decuments.
+
+L'arxiu principal (master) és l'anomenta Report.tex. La resta d'arxius es troben a la carpeta 
+doc_config i a la carpeta sections, i l'arxiu de bibliografia es troba a la carpeta principal.
+
+L'arxiu de bibliografía no està creat encara. Quan es crei un, guardar-lo en el mateix directori 
+que l'arxiu principal.
+
+La carpeta doc_config no s'han de modificar a no ser que es vulgui cambiar de Report a Apendix o 
+un altre tipus de document.
+
+Les diferentes secciones del report aniran dins la carpeta sections, cada un dins una carpeta amb 
+el format X_Nom, on X és el número de la secció i Nom el títol de la secció. Dins d'aquesta 
+carpeta hi haurà tant el/s arxiu/s .tex com qualsevol imatge que faci falta per a la secció.
+
+Tot el que s'inclueixi en l'arxiu principal o a quasevol dels subapartats ha d'anar referenciat respecte 
+el directori de l'arxiu principal.
+
+La taula de continguts i les llistes de taules i figures tenen els termes enllaçats amb els 
+del document en la versió pdf, de manera que si es clica en una secció de la taula de continguts, 
+el pdf va cap a aquesta secció.
+
+Per que aparegui la bibliografia al compilar, al Texmaker anar a Opciones -> Configurar Texmaker.
+A la finestra que s'obri, a la columna de l'esquerra fer clic a Compilación rápida. Marcar la
+opció de PdfLaTex + Bib(la)tex + PdfLaTeX (x2) + Ver PDF.
+
+En cas de que NO hi hagi bibliografía, el punt anterior donarà error. Per tant, tornar a la 
+configuració original. També comentar/borrar les línies on s'inclogui la bilbiografia.
+
+És possible que si s'afegeix una taula o figura i es compila, no aparegui la nova taula o figura 
+a la llista de taules i de figures. En cas que això passi tornar a compilar.
+
+Es pot crear una subsubsubsecció amb el comando \subsubsubsection.
+
+Es poden fer servir accents (ò, í, ê, ã, ü), la ñ, la ç i el símbol d'euro (€, s'ha d'escriure 
+amb el comando \euro).
