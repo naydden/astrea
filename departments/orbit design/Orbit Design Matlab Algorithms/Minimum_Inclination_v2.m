@@ -93,17 +93,22 @@ legend(num2str(h(1)),num2str(h(2)),num2str(h(3)),...
 
 %% Bonus!!!
 
-inc=zeros(length(h),1); %Inclinations preallocation
-
 L=90;
+e=5.33;
+h=500:1:600;
+inc=zeros(1,length(h));
 for i = 1:length(h)
-    for j = 1:length(L)
-               
-        A=cosd(e(j))/(1+h(i)/R);
-        theta=acosd(A)-e(j); %Earth Central Angle
-        inc(i,j)=L(j)-theta;
-        if inc(i,j)<0
-            inc(i,j)=0;
+        A=cosd(e)/(1+h(i)/R);
+        theta=acosd(A)-e; %Earth Central Angle
+        inc(i)=L-theta;
+        if inc(i)<0
+            inc(i)=0;
         end
-    end
 end
+
+figure(3)
+plot(h,inc)
+xlabel('Heights')
+ylabel('Inclination')
+grid on
+axis([min(h) max(h) 45 90])

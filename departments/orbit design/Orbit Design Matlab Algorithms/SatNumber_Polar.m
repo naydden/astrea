@@ -19,8 +19,8 @@ clear; clc;
 
 Re = 6378;          %Earth's Radius [Km]
 Se = 4*pi*Re^2;     %Earth's Surface [Km^2]
-h = 500:100:1000;   %Satellte height [Km]
-eo = 0:5:40;        %Elevation angle [º]
+h = 500:20:600;   %Satellte height [Km]
+eo = 20;        %Elevation angle [º]
 
 %% 2. Number of satellites computation
 d=zeros(length(h),length(eo));
@@ -45,9 +45,9 @@ for i = 1:length(h)
 
         Nplains=ceil(1+((180-DmaxO)./DmaxS));
         Nsats=Nplains.*Nsatspp;
-        [row,col]=find(min(Nsats));
+        [row,col]=find(min(Nplains));
         Nplains_opt(i,j)=Nplains(row,col);
-        nsats_opt(i,j)=min(Nsats);
+        nsats_opt(i,j)=Nsats(row,col);
         
         %Number of satellites needed
         nsat(i,j) = ( Se / Sup );
@@ -57,14 +57,52 @@ end
 
 %% 3. Results Plotting
 figure(2)
-colors=['r','b','y','g','o','p'];
+colors=['r','b','y','g','m','k','c'];
+for k = 1:length(eo)
+    subplot(1,2,1)
+    hold on
+    semilogy ( h , nsats_opt(:,k),colors(k))
+    subplot(1,2,2)
+    hold on
+    semilogy ( h , Nplains_opt(:,k),colors(k))
+end
+
+subplot(1,2,1)
+title('Num.Sats vs Height')
+xlabel('Height [km]') % x-axis label
+ylabel('Num.Satellites') % y-axis label
+%legend(num2str(eo(1)),num2str(eo(2)),num2str(eo(3)),...
+%    num2str(eo(4)),num2str(eo(5)),num2str(eo(6)),num2str(eo(7)))
+axis([400 900 0 1000])
+grid on
+
+subplot(1,2,2)
+title('Num.Planes vs Height')
+xlabel('Height [km]') % x-axis label
+ylabel('Num of Orbital Planes') % y-axis label
+% legend(num2str(eo(1)),num2str(eo(2)),num2str(eo(3)),...
+%     num2str(eo(4)),num2str(eo(5)),num2str(eo(6)),num2str(eo(7)))   
+axis([400 900 0 30])
+grid on
+
+%% Single detailed analysis
+figure(1)
+plot(h,nsats_opt)
+title('Num.Sats vs Height - Streets of coverage Method')
+xlabel('Height [km]') % x-axis label
+ylabel('Num.Satellites') % y-axis label
+grid on
+
+%% Multianalysis variation with height
+figure(3)
+colors=['r','b','y','g','m','k'];
 for k = 1:length(h)
     subplot(1,2,1)
     hold on
-    plot ( eo , nsats_opt(k,:))
+    plot ( eo , nsats_opt(k,:),colors(k))
     subplot(1,2,2)
     hold on
-    plot ( eo , Nplains_opt(k,:))
+    plot ( eo , Nplains_opt(k,:),colors(k))
 end
 
 subplot(1,2,1)
