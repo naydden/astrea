@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.17)  5 DEC 2016 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.17)  5 DEC 2016 22:54
 entering extended mode
 **./GS_localization.tex
 (GS_localization.tex
@@ -541,244 +541,28 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box30
 \@float@everytoks=\toks25
 \@floatcapt=\box31
-) (GS_localization.aux)
-\openout1 = `GS_localization.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-(C:\Users\Sergi\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen133
-\scratchbox=\box32
-\nofMPsegments=\count109
-\nofMParguments=\count110
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen134
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
-\everyMPtoPDFconversion=\toks27
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+! LaTeX Error: File `mcode.sty' not found.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.17 
+      
+*** (cannot \read from terminal in nonstop modes)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=731.23584pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
-Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 20.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
-
-{C:/Users/Sergi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (GS_localiz
-ation.toc)
-\tf@toc=\write3
-\openout3 = `GS_localization.toc'.
-
-
-[1
-
-] (GS_localization.lof)
-\tf@lof=\write4
-\openout4 = `GS_localization.lof'.
-
- [2
-
-] [3
-
-]
-Chapter 1.
-[4
-
-] <0_30_90_lat.jpg, id=21, 1538.74875pt x 750.805pt>
-File: 0_30_90_lat.jpg Graphic file (type jpg)
- <use 0_30_90_lat.jpg>
-Package pdftex.def Info: 0_30_90_lat.jpg used on input line 57.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-<0_-30_-90_lat.jpg, id=22, 1538.74875pt x 750.805pt>
-File: 0_-30_-90_lat.jpg Graphic file (type jpg)
- <use 0_-30_-90_lat.jpg>
-Package pdftex.def Info: 0_-30_-90_lat.jpg used on input line 69.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-[5 <./0_30_90_lat.jpg>] <70_5_90_lat.jpg, id=26, 1538.74875pt x 750.805pt>
-File: 70_5_90_lat.jpg Graphic file (type jpg)
-
-<use 70_5_90_lat.jpg>
-Package pdftex.def Info: 70_5_90_lat.jpg used on input line 81.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
- <45_10_75_lat.jpg, id=27, 1538.74875pt x 750.805pt>
-File: 45_10_75_lat.jpg Graphic file (type jpg)
-
-<use 45_10_75_lat.jpg>
-Package pdftex.def Info: 45_10_75_lat.jpg used on input line 93.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
- [6 <./0_-30_-90_lat.jpg> <./70_5_90_lat.jpg>]
-<55_5_75_lat.jpg, id=32, 1538.74875pt x 750.805pt>
-File: 55_5_75_lat.jpg Graphic file (type jpg)
- <use 55_5_75_lat.jpg>
-Package pdftex.def Info: 55_5_75_lat.jpg used on input line 103.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-<575_25_675_lat.jpg, id=33, 1538.74875pt x 750.805pt>
-File: 575_25_675_lat.jpg Graphic file (type jpg)
- <use 575_25_675_lat.jpg>
-Package pdftex.def Info: 575_25_675_lat.jpg used on input line 116.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-[7 <./45_10_75_lat.jpg> <./55_5_75_lat.jpg>]
-<575_25_675_(30s)_lat.jpg, id=37, 1538.74875pt x 750.805pt>
-File: 575_25_675_(30s)_lat.jpg Graphic file (type jpg)
-
-<use 575_25_675_(30s)_lat.jpg>
-Package pdftex.def Info: 575_25_675_(30s)_lat.jpg used on input line 127.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-<-625_-25_575_(30s)_lat.jpg, id=38, 1538.74875pt x 750.805pt>
-File: -625_-25_575_(30s)_lat.jpg Graphic file (type jpg)
-
-<use -625_-25_575_(30s)_lat.jpg>
-Package pdftex.def Info: -625_-25_575_(30s)_lat.jpg used on input line 137.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
- [8 <./575_25_675_lat.jpg> <./575_25_675_(30s)_lat.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 145.
-
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 145.
-
-<0_90_270_long.jpg, id=42, 1538.74875pt x 750.805pt>
-File: 0_90_270_long.jpg Graphic file (type jpg)
- <use 0_90_270_long.jpg>
-Package pdftex.def Info: 0_90_270_long.jpg used on input line 154.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-[9 <./-625_-25_575_(30s)_lat.jpg> <./0_90_270_long.jpg>]
-<0_120_240_long.jpg, id=47, 1538.74875pt x 750.805pt>
-File: 0_120_240_long.jpg Graphic file (type jpg)
- <use 0_120_240_long.jpg>
-Package pdftex.def Info: 0_120_240_long.jpg used on input line 166.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-<Options.jpg, id=48, 697.4055pt x 448.074pt>
-File: Options.jpg Graphic file (type jpg)
- <use Options.jpg>
-Package pdftex.def Info: Options.jpg used on input line 210.
-(pdftex.def)             Requested size: 453.3082pt x 291.24464pt.
- [10 <./0_120_240_long.jpg>] [11 <./Options.jpg>] (GS_localization.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 5054 strings out of 493334
- 71676 string characters out of 3139251
- 149921 words of memory out of 3000000
- 8463 multiletter control sequences out of 15000+200000
- 13692 words of font info for 55 fonts, out of 3000000 for 9000
+ 4217 strings out of 493334
+ 58304 string characters out of 3139251
+ 132809 words of memory out of 3000000
+ 7711 multiletter control sequences out of 15000+200000
+ 3938 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,7n,39p,777b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb>
-Output written on GS_localization.pdf (12 pages, 1311452 bytes).
-PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 36i,0n,38p,249b,38s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
