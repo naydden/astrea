@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.26)  9 DEC 2016 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  9 DEC 2016 20:06
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -1215,7 +1215,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
 Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 
@@ -1230,7 +1230,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@depth=\count289
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex"
 `pst-fp' v0.05, 2010/01/17 (hv)
 \pstFP@xs=\count290
 \pstFP@xia=\count291
@@ -1309,7 +1309,7 @@ hmetics.code.tex")))
 )
 \psLoopIndex=\count307
 
-`PSTricks' v2.69  <2016/09/16> (tvz)
+`PSTricks' v2.68  <2016/06/09> (tvz)
 \pst@dima=\dimen273
 \pst@dimb=\dimen274
 \pst@dimc=\dimen275
@@ -1335,7 +1335,7 @@ hmetics.code.tex")))
 \pst@cntp=\count317
 \@zero=\count318
 \pst@toks=\toks44
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.con")
 \psunit=\dimen283
 \psxunit=\dimen284
 \psyunit=\dimen285
@@ -1355,10 +1355,10 @@ hmetics.code.tex")))
 \sh@wgridYunit=\dimen296
 \pst@shift=\dimen297
 )
-File: pstricks.tex 2016/09/16 v2.69 `PSTricks' (tvz,hv)
+File: pstricks.tex 2016/06/09 v2.68 `PSTricks' (tvz,hv)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
-File: pst-fp.tex 2016/09/16 v2.69 `PST-fp' (hv)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2016/06/09 v2.68 `PST-fp' (hv)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -1743,14 +1743,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 21.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (doc_config/cover.tex
-<./doc_config/images/logo.png, id=23, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=27, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=24, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=28, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1820,7 +1820,7 @@ l.2 \section
             {Ground segment} [1
 
 ]
-<sections/GroundSegment/map.PNG, id=69, 564.60938pt x 356.83313pt>
+<sections/GroundSegment/map.PNG, id=74, 564.60938pt x 356.83313pt>
 File: sections/GroundSegment/map.PNG Graphic file (type png)
 
 <use sections/GroundSegment/map.PNG>
@@ -1846,58 +1846,81 @@ Overfull \hbox (21.54718pt too wide) in paragraph at lines 32--63
  [] 
  []
 
-)
+) (sections/SatelliteConfiguration/SatelliteConfiguration.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 48.
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 
-      [2
+l.1 \section
+            {Satellite Configuration} [2
 
- <./sections/GroundSegment/map.PNG>] (Report.bbl
+ <./sections/GroundSegment/map.PNG>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [3]
+Overfull \hbox (25.39716pt too wide) in alignment at lines 4--9
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (25.39716pt too wide) in alignment at lines 9--46
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (25.39716pt too wide) in alignment at lines 46--51
+ [] [] [] [] 
+ []
+
+) (Report.bbl
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [4
+
+]
 Chapter 1.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 ) 
 AED: lastpage setting LastPage
-[4
+[5
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 4484C9ADEFCBBBD6039F3EF6A381A68A;284.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
+(rerunfilecheck)             Checksum: 5819E94905E1EC11D5160B5C6682A7BD;355.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 29014 strings out of 493334
- 541657 string characters out of 3139235
- 621491 words of memory out of 3000000
- 32077 multiletter control sequences out of 15000+200000
+ 29018 strings out of 493334
+ 541829 string characters out of 3139246
+ 632506 words of memory out of 3000000
+ 32074 multiletter control sequences out of 15000+200000
  53573 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,84p,10486b,737s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,15n,84p,10486b,739s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr
 12.pfb>
-Output written on Report.pdf (9 pages, 494801 bytes).
+Output written on Report.pdf (10 pages, 502446 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 64 words of extra memory for PDF output out of 10000 (max. 10000000)
 
