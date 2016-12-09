@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.26)  9 DEC 2016 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.26)  9 DEC 2016 19:33
 entering extended mode
 **./protocol.tex
 (protocol.tex
@@ -73,40 +73,6 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-! Undefined control sequence.
-l.3 \subsection
-               {Definition and requirements}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no D in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no q in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -452,7 +418,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \begin{table}
+l.5 \begin{table}
                  [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -462,19 +428,19 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--7
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--6
 []
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
+(Font)              <5> on input line 7.
 ! Undefined control sequence.
 <recently read> \rowcolor 
                           
-l.10 \rowcolor
-              {blue} High-speed & Reliable &Secure&Compatible with external ...
+l.9 \rowcolor
+             {blue} High-speed & Reliable &Secure&Compatible with external s...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -548,7 +514,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 \caption
+l.12 \caption
              {Requirements of the communications protocol}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -599,7 +565,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 \end{table}
+l.14 \end{table}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -903,7 +869,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 \begin{table}
+l.16 \begin{table}
                   [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -915,7 +881,7 @@ Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
 <recently read> \rowcolor 
                           
-l.21 \rowcolor
+l.20 \rowcolor
               {blue} \multicolumn{3}{|c|}{\textbf{Space segment: CCSDS Stand...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -930,7 +896,7 @@ Missing character: There is no e in font nullfont!
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.21 ...}{\textbf{Space segment: CCSDS Standards}}
+l.20 ...}{\textbf{Space segment: CCSDS Standards}}
                                                   \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1019,7 +985,7 @@ Missing character: There is no P in font nullfont!
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.25 \multirow
+l.24 \multirow
               {3}{*}{Network layer}&Main protocol&Internet Protocol version ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1161,7 +1127,7 @@ Missing character: There is no S in font nullfont!
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.29 \multirow
+l.28 \multirow
               {2}{*}{Data Link Layer}&Data Link Protocol Sublayer&TC Space D...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1284,7 +1250,7 @@ Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
 <recently read> \rowcolor 
                           
-l.32 \rowcolor
+l.31 \rowcolor
               {blue} \multicolumn{3}{|c|}{\textbf{Ground segment}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1299,7 +1265,7 @@ Missing character: There is no e in font nullfont!
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.32 ...lticolumn{3}{|c|}{\textbf{Ground segment}}
+l.31 ...lticolumn{3}{|c|}{\textbf{Ground segment}}
                                                   \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1379,7 +1345,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 \caption
+l.38 \caption
              {Communications protocol overview}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1415,7 +1381,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no w in font nullfont!
 
-Overfull \hbox (174.36293pt too wide) in paragraph at lines 19--40
+Overfull \hbox (174.36293pt too wide) in paragraph at lines 18--39
  [] 
  []
 
@@ -1426,7 +1392,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 \end{table}
+l.40 \end{table}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
