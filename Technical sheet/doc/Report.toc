@@ -3,4 +3,7 @@
 \contentsline {section}{\numberline {0.1}Communication Protocols}{1}{section.0.1}
 \contentsline {section}{\numberline {0.2}Ground segment}{2}{section.0.2}
 \contentsline {section}{\numberline {0.3}Satellite Configuration}{4}{section.0.3}
-\contentsline {chapter}{\numberline {1}Bibliography}{5}{chapter.1}
+\contentsline {section}{\numberline {0.4}Constellation Orbital Parameters}{5}{section.0.4}
+\contentsline {section}{\numberline {0.5}Satellites Orbits Table}{6}{section.0.5}
+\contentsline {section}{\numberline {0.6}Launch and Deployment}{12}{section.0.6}
+\contentsline {chapter}{\numberline {1}Bibliography}{13}{chapter.1}
