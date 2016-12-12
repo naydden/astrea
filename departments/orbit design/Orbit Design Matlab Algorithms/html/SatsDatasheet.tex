@@ -1,0 +1,97 @@
+
+% This LaTeX was auto-generated from MATLAB code.
+% To make changes, update the MATLAB code and republish this document.
+
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{color}
+
+\sloppy
+\definecolor{lightgray}{gray}{0.5}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+    
+    
+\subsection*{Contents}
+
+\begin{itemize}
+\setlength{\itemsep}{-1ex}
+   \item Writing the constellation caracteristics
+   \item Excel IMPORT
+   \item Latex IMPORT
+\end{itemize}
+
+
+\subsection*{Writing the constellation caracteristics}
+
+\begin{verbatim}
+%SatellitesDatasheet
+
+a=6378.01e3;
+u=3.986012e14;
+h=(a+542e3)/a;
+ap=h*a;
+J2=1.0826e-3;% J2=0;
+
+ws=sqrt(u/ap^3); % Satellite mean motion
+i=72*pi/180;
+
+p=9;
+spp=21;
+N=p*spp;
+%f=floor(0.25*spp);
+f=0;
+fprintf('\ni=%gdeg, p=%g, spp=%g, N=%g\n',i*180/pi,p,spp,N);
+
+
+%Omega = 0:30:240; Omega=Omega*pi/180;
+Omega = 0:225/(p-1):225; %Omega=Omega*pi/180;
+%Omega=0:360/p:360-360/p; Omega=Omega*pi/180;
+
+P=2*pi/ws/60;
+\end{verbatim}
+
+        \color{lightgray} \begin{verbatim}
+i=72deg, p=9, spp=21, N=189
+\end{verbatim} \color{black}
+    
+
+\subsection*{Excel IMPORT}
+
+\begin{verbatim}
+D=zeros(N,9);
+for sat=1:N
+
+    Om=ceil(sat/spp); ID_p=sat-(Om-1)*spp;
+    ph=(ID_p-1)*360/spp;
+   %[ID Plane h P i e Omega phase per]
+    D(sat,1:9)=[sat Om (ap-a)/1000 P i*180/pi 0 Omega(Om) ph 0];
+
+end
+NameCells=['B2:I' num2str(N)];
+xlswrite('SatsDatasheet.xls',D,NameCells)
+\end{verbatim}
+
+
+\subsection*{Latex IMPORT}
+
+\begin{verbatim}
+for sat=1:N
+
+    Om=ceil(sat/spp); ID_p=sat-(Om-1)*spp;
+    ph=(ID_p-1)*360/spp;
+   %[ID Plane h P i e Omega phase per]
+    D(sat,1:9)=[sat Om (ap-a)/1000 P i*180/pi 0 Omega(Om) ph 0];
+
+end
+
+NameCells=['B2:I' num2str(N)];
+xlswrite('SatsDatasheet.xls',D,NameCells)
+\end{verbatim}
+
+
+
+\end{document}
+    
