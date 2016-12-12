@@ -149,13 +149,11 @@
 \contentsline {section}{\numberline {4.2}Table with financial data}{72}{section.4.2}
 \contentsline {section}{\numberline {4.3}Conclusions of the financial study}{73}{section.4.3}
 \contentsline {chapter}{\numberline {5}Environmental Impact Study}{74}{chapter.5}
-\contentsline {section}{\numberline {5.1}Aim of the document}{75}{section.5.1}
-\contentsline {paragraph}{}{75}{section*.116}
-\contentsline {section}{\numberline {5.2}Ground Stations}{76}{section.5.2}
-\contentsline {section}{\numberline {5.3}Satellites}{77}{section.5.3}
-\contentsline {section}{\numberline {5.4}Launch system}{78}{section.5.4}
+\contentsline {section}{\numberline {5.1}Ground Stations}{75}{section.5.1}
+\contentsline {section}{\numberline {5.2}Satellites}{76}{section.5.2}
+\contentsline {section}{\numberline {5.3}Launch system}{77}{section.5.3}
 \contentsline {chapter}{\numberline {6}Social and Security Considerations}{80}{chapter.6}
 \contentsline {section}{\numberline {6.1}Social and security considerations}{81}{section.6.1}
-\contentsline {paragraph}{}{82}{section*.118}
+\contentsline {paragraph}{}{82}{section*.117}
 \contentsline {section}{\numberline {6.2}Legislation}{83}{section.6.2}
 \contentsline {chapter}{\numberline {7}Bibliography}{85}{chapter.7}
