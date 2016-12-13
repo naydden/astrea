@@ -149,6 +149,29 @@ G~Malkin and R~Minnear.
 \newblock
   http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml.
 
+\bibitem{FTP}
+{CAP{\'{I}}TULO 12 : FTP : Transferencia de archivos}.
+
+\bibitem{SSH}
+Javier Smaldone.
+\newblock {Introducci{\'{o}}n a Secure Shell}.
+\newblock 0.2:1--15, 2004.
+
+\bibitem{SMTP}
+E~L Sistema, D~E~Correo Electr{\'{o}}nico, and Smtp~Y Pop.
+\newblock {Estructura y protocolos del correo electr{\'{o}}nico Estructura
+  general del sistema de correo electr{\'{o}}nico SMTP ( SIMPLE MAIL TRANSFER
+  PROTOCOL )}.
+\newblock 1984.
+
+\bibitem{HTTPS}
+David Naylor, Alessandro Finamore, Ilias Leontiadis, Yan Grunenberger, Marco
+  Mellia, Maurizio Munaf{\`{o}}, Konstantina Papagiannaki, and Peter
+  Steenkiste.
+\newblock {The Cost of the "S" in HTTPS}.
+\newblock {\em Proceedings of the 10th ACM International on Conference on
+  Emerging Networking Experiments and Technologies}, pages 133--140, 2014.
+
 \bibitem{EIS}
 {Ministry for the Environment of New Zealand}.
 \newblock {\em {Proposed regulation of jettisoned material from space launch

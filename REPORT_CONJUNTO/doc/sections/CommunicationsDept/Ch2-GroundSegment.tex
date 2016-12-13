@@ -1,10 +1,109 @@
 \chapter{Ground Segment Protocols}
 
-%\section{Layer 2: Data Link}
-%\subimport{SpaceSegment/Layer2/}{DLL}
-%
-%\section{Layer 3: The Network}
-%\subimport{SpaceSegment/Layer3/}{NetworkLayer}
-%
-%\section{Layer 4: Transport and Session}
-%\subimport{SpaceSegment/Layer4_5/}{SessionTransportLayer}
+In the previous chapter the space protocols have been selected, so in this one the focus will be on the ground segment protocols. The information will be transmitted to the client using the Internet, so a part of the protocol is already established by the system. However, a secure protocol has to be defined above the Internet protocol to assure confidenciality to the client. The protocol used in the Internet is the TCP/IP protocol suite, that provides an end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received. The layer of this protocol that can be adjusted to our needs is the application layer. The application layer is an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communications network. In TCP/IP, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardizes communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client-server or peer-to-peer networking model. That means that the application layer is very important in Astrea project because it will define how the information is received by the client.\\
+In the following lines the different available protocols for the application layer depending on the presentation of data are explained.\\
+
+\paragraph{FTP} 
+The File Transfer Protocol (FTP) is a standard network protocol used to transfer computer files between a client and server on a computer network.\\
+FTP is built on a client-server model architecture and uses separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. For secure transmission that protects the username and password, and encrypts the content, FTP is often secured with SSL/TLS (FTPS). SSH File Transfer Protocol (SFTP) is sometimes also used instead, but is technologically different.\\
+Setting up an FTP control connection is quite slow due to the round-trip delays of sending all of the required commands and awaiting responses, so it is customary to bring up a control connection and hold it open for multiple file transfers rather than drop and re-establish the session afresh each time. \\
+See more about FTP in \cite{FTP}
+\paragraph{SSH} 
+Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. The best known example application is for remote login to computer systems by users.
+\\
+SSH provides a secure channel over an unsecured network in a client-server architecture, connecting an SSH client application with an SSH server. Common applications include remote command-line login and remote command execution, but any network service can be secured with SSH. 
+\\
+See more about SSH in \cite{SSH}
+
+
+\paragraph{SMTP} 
+Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic mail (email) transmission. Email is submitted by a mail client (mail user agent, MUA) to a mail server (mail submission agent, MSA). The MSA delivers the mail to its mail transfer agent (mail transfer agent, MTA). Often, these two agents are instances of the same software launched with different options on the same machine. Local processing can be done either on a single machine, or split among multiple machines; mail agent processes on one machine can share files, but if processing is on multiple machines, they transfer messages between each other using SMTP, where each machine is configured to use the next machine as a smart host. Each process is an MTA (an SMTP server) in its own right.
+\\
+SMTP is a connection-oriented, text-based protocol in which a mail sender communicates with a mail receiver by issuing command strings and supplying necessary data over a reliable ordered data stream channel. An SMTP session consists of commands originated by an SMTP client (the initiating agent, sender, or transmitter) and corresponding responses from the SMTP server (the listening agent, or receiver) so that the session is opened, and session parameters are exchanged.
+\\
+See more about SCTP in \cite{SMTP}
+
+
+\paragraph{HTTP} 
+The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+\\
+HTTP functions as a request–response protocol in the client–server computing model. A web browser, for example, may be the client and an application running on a computer hosting a website may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
+
+\paragraph{TLS} 
+Transport Layer Security (TLS)is a cryptographic protocol that provides communications security over a computer network. Several versions of the protocol find widespread use in applications such as web browsing, email, Internet faxing, instant messaging, and voice-over-IP (VoIP). Major websites use TLS to secure all communications between their servers and web browsers.
+\\
+The Transport Layer Security protocol aims primarily to provide privacy and data integrity between two communicating computer applications. When secured by TLS, connections between a client  and a server have one or more of the following properties:
+\begin{itemize}
+\item The connection is private (or secure) because symmetric cryptography is used to encrypt the data transmitted. The keys for this symmetric encryption are generated uniquely for each connection and are based on a shared secret negotiated at the start of the session. The server and client negotiate the details of which encryption algorithm and cryptographic keys to use before the first byte of data is transmitted . The negotiation of a shared secret is both secure (the negotiated secret is unavailable to eavesdroppers and cannot be obtained, even by an attacker who places themselves in the middle of the connection) and reliable (no attacker can modify the communications during the negotiation without being detected).
+\item The identity of the communicating parties can be authenticated using public-key cryptography. This authentication can be made optional, but is generally required for at least one of the parties (typically the server).
+\item The connection ensures integrity because each message transmitted includes a message integrity check using a message authentication code to prevent undetected loss or alteration of the data during transmission.
+\end{itemize}
+
+\paragraph{HTTPS}
+HTTPS is a protocol for secure communication over a computer network which is widely used on the Internet. HTTPS consists of communication over Hypertext Transfer Protocol (HTTP) within a connection encrypted by Transport Layer Security. The main motivation for HTTPS is authentication of the visited website and protection of the privacy and integrity of the exchanged data.
+\\
+See more about HTTP and HTTPS in \cite{HTTPS}
+
+
+\paragraph{Conclusions} 
+At first, it has to be take in account that this layer provides the plataform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
+\\
+Analazyng the previous protocols, avoiding the techincal details of each one, there are considered tthis 3 ways of working, with its advantages and drawbacks:
+\begin{itemize}
+\item \textbf{Web.} This system would be based in HTTP an implemented with the corrseponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where he/she wolud sign in with an account. When the user is verified, the client could request to download informaton of his satellite. 
+\begin{itemize}
+\item Advantages: 
+\begin{itemize}
+\item It would have a really friendly use for the costumer.
+\item It could include friendly information for the user us who we are, how to contact, FAQs, etc.
+\item It could be very automatized.
+\item The information could be protected with the adequate security protocols.
+\item The client would not need any special software.
+\end{itemize}
+\item Disadvantages:
+\begin{itemize}
+\item The web would be vulnerable to some type of attacks or problems that would compromise the data. This could aviod the communication between the user and the network.
+\item It would need several maintenance.
+\item There would be some type of data, like videos and photos, which the client would want to download as a file. So the web would have to be complemented with a file transfer protocol.
+\item The web would have to be designed.
+\end{itemize}
+\end{itemize}
+\item \textbf{Mail}. This method would be implemented over a SMTP with the corresponding security protocols. If the client wants to download data of his satellite, he/she would have to send a mail specifing the request. Then the client will receive an email with the information.
+\begin{itemize}
+\item Advantages:
+\begin{itemize}
+\item It would be very secure and stable.
+\item The mail could not fall as a web does.
+\item The client would not need any special software.
+\item The information could be sent and received as a text or as a file.
+\end{itemize}
+\item Disadvantages: 
+\begin{itemize}
+\item It could not be automatized, and this make it inefficient.
+\item It is not very friendly to use for a client.
+\item If there is some information missing in the request the client would have to wait for an answer and then complete the information. 
+\end{itemize}
+\end{itemize}
+\item \textbf{Application}.  The idea is that the cient would operate in his computer with this software, and when he/she want to upload or download something, the program would use a secure internet channel to transfer the information. This system wolud be implemented over a FTP or a SSH. For using this method it has to be implemented a plataform for the client use.
+\begin{itemize}
+\item Advantages:
+\begin{itemize}
+\item It would be really friendly use for the costumer.
+\item It would be really secure and stable.
+\item It could include friendly information for the user as: who we are, how to contact, FAQs, etc.
+\item The information could be sent and received as a text or a files.
+\end{itemize}
+\item Disadvantages:
+\begin{itemize}
+\item It would need to be downloaded and installed.
+\item It would need some maintenance.
+\item It would need to be designed.
+\end{itemize}
+\end{itemize}
+\end{itemize}
+Taking into account the advantages and disadvantages of each method it is concluded that an application is the method with the better security, efficiency and friendly-use relationship. The application will ensure a high security of the data, a robust access to it, and a friendly interface for the user.
+\\
+This system could work with a FTP or with a SSH. Both would work properly in the system and have very similar characteristics, but SSH is more secure than FTP, so the system would be ruled by a SSH protocol.
+
+
+

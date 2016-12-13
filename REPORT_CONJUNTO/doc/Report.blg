@@ -15,6 +15,20 @@ Repeated entry---line 110 of file sections/CommunicationsDept/GroundSegment/Bib_
  :               ,
 I'm skipping whatever remains of this entry
 Database file #7: sections/FinancialDept/Bib_EIS.bib
+Warning--I didn't find a database entry for "XBand"
+Warning--I didn't find a database entry for "SBand"
+Warning--I didn't find a database entry for "SBandDatasheet"
+Warning--I didn't find a database entry for "UKForm"
+Warning--I didn't find a database entry for "UKFees"
+Warning--I didn't find a database entry for "UKMHzFees"
+Warning--I didn't find a database entry for "UKAllocation"
+Warning--I didn't find a database entry for "CndForm"
+Warning--I didn't find a database entry for "CndFees"
+Warning--I didn't find a database entry for "EUI"
+Warning--I didn't find a database entry for "endesa"
+Warning--I didn't find a database entry for "inf"
+Warning--I didn't find a database entry for "clean"
+Warning--I didn't find a database entry for "OVO"
 Warning--I didn't find a database entry for ""
 Warning--empty publisher in Forouzan2012
 Warning--empty journal in Secretariat2014
@@ -46,5 +60,10 @@ Warning--empty journal in RIPv2
 Warning--empty journal in RIPng
 Warning--empty journal in IANAPN
 Warning--empty year in IANAPN
+Warning--empty author in FTP
+Warning--empty journal in FTP
+Warning--empty year in FTP
+Warning--empty journal in SSH
+Warning--empty journal in SMTP
 Warning--empty publisher in EIS
 (There were 2 error messages)
