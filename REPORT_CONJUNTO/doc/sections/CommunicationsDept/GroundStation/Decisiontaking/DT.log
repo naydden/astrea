@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.26)  25 NOV 2016 19:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.26)  8 DEC 2016 18:49
 entering extended mode
 **./DT.tex
 (DT.tex
@@ -12,7 +12,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 I
-     n this subsection the decision between building ground stations or rent...
+     n this subsection the decision between building GS or renting existent ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -59,20 +59,8 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no S in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -176,7 +164,7 @@ Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -2395,14 +2383,14 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 8 in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 6 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.9 ...estment have been estimated in 208160 \euro
+l.9 ...estment have been estimated in 190940 \euro
                                                    and the maintenance in 30...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2435,7 +2423,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.9 ...160 \euro and the maintenance in 30000\euro
+l.9 ...940 \euro and the maintenance in 30000\euro
                                                    /year. The Net Present Co...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2611,7 +2599,7 @@ Overfull \hbox (114.15808pt too wide) detected at line 12
 
 
 Overfull \hbox (183.85909pt too wide) detected at line 15
-\OML/cmm/m/it/10 NPC \OT1/cmr/m/n/10 = 208160 + [] [] = 377670
+\OML/cmm/m/it/10 NPC \OT1/cmr/m/n/10 = 190940 + [] [] = 360500
  []
 
 ! Undefined control sequence.
@@ -5119,5 +5107,5 @@ Here is how much of TeX's memory you used:
  3644 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,7n,12p,1618b,190s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 18i,7n,12p,1605b,190s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

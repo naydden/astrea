@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{iv}{section*.1}
-\contentsline {chapter}{List of Figures}{v}{section*.2}
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {part}{I\hspace {1em}Communications}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Space Segment Protocol Stack}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
@@ -101,59 +101,102 @@
 \contentsline {paragraph}{}{44}{section*.97}
 \contentsline {paragraph}{}{45}{section*.98}
 \contentsline {subsubsection}{\numberline {1.4.3.2}TCP features}{45}{subsubsection.1.4.3.2}
-\contentsline {subsubsection}{\numberline {1.4.3.3}Numbering Systems}{45}{subsubsection.1.4.3.3}
-\contentsline {subsubsection}{\numberline {1.4.3.4}Flow Control}{45}{subsubsection.1.4.3.4}
-\contentsline {subsubsection}{\numberline {1.4.3.5}Error Control}{46}{subsubsection.1.4.3.5}
-\contentsline {subsubsection}{\numberline {1.4.3.6}Congestion Control}{46}{subsubsection.1.4.3.6}
-\contentsline {subsubsection}{\numberline {1.4.3.7}Segment}{46}{subsubsection.1.4.3.7}
-\contentsline {subsubsection}{\numberline {1.4.3.8}Source Port Adress}{47}{subsubsection.1.4.3.8}
-\contentsline {subsubsection}{\numberline {1.4.3.9}Destination Port Adress}{47}{subsubsection.1.4.3.9}
-\contentsline {subsubsection}{\numberline {1.4.3.10}Sequence Number}{47}{subsubsection.1.4.3.10}
-\contentsline {subsubsection}{\numberline {1.4.3.11}Acknowledgement Number}{47}{subsubsection.1.4.3.11}
-\contentsline {subsubsection}{\numberline {1.4.3.12}Header Length}{47}{subsubsection.1.4.3.12}
-\contentsline {subsubsection}{\numberline {1.4.3.13}Reserved}{47}{subsubsection.1.4.3.13}
-\contentsline {subsubsection}{\numberline {1.4.3.14}Control}{47}{subsubsection.1.4.3.14}
-\contentsline {subsubsection}{\numberline {1.4.3.15}Window Size}{48}{subsubsection.1.4.3.15}
-\contentsline {subsubsection}{\numberline {1.4.3.16}Urgent Pointer}{48}{subsubsection.1.4.3.16}
-\contentsline {subsubsection}{\numberline {1.4.3.17}Options}{48}{subsubsection.1.4.3.17}
-\contentsline {subsubsection}{\numberline {1.4.3.18}Adaptation to space needs}{48}{subsubsection.1.4.3.18}
 \contentsline {subsection}{\numberline {1.4.4}Choice of protocol for the transport layer}{49}{subsection.1.4.4}
 \contentsline {section}{\numberline {1.5}Global Overview}{50}{section.1.5}
 \contentsline {paragraph}{}{50}{section*.99}
 \contentsline {chapter}{\numberline {2}Ground Segment Protocols}{51}{chapter.2}
-\contentsline {part}{II\hspace {1em}Ground segment}{52}{part.2}
-\contentsline {chapter}{\numberline {3}Ground Station Design}{53}{chapter.3}
-\contentsline {section}{\numberline {3.1}Decision taking}{54}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Availability}{54}{subsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.1}Building a ground station}{54}{subsubsection.3.1.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.2}Renting a ground station}{54}{subsubsection.3.1.1.2}
-\contentsline {subsection}{\numberline {3.1.2}Cost}{55}{subsection.3.1.2}
-\contentsline {subsubsection}{\numberline {3.1.2.1}Building a ground station}{55}{subsubsection.3.1.2.1}
-\contentsline {subsubsection}{\numberline {3.1.2.2}Renting a ground station}{55}{subsubsection.3.1.2.2}
-\contentsline {subsection}{\numberline {3.1.3}Position}{55}{subsection.3.1.3}
-\contentsline {subsubsection}{\numberline {3.1.3.1}Building a ground station}{55}{subsubsection.3.1.3.1}
-\contentsline {subsubsection}{\numberline {3.1.3.2}Renting a ground station}{56}{subsubsection.3.1.3.2}
-\contentsline {subsection}{\numberline {3.1.4}Ease to improve}{56}{subsection.3.1.4}
-\contentsline {subsubsection}{\numberline {3.1.4.1}Building a ground station}{56}{subsubsection.3.1.4.1}
-\contentsline {subsubsection}{\numberline {3.1.4.2}Renting a ground station}{56}{subsubsection.3.1.4.2}
-\contentsline {section}{\numberline {3.2}Decision}{57}{section.3.2}
-\contentsline {section}{\numberline {3.3}Ground Station localization}{58}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Method}{58}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Latitude analysis}{59}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Longitude analysis}{64}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Conclusion}{65}{subsection.3.3.4}
-\contentsline {part}{III\hspace {1em}Financial and Other Considerations}{67}{part.3}
-\contentsline {paragraph}{}{68}{section*.114}
-\contentsline {chapter}{\numberline {4}Financial Study}{69}{chapter.4}
-\contentsline {section}{\numberline {4.1}Selling the product: university clients}{70}{section.4.1}
-\contentsline {section}{\numberline {4.2}Table with financial data}{72}{section.4.2}
-\contentsline {section}{\numberline {4.3}Conclusions of the financial study}{73}{section.4.3}
-\contentsline {chapter}{\numberline {5}Environmental Impact Study}{74}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ground Stations}{75}{section.5.1}
-\contentsline {section}{\numberline {5.2}Satellites}{76}{section.5.2}
-\contentsline {section}{\numberline {5.3}Launch system}{77}{section.5.3}
-\contentsline {chapter}{\numberline {6}Social and Security Considerations}{80}{chapter.6}
-\contentsline {section}{\numberline {6.1}Social and security considerations}{81}{section.6.1}
-\contentsline {paragraph}{}{82}{section*.117}
-\contentsline {section}{\numberline {6.2}Legislation}{83}{section.6.2}
-\contentsline {chapter}{\numberline {7}Bibliography}{85}{chapter.7}
+\contentsline {paragraph}{FTP}{51}{section*.101}
+\contentsline {paragraph}{SSH}{52}{section*.102}
+\contentsline {paragraph}{SMTP}{52}{section*.103}
+\contentsline {paragraph}{HTTP}{52}{section*.104}
+\contentsline {paragraph}{TLS}{53}{section*.105}
+\contentsline {paragraph}{HTTPS}{53}{section*.106}
+\contentsline {paragraph}{Conclusions}{54}{section*.107}
+\contentsline {part}{II\hspace {1em}Ground segment}{56}{part.2}
+\contentsline {chapter}{\numberline {3}Ground Station Design}{57}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{58}{section.3.1}
+\contentsline {section}{\numberline {3.2}Build the GS}{59}{section.3.2}
+\contentsline {section}{\numberline {3.3}Rent the GS}{60}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}ESA Ground Stations}{60}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}KSAT Ground Stations}{60}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}NASA Ground Stations}{60}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}SSC Ground Stations}{61}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Other GS}{61}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Contact with GS companies}{61}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}LeafSpace}{61}{subsection.3.3.7}
+\contentsline {subsubsection}{\numberline {3.3.7.1}Features}{62}{subsubsection.3.3.7.1}
+\contentsline {paragraph}{Antenna}{62}{section*.109}
+\contentsline {paragraph}{Pricing}{62}{section*.110}
+\contentsline {paragraph}{Boost Performance}{62}{section*.111}
+\contentsline {paragraph}{Way of use}{62}{section*.112}
+\contentsline {paragraph}{Services}{62}{section*.113}
+\contentsline {paragraph}{Map}{63}{section*.114}
+\contentsline {paragraph}{Operation}{63}{section*.115}
+\contentsline {section}{\numberline {3.4}Decision taking}{64}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Availability}{64}{subsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.1.1}Building a ground station}{64}{subsubsection.3.4.1.1}
+\contentsline {subsubsection}{\numberline {3.4.1.2}Renting a ground station}{64}{subsubsection.3.4.1.2}
+\contentsline {subsection}{\numberline {3.4.2}Cost}{65}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Building a ground station}{65}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Renting a ground station}{65}{subsubsection.3.4.2.2}
+\contentsline {subsection}{\numberline {3.4.3}Position}{65}{subsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.3.1}Building a ground station}{65}{subsubsection.3.4.3.1}
+\contentsline {subsubsection}{\numberline {3.4.3.2}Renting a ground station}{66}{subsubsection.3.4.3.2}
+\contentsline {subsection}{\numberline {3.4.4}Ease to improve}{66}{subsection.3.4.4}
+\contentsline {subsubsection}{\numberline {3.4.4.1}Building a ground station}{66}{subsubsection.3.4.4.1}
+\contentsline {subsubsection}{\numberline {3.4.4.2}Renting a ground station}{66}{subsubsection.3.4.4.2}
+\contentsline {section}{\numberline {3.5}Decision}{67}{section.3.5}
+\contentsline {section}{\numberline {3.6}Ground Station localization}{68}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Method}{68}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Latitude analysis}{69}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Longitude analysis}{74}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Conclusion}{75}{subsection.3.6.4}
+\contentsline {section}{\numberline {3.7}Initial investment}{77}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Description of the systems}{77}{subsection.3.7.1}
+\contentsline {paragraph}{}{77}{section*.129}
+\contentsline {paragraph}{}{77}{section*.131}
+\contentsline {subsection}{\numberline {3.7.2}Costs}{77}{subsection.3.7.2}
+\contentsline {paragraph}{}{77}{section*.133}
+\contentsline {paragraph}{}{78}{section*.134}
+\contentsline {paragraph}{}{78}{section*.135}
+\contentsline {paragraph}{}{78}{section*.136}
+\contentsline {paragraph}{}{78}{section*.137}
+\contentsline {section}{\numberline {3.8}Legislation}{79}{section.3.8}
+\contentsline {paragraph}{}{79}{section*.138}
+\contentsline {subsection}{\numberline {3.8.1}United Kingdom Ground Station}{79}{subsection.3.8.1}
+\contentsline {paragraph}{}{79}{section*.139}
+\contentsline {paragraph}{}{79}{section*.140}
+\contentsline {subsection}{\numberline {3.8.2}Canada Ground Station}{79}{subsection.3.8.2}
+\contentsline {paragraph}{}{79}{section*.141}
+\contentsline {paragraph}{}{79}{section*.142}
+\contentsline {paragraph}{}{80}{section*.143}
+\contentsline {paragraph}{}{80}{section*.144}
+\contentsline {section}{\numberline {3.9}Annual cost of GS and MCC}{81}{section.3.9}
+\contentsline {subsection}{\numberline {3.9.1}Energy and Maintenance}{81}{subsection.3.9.1}
+\contentsline {subsubsection}{\numberline {3.9.1.1}Mission Control Center}{81}{subsubsection.3.9.1.1}
+\contentsline {subsubsection}{\numberline {3.9.1.2}Ground Stations}{82}{subsubsection.3.9.1.2}
+\contentsline {paragraph}{Canada}{83}{section*.146}
+\contentsline {paragraph}{United Kingdom}{83}{section*.147}
+\contentsline {paragraph}{Total annual cost}{83}{section*.148}
+\contentsline {subsection}{\numberline {3.9.2}Salaries}{83}{subsection.3.9.2}
+\contentsline {paragraph}{}{83}{section*.151}
+\contentsline {paragraph}{}{84}{section*.152}
+\contentsline {paragraph}{}{84}{section*.154}
+\contentsline {paragraph}{}{84}{section*.155}
+\contentsline {paragraph}{}{84}{section*.157}
+\contentsline {paragraph}{}{85}{section*.158}
+\contentsline {part}{III\hspace {1em}Financial and Other Considerations}{86}{part.3}
+\contentsline {paragraph}{}{87}{section*.159}
+\contentsline {chapter}{\numberline {4}Financial Study}{88}{chapter.4}
+\contentsline {section}{\numberline {4.1}Selling the product: university clients}{89}{section.4.1}
+\contentsline {section}{\numberline {4.2}Table with financial data}{91}{section.4.2}
+\contentsline {section}{\numberline {4.3}Conclusions of the financial study}{92}{section.4.3}
+\contentsline {chapter}{\numberline {5}Environmental Impact Study}{93}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ground Stations}{94}{section.5.1}
+\contentsline {section}{\numberline {5.2}Satellites}{95}{section.5.2}
+\contentsline {section}{\numberline {5.3}Launch system}{96}{section.5.3}
+\contentsline {chapter}{\numberline {6}Social and Security Considerations}{99}{chapter.6}
+\contentsline {section}{\numberline {6.1}Social and security considerations}{100}{section.6.1}
+\contentsline {paragraph}{}{101}{section*.162}
+\contentsline {section}{\numberline {6.2}Legislation}{102}{section.6.2}
+\contentsline {chapter}{\numberline {7}Bibliography}{104}{chapter.7}

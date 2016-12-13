@@ -1,0 +1,84 @@
+\section{Annual cost of GS and MCC}
+\subsection{Energy and Maintenance}
+In this section the maintenance of the ground stations and the control center, which is located in Terrassa, will be explained and its costs will be approximated. Is important to notice that the prices are not exact numbers, but just an approximation of the real value of the costs. For these reasons, some of the calculations as for example the cost of Internet in Scotland or Canada, is done using the value of the Internet cost in Spain, as they will be of the same order but can have a slow variation.
+\subsubsection{Mission Control Center}
+The control center will be located in Terrassa and it will act as a center from which the activity of the Astrea group will be monitored. The most important cost in this building will be the energy consumption. To approximate the energy consumption the energy use intensity (EUI) can be used. The EUI is a recommended benchmark metric for all type of buildings and tells the amount of energy used in buildings per meter square during one year. The EUI is calculated depending on the type of building (hospital, school, etc). The type of building of the control center can be considered as a set of offices, because the most important features of it will be the computers and the internet communications. Taking as a reference an usual office floor from a building, the average surface it occupies is 500 $m^2$. The EUI has been obtained from \cite{EUI} and is 212 kWh/$m^2$. The cost of a kWh according to \cite{endesa} is of 0,141033 \euro /kWh, taking into account that the main type of consumption is of electricity. Then, doing the calculation: 
+\begin{equation}
+212 \cdot 500 \cdot 0,141033 = 14960
+\end{equation} 
+This is the cost of the energy consumed. However, the fixed term has also to be taken into account. This term is of 3,170286 \euro /month/kW. It does not depend on the kW consumed, but the ones that have been contracted. Considering a tariff of 11,5 kW, the cost per year will be of 440 \euro. Then, the total cost of electricity per year is 15400 \euro.\\ This is the cost without taxes. Taxes applied to the consume of electricity in Spain are the excise duty on electricity (4,864\%) and the value added tax (21\%). With these data, the resulting cost is of 20540 \euro. 
+Another important cost is the one of the maintenance. The maintenance include cleaning service, industrial maintenance and possible failures of the systems that would need to be repaired. There are companies that offer these services, so to know the cost of the maintenance a research on the market will be done. In most of these companies, no available information about the cost can be found if no information about the exact needs is provided. However, there are some of them that have few standards tariff that can be used. The maintenance will be divided into two: informatic maintenance and cleaning service. The cost of informatic maintenance for a business extracted from \cite{inf} is of 206 \euro per month. So in one year the cost will be of 2500 \euro. For the cleaning service, the average market cost is of 10 \euro per hour according to \cite{clean}, for contracted maintenance. If there are 250 laborable days and every day there is 2 hour of cleaning service, the total cost of it is of 5000 \euro. \\
+The other cost that has to be taken into account is the Internet connexion. To give an approximation of this cost, some Internet providers are consulted and the resulting price is of 55 \euro /month, that are 660 \euro per year.
+In the following table the results are exposed:
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Concept}&\textbf{Cost\euro}\\
+\hline
+Energy:&20540\\
+\hline
+Maintenance:Informatics&2500\\
+\hline
+Maintenance:Cleaning&5000\\
+\hline
+Internet connexion&660\\
+\hline
+\textbf{Total cost}&\textbf{28700}\\
+\hline
+\end{tabular}
+\caption{Costs per year for the control centre}
+\end{center}
+\end{table}
+\subsubsection{Ground Stations}
+The same procedure as the previous one will be done. The costs of maintenance (informatics and cleaning) and of the Internet connexion will be the same, but the difference will be on the energy consumed. The EUI of the site itself, without taking into account the antennas, will also be the same: 212 kWh/$m^2$. The surface of the building of the ground station will be of approximately 100 $m^2$, enough for the comfortability of 4 people working there. Then, the energy consumption per year will be of 21200kWh. The consumption of the antennas has also to be taken into account. Each antenna consumes 770 W approximately and each GS has four antennas, considering that they will be working 24 h/day during the whole year, the consumtion during one year can be calculated.
+\begin{equation}
+\frac{4 \cdot 770 \cdot 24 \cdot 365}{1000}=26981 kWh/year 
+\end{equation}
+Then the total consumption in kWh of one ground station is:
+\begin{equation}
+26981+21200=48181 kWh/year
+\end{equation}
+Now the cost of the kWh is needed, and it depends on the countries, so in the following lines the cost will be calculated for each of the ground stations. The cost of kWh supplied has been extracted from \cite{OVO} and is an average because it depends on many factors as for example the company selected, the type of tariff, the fixed term, taxes, etc. 
+\paragraph{Canada}
+In Canada, the average cost of 1kWh is of 10 US cents, that are 0,0945 \euro. Doing the calculation:
+\begin{equation}
+48181\cdot 0,0945= 4550
+\end{equation}
+The total cost of energy will be of 4550 \euro.
+\paragraph{United Kingdom}
+As the other two ground stations are located under the administration of the United Kingdom, its costs will be used. In the UK the average cost per kWh is of 20 US cents, that are 0,189 \euro. Doing the calculation: 
+  \begin{equation}
+48181\cdot 0,189= 9100
+\end{equation}
+The total cost of energy will be of 9100\euro. 
+\paragraph{Total annual cost}
+In the following table all the data that has been calculated is exposed in order to know the annual cost of the control centre (MCC) and the ground stations (GS).
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{Concept}&\textbf{MCC}&\textbf{GS Canada}&\textbf{GS Scotland}&\textbf{GS Malvinas}\\
+\hline
+Energy&20540\euro &4550\euro &9100 \euro &9100 \euro\\
+\hline
+Maintenance&7500\euro &7500\euro &7500\euro &7500\euro \\
+\hline
+Internet&660\euro &660\euro &660\euro &660\euro\\
+\hline
+Total&28700\euro &12710\euro &17260\euro &17260\euro \\
+\hline
+\end{tabular}
+\caption{Annual costs}
+\end{center}
+\end{table}
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Total annual cost}&\textbf{75930 \euro}\\
+\hline
+\end{tabular}
+\caption{Total annual cost of the ground segment consumption and maitenance}
+\end{center}
+\end{table}

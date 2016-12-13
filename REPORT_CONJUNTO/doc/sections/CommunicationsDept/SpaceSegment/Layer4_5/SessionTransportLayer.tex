@@ -75,8 +75,7 @@ Segments: Although buffering solves the problem of different speeds of producing
 \subsubsection{TCP features}
 In order to provide the services that have been explained, TCP has some features that will be briefly discussed.
 
-
-\subsubsection{Numbering Systems}
+\subsubsection*{Numbering Systems}
 TCP keeps track of the segments being transmitted or received, using the header previoulsy discussed. 
 There are in addition two fields, the sequence number and the acknowledgement number, which refer to the byte number, not the segment number.
 
@@ -86,20 +85,20 @@ After the bytes have been numbered, TCP assigns a sequence number to each segmen
 
 The value of the acknowledgement field in a segment defines the number of the next byte a party expects to receive. It is a cumulative number. 
 
-\subsubsection{Flow Control}
+\subsubsection*{Flow Control}
 TCP provides flow control, which means that the receiver can control the amount of data that if to be sent by the sender. The purpose of this is to avoid over-whelmed receivers. 
 
-\subsubsection{Error Control}
+\subsubsection*{Error Control}
 In order to provide a reliable service, TCP implements an error control mechanism. It considers a segment as the unit of data for error detecting, even though there is also a byte-oriented control mechanism. 
 
-\subsubsection{Congestion Control}
+\subsubsection*{Congestion Control}
 TCP also takes into account congestion in the network, by the detenning of the flow depending on the level of congestion in the network.
 
 
 
 
 
-\subsubsection{Segment}
+\subsubsection*{Segment}
 As has been explained before, a packet in TCP is called a segment. The aim of this point is to explain in detail what a segment is and how its structure is.
 
 The typical format of the segment is shown in the next figure. 
@@ -111,37 +110,37 @@ The segment consists of a 20 to 60-byte header, followed by data frim the applic
 
 The main parts of the format are to be discussed in the following lines.
 
-\subsubsection{Source Port Adress}
+\subsubsection*{Source Port Adress}
 This is a 16-bit field that states the port number of the application program in the host that is sending the segment. 
 
-\subsubsection{Destination Port Adress}
+\subsubsection*{Destination Port Adress}
 It is also a 16-bit that defines the port number of the application program in the host that is receiving the segment. 
 
-\subsubsection{Sequence Number}
+\subsubsection*{Sequence Number}
 This 32-bit field defines the number assigned to the first byte of the data contained in the segment considered. This numeration has been previously explained.
 
-\subsubsection{Acknowledgement Number}
+\subsubsection*{Acknowledgement Number}
 This is a 32-bit field that defines the byte number that the receiver of the segment is expecting to receive from the other party. If the receiver of the segment has successfully received byte number x, it defines x + I as the acknowledgement number. 
 
-\subsubsection{Header Length}
+\subsubsection*{Header Length}
 A 4-bit field that indicates the number of 4-byte words in the TCP header. As seen, the length of the header can be between 20 and 60 bytes. Then, the value of this field can be between 5 and 15 (since $5\times	4=20$, and $15\times	4=60$). 
 
-\subsubsection{Reserved}
+\subsubsection*{Reserved}
 This is a 6-bit field reserved for future usage.
 
-\subsubsection{Control}
+\subsubsection*{Control}
 This field defines 6 different control bits or flags. One or more of those bits can be set at a time. 
 
-\subsubsection{Window Size}
+\subsubsection*{Window Size}
 This fiels defines the size of the window, in bytes, that the other party must maintain. Since the length of this field is 16 bits, the maximum size of the windows is $2^{16}=65535$ bytes.  
 
-\subsubsection{Urgent Pointer}
+\subsubsection*{Urgent Pointer}
 Another 16-bit field, which is only valid if the urgent flag is set, which means that the segment contains urgent data. In actually defines the number that must be added to the sequence number to obtain the number of the last urgent byte in the data section of the segment. 
 
-\subsubsection{Options}
+\subsubsection*{Options}
 As has been explained, there can be up to 40 bytes of optional information in the TCP Header. This is the purpose of this last field. 
 
-\subsubsection{Adaptation to space needs}
+\subsubsection*{Adaptation to space needs}
 
 TCP was estblished for wired connections initially. Therefore, in order to be eligible for the purpose of this project, it is highly recommended that some slight modifications are done. The Space Communications Protocols Specification (SCPS) defines a set of revisions to the protocols to enable them to operate properly. This is, SCPC-TCP becomes an "upgraded" TCP, specially designed for space application.  
 
