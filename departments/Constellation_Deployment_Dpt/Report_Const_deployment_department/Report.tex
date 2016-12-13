@@ -1,0 +1,63 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% LaTeX Template
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{doc_config/doc_config} % Document Configurations
+
+\input{doc_config/doc_info} % Document information
+
+\input{doc_config/headers_and_footers} % Headers and footers
+
+\input{doc_config/defined_stuff} % User defined environments
+
+
+\begin{document}
+
+\input{./doc_config/cover} % COVER
+\newpage\thispagestyle{EmptyPage}
+\mbox{}\newpage
+
+\pagenumbering{roman}
+
+% TABLE OF CONTENTS
+\tableofcontents
+
+%\mbox{}\newpage
+\listoftables
+
+%\mbox{}\newpage
+\listoffigures
+
+
+% DOCUMENT SECTIONS
+
+\newpage
+\pagenumbering{arabic}
+
+\newpage\input{./Sections_CD/S1-Introduction/CD_Introduction} % Section 1: Constellation Deployment Department Presentation
+\newpage\input{./Sections_CD/S2-Launcher/CD_Launching_System} %  Section 2: Launching System
+\newpage\input{./Sections_CD/S3-Deployer/CD_Deployer} % Section 3: Deployer
+\newpage\input{./Sections_CD/S4-First_Placement/CD_First_Placement} % Section 4: First Placement
+\newpage\input{./Sections_CD/S5-Spare_Strategy/CD_Spare_Strategy} % Section 5: Spare Strategy
+\newpage\input{./Sections_CD/S6-End_Of_Life/CD_End_Of_Life} % Section 6: End Of Life
+\newpage\input{./Sections_CD/S7-Conclusions/CD_Conclusions} % Section 7: Conclusinos
+
+
+% BIBLIOGRAPHY
+
+% styles:
+%	abbrv   : [#] Initial. Surname (pages and vol. abbrev.)
+% 	acm     : [#] Surname, Initial. (sc)
+%	alpha   : [Abrev.yy] Name Surname
+%	apalike : [Surname, yyyy] Surname, Initial 
+%	ieeetr  : [#] Initial. Surname (pages and vol. ext.)
+%	plain   : [#] Name Surname
+%	siam    : [#] Initial. Surname (sc)
+%	unsrt   : [#] Name Surname
+
+\bibliographystyle{unsrt}
+\bibliography{bibliography}
+
+\end{document}
