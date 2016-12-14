@@ -217,6 +217,34 @@
 \contentsline {section}{\numberline {6.1}Social and security considerations}{108}{section.6.1}
 \contentsline {paragraph}{}{109}{section*.163}
 \contentsline {section}{\numberline {6.2}Legislation}{110}{section.6.2}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+\contentsline {part}{IV\hspace {1em}Constellation Deployment}{112}{part.4}
+\contentsline {chapter}{\numberline {7}asdasdasfas}{113}{chapter.7}
+\contentsline {section}{\numberline {7.1}Constellation Deployment Department}{114}{section.7.1}
+\contentsline {section}{\numberline {7.2}Launching System}{115}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Launch site and vehicle analysis}{115}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Last candidates and selection}{116}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Launcher overview}{118}{subsection.7.2.3}
+\contentsline {section}{\numberline {7.3}Deployer}{121}{section.7.3}
+\contentsline {section}{\numberline {7.4}First Placement}{123}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}First Placement logistics}{123}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}1st Placement Maneuver}{125}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}In-Orbit Injection}{125}{subsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.3.1}Plane Order}{130}{subsubsection.7.4.3.1}
+\contentsline {section}{\numberline {7.5}Replacement Strategy}{132}{section.7.5}
+\contentsline {section}{\numberline {7.6}Spare Strategy}{135}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Introduction}{135}{subsection.7.6.1}
+\contentsline {subsection}{\numberline {7.6.2}Spare Strategy Alternatives}{135}{subsection.7.6.2}
+\contentsline {subsection}{\numberline {7.6.3}Spare Strategy Selection}{137}{subsection.7.6.3}
+\contentsline {subsubsection}{\numberline {7.6.3.1}Feasibility Studies}{137}{subsubsection.7.6.3.1}
+\contentsline {section}{\numberline {7.7}End-of-Life Strategy}{139}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}Introduction}{139}{subsection.7.7.1}
+\contentsline {subsection}{\numberline {7.7.2}Space Debris}{139}{subsection.7.7.2}
+\contentsline {subsection}{\numberline {7.7.3}End-of-Life Types}{140}{subsection.7.7.3}
+=======
+>>>>>>> Stashed changes
 \contentsline {part}{IV\hspace {1em}Satellite design}{112}{part.4}
 \contentsline {section}{\numberline {6.3}Satellite design}{113}{section.6.3}
 \contentsline {subsection}{\numberline {6.3.1}Structure and mechanics}{113}{subsection.6.3.1}
@@ -364,3 +392,7 @@
 \contentsline {paragraph}{}{146}{section*.271}
 \contentsline {subsection}{\numberline {6.3.9}Astrea satellite Final Configuration}{146}{subsection.6.3.9}
 \contentsline {chapter}{\numberline {7}Bibliography}{148}{chapter.7}
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes

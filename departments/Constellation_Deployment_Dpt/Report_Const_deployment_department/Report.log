@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  13 DEC 2016 22:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  14 DEC 2016 17:39
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **Report.tex
 (./Report.tex
@@ -1740,14 +1741,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=95, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=75, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=96, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=76, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1835,168 +1836,168 @@ l.40 \newpage
 [1
 
 ] (./Sections_CD/S2-Launcher/CD_Launching_System.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--51
+Underfull \hbox (badness 10000) in paragraph at lines 25--52
 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 51.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 	\subsection{Last candidates and selection}
+l.52 	\subsection{Last candidates and selection}
                                                  [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 52--56
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [3]
-<./Sections_CD/S2-Launcher/Images_S2/Picture_1_S2.pdf, id=185, 570.04785pt x 83
+<./Sections_CD/S2-Launcher/Images_S2/Picture_1_S2.pdf, id=166, 570.04785pt x 83
 .81212pt>
 File: ./Sections_CD/S2-Launcher/Images_S2/Picture_1_S2.pdf Graphic file (type p
 df)
  <use ./Sections_CD/S2-Launcher/Images_S2/Picture_1_S2.pdf>
 Package pdftex.def Info: ./Sections_CD/S2-Launcher/Images_S2/Picture_1_S2.pdf u
-sed on input line 93.
+sed on input line 94.
 (pdftex.def)             Requested size: 399.03078pt x 58.66808pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--98
+Underfull \hbox (badness 10000) in paragraph at lines 58--99
 
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 57--98
+Underfull \hbox (badness 1270) in paragraph at lines 58--99
 \T1/lmr/m/n/12 Moreover, the fol-low-ing ta-ble con-tains all the in-for-ma-tio
 n men-tioned above which is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--98
+Underfull \hbox (badness 10000) in paragraph at lines 58--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--98
+Underfull \hbox (badness 10000) in paragraph at lines 58--99
 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 98.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [4]
-<./Sections_CD/S2-Launcher/Images_S2/Picture_2_S2.pdf, id=191, 346.36641pt x 10
+<./Sections_CD/S2-Launcher/Images_S2/Picture_2_S2.pdf, id=172, 346.36641pt x 10
 7.42534pt>
 File: ./Sections_CD/S2-Launcher/Images_S2/Picture_2_S2.pdf Graphic file (type p
 df)
  <use ./Sections_CD/S2-Launcher/Images_S2/Picture_2_S2.pdf>
 Package pdftex.def Info: ./Sections_CD/S2-Launcher/Images_S2/Picture_2_S2.pdf u
-sed on input line 104.
+sed on input line 105.
 (pdftex.def)             Requested size: 207.82144pt x 64.45569pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--107
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--107
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 107--109
+Underfull \hbox (badness 1648) in paragraph at lines 108--110
 \T1/lmr/m/n/12 fiber com-pos-ite. It is pow-ered
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 112.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 113.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [5 <./Sections_CD/S2-Launcher/Images_S2/Picture_1_S2.pdf> <./Sections_CD/S2-La
 uncher/Images_S2/Picture_2_S2.pdf>]
-<./Sections_CD/S2-Launcher/Images_S2/Picture_3_S2.pdf, id=279, 231.45793pt x 18
+<./Sections_CD/S2-Launcher/Images_S2/Picture_3_S2.pdf, id=260, 231.45793pt x 18
 1.9866pt>
 File: ./Sections_CD/S2-Launcher/Images_S2/Picture_3_S2.pdf Graphic file (type p
 df)
  <use ./Sections_CD/S2-Launcher/Images_S2/Picture_3_S2.pdf>
 Package pdftex.def Info: ./Sections_CD/S2-Launcher/Images_S2/Picture_3_S2.pdf u
-sed on input line 115.
+sed on input line 116.
 (pdftex.def)             Requested size: 162.01944pt x 127.38974pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--151
+Underfull \hbox (badness 10000) in paragraph at lines 121--152
 
  []
 
 
-<./Sections_CD/S2-Launcher/Images_S2/Picture_4_S2.pdf, id=281, 757.40295pt x 41
+<./Sections_CD/S2-Launcher/Images_S2/Picture_4_S2.pdf, id=262, 757.40295pt x 41
 4.29643pt>
 File: ./Sections_CD/S2-Launcher/Images_S2/Picture_4_S2.pdf Graphic file (type p
 df)
  <use ./Sections_CD/S2-Launcher/Images_S2/Picture_4_S2.pdf>
 Package pdftex.def Info: ./Sections_CD/S2-Launcher/Images_S2/Picture_4_S2.pdf u
-sed on input line 157.
+sed on input line 158.
 (pdftex.def)             Requested size: 378.70055pt x 207.1477pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--162
+Underfull \hbox (badness 10000) in paragraph at lines 154--163
 
  []
 
@@ -2023,7 +2024,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 27.
  [8
 
 ]
-<./Sections_CD/S3-Deployer/Images_S3/Picture_1_S3.png, id=406, 426.8748pt x 284
+<./Sections_CD/S3-Deployer/Images_S3/Picture_1_S3.png, id=387, 426.8748pt x 284
 .7438pt>
 File: ./Sections_CD/S3-Deployer/Images_S3/Picture_1_S3.png Graphic file (type p
 ng)
@@ -2032,7 +2033,7 @@ Package pdftex.def Info: ./Sections_CD/S3-Deployer/Images_S3/Picture_1_S3.png u
 sed on input line 35.
 (pdftex.def)             Requested size: 290.22107pt x 193.60149pt.
 
-<./Sections_CD/S3-Deployer/Images_S3/Picture_2_S3.png, id=408, 376.2858pt x 211
+<./Sections_CD/S3-Deployer/Images_S3/Picture_2_S3.png, id=389, 376.2858pt x 211
 .5102pt>
 File: ./Sections_CD/S3-Deployer/Images_S3/Picture_2_S3.png Graphic file (type p
 ng)
@@ -2055,7 +2056,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
 [10 <./Sections_CD/S3-Deployer/Images_S3/Picture_1_S3.png> <./Sections_CD/S3-De
 ployer/Images_S3/Picture_2_S3.png>]
 (./Sections_CD/S4-First_Placement/CD_First_Placement.tex
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_1_S4.png, id=421, 383.5128p
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_1_S4.png, id=402, 383.5128p
 t x 248.127pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_1_S4.png Graphic file 
 (type png)
@@ -2065,7 +2066,7 @@ Package pdftex.def Info: ./Sections_CD/S4-First_Placement/Images_S4/Picture_1_S
 4.png used on input line 22.
 (pdftex.def)             Requested size: 386.95897pt x 250.36395pt.
 
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_2_S4.png, id=422, 386.4036p
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_2_S4.png, id=403, 386.4036p
 t x 291.9708pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_2_S4.png Graphic file 
 (type png)
@@ -2113,23 +2114,21 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 62.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [13]
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 67.
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 69.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
-
- []
-
-
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_3_S4.jpg, id=455, 562.1pt x
+ [14]
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_3_S4.jpg, id=437, 562.1pt x
  421.575pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_3_S4.jpg Graphic file 
 (type jpg)
@@ -2138,7 +2137,7 @@ Package pdftex.def Info: ./Sections_CD/S4-First_Placement/Images_S4/Picture_3_S
 4.jpg used on input line 71.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
 
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_4_S4.jpg, id=456, 562.1pt x
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_4_S4.jpg, id=438, 562.1pt x
  421.575pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_4_S4.jpg Graphic file 
 (type jpg)
@@ -2147,7 +2146,7 @@ Package pdftex.def Info: ./Sections_CD/S4-First_Placement/Images_S4/Picture_4_S
 4.jpg used on input line 74.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
 
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_5_S4.jpg, id=457, 562.1pt x
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_5_S4.jpg, id=439, 562.1pt x
  421.575pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_5_S4.jpg Graphic file 
 (type jpg)
@@ -2156,7 +2155,7 @@ Package pdftex.def Info: ./Sections_CD/S4-First_Placement/Images_S4/Picture_5_S
 4.jpg used on input line 79.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
 
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_6_S4.jpg, id=458, 562.1pt x
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_6_S4.jpg, id=440, 562.1pt x
  421.575pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_6_S4.jpg Graphic file 
 (type jpg)
@@ -2170,7 +2169,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 85.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [15]
-<./Sections_CD/S4-First_Placement/Images_S4/Picture_7_S4.jpg, id=465, 562.1pt x
+<./Sections_CD/S4-First_Placement/Images_S4/Picture_7_S4.jpg, id=446, 562.1pt x
  421.575pt>
 File: ./Sections_CD/S4-First_Placement/Images_S4/Picture_7_S4.jpg Graphic file 
 (type jpg)
@@ -2234,125 +2233,70 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 43.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[20] (./Sections_CD/S5-Spare_Strategy/CD_Spare_Strategy.tex
-Underfull \hbox (badness 2846) in paragraph at lines 3--5
-\T1/lmr/m/n/12 When build-ing a satel-lite con-stel-la-tion with the tar-get to
- pro-vide global cov-er-age
- []
+[20] (./Sections_CD/S5-1-Replacement_Strategy/CD_Replacement_Strategy.tex
+<./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_1_S5-1.jpg, id=474
+, 562.1pt x 421.575pt>
+File: ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_1_S5-1.jpg Gr
+aphic file (type jpg)
+
+<use ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_1_S5-1.jpg>
+Package pdftex.def Info: ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Pi
+cture_1_S5-1.jpg used on input line 13.
+(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
+<./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_2_S5-1.jpg, id=475
+, 562.1pt x 421.575pt>
+File: ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_2_S5-1.jpg Gr
+aphic file (type jpg)
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
+<use ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_2_S5-1.jpg>
+Package pdftex.def Info: ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Pi
+cture_2_S5-1.jpg used on input line 20.
+(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- []
 
+<./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_3_S5-1.jpg, id=476
+, 562.1pt x 421.575pt>
+File: ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_3_S5-1.jpg Gr
+aphic file (type jpg)
+
+<use ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_3_S5-1.jpg>
+Package pdftex.def Info: ./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Pi
+cture_3_S5-1.jpg used on input line 27.
+(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
 File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 48.
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 45.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [21
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 49--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--56
-
- []
-
+(./Sections_CD/S6-End_Of_Life/CD_End_Of_Life.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
+
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [22]
-! Undefined control sequence.
-l.57 \import
-            {./Sections_CD/S5-Spare_Strategy}{CD_Critical_failure}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.57 \import{./Sections_
-                        CD/S5-Spare_Strategy}{CD_Critical_failure}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.57 \import{./Sections_CD/S5-Spare_Strategy}
-                                             {CD_Critical_failure}
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.58 \subsubsection{Feasibility Studies}
-                                        
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--68
-
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 59--68
-\T1/lmr/m/n/12 As Cube-Sat com-mu-ni-cate be-tween other satel-lites and ground
-, two dif-fer-ent cases of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--68
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 68.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [23])
+ [22 <./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_1_S5-1.jpg> <
+./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_2_S5-1.jpg>]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[24] (./Sections_CD/S6-End_Of_Life/CD_End_Of_Life.tex
-<./Sections_CD/S6-End_Of_Life/Images_S6/Picture_1_S6.jpg, id=511, 3130.94719pt 
+ [23 <./Sections_CD/S5-1-Replacement_Strategy/Images_S5-1/Picture_3_S5-1.jpg>]
+<./Sections_CD/S6-End_Of_Life/Images_S6/Picture_1_S6.jpg, id=489, 3130.94719pt 
 x 2103.35812pt>
 File: ./Sections_CD/S6-End_Of_Life/Images_S6/Picture_1_S6.jpg Graphic file (typ
 e jpg)
@@ -2384,7 +2328,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [25
+ [24
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 29--36
@@ -2406,7 +2350,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [26 <./Sections_CD/S6-End_Of_Life/Images_S6/Picture_1_S6.jpg>]
+ [25 <./Sections_CD/S6-End_Of_Life/Images_S6/Picture_1_S6.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 47--52
 
  []
@@ -2427,53 +2371,49 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 61.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [27]
+ [26]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
  (./Report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 9862A344CF4CC5379CFD0E69E1704A2A;1470.
+(rerunfilecheck)             Checksum: C59C1545D22E4FE2C7AF098FFB93B4FC;1127.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
- ) )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 57 ({)
-### bottom level 
+ ) ) 
 Here is how much of TeX's memory you used:
- 29068 strings out of 493014
- 547440 string characters out of 6133351
- 621078 words of memory out of 5000000
- 32075 multiletter control sequences out of 15000+600000
+ 29079 strings out of 493014
+ 548396 string characters out of 6133351
+ 621243 words of memory out of 5000000
+ 32085 multiletter control sequences out of 15000+600000
  63110 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,16n,77p,10484b,938s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
-c}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
-16/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-d
-ist/fonts/enc/dvips/lm/lm-mathex.enc}</usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/lm/lmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lme
-x10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/lm/lmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
-lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Report.pdf (32 pages, 9874639 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/loca
+l/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016
+/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016/texmf-dis
+t/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-dist/fonts/en
+c/dvips/lm/lm-mathex.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmcsc1
+0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmex10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
+lmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Report.pdf (31 pages, 9956286 bytes).
 PDF statistics:
- 594 PDF objects out of 1000 (max. 8388607)
- 465 compressed objects within 5 object streams
- 71 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 574 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

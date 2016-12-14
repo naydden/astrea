@@ -109,6 +109,34 @@
 \BOOKMARK [0][-]{chapter.6}{Social and Security Considerations}{part.3}% 109
 \BOOKMARK [1][-]{section.6.1}{Social and security considerations}{chapter.6}% 110
 \BOOKMARK [1][-]{section.6.2}{Legislation}{chapter.6}% 111
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+\BOOKMARK [-1][-]{part.4}{IV Constellation Deployment}{}% 112
+\BOOKMARK [0][-]{chapter.7}{asdasdasfas}{part.4}% 113
+\BOOKMARK [1][-]{section.7.1}{Constellation Deployment Department}{chapter.7}% 114
+\BOOKMARK [1][-]{section.7.2}{Launching System}{chapter.7}% 115
+\BOOKMARK [2][-]{subsection.7.2.1}{Launch site and vehicle analysis}{section.7.2}% 116
+\BOOKMARK [2][-]{subsection.7.2.2}{Last candidates and selection}{section.7.2}% 117
+\BOOKMARK [2][-]{subsection.7.2.3}{Launcher overview}{section.7.2}% 118
+\BOOKMARK [1][-]{section.7.3}{Deployer}{chapter.7}% 119
+\BOOKMARK [1][-]{section.7.4}{First Placement}{chapter.7}% 120
+\BOOKMARK [2][-]{subsection.7.4.1}{First Placement logistics}{section.7.4}% 121
+\BOOKMARK [2][-]{subsection.7.4.2}{1st Placement Maneuver}{section.7.4}% 122
+\BOOKMARK [2][-]{subsection.7.4.3}{In-Orbit Injection}{section.7.4}% 123
+\BOOKMARK [3][-]{subsubsection.7.4.3.1}{Plane Order}{subsection.7.4.3}% 124
+\BOOKMARK [1][-]{section.7.5}{Replacement Strategy}{chapter.7}% 125
+\BOOKMARK [1][-]{section.7.6}{Spare Strategy}{chapter.7}% 126
+\BOOKMARK [2][-]{subsection.7.6.1}{Introduction}{section.7.6}% 127
+\BOOKMARK [2][-]{subsection.7.6.2}{Spare Strategy Alternatives}{section.7.6}% 128
+\BOOKMARK [2][-]{subsection.7.6.3}{Spare Strategy Selection}{section.7.6}% 129
+\BOOKMARK [3][-]{subsubsection.7.6.3.1}{Feasibility Studies}{subsection.7.6.3}% 130
+\BOOKMARK [1][-]{section.7.7}{End-of-Life Strategy}{chapter.7}% 131
+\BOOKMARK [2][-]{subsection.7.7.1}{Introduction}{section.7.7}% 132
+\BOOKMARK [2][-]{subsection.7.7.2}{Space Debris}{section.7.7}% 133
+\BOOKMARK [2][-]{subsection.7.7.3}{End-of-Life Types}{section.7.7}% 134
+=======
+>>>>>>> Stashed changes
 \BOOKMARK [-1][-]{part.4}{IV Satellite design}{}% 112
 \BOOKMARK [0][-]{section.6.3}{Satellite design}{part.4}% 113
 \BOOKMARK [1][-]{subsection.6.3.1}{Structure and mechanics}{section.6.3}% 114
@@ -144,3 +172,7 @@
 \BOOKMARK [2][-]{subsection.6.3.8}{Budget}{subsection.6.3.1}% 144
 \BOOKMARK [2][-]{subsection.6.3.9}{Astrea satellite Final Configuration}{subsection.6.3.1}% 145
 \BOOKMARK [0][-]{chapter.7}{Bibliography}{part.4}% 146
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
