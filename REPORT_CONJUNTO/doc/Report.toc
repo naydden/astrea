@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{vi}{section*.1}
-\contentsline {chapter}{List of Figures}{vii}{section*.2}
+\contentsline {chapter}{List of Tables}{v}{section*.1}
+\contentsline {chapter}{List of Figures}{vi}{section*.2}
 \contentsline {part}{I\hspace {1em}Communications}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Space Segment Protocol Stack}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
@@ -217,11 +217,8 @@
 \contentsline {section}{\numberline {6.1}Social and security considerations}{108}{section.6.1}
 \contentsline {paragraph}{}{109}{section*.163}
 \contentsline {section}{\numberline {6.2}Legislation}{110}{section.6.2}
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 \contentsline {part}{IV\hspace {1em}Constellation Deployment}{112}{part.4}
-\contentsline {chapter}{\numberline {7}asdasdasfas}{113}{chapter.7}
+\contentsline {chapter}{\numberline {7}Constellation Deployment}{113}{chapter.7}
 \contentsline {section}{\numberline {7.1}Constellation Deployment Department}{114}{section.7.1}
 \contentsline {section}{\numberline {7.2}Launching System}{115}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Launch site and vehicle analysis}{115}{subsection.7.2.1}
@@ -243,156 +240,3 @@
 \contentsline {subsection}{\numberline {7.7.1}Introduction}{139}{subsection.7.7.1}
 \contentsline {subsection}{\numberline {7.7.2}Space Debris}{139}{subsection.7.7.2}
 \contentsline {subsection}{\numberline {7.7.3}End-of-Life Types}{140}{subsection.7.7.3}
-=======
->>>>>>> Stashed changes
-\contentsline {part}{IV\hspace {1em}Satellite design}{112}{part.4}
-\contentsline {section}{\numberline {6.3}Satellite design}{113}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Structure and mechanics}{113}{subsection.6.3.1}
-\contentsline {paragraph}{}{113}{section*.164}
-\contentsline {paragraph}{}{113}{section*.165}
-\contentsline {subsubsection}{\numberline {6.3.1.1}Structure}{113}{subsubsection.6.3.1.1}
-\contentsline {paragraph}{}{113}{section*.166}
-\contentsline {paragraph}{}{113}{section*.167}
-\contentsline {subsubsection}{\numberline {6.3.1.2}Thermal protection}{113}{subsubsection.6.3.1.2}
-\contentsline {paragraph}{}{113}{section*.169}
-\contentsline {paragraph}{}{114}{section*.170}
-\contentsline {paragraph}{}{114}{section*.171}
-\contentsline {subsubsection}{\numberline {6.3.1.3}Study of the commercial available options and options chosen}{115}{subsubsection.6.3.1.3}
-\contentsline {paragraph}{}{115}{section*.172}
-\contentsline {paragraph}{}{115}{section*.173}
-\contentsline {subsection}{\numberline {6.3.2}Electrical Power System}{115}{subsection.6.3.2}
-\contentsline {paragraph}{}{115}{section*.174}
-\contentsline {paragraph}{}{116}{section*.175}
-\contentsline {subsubsection}{\numberline {6.3.2.1}Estimation of the power required}{116}{subsubsection.6.3.2.1}
-\contentsline {paragraph}{}{116}{section*.177}
-\contentsline {paragraph}{}{116}{section*.178}
-\contentsline {subsubsection}{\numberline {6.3.2.2}Solar arrays}{117}{subsubsection.6.3.2.2}
-\contentsline {paragraph}{}{117}{section*.179}
-\contentsline {paragraph}{}{117}{section*.180}
-\contentsline {paragraph}{}{117}{section*.181}
-\contentsline {paragraph}{}{118}{section*.182}
-\contentsline {subsubsection}{\numberline {6.3.2.3}Power management system}{118}{subsubsection.6.3.2.3}
-\contentsline {paragraph}{}{118}{section*.183}
-\contentsline {paragraph}{}{118}{section*.184}
-\contentsline {paragraph}{}{118}{section*.185}
-\contentsline {paragraph}{}{119}{section*.186}
-\contentsline {paragraph}{}{119}{section*.187}
-\contentsline {paragraph}{}{119}{section*.188}
-\contentsline {subsubsection}{\numberline {6.3.2.4}Batteries}{119}{subsubsection.6.3.2.4}
-\contentsline {paragraph}{}{119}{section*.189}
-\contentsline {paragraph}{}{119}{section*.190}
-\contentsline {paragraph}{}{120}{section*.191}
-\contentsline {paragraph}{}{120}{section*.192}
-\contentsline {subsubsection}{\numberline {6.3.2.5}Study of the commercial available options and options chosen}{120}{subsubsection.6.3.2.5}
-\contentsline {paragraph}{}{120}{section*.193}
-\contentsline {paragraph}{}{121}{section*.194}
-\contentsline {subsection}{\numberline {6.3.3}Propulsion Systems}{121}{subsection.6.3.3}
-\contentsline {subsubsection}{\numberline {6.3.3.1}Requirements}{121}{subsubsection.6.3.3.1}
-\contentsline {paragraph}{}{121}{section*.195}
-\contentsline {paragraph}{}{122}{section*.196}
-\contentsline {subsubsection}{\numberline {6.3.3.2}Thrusters}{122}{subsubsection.6.3.3.2}
-\contentsline {paragraph}{}{122}{section*.197}
-\contentsline {paragraph}{}{122}{section*.198}
-\contentsline {paragraph}{}{122}{section*.199}
-\contentsline {paragraph}{}{122}{section*.200}
-\contentsline {paragraph}{}{122}{section*.201}
-\contentsline {paragraph}{}{123}{section*.202}
-\contentsline {subsubsection}{\numberline {6.3.3.3}Study of the commercial available options}{123}{subsubsection.6.3.3.3}
-\contentsline {paragraph}{}{123}{section*.203}
-\contentsline {paragraph}{}{123}{section*.204}
-\contentsline {subsection}{\numberline {6.3.4}Attitude and Orbital Control Systems}{123}{subsection.6.3.4}
-\contentsline {paragraph}{}{123}{section*.205}
-\contentsline {paragraph}{}{124}{section*.206}
-\contentsline {paragraph}{}{124}{section*.207}
-\contentsline {subsubsection}{\numberline {6.3.4.1}Orbital Control}{124}{subsubsection.6.3.4.1}
-\contentsline {paragraph}{}{124}{section*.208}
-\contentsline {subsubsection}{\numberline {6.3.4.2}Study of the commercial available options}{125}{subsubsection.6.3.4.2}
-\contentsline {paragraph}{}{125}{section*.209}
-\contentsline {paragraph}{Decision}{125}{section*.210}
-\contentsline {subsection}{\numberline {6.3.5}Payload}{126}{subsection.6.3.5}
-\contentsline {paragraph}{Aim}{126}{section*.211}
-\contentsline {paragraph}{}{126}{section*.212}
-\contentsline {paragraph}{}{126}{section*.213}
-\contentsline {paragraph}{}{126}{section*.214}
-\contentsline {subsubsection}{\numberline {6.3.5.1}Antennas}{126}{subsubsection.6.3.5.1}
-\contentsline {paragraph}{}{126}{section*.215}
-\contentsline {subsubsubsection}{\numberline {6.3.5.1.1}Basic parameters}{127}{subsubsubsection.6.3.5.1.1}
-\contentsline {paragraph}{}{127}{section*.216}
-\contentsline {paragraph}{}{127}{section*.217}
-\contentsline {paragraph}{}{127}{section*.218}
-\contentsline {paragraph}{}{127}{section*.219}
-\contentsline {subsubsubsection}{\numberline {6.3.5.1.2}Patch antenna}{128}{subsubsubsection.6.3.5.1.2}
-\contentsline {paragraph}{}{128}{section*.220}
-\contentsline {subsubsubsection}{\numberline {6.3.5.1.3}Turnstile antenna}{128}{subsubsubsection.6.3.5.1.3}
-\contentsline {paragraph}{}{128}{section*.221}
-\contentsline {subsubsection}{\numberline {6.3.5.2}Antenna selection}{129}{subsubsection.6.3.5.2}
-\contentsline {paragraph}{}{129}{section*.222}
-\contentsline {paragraph}{}{129}{section*.223}
-\contentsline {paragraph}{}{129}{section*.224}
-\contentsline {subsubsection}{\numberline {6.3.5.3}Payload Data Handling Systems}{129}{subsubsection.6.3.5.3}
-\contentsline {paragraph}{}{129}{section*.225}
-\contentsline {paragraph}{}{129}{section*.226}
-\contentsline {paragraph}{}{129}{section*.227}
-\contentsline {subsubsubsection}{\numberline {6.3.5.3.1}Transceivers}{129}{subsubsubsection.6.3.5.3.1}
-\contentsline {paragraph}{}{129}{section*.228}
-\contentsline {paragraph}{}{130}{section*.229}
-\contentsline {paragraph}{}{130}{section*.230}
-\contentsline {subsubsubsection}{\numberline {6.3.5.3.2}PDHS computers}{131}{subsubsubsection.6.3.5.3.2}
-\contentsline {paragraph}{}{131}{section*.231}
-\contentsline {paragraph}{}{131}{section*.232}
-\contentsline {subsubsection}{\numberline {6.3.5.4}Study of the commercial available options and options chosen}{131}{subsubsection.6.3.5.4}
-\contentsline {paragraph}{}{131}{section*.233}
-\contentsline {subsection}{\numberline {6.3.6}Communication module}{133}{subsection.6.3.6}
-\contentsline {paragraph}{}{133}{section*.234}
-\contentsline {paragraph}{}{133}{section*.235}
-\contentsline {paragraph}{}{133}{section*.236}
-\contentsline {paragraph}{}{133}{section*.237}
-\contentsline {subsection}{\numberline {6.3.7}Link Budget}{133}{subsection.6.3.7}
-\contentsline {paragraph}{\ }{133}{section*.238}
-\contentsline {subsubsection}{\numberline {6.3.7.1}Communications Basics}{133}{subsubsection.6.3.7.1}
-\contentsline {paragraph}{\ }{133}{section*.239}
-\contentsline {paragraph}{}{134}{section*.240}
-\contentsline {paragraph}{Transmission Losses}{134}{section*.241}
-\contentsline {subsubsection}{\numberline {6.3.7.2}Propagation losses}{134}{subsubsection.6.3.7.2}
-\contentsline {subsubsubsection}{\numberline {6.3.7.2.1}Free Space Losses}{134}{subsubsubsection.6.3.7.2.1}
-\contentsline {paragraph}{Range and Path Loss}{134}{section*.243}
-\contentsline {subsubsubsection}{\numberline {6.3.7.2.2}Atmospheric Losses}{136}{subsubsubsection.6.3.7.2.2}
-\contentsline {paragraph}{\ }{136}{section*.244}
-\contentsline {paragraph}{Ionospheric Effects}{136}{section*.245}
-\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{137}{section*.246}
-\contentsline {paragraph}{}{138}{section*.248}
-\contentsline {paragraph}{}{138}{section*.249}
-\contentsline {paragraph}{AstreaSAT noise temperature}{138}{section*.252}
-\contentsline {paragraph}{Local Effects}{141}{section*.253}
-\contentsline {subsubsubsection}{\numberline {6.3.7.2.3}Pointing Losses}{141}{subsubsubsection.6.3.7.2.3}
-\contentsline {paragraph}{\ }{141}{section*.254}
-\contentsline {paragraph}{}{141}{section*.255}
-\contentsline {paragraph}{}{141}{section*.256}
-\contentsline {subsubsubsection}{\numberline {6.3.7.2.4}Multipath and Fade Margin}{141}{subsubsubsection.6.3.7.2.4}
-\contentsline {paragraph}{\ }{141}{section*.257}
-\contentsline {subsubsection}{\numberline {6.3.7.3}Local Losses}{142}{subsubsection.6.3.7.3}
-\contentsline {subsubsubsection}{\numberline {6.3.7.3.1}Equipament Losses}{142}{subsubsubsection.6.3.7.3.1}
-\contentsline {paragraph}{}{142}{section*.258}
-\contentsline {subsubsubsection}{\numberline {6.3.7.3.2}Environment Losses}{142}{subsubsubsection.6.3.7.3.2}
-\contentsline {paragraph}{}{142}{section*.259}
-\contentsline {paragraph}{}{142}{section*.260}
-\contentsline {subsubsection}{\numberline {6.3.7.4}Modulation Technique}{142}{subsubsection.6.3.7.4}
-\contentsline {paragraph}{\ }{142}{section*.261}
-\contentsline {paragraph}{}{143}{section*.263}
-\contentsline {subsubsection}{\numberline {6.3.7.5}System Noise}{143}{subsubsection.6.3.7.5}
-\contentsline {paragraph}{}{144}{section*.264}
-\contentsline {paragraph}{}{144}{section*.265}
-\contentsline {paragraph}{Channel Noise}{144}{section*.266}
-\contentsline {subsubsection}{\numberline {6.3.7.6}Link Budget Calculation}{144}{subsubsection.6.3.7.6}
-\contentsline {paragraph}{Methodology}{144}{section*.267}
-\contentsline {paragraph}{}{145}{section*.268}
-\contentsline {subsection}{\numberline {6.3.8}Budget}{145}{subsection.6.3.8}
-\contentsline {paragraph}{}{146}{section*.269}
-\contentsline {paragraph}{}{146}{section*.270}
-\contentsline {paragraph}{}{146}{section*.271}
-\contentsline {subsection}{\numberline {6.3.9}Astrea satellite Final Configuration}{146}{subsection.6.3.9}
-\contentsline {chapter}{\numberline {7}Bibliography}{148}{chapter.7}
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes

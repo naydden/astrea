@@ -109,11 +109,8 @@
 \BOOKMARK [0][-]{chapter.6}{Social and Security Considerations}{part.3}% 109
 \BOOKMARK [1][-]{section.6.1}{Social and security considerations}{chapter.6}% 110
 \BOOKMARK [1][-]{section.6.2}{Legislation}{chapter.6}% 111
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 \BOOKMARK [-1][-]{part.4}{IV Constellation Deployment}{}% 112
-\BOOKMARK [0][-]{chapter.7}{asdasdasfas}{part.4}% 113
+\BOOKMARK [0][-]{chapter.7}{Constellation Deployment}{part.4}% 113
 \BOOKMARK [1][-]{section.7.1}{Constellation Deployment Department}{chapter.7}% 114
 \BOOKMARK [1][-]{section.7.2}{Launching System}{chapter.7}% 115
 \BOOKMARK [2][-]{subsection.7.2.1}{Launch site and vehicle analysis}{section.7.2}% 116
@@ -135,44 +132,3 @@
 \BOOKMARK [2][-]{subsection.7.7.1}{Introduction}{section.7.7}% 132
 \BOOKMARK [2][-]{subsection.7.7.2}{Space Debris}{section.7.7}% 133
 \BOOKMARK [2][-]{subsection.7.7.3}{End-of-Life Types}{section.7.7}% 134
-=======
->>>>>>> Stashed changes
-\BOOKMARK [-1][-]{part.4}{IV Satellite design}{}% 112
-\BOOKMARK [0][-]{section.6.3}{Satellite design}{part.4}% 113
-\BOOKMARK [1][-]{subsection.6.3.1}{Structure and mechanics}{section.6.3}% 114
-\BOOKMARK [2][-]{subsubsection.6.3.1.1}{Structure}{subsection.6.3.1}% 115
-\BOOKMARK [3][-]{subsubsection.6.3.1.2}{Thermal protection}{subsubsection.6.3.1.1}% 116
-\BOOKMARK [3][-]{subsubsection.6.3.1.3}{Study of the commercial available options and options chosen}{subsubsection.6.3.1.1}% 117
-\BOOKMARK [2][-]{subsection.6.3.2}{Electrical Power System}{subsection.6.3.1}% 118
-\BOOKMARK [3][-]{subsubsection.6.3.2.1}{Estimation of the power required}{subsection.6.3.2}% 119
-\BOOKMARK [3][-]{subsubsection.6.3.2.2}{Solar arrays}{subsection.6.3.2}% 120
-\BOOKMARK [3][-]{subsubsection.6.3.2.3}{Power management system}{subsection.6.3.2}% 121
-\BOOKMARK [3][-]{subsubsection.6.3.2.4}{Batteries}{subsection.6.3.2}% 122
-\BOOKMARK [3][-]{subsubsection.6.3.2.5}{Study of the commercial available options and options chosen}{subsection.6.3.2}% 123
-\BOOKMARK [2][-]{subsection.6.3.3}{Propulsion Systems}{subsection.6.3.1}% 124
-\BOOKMARK [3][-]{subsubsection.6.3.3.1}{Requirements}{subsection.6.3.3}% 125
-\BOOKMARK [3][-]{subsubsection.6.3.3.2}{Thrusters}{subsection.6.3.3}% 126
-\BOOKMARK [3][-]{subsubsection.6.3.3.3}{Study of the commercial available options}{subsection.6.3.3}% 127
-\BOOKMARK [2][-]{subsection.6.3.4}{Attitude and Orbital Control Systems}{subsection.6.3.1}% 128
-\BOOKMARK [3][-]{subsubsection.6.3.4.1}{Orbital Control}{subsection.6.3.4}% 129
-\BOOKMARK [3][-]{subsubsection.6.3.4.2}{Study of the commercial available options}{subsection.6.3.4}% 130
-\BOOKMARK [2][-]{subsection.6.3.5}{Payload}{subsection.6.3.1}% 131
-\BOOKMARK [3][-]{subsubsection.6.3.5.1}{Antennas}{subsection.6.3.5}% 132
-\BOOKMARK [3][-]{subsubsection.6.3.5.2}{Antenna selection}{subsection.6.3.5}% 133
-\BOOKMARK [3][-]{subsubsection.6.3.5.3}{Payload Data Handling Systems}{subsection.6.3.5}% 134
-\BOOKMARK [3][-]{subsubsection.6.3.5.4}{Study of the commercial available options and options chosen}{subsection.6.3.5}% 135
-\BOOKMARK [2][-]{subsection.6.3.6}{Communication module}{subsection.6.3.1}% 136
-\BOOKMARK [2][-]{subsection.6.3.7}{Link Budget}{subsection.6.3.1}% 137
-\BOOKMARK [3][-]{subsubsection.6.3.7.1}{Communications Basics}{subsection.6.3.7}% 138
-\BOOKMARK [3][-]{subsubsection.6.3.7.2}{Propagation losses}{subsection.6.3.7}% 139
-\BOOKMARK [3][-]{subsubsection.6.3.7.3}{Local Losses}{subsection.6.3.7}% 140
-\BOOKMARK [3][-]{subsubsection.6.3.7.4}{Modulation Technique}{subsection.6.3.7}% 141
-\BOOKMARK [3][-]{subsubsection.6.3.7.5}{System Noise}{subsection.6.3.7}% 142
-\BOOKMARK [3][-]{subsubsection.6.3.7.6}{Link Budget Calculation}{subsection.6.3.7}% 143
-\BOOKMARK [2][-]{subsection.6.3.8}{Budget}{subsection.6.3.1}% 144
-\BOOKMARK [2][-]{subsection.6.3.9}{Astrea satellite Final Configuration}{subsection.6.3.1}% 145
-\BOOKMARK [0][-]{chapter.7}{Bibliography}{part.4}% 146
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
