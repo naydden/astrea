@@ -73,6 +73,7 @@ In reality the satellite will perform a low-thrust maneuver, which is more pract
 \subsubsection{Results}
 The results are computed for a 3U CubeSat with an ion thruster. The characteristics of the thruster are the following ones (for more characteristics of the thruster refer to the section ~\ref{sec:thruster}.):
 
+\begin{table}
 \begin{center}
 \begin{tabular}{ | l | l | }
 \hline
@@ -81,7 +82,9 @@ Thrust & 100 $\mu$N \\
 Specific Impulse & 2150 s \\
 \hline
 \end{tabular}
+\caption{Simulation Thruster Parameters}
 \end{center}
+\end{table}
 
 \noindent
 The first parameters to be defined are the maximum and minimum height of the orbit, mesured from the surface of the Earth. The maximum height is the altitude at which the satellite is deployed, and minimum height is the altitude at which the Hohmann transfer maneuver is applied. The satellite has to be above the minimum height to be functional.
@@ -94,6 +97,7 @@ The first parameters to be defined are the maximum and minimum height of the orb
 
 Figure \ref{fig:hohmann3km} is an example of the height variation of the satellite using the Hohmann maneuver to reach the maximum height once the satellite is in the minimum height. The results of this maneuver are:
 
+\begin{table}
 \begin{center}
 \begin{tabular}{ | l | l | }
 \hline
@@ -114,7 +118,9 @@ Propellant mass & 10 g \\
 Lifetime of the satellite & 33.3288 years \\
 \hline
 \end{tabular}
+\caption{Station-Keeping with Thrusters Simulation 1 Results}
 \end{center}
+\end{table}
 
 \noindent
 Since the thruster used is an ion thruster, the specific impulse is big, and the mass propellant is very low. In this case, the variation of height due to the orbit decay is approximately 3 km per year, so the thruster needs to do a Hohmann maneuver per year. With only 10 g of propellant, the lifetime of the satellite is over 30 years.
@@ -127,6 +133,7 @@ Since the thruster used is an ion thruster, the specific impulse is big, and the
 
 Figure \ref{fig:hohmann80m} is another example of the Hohmann maneuver with the same amount of propellant but with a more restrictive range of operational heights, only 80 m. It should have the same shape as Figure \ref{fig:hohmann3km}, but since a lot of maneuvers are applied, the lines have overlapped. The characteristics of this maneuver are:
 
+\begin{table}
 \begin{center}
 \begin{tabular}{ | l | l | }
 \hline
@@ -147,7 +154,9 @@ Propellant mass & 10 g \\
 Lifetime of the satellite & 34.5726 years \\
 \hline
 \end{tabular}
+\caption{Station-Keeping with Thrusters Simulation 2 Results}
 \end{center}
+\end{table}
 
 \noindent
 Comparing these results with the previous ones, it can be seen that with a more restrictive range of heights, the lifetime of the satellite is practically the same. The velocity increments are lower because the difference in the heights is extremely low, but at the same time, the satellite reaches before the minimum height and the maneuvers needed to maintain the satellite in this range are many more than on the other case. Since the $\Delta$V budget is practically the same in both cases, it can be assured that the only difference between them is the number of maneuvers computed.

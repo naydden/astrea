@@ -1,32 +1,7 @@
-%\documentclass[12pt,a4paper]{report}
-%\usepackage[utf8]{inputenc}
-%\usepackage[english]{babel}
-%\usepackage{amsmath}
-%\usepackage{amsfonts}
-%\usepackage{amssymb}
-%\usepackage{graphicx}
-%\usepackage{eurosym}
-%\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-%\usepackage{wrapfig}
-%\usepackage{mathdots}
-%\usepackage{caption}
-%\usepackage{cite}
-%\usepackage{mathrsfs}
-%\usepackage{float}
-%\usepackage{framed}
-%\author{Oscar Fuentes Muñoz}
-%\title{Polar Orbits Design}
-%\begin{document}
-%\maketitle
-%\tableofcontents
-%\listoffigures
-%\listoftables
-%\chapter{PolarOrbit}
-
 \subsection{Introduction}
 Polar Orbits are probably the simplest way to configure an evenly spaced constellation. As we will see in the section \textbf{Orbit Perturbations} when the inclination is the same for all the planes, the deviations tend to be the same for all the satellites. In addition, the computation of the number of satellites required is also easier.
 \\
-\textbf{The Iridium Constellation: An example of near polar orbits}
+\textbf{The Iridium Constellation: An example of near polar orbits\cite{Iridium}}
 \\
 The Iridium constellation is a private constellation. It provides voice and data coverage to satellite phones among other services. The constellation was designed with 77 satellites, giving name to the constellation by the chemical element. The constellation was reduced to a number of 66. Sadly, Dysprosium is not such a good commercial name. Some characteristic parameters of the satellites are the following:
 
@@ -42,7 +17,7 @@ The Iridium constellation is a private constellation. It provides voice and data
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.6]{PolarOrbits/Iridium.jpg}
-\caption{Distribution of the 66 Iridium constellation satellites.}
+\caption{Distribution of the 66 Iridium constellation satellites. Generated using \cite{SaVi}}
 \end{center}
 \end{figure} 
 
@@ -61,9 +36,9 @@ The plains are splitted in the following pattern:
 \end{center}
 \end{figure}
 
-\subsubsection{The Streets of Coverage Method}
+\subsection{The Streets of Coverage Method}
 This  Street of Coverage Method is obtained from 
-\cite{OrbitalMechanics}. As you can see in the figure below,
+\cite{Chobotov2002}. As you can see in the figure below,
  the relations between angles seen from different satellites can
  be easily computed. The main variables are the following:
 
@@ -82,12 +57,13 @@ $\varepsilon$      & Elevation angle {[}º{]}                   \\ \hline
 $\lambda_{street}$ & Street of coverage Width {[}º{]}          \\ \hline
 $\lambda_{max}$    & Maximum footprint Radius {[}º{]}          \\ \hline
 \end{tabular}
+\caption{Streets of Coverage Method main variables}
 \end{table}  
 
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.7]{PolarOrbits/planestreet.png}
-\caption{Single plain street of coverage. The footprints of the satellites superpose leading to a street.}
+\caption{Single plain street of coverage. The footprints of the satellites superpose leading to a street.\cite{ccar}}
 \end{center}
 \end{figure}
 
@@ -99,7 +75,7 @@ $$cos(\lambda_{street}) = cos(\lambda_{street})/cos(S/2)$$
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.7]{PolarOrbits/planeseps.png}
-\caption{Two plains streets of coverage. An optimum phasing needs to be obtained.}
+\caption{Two plains streets of coverage. An optimum phasing needs to be obtained.\cite{ccar}}
 \end{center}
 \end{figure}
 
