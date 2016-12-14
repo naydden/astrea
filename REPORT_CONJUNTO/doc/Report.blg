@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Report.aux
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Report.aux
 The style file: unsrt.bst
 Database file #1: sections/CommunicationsDept/SpaceSegment/Layer2/forouzan.bib
 Database file #2: sections/CommunicationsDept/SpaceSegment/Layer2/Secretariat2014.bib
@@ -15,6 +17,7 @@ Repeated entry---line 110 of file sections/CommunicationsDept/GroundSegment/Bib_
  :               ,
 I'm skipping whatever remains of this entry
 Database file #7: sections/FinancialDept/Bib_EIS.bib
+Database file #8: sections/FinancialDept/Financial.bib
 Warning--I didn't find a database entry for "XBand"
 Warning--I didn't find a database entry for "SBand"
 Warning--I didn't find a database entry for "SBandDatasheet"
@@ -29,7 +32,6 @@ Warning--I didn't find a database entry for "endesa"
 Warning--I didn't find a database entry for "inf"
 Warning--I didn't find a database entry for "clean"
 Warning--I didn't find a database entry for "OVO"
-Warning--I didn't find a database entry for ""
 Warning--empty publisher in Forouzan2012
 Warning--empty journal in Secretariat2014
 Warning--there's a number but no volume in Secretariat2014
@@ -66,4 +68,45 @@ Warning--empty year in FTP
 Warning--empty journal in SSH
 Warning--empty journal in SMTP
 Warning--empty publisher in EIS
+You've used 36 entries,
+            1791 wiz_defined-function locations,
+            657 strings with 8510 characters,
+and the built_in function-call counts, 6182 in all, are:
+= -- 486
+> -- 249
+< -- 10
++ -- 103
+- -- 67
+* -- 297
+:= -- 939
+add.period$ -- 100
+call.type$ -- 36
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 331
+empty$ -- 687
+format.name$ -- 67
+if$ -- 1399
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 43
+newline$ -- 171
+num.names$ -- 34
+pop$ -- 209
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 149
+swap$ -- 59
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 36
+while$ -- 54
+width$ -- 38
+write$ -- 319
 (There were 2 error messages)

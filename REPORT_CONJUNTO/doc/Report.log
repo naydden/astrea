@@ -1,13 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.23)  14 DEC 2016 02:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  14 DEC 2016 18:29
 entering extended mode
-**./Report.tex
-(Report.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-(doc_config/doc_config.tex
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./doc_config/doc_config.tex
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,17 +25,17 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
@@ -47,24 +49,24 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 )
 \c@subsubsubsection=\count88
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/06/28 v2.15d AMS math features
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
 \ex@=\dimen108
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen109
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count89
@@ -105,51 +107,51 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty"
-Package: mhchem 2016/08/07 v4.05 for typesetting chemical formulae
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2016/02/07 v4.04 for typesetting chemical formulae
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2016/11/21 v6760 L3 programming layer (loader) 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
-Package: expl3 2016/11/21 v6760 L3 programming layer (code)
-L3 Module: l3bootstrap 2016/06/13 v6596 L3 Bootstrap code
-L3 Module: l3names 2016/10/13 v6722 L3 Namespace for primitives
-L3 Module: l3basics 2016/09/01 v6696 L3 Basic definitions
-L3 Module: l3expan 2016/08/19 v6684 L3 Argument expansion
-L3 Module: l3tl 2016/08/19 v6692 L3 Token lists
-L3 Module: l3str 2016/08/19 v6692 L3 Strings
-L3 Module: l3seq 2016/08/19 v6685 L3 Sequences and stacks
-L3 Module: l3int 2016/09/07 v6700 L3 Integers
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/05/18 v6512 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
+L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
+L3 Module: l3str 2016/03/24 v6441 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/03/24 v6441 L3 Integers
 \c_max_int=\count101
 \l_tmpa_int=\count102
 \l_tmpb_int=\count103
 \g_tmpa_int=\count104
 \g_tmpb_int=\count105
-L3 Module: l3quark 2016/08/19 v6685 L3 Quarks
-L3 Module: l3prg 2016/08/18 v6679 L3 Control structures
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
 \g__prg_map_int=\count106
-L3 Module: l3clist 2016/08/19 v6685 L3 Comma separated lists
-L3 Module: l3token 2016/09/01 v6695 L3 Experimental token manipulation
-L3 Module: l3prop 2016/08/19 v6685 L3 Property lists
-L3 Module: l3msg 2016/08/19 v6691 L3 Messages
-L3 Module: l3file 2016/08/19 v6685 L3 File and I/O operations
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2016/03/26 v6464 L3 Messages
+L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
 \l_iow_line_count_int=\count107
 \l__iow_target_count_int=\count108
 \l__iow_current_line_int=\count109
 \l__iow_current_word_int=\count110
 \l__iow_current_indentation_int=\count111
-L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \c_zero_dim=\dimen117
 \c_max_dim=\dimen118
 \l_tmpa_dim=\dimen119
@@ -168,25 +170,26 @@ L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-L3 Module: l3keys 2016/09/21 v6711 L3 Key-value interfaces
-\l_keys_choice_int=\count112
-L3 Module: l3fp 2016/11/21 v6761 L3 Floating points
-\c__fp_leading_shift_int=\count113
-\c__fp_middle_shift_int=\count114
-\c__fp_trailing_shift_int=\count115
-\c__fp_big_leading_shift_int=\count116
-\c__fp_big_middle_shift_int=\count117
-\c__fp_big_trailing_shift_int=\count118
-\c__fp_Bigg_leading_shift_int=\count119
-\c__fp_Bigg_middle_shift_int=\count120
-\c__fp_Bigg_trailing_shift_int=\count121
-L3 Module: l3box 2016/08/19 v6685 L3 Experimental boxes
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count112
+\l_keys_choice_int=\count113
+L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
+\c__fp_leading_shift_int=\count114
+\c__fp_middle_shift_int=\count115
+\c__fp_trailing_shift_int=\count116
+\c__fp_big_leading_shift_int=\count117
+\c__fp_big_middle_shift_int=\count118
+\c__fp_big_trailing_shift_int=\count119
+\c__fp_Bigg_leading_shift_int=\count120
+\c__fp_Bigg_middle_shift_int=\count121
+\c__fp_Bigg_trailing_shift_int=\count122
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
 \g_tmpa_box=\box32
 \g_tmpb_box=\box33
-L3 Module: l3coffins 2016/08/19 v6685 L3 Coffin code layer
+L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
 \l__coffin_internal_box=\box34
 \l__coffin_internal_dim=\dimen123
 \l__coffin_offset_x_dim=\dimen124
@@ -206,9 +209,9 @@ L3 Module: l3coffins 2016/08/19 v6685 L3 Coffin code layer
 \l__coffin_display_offset_dim=\dimen130
 \l__coffin_display_x_dim=\dimen131
 \l__coffin_display_y_dim=\dimen132
-L3 Module: l3color 2016/06/13 v6596 L3 Experimental color support
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
-L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen133
 \l__box_bottom_dim=\dimen134
 \l__box_left_dim=\dimen135
@@ -225,102 +228,106 @@ L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen145
 \l__coffin_scaled_total_height_dim=\dimen146
 \l__coffin_scaled_width_dim=\dimen147
-L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
+L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
-File: l3pdfmode.def 2016/08/18 v6679 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count122
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count123
 \l__driver_tmp_box=\box44
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
-Package: l3keys2e 2016/11/21 v6760 LaTeX2e option processing using LaTeX3 keys
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3regex.sty"
-Package: l3regex 2016/11/21 v6760 L3 Experimental regular expressions
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3experimental/l3str/l3regex.st
+y
+Package: l3regex 2016/05/14 v6492 L3 Experimental regular expressions
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-build.sty"
-Package: l3tl-build 2016/11/21 v6760 L3 Experimental token list construction
-\l__tl_build_start_index_int=\count123
-\l__tl_build_index_int=\count124
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3experimental/l3str/l3tl-build.s
+ty
+Package: l3tl-build 2016/05/14 v6492 L3 Experimental token list construction
+\l__tl_build_start_index_int=\count124
+\l__tl_build_index_int=\count125
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-analysis.sty"
-Package: l3tl-analysis 2016/06/13 v6589 L3 Experimental token lists analysis
-\l__tl_analysis_normal_int=\count125
-\l__tl_analysis_index_int=\count126
-\l__tl_analysis_nesting_int=\count127
-\l__tl_analysis_type_int=\count128
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3flag.sty"
-Package: l3flag 2016/11/21 v6760 L3 Experimental flags
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3experimental/l3str/l3tl-analysi
+s.sty
+Package: l3tl-analysis 2016/03/24 v6443 L3 Experimental token lists analysis
+\l__tl_analysis_normal_int=\count126
+\l__tl_analysis_index_int=\count127
+\l__tl_analysis_nesting_int=\count128
+\l__tl_analysis_type_int=\count129
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3str-convert.sty"
-Package: l3str-convert 2016/09/07 v6699 L3 Experimental string encoding convers
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3experimental/l3str/l3flag.sty
+Package: l3flag 2016/05/14 v6492 L3 Experimental flags
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3experimental/l3str/l3str-conver
+t.sty
+Package: l3str-convert 2016/03/24 v6443 L3 Experimental string encoding convers
 ions
-\l__str_internal_int=\count129
-\c__str_replacement_char_int=\count130
+\l__str_internal_int=\count130
+\c__str_replacement_char_int=\count131
 )
-\l__regex_internal_a_int=\count131
-\l__regex_internal_b_int=\count132
-\l__regex_internal_c_int=\count133
-\l__regex_balance_int=\count134
-\l__regex_group_level_int=\count135
-\l__regex_mode_int=\count136
-\l__regex_catcodes_int=\count137
-\l__regex_default_catcodes_int=\count138
-\c__regex_catcode_D_int=\count139
-\c__regex_catcode_S_int=\count140
-\c__regex_catcode_L_int=\count141
-\c__regex_catcode_O_int=\count142
-\c__regex_catcode_A_int=\count143
-\c__regex_all_catcodes_int=\count144
-\l__regex_show_lines_int=\count145
-\l__regex_min_state_int=\count146
-\l__regex_max_state_int=\count147
-\l__regex_left_state_int=\count148
-\l__regex_right_state_int=\count149
-\l__regex_capturing_group_int=\count150
-\l__regex_min_pos_int=\count151
-\l__regex_max_pos_int=\count152
-\l__regex_current_pos_int=\count153
-\l__regex_start_pos_int=\count154
-\l__regex_success_pos_int=\count155
-\l__regex_current_char_int=\count156
-\l__regex_current_catcode_int=\count157
-\l__regex_last_char_int=\count158
-\l__regex_case_changed_char_int=\count159
-\l__regex_current_state_int=\count160
-\l__regex_step_int=\count161
-\l__regex_min_active_int=\count162
-\l__regex_max_active_int=\count163
-\l__regex_replacement_csnames_int=\count164
-\l__regex_match_count_int=\count165
-\l__regex_submatch_int=\count166
-\l__regex_zeroth_submatch_int=\count167
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+\l__regex_internal_a_int=\count132
+\l__regex_internal_b_int=\count133
+\l__regex_internal_c_int=\count134
+\l__regex_balance_int=\count135
+\l__regex_group_level_int=\count136
+\l__regex_mode_int=\count137
+\l__regex_catcodes_int=\count138
+\l__regex_default_catcodes_int=\count139
+\c__regex_catcode_D_int=\count140
+\c__regex_catcode_S_int=\count141
+\c__regex_catcode_L_int=\count142
+\c__regex_catcode_O_int=\count143
+\c__regex_catcode_A_int=\count144
+\c__regex_all_catcodes_int=\count145
+\l__regex_show_lines_int=\count146
+\l__regex_min_state_int=\count147
+\l__regex_max_state_int=\count148
+\l__regex_left_state_int=\count149
+\l__regex_right_state_int=\count150
+\l__regex_capturing_group_int=\count151
+\l__regex_min_pos_int=\count152
+\l__regex_max_pos_int=\count153
+\l__regex_current_pos_int=\count154
+\l__regex_start_pos_int=\count155
+\l__regex_success_pos_int=\count156
+\l__regex_current_char_int=\count157
+\l__regex_current_catcode_int=\count158
+\l__regex_last_char_int=\count159
+\l__regex_case_changed_char_int=\count160
+\l__regex_current_state_int=\count161
+\l__regex_step_int=\count162
+\l__regex_min_active_int=\count163
+\l__regex_max_active_int=\count164
+\l__regex_replacement_csnames_int=\count165
+\l__regex_match_count_int=\count166
+\l__regex_submatch_int=\count167
+\l__regex_zeroth_submatch_int=\count168
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count168
-\calc@Bcount=\count169
+\calc@Acount=\count169
+\calc@Bcount=\count170
 \calc@Adimen=\dimen148
 \calc@Bdimen=\dimen149
 \calc@Askip=\skip54
 \calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count170
+\calc@Ccount=\count171
 \calc@Cskip=\skip56
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\chemgreek\chemgreek.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
-Package: xparse 2016/11/21 v6760 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count171
-\l__xparse_m_args_int=\count172
-\l__xparse_mandatory_args_int=\count173
-\l__xparse_processor_int=\count174
-\l__xparse_v_nesting_int=\count175
+(/usr/local/texlive/2016/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count172
+\l__xparse_m_args_int=\count173
+\l__xparse_mandatory_args_int=\count174
+\l__xparse_processor_int=\count175
+\l__xparse_v_nesting_int=\count176
 )
 Package: chemgreek 2016/02/10 v1.0e interfaceforuprightgreeklettersforuseinchem
 istry (CN)
-\l__chemgreek_tmpa_int=\count176
-\g__chemgreek_tmpa_int=\count177
+\l__chemgreek_tmpa_int=\count177
+\g__chemgreek_tmpa_int=\count178
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -372,29 +379,29 @@ istry (CN)
 . Defining command \selectchemgreekmapping with sig. 'm' on line 491.
 .................................................
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count178
+\Gread@gobject=\count179
 ))
-\l__mhchem_ce_distanceFromLastComma_int=\count179
+\l__mhchem_ce_distanceFromLastComma_int=\count180
 \__mhchem_arrow_extPgfLength_skip=\skip57
 \mhchem@minispace@tmp=\skip58
 \mhchem@minibackspace@tmp=\skip59
@@ -405,16 +412,16 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \mhchem@smallbondwidth=\skip64
 \mhchem@bondtmp@minussidebearingleft=\skip65
 \mhchem@bondtmp@minussidebearingright=\skip66
-\l__mhchem_option_version_int=\count180
+\l__mhchem_option_version_int=\count181
 \mhchem@option@minusmathsidebearingleft=\dimen150
 \mhchem@option@minusmathsidebearingright=\dimen151
 \mhchem@option@minustextsidebearingleft=\dimen152
 \mhchem@option@minustextsidebearingright=\dimen153
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
-Package: siunitx 2016/11/24 v2.7 A comprehensive (SI) units package
+(/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen154
 \extrarowheight=\dimen155
@@ -424,27 +431,27 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 )
 \l__siunitx_tmp_box=\box45
 \l__siunitx_tmp_dim=\dimen156
-\l__siunitx_tmp_int=\count181
-\l__siunitx_number_mantissa_length_int=\count182
-\l__siunitx_number_uncert_length_int=\count183
-\l__siunitx_round_int=\count184
-\l__siunitx_process_decimal_int=\count185
-\l__siunitx_process_uncertainty_int=\count186
-\l__siunitx_process_fixed_int=\count187
-\l__siunitx_process_integer_min_int=\count188
-\l__siunitx_process_precision_int=\count189
-\l__siunitx_group_min_int=\count190
+\l__siunitx_tmp_int=\count182
+\l__siunitx_number_mantissa_length_int=\count183
+\l__siunitx_number_uncert_length_int=\count184
+\l__siunitx_round_int=\count185
+\l__siunitx_process_decimal_int=\count186
+\l__siunitx_process_uncertainty_int=\count187
+\l__siunitx_process_fixed_int=\count188
+\l__siunitx_process_integer_min_int=\count189
+\l__siunitx_process_precision_int=\count190
+\l__siunitx_group_min_int=\count191
 \l__siunitx_angle_marker_box=\box46
 \l__siunitx_angle_unit_box=\box47
 \l__siunitx_angle_marker_dim=\dimen157
 \l__siunitx_angle_unit_dim=\dimen158
-\l__siunitx_unit_int=\count191
-\l__siunitx_unit_denominator_int=\count192
-\l__siunitx_unit_numerator_int=\count193
-\l__siunitx_unit_prefix_int=\count194
-\l__siunitx_unit_prefix_base_int=\count195
-\l__siunitx_unit_prefix_gram_int=\count196
-\l__siunitx_number_product_int=\count197
+\l__siunitx_unit_int=\count192
+\l__siunitx_unit_denominator_int=\count193
+\l__siunitx_unit_numerator_int=\count194
+\l__siunitx_unit_prefix_int=\count195
+\l__siunitx_unit_prefix_base_int=\count196
+\l__siunitx_unit_prefix_gram_int=\count197
+\l__siunitx_number_product_int=\count198
 \c__siunitx_one_fill_skip=\skip69
 \l__siunitx_table_unit_align_skip=\skip70
 \l__siunitx_table_exponent_dim=\dimen159
@@ -465,147 +472,148 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7249.
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7218.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7252.
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7221.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7255.
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7224.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7258.
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7227.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7261.
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7230.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7264.
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7233.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7267.
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7236.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7282.
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7251.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7291.
+. Defining command \num with sig. 'om' on line 7260.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7300.
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7269.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7309.
+. Defining command \numrange with sig. 'omm' on line 7278.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7321.
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7290.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7333.
+. Defining command \SIrange with sig. 'ommm' on line 7302.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7345.
+. Defining command \SI with sig. 'omom' on line 7314.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7348.
+. Defining command \sisetup with sig. 'm' on line 7317.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7363.
+. Defining command \tablenum with sig. 'om' on line 7332.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7375.
+. Defining command \si with sig. 'om' on line 7344.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7422.
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7391.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
-. 7424.
+. 7393.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7426.
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7395.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7428.
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7397.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
-. 7430.
+. 7399.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7431.
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7400.
 .................................................
 \g__file_internal_ior=\read1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
-age-mappings.tex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.st
-y"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box52
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -842,7 +850,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -883,7 +891,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -907,16 +915,16 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyphenat\hyphenat.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
-\langwohyphens=\language75
+\langwohyphens=\language83
 LaTeX Info: Redefining \_ on input line 43.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen168
 \captionmargin@=\dimen169
@@ -926,9 +934,9 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen173
 \caption@hangindent=\dimen174
 )
-\c@ContinuedFloat=\count198
+\c@ContinuedFloat=\count199
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -963,45 +971,45 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count199
+\c@float@type=\count266
 \float@exts=\toks24
 \float@box=\box53
 \@float@everytoks=\toks25
 \@floatcapt=\box54
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -1018,43 +1026,38 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 \AM@pagewidth=\dimen177
 \AM@pageheight=\dimen178
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box55
 \AM@global@opts=\toks26
 \AM@toc@title=\toks27
-\c@AM@survey=\count266
+\c@AM@survey=\count267
 \AM@templatesizebox=\box56
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
-Package: multirow 2016/10/11 v2.1 Span multiple rows of a table
-\multirow@colwidth=\skip73
-\multirow@cnta=\count267
-\multirow@cntb=\count268
-\multirow@dima=\skip74
+(/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen179
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip75
-\LTright=\skip76
-\LTpre=\skip77
-\LTpost=\skip78
-\LTchunksize=\count269
+\LTleft=\skip73
+\LTright=\skip74
+\LTpre=\skip75
+\LTpost=\skip76
+\LTchunksize=\count268
 \LTcapwidth=\dimen180
 \LT@head=\box57
 \LT@firsthead=\box58
 \LT@foot=\box59
 \LT@lastfoot=\box60
-\LT@cols=\count270
-\LT@rows=\count271
-\c@LT@tables=\count272
-\c@LT@chunks=\count273
+\LT@cols=\count269
+\LT@rows=\count270
+\c@LT@tables=\count271
+\c@LT@chunks=\count272
 \LT@p@ftn=\toks28
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+(/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen181
 \lightrulewidth=\dimen182
 \cmidrulewidth=\dimen183
@@ -1065,49 +1068,49 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen188
 \cmidrulekern=\dimen189
 \defaultaddspace=\dimen190
-\@cmidla=\count274
-\@cmidlb=\count275
+\@cmidla=\count273
+\@cmidlb=\count274
 \@aboverulesep=\dimen191
 \@belowrulesep=\dimen192
-\@thisruleclass=\count276
-\@lastruleclass=\count277
+\@thisruleclass=\count275
+\@lastruleclass=\count276
 \@thisrulewidth=\dimen193
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@col@width=\dimen194
 \TX@old@table=\dimen195
 \TX@old@col=\dimen196
 \TX@target=\dimen197
 \TX@delta=\dimen198
-\TX@cols=\count278
+\TX@cols=\count277
 \TX@ftn=\toks29
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks30
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip79
+\labelindent=\skip77
 \enit@outerparindent=\dimen199
 \enit@toks=\toks31
 \enit@inbox=\box61
-\enitdp@description=\count279
+\enitdp@description=\count278
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 \everycr=\toks32
-\minrowclearance=\skip80
+\minrowclearance=\skip78
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1125,7 +1128,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1147,122 +1150,125 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen256
-\Hy@linkcounter=\count280
-\Hy@pagecounter=\count281
+\Hy@linkcounter=\count279
+\Hy@pagecounter=\count280
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count282
+\Hy@SavedSpaceFactor=\count281
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4486.
-Package hyperref Info: Link nesting OFF on input line 4491.
-Package hyperref Info: Hyper index ON on input line 4494.
-Package hyperref Info: Plain pages OFF on input line 4501.
-Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4735.
-\c@Hy@tempcnt=\count283
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count282
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5088.
+LaTeX Info: Redefining \url on input line 5044.
 \XeTeXLinkMargin=\dimen257
-\Fld@menulength=\count284
+\Fld@menulength=\count283
 \Field@Width=\dimen258
 \Fld@charsize=\dimen259
-Package hyperref Info: Hyper figures OFF on input line 6342.
-Package hyperref Info: Link nesting OFF on input line 6347.
-Package hyperref Info: Hyper index ON on input line 6350.
-Package hyperref Info: backreferencing OFF on input line 6357.
-Package hyperref Info: Link coloring OFF on input line 6362.
-Package hyperref Info: Link coloring with OCG OFF on input line 6367.
-Package hyperref Info: PDF/A mode OFF on input line 6372.
-LaTeX Info: Redefining \ref on input line 6412.
-LaTeX Info: Redefining \pageref on input line 6416.
-\Hy@abspage=\count285
-\c@Item=\count286
-\c@Hfootnote=\count287
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring OFF on input line 6318.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count284
+\c@Item=\count285
+\c@Hfootnote=\count286
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
-\Fld@listcount=\count288
-\c@bookmark@seq@number=\count289
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip81
+\Hy@SectionHShift=\skip79
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pstricks/pstricks.sty
 Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks33
 \XKV@tempa@toks=\toks34
 )
-\XKV@depth=\count290
+\XKV@depth=\count289
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count291
-\pstFP@xia=\count292
-\pstFP@xib=\count293
-\pstFP@xfa=\count294
-\pstFP@xfb=\count295
-\pstFP@rega=\count296
-\pstFP@regb=\count297
-\pstFP@regs=\count298
-\pstFP@times=\count299
+\pstFP@xs=\count290
+\pstFP@xia=\count291
+\pstFP@xib=\count292
+\pstFP@xfa=\count293
+\pstFP@xfb=\count294
+\pstFP@rega=\count295
+\pstFP@regb=\count296
+\pstFP@regs=\count297
+\pstFP@times=\count298
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks35
 \pgfutil@tempdima=\dimen260
 \pgfutil@tempdimb=\dimen261
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
-x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks36
 \pgfkeys@temptoks=\toks37
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
-x"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
 \pgfkeys@tmptoks=\toks38
-)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex"
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@x=\dimen262
 \pgf@xa=\dimen263
 \pgf@xb=\dimen264
@@ -1271,49 +1277,50 @@ x"
 \pgf@ya=\dimen267
 \pgf@yb=\dimen268
 \pgf@yc=\dimen269
-\c@pgf@counta=\count300
-\c@pgf@countb=\count301
-\c@pgf@countc=\count302
-\c@pgf@countd=\count303
-\pgfutil@tempcnta=\count304
-\pgfutil@tempcntb=\count305
+\c@pgf@counta=\count299
+\c@pgf@countb=\count300
+\c@pgf@countc=\count301
+\c@pgf@countd=\count302
+\pgfutil@tempcnta=\count303
+\pgfutil@tempcntb=\count304
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen270
-\pgfmath@count=\count306
+\pgfmath@count=\count305
 \pgfmath@box=\box62
 \pgfmath@toks=\toks39
 \pgfmath@stack@operand=\toks40
 \pgfmath@stack@operation=\toks41
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
-ic.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
-.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
-code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
-hmetics.code.tex")))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count307
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count306
 ))
 \pgffor@iter=\dimen271
 \pgffor@skip=\dimen272
 \pgffor@stack=\toks42
 \pgffor@toks=\toks43
 )
-\psLoopIndex=\count308
+\psLoopIndex=\count307
 
-`PSTricks' v2.70  <2016/09/23> (tvz)
+`PSTricks' v2.66  <2016/05/18> (tvz)
 \pst@dima=\dimen273
 \pst@dimb=\dimen274
 \pst@dimc=\dimen275
@@ -1327,23 +1334,23 @@ hmetics.code.tex")))
 \pst@hbox=\box63
 \pst@ibox=\box64
 \pst@boxg=\box65
-\pst@cnta=\count309
-\pst@cntb=\count310
-\pst@cntc=\count311
-\pst@cntd=\count312
-\pst@cntg=\count313
-\pst@cnth=\count314
-\pst@cntm=\count315
-\pst@cntn=\count316
-\pst@cnto=\count317
-\pst@cntp=\count318
-\@zero=\count319
+\pst@cnta=\count308
+\pst@cntb=\count309
+\pst@cntc=\count310
+\pst@cntd=\count311
+\pst@cntg=\count312
+\pst@cnth=\count313
+\pst@cntm=\count314
+\pst@cntn=\count315
+\pst@cnto=\count316
+\pst@cntp=\count317
+\@zero=\count318
 \pst@toks=\toks44
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pstricks.con)
 \psunit=\dimen283
 \psxunit=\dimen284
 \psyunit=\dimen285
-\pst@C@@rType=\count320
+\pst@C@@rType=\count319
 \pslinewidth=\dimen286
 \psk@startLW=\dimen287
 \psk@endLW=\dimen288
@@ -1359,84 +1366,82 @@ hmetics.code.tex")))
 \sh@wgridYunit=\dimen296
 \pst@shift=\dimen297
 )
-File: pstricks.tex 2016/09/23 v2.70 `PSTricks' (tvz,hv)
+File: pstricks.tex 2016/05/18 v2.66 `PSTricks' (tvz,hv)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
-File: pst-fp.tex 2016/09/23 v2.70 `PST-fp' (hv)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2016/05/18 v2.66 `PST-fp' (hv)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count321
-\c@Blindtext=\count322
-\c@blind@countparstart=\count323
-\blind@countxx=\count324
-\blindtext@numBlindtext=\count325
-\blind@countyy=\count326
-\c@blindlist=\count327
-\c@blindlistlevel=\count328
-\c@blindlist@level=\count329
-\blind@listitem=\count330
-\c@blind@listcount=\count331
-\c@blind@levelcount=\count332
-\blind@mathformula=\count333
-\blind@Mathformula=\count334
-\c@blind@randomcount=\count335
-\c@blind@randommax=\count336
-\c@blind@pangramcount=\count337
-\c@blind@pangrammax=\count338
+\c@blindtext=\count320
+\c@Blindtext=\count321
+\c@blind@countparstart=\count322
+\blind@countxx=\count323
+\blindtext@numBlindtext=\count324
+\blind@countyy=\count325
+\c@blindlist=\count326
+\c@blindlistlevel=\count327
+\c@blindlist@level=\count328
+\blind@listitem=\count329
+\c@blind@listcount=\count330
+\c@blind@levelcount=\count331
+\blind@mathformula=\count332
+\blind@Mathformula=\count333
+\c@blind@randomcount=\count334
+\c@blind@randommax=\count335
+\c@blind@pangramcount=\count336
+\c@blind@pangrammax=\count337
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/transparent.sty
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count339
+\etb@tempcnta=\count338
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen298
 \WF@size=\dimen299
-\c@WF@wrappedlines=\count340
+\c@WF@wrappedlines=\count339
 \WF@box=\box66
 \WF@everypar=\toks47
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\genmisc\mathdots.sty"
-Package: mathdots 2004/07/02 version 0.6.
-\MD@unit=\dimen300
-LaTeX Info: Redefining \ddots on input line 120.
-LaTeX Info: Redefining \vdots on input line 122.
-
-
-Package Mathdots Warning: Redefining amsmath commands \dddot and \ddddot.
-
-LaTeX Info: Redefining \dddot on input line 145.
-LaTeX Info: Redefining \ddddot on input line 145.
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/mathdots/mathdots.sty
+Package: mathdots 2014/06/11 v0.9 Improve and add various macros for dots in ma
+th.
+\MDo@unit=\dimen300
+\MDo@dotsbox=\box67
+\MDoprekern=\muskip18
+\MDopostkern=\muskip19
+\MDodotkern=\muskip20
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\import\import.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/import/import.sty
 Package: import 2009/03/23  v 5.1
 ))
-(doc_config/doc_info.tex) (doc_config/headers_and_footers.tex
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(./doc_config/doc_info.tex) (./doc_config/headers_and_footers.tex
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count341
-\Gm@cntv=\count342
-\c@Gm@tempcnt=\count343
+\Gm@cnth=\count340
+\Gm@cntv=\count341
+\c@Gm@tempcnt=\count342
 \Gm@bindingoffset=\dimen301
 \Gm@wd@mp=\dimen302
 \Gm@odd@mp=\dimen303
@@ -1446,19 +1451,17 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layouthoffset=\dimen307
 \Gm@layoutvoffset=\dimen308
 \Gm@dimlist=\toks48
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip82
-\f@ncyO@elh=\skip83
-\f@ncyO@erh=\skip84
-\f@ncyO@olh=\skip85
-\f@ncyO@orh=\skip86
-\f@ncyO@elf=\skip87
-\f@ncyO@erf=\skip88
-\f@ncyO@olf=\skip89
-\f@ncyO@orf=\skip90
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip80
+\f@ncyO@elh=\skip81
+\f@ncyO@erh=\skip82
+\f@ncyO@olh=\skip83
+\f@ncyO@orh=\skip84
+\f@ncyO@elf=\skip85
+\f@ncyO@erf=\skip86
+\f@ncyO@olf=\skip87
+\f@ncyO@orf=\skip88
 )
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -1476,54 +1479,55 @@ less on input line 43.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 44.
 
-) (doc_config/defined_stuff.tex)
-("C:\Program Files\MiKTeX 2.9\tex\latex\epigraph\epigraph.sty"
+) (./doc_config/defined_stuff.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/epigraph/epigraph.sty
 Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
-\beforeepigraphskip=\skip91
-\afterepigraphskip=\skip92
-\epigraphwidth=\skip93
-\epigraphrule=\skip94
+\beforeepigraphskip=\skip89
+\afterepigraphskip=\skip90
+\epigraphwidth=\skip91
+\epigraphrule=\skip92
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip95
-\cftbeforetoctitleskip=\skip96
-\cftaftertoctitleskip=\skip97
-\cftbeforepartskip=\skip98
-\cftpartnumwidth=\skip99
-\cftpartindent=\skip100
-\cftbeforechapskip=\skip101
-\cftchapindent=\skip102
-\cftchapnumwidth=\skip103
-\cftbeforesecskip=\skip104
-\cftsecindent=\skip105
-\cftsecnumwidth=\skip106
-\cftbeforesubsecskip=\skip107
-\cftsubsecindent=\skip108
-\cftsubsecnumwidth=\skip109
-\cftbeforesubsubsecskip=\skip110
-\cftsubsubsecindent=\skip111
-\cftsubsubsecnumwidth=\skip112
-\cftbeforeparaskip=\skip113
-\cftparaindent=\skip114
-\cftparanumwidth=\skip115
-\cftbeforesubparaskip=\skip116
-\cftsubparaindent=\skip117
-\cftsubparanumwidth=\skip118
-\cftbeforeloftitleskip=\skip119
-\cftafterloftitleskip=\skip120
-\cftbeforefigskip=\skip121
-\cftfigindent=\skip122
-\cftfignumwidth=\skip123
-\c@lofdepth=\count344
-\c@lotdepth=\count345
-\cftbeforelottitleskip=\skip124
-\cftafterlottitleskip=\skip125
-\cftbeforetabskip=\skip126
-\cfttabindent=\skip127
-\cfttabnumwidth=\skip128
-) (Report.aux
+\cftparskip=\skip93
+\cftbeforetoctitleskip=\skip94
+\cftaftertoctitleskip=\skip95
+\cftbeforepartskip=\skip96
+\cftpartnumwidth=\skip97
+\cftpartindent=\skip98
+\cftbeforechapskip=\skip99
+\cftchapindent=\skip100
+\cftchapnumwidth=\skip101
+\cftbeforesecskip=\skip102
+\cftsecindent=\skip103
+\cftsecnumwidth=\skip104
+\cftbeforesubsecskip=\skip105
+\cftsubsecindent=\skip106
+\cftsubsecnumwidth=\skip107
+\cftbeforesubsubsecskip=\skip108
+\cftsubsubsecindent=\skip109
+\cftsubsubsecnumwidth=\skip110
+\cftbeforeparaskip=\skip111
+\cftparaindent=\skip112
+\cftparanumwidth=\skip113
+\cftbeforesubparaskip=\skip114
+\cftsubparaindent=\skip115
+\cftsubparanumwidth=\skip116
+\cftbeforeloftitleskip=\skip117
+\cftafterloftitleskip=\skip118
+\cftbeforefigskip=\skip119
+\cftfigindent=\skip120
+\cftfignumwidth=\skip121
+\c@lofdepth=\count343
+\c@lotdepth=\count344
+\cftbeforelottitleskip=\skip122
+\cftafterlottitleskip=\skip123
+\cftbeforetabskip=\skip124
+\cfttabindent=\skip125
+\cfttabnumwidth=\skip126
+)
+(./Report.aux
 
 LaTeX Warning: Label `fig:osi' multiply defined.
 
@@ -1545,7 +1549,7 @@ LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 22.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package lastpage Info: Please have a look at the pageslts package at
@@ -1557,36 +1561,38 @@ Package lastpage Info: Please have a look at the pageslts package at
 . Activating mapping `default' on line 22.
 .................................................
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count346
+\scratchcounter=\count345
 \scratchdimen=\dimen309
-\scratchbox=\box67
-\nofMPsegments=\count347
-\nofMParguments=\count348
+\scratchbox=\box68
+\nofMPsegments=\count346
+\nofMParguments=\count347
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count349
+\MPscratchCnt=\count348
 \MPscratchDim=\dimen310
-\MPnumerator=\count350
-\makeMPintoPDFobject=\count351
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
 \everyMPtoPDFconversion=\toks50
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -1658,44 +1664,43 @@ File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
--basic-dictionary\translator-basic-dictionary-English.dict"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
-File: siunitx-abbreviations.cfg 2016/11/24 v2.7 siunitx: Abbreviated units
+(/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box68
+\AtBeginShipoutBox=\box69
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 Package hyperref Info: Link coloring OFF on input line 22.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count352
+\c@section@level=\count351
 )
 LaTeX Info: Redefining \ref on input line 22.
 LaTeX Info: Redefining \pageref on input line 22.
 LaTeX Info: Redefining \nameref on input line 22.
 
-(Report.out) (Report.out)
+(./Report.out) (./Report.out)
 \@outlinefile=\write3
 \openout3 = `Report.out'.
 
@@ -1734,26 +1739,26 @@ LaTeX Info: Redefining \nameref on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c__siunitx_mathsf_int=\count353
+\c__siunitx_mathsf_int=\count352
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 22.
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 22.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 22.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 22.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1764,40 +1769,41 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 22.
 LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 22.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Try loading font information for OT1+lmss on input line 22.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\c__siunitx_mathtt_int=\count354
+\c__siunitx_mathtt_int=\count353
 LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 22.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (doc_config/cover.tex
-<./doc_config/images/logo.png, id=451, 3862.43pt x 1275.76625pt>
+)
+(./doc_config/cover.tex
+<./doc_config/images/logo.png, id=454, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 149.37958pt x 49.32835pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=452, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=455, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1828,9 +1834,9 @@ Non-PDF special ignored!
 
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <.
-/doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg>] [2]
-(Report.toc
+Non-PDF special ignored!{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT
+.jpg>] [2] (./Report.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 3.
  [1]
@@ -1853,11 +1859,11 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[4] (Report.lot)
+[4] (./Report.lot)
 \tf@lot=\write5
 \openout5 = `Report.lot'.
 
- [5] (Report.lof [6])
+ [5] (./Report.lof [6])
 \tf@lof=\write6
 \openout6 = `Report.lof'.
 
@@ -1874,7 +1880,7 @@ l.52 \part{Communications}
                            [1
 
 ]
-(sections/CommunicationsDept/Ch1-SpaceSegment.tex
+(./sections/CommunicationsDept/Ch1-SpaceSegment.tex
 Chapter 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 8.
@@ -1889,8 +1895,8 @@ been already used, duplicate ignored
 l.10 \section
              {Introduction} [2
 
-] (sections/CommunicationsDept/introduction.tex
-<./sections/CommunicationsDept/OSI.png, id=720, 420.97275pt x 284.262pt>
+] (./sections/CommunicationsDept/introduction.tex <./sections/CommunicationsDep
+t/OSI.png, id=725, 420.97275pt x 284.262pt>
 File: ./sections/CommunicationsDept/OSI.png Graphic file (type png)
 
 <use ./sections/CommunicationsDept/OSI.png>
@@ -1909,11 +1915,11 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 13.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [4 <./sections/CommunicationsDept/OSI.png>] (sections/CommunicationsDept/Space
-Segment/Layer2/DLL.tex
+ [4 <./sections/CommunicationsDept/OSI.png>] (./sections/CommunicationsDept/Spa
+ceSegment/Layer2/DLL.tex
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 27.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
@@ -1926,7 +1932,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 40.
  [5
 
 ]
-<sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG, id=739, 37
+<sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG, id=744, 37
 7.15906pt x 124.96687pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG Graphi
 c file (type png)
@@ -1936,7 +1942,7 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/simple
 stsender.PNG used on input line 48.
 (pdftex.def)             Requested size: 377.15814pt x 124.96657pt.
 
-<sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG, id=741, 
+<sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG, id=746, 
 374.90062pt x 121.95563pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG Grap
 hic file (type png)
@@ -1951,7 +1957,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [6 <./sections/CommunicationsDept/SpaceSegment/Layer2/simplestsender.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG, id=748, 377.15
+<sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG, id=753, 377.15
 906pt x 217.5628pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG Graphic fi
 le (type png)
@@ -1973,7 +1979,7 @@ Underfull \hbox (badness 3375) in paragraph at lines 59--73
  []
 
 
-<sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG, id=749, 377.
+<sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG, id=754, 377.
 15906pt x 137.01187pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG Graphic 
 file (type png)
@@ -1989,7 +1995,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 80.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [7 <./sections/CommunicationsDept/SpaceSegment/Layer2/simplestreceiver.PNG> <.
 /sections/CommunicationsDept/SpaceSegment/Layer2/sendersawp.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG, id=756, 365.8
+<sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG, id=761, 365.8
 6688pt x 312.41719pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG Graphic f
 ile (type png)
@@ -2004,7 +2010,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [8 <./sections/CommunicationsDept/SpaceSegment/Layer2/receiversawp.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/diagramN.PNG, id=762, 382.4287
+<sections/CommunicationsDept/SpaceSegment/Layer2/diagramN.PNG, id=767, 382.4287
 6pt x 280.79906pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/diagramN.PNG Graphic file
  (type png)
@@ -2019,7 +2025,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 119.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [9 <./sections/CommunicationsDept/SpaceSegment/Layer2/flowdiagram.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG, id=768, 376.406
+<sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG, id=773, 376.406
 25pt x 229.60782pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG Graphic fil
 e (type png)
@@ -2029,7 +2035,7 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/receiv
 erN.PNG used on input line 122.
 (pdftex.def)             Requested size: 376.40532pt x 229.60725pt.
 
-<sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG, id=769, 248.42813
+<sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG, id=774, 248.42813
 pt x 350.05782pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG Graphic file 
 (type png)
@@ -2049,7 +2055,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 132.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [11 <./sections/CommunicationsDept/SpaceSegment/Layer2/receiverN.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG, id=781, 544
+<sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG, id=786, 544
 .28343pt x 356.0803pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/flowselective.PNG Graphic
  file (type png)
@@ -2064,7 +2070,7 @@ Overfull \hbox (8.63599pt too wide) in paragraph at lines 142--143
  []
 
 
-<sections/CommunicationsDept/SpaceSegment/Layer2/senderselective1.PNG, id=782, 
+<sections/CommunicationsDept/SpaceSegment/Layer2/senderselective1.PNG, id=787, 
 381.67593pt x 131.74219pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/senderselective1.PNG Grap
 hic file (type png)
@@ -2079,7 +2085,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 150.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [12 <./sections/CommunicationsDept/SpaceSegment/Layer2/SenderN.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/senderselective2.PNG, id=788, 
+<sections/CommunicationsDept/SpaceSegment/Layer2/senderselective2.PNG, id=793, 
 339.51843pt x 412.54124pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/senderselective2.PNG Grap
 hic file (type png)
@@ -2089,7 +2095,7 @@ Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/sender
 selective2.PNG used on input line 153.
 (pdftex.def)             Requested size: 339.5176pt x 412.54024pt.
 
-<sections/CommunicationsDept/SpaceSegment/Layer2/receiverselective.PNG, id=789,
+<sections/CommunicationsDept/SpaceSegment/Layer2/receiverselective.PNG, id=794,
  313.9228pt x 432.86719pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/receiverselective.PNG Gra
 phic file (type png)
@@ -2127,7 +2133,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 235.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [17]
-<sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG, id=818, 532.9912
+<sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG, id=824, 532.9912
 6pt x 129.48375pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG Graphic file
  (type png)
@@ -2156,7 +2162,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 292.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [18 <./sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG, id=825, 329.
+<sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG, id=831, 329.
 73187pt x 119.69719pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG Graphic 
 file (type png)
@@ -2172,7 +2178,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 306.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [19]
 <sections/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryheader.PNG
-, id=830, 482.55281pt x 197.23688pt>
+, id=836, 482.55281pt x 197.23688pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryheade
 r.PNG Graphic file (type png)
 
@@ -2188,7 +2194,7 @@ Overfull \hbox (55.76027pt too wide) in paragraph at lines 310--311
 
 
 <sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PNG, id=8
-31, 198.7425pt x 295.1025pt>
+37, 198.7425pt x 295.1025pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/Proceduressendingend.PNG 
 Graphic file (type png)
 
@@ -2204,7 +2210,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 322.
  [20 <./sections/CommunicationsDept/SpaceSegment/Layer2/transferfram.PNG> <./se
 ctions/CommunicationsDept/SpaceSegment/Layer2/transferframeprimaryheader.PNG>]
 <sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.PNG, id
-=839, 201.00093pt x 237.88875pt>
+=845, 201.00093pt x 237.88875pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.PN
 G Graphic file (type png)
 
@@ -2225,14 +2231,14 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
 [22 <./sections/CommunicationsDept/SpaceSegment/Layer2/proceduresreceivingend.P
-NG>] (sections/CommunicationsDept/SpaceSegment/Layer3/NetworkLayer.tex
+NG>] (./sections/CommunicationsDept/SpaceSegment/Layer3/NetworkLayer.tex
 Underfull \hbox (badness 1496) in paragraph at lines 34--36
  [][] \T1/lmr/m/n/10.95 Ac-cord-ing to [[]5[]], the Net-work layer is the third
  layer in the Open Sys-tems
  []
 
 
-<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG, id=864, 40
+<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG, id=870, 40
 5.01312pt x 426.84468pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG Graphi
 c file (type png)
@@ -2260,7 +2266,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
  [23
 
 ]
-<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG, id=879,
+<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG, id=885,
  398.99063pt x 401.24907pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG Gra
 phic file (type png)
@@ -2286,7 +2292,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 79.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [26]
-<sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG, id=902, 934.99
+<sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG, id=908, 934.99
 312pt x 168.63pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer3/SPP_header.PNG Graphic fi
 le (type png)
@@ -2301,7 +2307,7 @@ Overfull \hbox (40.70406pt too wide) in paragraph at lines 85--86
  []
 
 
-<sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG, id=906, 813.7
+<sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG, id=912, 813.7
 9031pt x 169.38281pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG Graphic f
 ile (type png)
@@ -2325,7 +2331,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 125.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [28 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv4_header.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG, id=928, 813.7
+<sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG, id=934, 813.7
 9031pt x 184.43906pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG Graphic f
 ile (type png)
@@ -2344,7 +2350,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 145.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [29 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG>]
-<sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG, id=940, 408.024
+<sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG, id=946, 408.024
 37pt x 154.32657pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer3/ES_header.PNG Graphic fil
 e (type png)
@@ -2431,7 +2437,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [41]
-(sections/CommunicationsDept/SpaceSegment/Layer4_5/SessionTransportLayer.tex
+(./sections/CommunicationsDept/SpaceSegment/Layer4_5/SessionTransportLayer.tex
 Underfull \hbox (badness 2799) in paragraph at lines 31--32
 \T1/lmr/m/n/10.95 A con-nec-tion-less pro-to-col, such as UDP, treats each seg-
 ment sep-a-rately. A
@@ -2444,7 +2450,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
  [42
 
 ]
-<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg, id=1071, 343.2825p
+<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg, id=1079, 343.2825p
 t x 306.39468pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg Graphic file (
 type jpg)
@@ -2471,7 +2477,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [45]
-<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg, id=1088, 432.86719
+<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg, id=1096, 432.86719
 pt x 219.06844pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg Graphic file (
 type jpg)
@@ -2495,7 +2501,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 136.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [47]
-<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg, id=1098
+<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg, id=1106
 , 201.75375pt x 63.98906pt>
 File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg Gra
 phic file (type jpg)
@@ -2516,8 +2522,8 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [49]
-(sections/CommunicationsDept/globalOverview.tex
-<./sections/CommunicationsDept/results2.png, id=1107, 361.35pt x 301.125pt>
+(./sections/CommunicationsDept/globalOverview.tex
+<./sections/CommunicationsDept/results2.png, id=1115, 361.35pt x 301.125pt>
 File: ./sections/CommunicationsDept/results2.png Graphic file (type png)
 
 <use ./sections/CommunicationsDept/results2.png>
@@ -2525,7 +2531,7 @@ Package pdftex.def Info: ./sections/CommunicationsDept/results2.png used on inp
 ut line 7.
 (pdftex.def)             Requested size: 289.0804pt x 240.90031pt.
 ))
-(sections/CommunicationsDept/Ch2-GroundSegment.tex
+(./sections/CommunicationsDept/Ch2-GroundSegment.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2571,11 +2577,11 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 55.
  [55] [56
 
 ]
-(sections/CommunicationsDept/Ch3-GroundStation.tex
+(./sections/CommunicationsDept/Ch3-GroundStation.tex
 Chapter 3.
 [57
 
-] (sections/CommunicationsDept/GroundStation/Introduccion/main.tex
+] (./sections/CommunicationsDept/GroundStation/Introduccion/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -2585,7 +2591,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
-) (sections/CommunicationsDept/GroundStation/build/build.tex
+) (./sections/CommunicationsDept/GroundStation/build/build.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2603,7 +2609,7 @@ LaTeX Warning: Citation `XBand' on page 59 undefined on input line 8.
 
 LaTeX Warning: Citation `SBand' on page 59 undefined on input line 8.
 
-) (sections/CommunicationsDept/GroundStation/rent/LeafSpace.tex
+) (./sections/CommunicationsDept/GroundStation/rent/LeafSpace.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2625,7 +2631,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 80.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [61]
-<sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg, id=1181, 325.967
+<sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg, id=1190, 325.967
 82pt x 185.19188pt>
 File: sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg Graphic file
  (type jpg)
@@ -2649,7 +2655,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [63]
-(sections/CommunicationsDept/GroundStation/Decisiontaking/DT.tex
+(./sections/CommunicationsDept/GroundStation/Decisiontaking/DT.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2669,7 +2675,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [66])
-(sections/CommunicationsDept/GSlocalization/GSlocalization.tex
+(./sections/CommunicationsDept/GSlocalization/GSlocalization.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2686,7 +2692,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 15.
 [68
 
 ]
-<sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg, id=1228, 1538.7487
+<sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg, id=1237, 1538.7487
 5pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg Graphic file (
 type jpg)
@@ -2701,7 +2707,7 @@ Overfull \hbox (34.83684pt too wide) in paragraph at lines 18--19
  []
 
 
-<sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg, id=1229, 1538.74
+<sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg, id=1238, 1538.74
 875pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg Graphic file
  (type jpg)
@@ -2720,7 +2726,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [69 <./sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg, id=1234, 1538.7487
+<sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg, id=1243, 1538.7487
 5pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg Graphic file (
 type jpg)
@@ -2739,7 +2745,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 38.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [70 <./sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/45_10_75_lat.jpg, id=1240, 1538.748
+<sections/CommunicationsDept/GSlocalization/45_10_75_lat.jpg, id=1249, 1538.748
 75pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/45_10_75_lat.jpg Graphic file 
 (type jpg)
@@ -2754,7 +2760,7 @@ Overfull \hbox (34.83684pt too wide) in paragraph at lines 42--43
  []
 
 
-<sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg, id=1241, 1538.7487
+<sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg, id=1250, 1538.7487
 5pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg Graphic file (
 type jpg)
@@ -2774,7 +2780,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [71 <./sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg> <./sections
 /CommunicationsDept/GSlocalization/45_10_75_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/575_25_675_lat.jpg, id=1246, 1538.7
+<sections/CommunicationsDept/GSlocalization/575_25_675_lat.jpg, id=1255, 1538.7
 4875pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/575_25_675_lat.jpg Graphic fil
 e (type jpg)
@@ -2789,7 +2795,7 @@ Overfull \hbox (34.83684pt too wide) in paragraph at lines 56--57
  []
 
 
-<sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg, id=1247, 
+<sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg, id=1256, 
 1538.74875pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg Graph
 ic file (type jpg)
@@ -2809,7 +2815,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 66.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [72 <./sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg> <./sections
 /CommunicationsDept/GSlocalization/575_25_675_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg, id=1252
+<sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg, id=1261
 , 1538.74875pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg Gra
 phic file (type jpg)
@@ -2829,7 +2835,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 76.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [73 <./sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg> <.
 /sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg, id=1257, 1538.74
+<sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg, id=1266, 1538.74
 875pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg Graphic file
  (type jpg)
@@ -2844,7 +2850,7 @@ Overfull \hbox (34.83684pt too wide) in paragraph at lines 85--86
  []
 
 
-<sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg, id=1258, 1538.7
+<sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg, id=1267, 1538.7
 4875pt x 750.805pt>
 File: sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg Graphic fil
 e (type jpg)
@@ -2868,7 +2874,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 130.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [75 <./sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg>]
-<sections/CommunicationsDept/GSlocalization/Options.jpg, id=1267, 697.4055pt x 
+<sections/CommunicationsDept/GSlocalization/Options.jpg, id=1276, 697.4055pt x 
 448.074pt>
 File: sections/CommunicationsDept/GSlocalization/Options.jpg Graphic file (type
  jpg)
@@ -2881,7 +2887,7 @@ Overfull \hbox (26.51685pt too wide) in paragraph at lines 133--134
  [] 
  []
 
-) (sections/CommunicationsDept/GroundInvestment/InitialInvestment.tex
+) (./sections/CommunicationsDept/GroundInvestment/InitialInvestment.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2895,7 +2901,7 @@ LaTeX Warning: Citation `SBand' on page 77 undefined on input line 5.
 LaTeX Warning: Citation `SBandDatasheet' on page 77 undefined on input line 5.
 
 
-<sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG, id=1273, 450.1818
+<sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG, id=1282, 450.1818
 7pt x 125.71968pt>
 File: sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG Graphic file 
 (type png)
@@ -2913,7 +2919,7 @@ Overfull \hbox (23.38942pt too wide) in paragraph at lines 8--9
 LaTeX Warning: Citation `XBand' on page 77 undefined on input line 14.
 
 
-<sections/CommunicationsDept/GroundInvestment/XbandEquip.PNG, id=1274, 450.9347
+<sections/CommunicationsDept/GroundInvestment/XbandEquip.PNG, id=1283, 450.9347
 pt x 127.22531pt>
 File: sections/CommunicationsDept/GroundInvestment/XbandEquip.PNG Graphic file 
 (type png)
@@ -2934,8 +2940,8 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
  [77
 
  <./sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG> <./sections/Co
-mmunicationsDept/GroundInvestment/XbandEquip.PNG>]) (sections/CommunicationsDep
-t/GroundLegislation/Legislation.tex
+mmunicationsDept/GroundInvestment/XbandEquip.PNG>]) (./sections/CommunicationsD
+ept/GroundLegislation/Legislation.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -2973,7 +2979,7 @@ LaTeX Warning: Citation `CndForm' on page 80 undefined on input line 24.
 
 LaTeX Warning: Citation `CndFees' on page 80 undefined on input line 24.
 
-) (sections/CommunicationsDept/GroundMaintenance/Maintenance.tex
+) (./sections/CommunicationsDept/GroundMaintenance/Maintenance.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -3012,7 +3018,7 @@ Underfull \hbox (badness 3128) in paragraph at lines 50--51
 nd sta-tions are lo-cated un-der the
  []
 
-) (sections/CommunicationsDept/GroundSalaries/Salaries.tex
+) (./sections/CommunicationsDept/GroundSalaries/Salaries.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -3032,8 +3038,8 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
  [85] [86
 
 ]
-(sections/FinancialDept/Introduction.tex)
-(sections/FinancialDept/Ch1-FinancialStudy.tex
+(./sections/FinancialDept/Introduction.tex)
+(./sections/FinancialDept/Ch1-FinancialStudy.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -3108,7 +3114,11 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 155.
 Underfull \vbox (badness 10000) detected at line 188
  []
 
+
+Overfull \vbox (8.61664pt too high) has occurred while \output is active []
+
 File: ./doc_config/images/logo.png Graphic file (type png)
+
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 188.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
@@ -3132,7 +3142,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 255.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [98]
-<sections/FinancialDept/DCCF.jpg, id=1404, 353.82187pt x 239.39438pt>
+<sections/FinancialDept/DCCF.jpg, id=1419, 353.82187pt x 239.39438pt>
 File: sections/FinancialDept/DCCF.jpg Graphic file (type jpg)
 
 <use sections/FinancialDept/DCCF.jpg>
@@ -3144,7 +3154,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 263.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[99]) (sections/FinancialDept/Ch2-Environmental.tex
+[99]) (./sections/FinancialDept/Ch2-Environmental.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -3185,7 +3195,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 39.
  [105
 
 ])
-(sections/FinancialDept/Ch3-Social.tex
+(./sections/FinancialDept/Ch3-Social.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
@@ -3208,7 +3218,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 18.
  [108
 
 ]
-<sections/FinancialDept/./OrbitalSummary.png, id=1450, 1241.63875pt x 541.02126
+<sections/FinancialDept/./OrbitalSummary.png, id=1467, 1241.63875pt x 541.02126
 pt>
 File: sections/FinancialDept/./OrbitalSummary.png Graphic file (type png)
  <use sections/FinancialDept/./OrbitalSummary.png>
@@ -3241,7 +3251,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [110
 
-]) (Report.bbl
+]) (./Report.bbl
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
@@ -3287,7 +3297,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 167.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [113]
-Underfull \hbox (badness 1189) in paragraph at lines 176--181
+Underfull \hbox (badness 1189) in paragraph at lines 183--188
 \T1/lmr/m/it/10.95 ma-te-rial from space launch ve-hi-cles un-der the Ex-clu-si
 ve Eco-nomic Zone and
  []
@@ -3301,11 +3311,11 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 79.
  [114]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
- (Report.aux)
+ (./Report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 9DE5393211F2C8D1AF68308B54963E36;8407.
+(rerunfilecheck)             Checksum: BB5D61C725975D46B9D90C013F4EE6D7;8295.
 
 
 LaTeX Warning: There were undefined references.
@@ -3316,32 +3326,35 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 30468 strings out of 493333
- 574689 string characters out of 3139193
- 634599 words of memory out of 3000000
- 32936 multiletter control sequences out of 15000+200000
- 119346 words of font info for 101 fonts, out of 3000000 for 9000
+ 30284 strings out of 493014
+ 572167 string characters out of 6133351
+ 629882 words of memory out of 5000000
+ 32762 multiletter control sequences out of 15000+600000
+ 119346 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,16n,91p,10486b,1010s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Fil
-es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fon
-ts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm
-.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/eurosym/feybr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
-lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx9.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri
-10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Report.pdf (123 pages, 2962787 bytes).
+ 42i,16n,91p,10484b,1012s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/lo
+cal/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texliv
+e/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2016/texmf-d
+ist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/
+dvips/lm/lm-mathsy.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/e
+urosym/feybr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/euros
+ym/feymr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx10
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
+lmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Report.pdf (123 pages, 2811947 bytes).
 PDF statistics:
- 1651 PDF objects out of 1728 (max. 8388607)
- 467 named destinations out of 1000 (max. 500000)
+ 1675 PDF objects out of 1728 (max. 8388607)
+ 1452 compressed objects within 15 object streams
+ 470 named destinations out of 1000 (max. 500000)
  1127 words of extra memory for PDF output out of 10000 (max. 10000000)
 

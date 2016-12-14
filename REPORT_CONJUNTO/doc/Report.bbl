@@ -172,11 +172,23 @@ David Naylor, Alessandro Finamore, Ilias Leontiadis, Yan Grunenberger, Marco
 \newblock {\em Proceedings of the 10th ACM International on Conference on
   Emerging Networking Experiments and Technologies}, pages 133--140, 2014.
 
+\bibitem{UN}
+UN.
+\newblock {Liability Convention}.
+
+\bibitem{allianz}
+{AGCS SpaceCo: specialists in satellite insurance and space insurance}.
+
 \bibitem{EIS}
 {Ministry for the Environment of New Zealand}.
 \newblock {\em {Proposed regulation of jettisoned material from space launch
   vehicles under the Exclusive Economic Zone and Continental Shelf
   (Envionmental Effects)}}.
-\newblock 2016.
+\newblock 2012.
+
+\bibitem{CraigClark}
+Craig Clark.
+\newblock {Constellations of CubeSats are revolutionising how we use
+  satellites}.
 
 \end{thebibliography}
