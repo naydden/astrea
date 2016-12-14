@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 \contentsline {chapter}{List of Tables}{v}{section*.1}
 \contentsline {chapter}{List of Figures}{vi}{section*.2}
 \contentsline {part}{I\hspace {1em}Communications}{1}{part.1}
@@ -240,3 +245,7 @@
 \contentsline {subsection}{\numberline {7.7.1}Introduction}{139}{subsection.7.7.1}
 \contentsline {subsection}{\numberline {7.7.2}Space Debris}{139}{subsection.7.7.2}
 \contentsline {subsection}{\numberline {7.7.3}End-of-Life Types}{140}{subsection.7.7.3}
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes

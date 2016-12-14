@@ -39,23 +39,38 @@ Based on these premises, two different end-of-life groups had been determined:
 \item[-] \textsc{Controlled de-orbit:}
 
 
-It consists on performing a controlled re-entry by burning-up the satellite in the atmosphere or by driving the satellite to the ground in order to impact at a pre-assigned safe-location. 
-This sophisticated maneuver is initiated by a large increment of potential energy to make change the orbital altitude to a lower one well into the atmosphere where the space debris will burn.
+It consists on carrying out a maneuver that leads to steep, controlled re-entry and burn-up in the atmosphere or ground impact. It must be done in a relatively short period of time, usually 1 revolution and it involves significantly high $\Delta V$. This sophisticated maneuver is initiated by a large increment of potential energy to make change the orbital altitude to a lower one well into the atmosphere where the satellite burns. A few calculations are useful to have a numerical result of that  $\Delta V$:
+The velocity in the initial orbit is: 
+\newline
+\begin{center}
+$V1 = \sqrt{\frac{GM_t}{R_t\,+\,h}}  = 7593.4 m/s$
+\newline
+\end{center}
+Then the semi major axis of the elliptical orbit is obtained: 
+\newline
+\begin{center}
+$a = {\frac{r1+r2}{2}} = 6672 km$
+\newline
+\end{center}
+The speed at apogee of the elliptical orbit is: 
+\newline
+\begin{center}
+$V2 = \sqrt{GM_t(\frac{2}{r}-\frac{1}{a})} = 7455 m/s$
+\newline
+\end{center}
+Finally, the $\Delta V$ is computed: 
+\newline
+\begin{center}
+$\Delta V = V1-V2 = 138.4 m/s$
+\end{center}
 
 \item[-]  \textsc{Uncontrolled de-orbit:}
 
-A simplest and cheaper way to de-orbit satellites is to induce a reduction of the orbit altitude to cause a decay and finally a re-entry. This maneuvre consists in de-orbiting the satellite by short maneuvres such as low-thrust maneuvres which help to decay the satellite position but without controlling its trajectory.
+A simpler and cheaper way to de-orbit satellites is to induce a reduction of the orbit altitude in order to cause a decay and ,finally, a re-entry to the atmosphere. The process is initiated by one or several arc maneuvers at apogee passes and it is carried out without controlling the trajectory. This procedure is appropriate for low-thrust systems and small satellites. 
 \newline
+In addition, when considering satellites placed at LEOs, this strategy takes advantages of the perturbations present in this altitudes (atmospheric drag). This force contributes to the decay increasing the rate of approach to the atmosphere. 
 \newline
-For satellites, which are placed at the LEO, this strategy takes advantage of LEO perturbations that assist in lowering the orbit altitude. This derivative of un-controlled de-orbit is known as the Non-propulsive orbit lifetime reduction. 
-\newline
-
-\emph{REMINDER:} the residual lifetime of the satellites has to be lower than 25 years.
-
 \end{itemize} 
+In order to make a decision, it has to be considered that the constellation is compounded of very small satellites (3U CubeSats). Those kinds of satellites cannot contain high thrust systems, consequently, the controlled de-orbit is out of its range. Also, the fact that the constellation is placed at LEOs makes easier the application of the uncontrolled de-orbit because of the given reason above. A reason that could force to adopt the controlled de-orbit could be the replacement strategy. If it had been designed so that the de-orbit was rapid, the uncontrolled one would provably not be adequate, nevertheless, the replacement strategy has been designed so as to avoid the need of a quick de-orbit (see Replacement Strategy section). 
+Given all the stated reasons, it is decided to use the uncontrolled de-orbit. 
 
-As \textsc{Astrea} constellation will be positioned at LEO those perturbations are useful to de-orbit the satellites due to the fact they actually burn-up in the atmosphere during the re-entry. 
-\newline
-
-
-\end{document}

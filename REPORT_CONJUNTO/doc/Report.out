@@ -132,3 +132,45 @@
 \BOOKMARK [2][-]{subsection.7.7.1}{Introduction}{section.7.7}% 132
 \BOOKMARK [2][-]{subsection.7.7.2}{Space Debris}{section.7.7}% 133
 \BOOKMARK [2][-]{subsection.7.7.3}{End-of-Life Types}{section.7.7}% 134
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+\BOOKMARK [1][-]{section.7.8}{Conclusions}{chapter.7}% 135
+\BOOKMARK [-1][-]{part.5}{V Satellite design}{}% 136
+\BOOKMARK [0][-]{section.7.9}{Satellite design}{part.5}% 137
+\BOOKMARK [1][-]{subsection.7.9.1}{Structure and mechanics}{section.7.9}% 138
+\BOOKMARK [2][-]{subsubsection.7.9.1.1}{Structure}{subsection.7.9.1}% 139
+\BOOKMARK [3][-]{subsubsection.7.9.1.2}{Thermal protection}{subsubsection.7.9.1.1}% 140
+\BOOKMARK [3][-]{subsubsection.7.9.1.3}{Study of the commercial available options and options chosen}{subsubsection.7.9.1.1}% 141
+\BOOKMARK [2][-]{subsection.7.9.2}{Electrical Power System}{subsection.7.9.1}% 142
+\BOOKMARK [3][-]{subsubsection.7.9.2.1}{Estimation of the power required}{subsection.7.9.2}% 143
+\BOOKMARK [3][-]{subsubsection.7.9.2.2}{Solar arrays}{subsection.7.9.2}% 144
+\BOOKMARK [3][-]{subsubsection.7.9.2.3}{Power management system}{subsection.7.9.2}% 145
+\BOOKMARK [3][-]{subsubsection.7.9.2.4}{Batteries}{subsection.7.9.2}% 146
+\BOOKMARK [3][-]{subsubsection.7.9.2.5}{Study of the commercial available options and options chosen}{subsection.7.9.2}% 147
+\BOOKMARK [2][-]{subsection.7.9.3}{Propulsion Systems}{subsection.7.9.1}% 148
+\BOOKMARK [3][-]{subsubsection.7.9.3.1}{Requirements}{subsection.7.9.3}% 149
+\BOOKMARK [3][-]{subsubsection.7.9.3.2}{Thrusters}{subsection.7.9.3}% 150
+\BOOKMARK [3][-]{subsubsection.7.9.3.3}{Study of the commercial available options}{subsection.7.9.3}% 151
+\BOOKMARK [2][-]{subsection.7.9.4}{Attitude and Orbital Control Systems}{subsection.7.9.1}% 152
+\BOOKMARK [3][-]{subsubsection.7.9.4.1}{Orbital Control}{subsection.7.9.4}% 153
+\BOOKMARK [3][-]{subsubsection.7.9.4.2}{Study of the commercial available options}{subsection.7.9.4}% 154
+\BOOKMARK [2][-]{subsection.7.9.5}{Payload}{subsection.7.9.1}% 155
+\BOOKMARK [3][-]{subsubsection.7.9.5.1}{Antennas}{subsection.7.9.5}% 156
+\BOOKMARK [3][-]{subsubsection.7.9.5.2}{Antenna selection}{subsection.7.9.5}% 157
+\BOOKMARK [3][-]{subsubsection.7.9.5.3}{Payload Data Handling Systems}{subsection.7.9.5}% 158
+\BOOKMARK [3][-]{subsubsection.7.9.5.4}{Study of the commercial available options and options chosen}{subsection.7.9.5}% 159
+\BOOKMARK [2][-]{subsection.7.9.6}{Communication module}{subsection.7.9.1}% 160
+\BOOKMARK [2][-]{subsection.7.9.7}{Link Budget}{subsection.7.9.1}% 161
+\BOOKMARK [3][-]{subsubsection.7.9.7.1}{Communications Basics}{subsection.7.9.7}% 162
+\BOOKMARK [3][-]{subsubsection.7.9.7.2}{Propagation losses}{subsection.7.9.7}% 163
+\BOOKMARK [3][-]{subsubsection.7.9.7.3}{Local Losses}{subsection.7.9.7}% 164
+\BOOKMARK [3][-]{subsubsection.7.9.7.4}{Modulation Technique}{subsection.7.9.7}% 165
+\BOOKMARK [3][-]{subsubsection.7.9.7.5}{System Noise}{subsection.7.9.7}% 166
+\BOOKMARK [3][-]{subsubsection.7.9.7.6}{Link Budget Calculation}{subsection.7.9.7}% 167
+\BOOKMARK [2][-]{subsection.7.9.8}{Budget}{subsection.7.9.1}% 168
+\BOOKMARK [2][-]{subsection.7.9.9}{Astrea satellite Final Configuration}{subsection.7.9.1}% 169
+\BOOKMARK [0][-]{chapter.8}{Bibliography}{part.5}% 170
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
