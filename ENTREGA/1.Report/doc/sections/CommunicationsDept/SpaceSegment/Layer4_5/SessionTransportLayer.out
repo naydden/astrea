@@ -1,0 +1,9 @@
+\BOOKMARK [0][-]{chapter.1}{Session and Transport Layer}{}% 1
+\BOOKMARK [1][-]{section.1.1}{User Datagram Protocol \(UDP\)}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Stream Control Transmission Protocol \(SCTP\)}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{ Transmission Control Protocol \(TCP\)}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.3.1}{TCP Services}{section.1.3}% 5
+\BOOKMARK [2][-]{subsection.1.3.2}{TCP features}{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.3}{Segment}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.4}{Adaptation to space needs}{section.1.3}% 8
+\BOOKMARK [1][-]{section.1.4}{Choice of protocol for the transport layer}{chapter.1}% 9
