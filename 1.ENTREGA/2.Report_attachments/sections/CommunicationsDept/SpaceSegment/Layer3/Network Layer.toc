@@ -1,0 +1,86 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Network Layer}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Functions of the Network Layer}{4}{section.1.1}
+\contentsline {paragraph}{}{4}{section*.4}
+\contentsline {section}{\numberline {1.2}Protocols}{4}{section.1.2}
+\contentsline {paragraph}{}{4}{section*.5}
+\contentsline {paragraph}{}{5}{section*.6}
+\contentsline {paragraph}{}{6}{section*.9}
+\contentsline {paragraph}{}{6}{section*.10}
+\contentsline {subsection}{\numberline {1.2.1}Main protocols}{6}{subsection.1.2.1}
+\contentsline {subsubsection}{Space Packet Protocol (SPP)\cite {SPP}}{6}{section*.11}
+\contentsline {paragraph}{}{6}{section*.12}
+\contentsline {paragraph}{}{7}{section*.13}
+\contentsline {paragraph}{}{7}{section*.14}
+\contentsline {paragraph}{}{7}{section*.15}
+\contentsline {paragraph}{}{7}{section*.16}
+\contentsline {subsubsection}{Internet Protocol version 4 (IPv4)\cite {IP}}{8}{section*.18}
+\contentsline {paragraph}{}{8}{section*.19}
+\contentsline {paragraph}{}{8}{section*.20}
+\contentsline {paragraph}{}{8}{section*.22}
+\contentsline {paragraph}{}{8}{section*.24}
+\contentsline {subsubsection}{Internet Protocol version 6 (IPv6)\cite {IPv6}}{8}{section*.25}
+\contentsline {paragraph}{}{8}{section*.26}
+\contentsline {subsection}{\numberline {1.2.2}Auxiliary protocols}{9}{subsection.1.2.2}
+\contentsline {subsubsection}{Encapsulation service\cite {ES}}{9}{section*.28}
+\contentsline {paragraph}{}{9}{section*.29}
+\contentsline {paragraph}{}{10}{section*.30}
+\contentsline {paragraph}{}{10}{section*.31}
+\contentsline {paragraph}{}{10}{section*.32}
+\contentsline {subsubsection}{IP over CCSDS (IPoC)\cite {IPoC}}{10}{section*.34}
+\contentsline {paragraph}{}{10}{section*.35}
+\contentsline {paragraph}{}{10}{section*.36}
+\contentsline {paragraph}{}{11}{section*.37}
+\contentsline {subsubsection}{Internet Control Message Protocol (ICMP)\cite {ICMP}}{11}{section*.38}
+\contentsline {paragraph}{}{11}{section*.39}
+\contentsline {paragraph}{}{11}{section*.40}
+\contentsline {subsubsection}{Internet Control Message Protocol version 6 (ICMPv6)\cite {ICMPv6}}{11}{section*.41}
+\contentsline {paragraph}{}{11}{section*.42}
+\contentsline {subsubsection}{Internet Group Management Protocol (IGMP)\cite {IGMP}}{12}{section*.43}
+\contentsline {paragraph}{}{12}{section*.44}
+\contentsline {subsubsection}{Internet Protocol Security (IPsec)\cite {IPsec}}{12}{section*.45}
+\contentsline {paragraph}{}{12}{section*.46}
+\contentsline {paragraph}{}{12}{section*.47}
+\contentsline {subsubsection}{Protocol Independent Multicast (PIM)\cite {PIMSM}\cite {PIMDM}}{12}{section*.48}
+\contentsline {paragraph}{}{12}{section*.49}
+\contentsline {paragraph}{}{12}{section*.50}
+\contentsline {subsection}{\numberline {1.2.3}Routing protocols}{13}{subsection.1.2.3}
+\contentsline {subsubsection}{Enhanced Interior Gateway Routing Protocol (EIGRP)\cite {EIGRP}}{13}{section*.51}
+\contentsline {paragraph}{}{13}{section*.52}
+\contentsline {paragraph}{}{13}{section*.53}
+\contentsline {paragraph}{}{13}{section*.54}
+\contentsline {paragraph}{}{13}{section*.55}
+\contentsline {paragraph}{}{14}{section*.56}
+\contentsline {subsubsection}{Open Shortest Path First (OSPF)\cite {OSPFv2}\cite {OSPFIPv6}}{14}{section*.57}
+\contentsline {paragraph}{}{14}{section*.58}
+\contentsline {paragraph}{}{14}{section*.59}
+\contentsline {paragraph}{}{14}{section*.60}
+\contentsline {subsubsection}{Routing Information Protocol (RIP)\cite {RIPv2}\cite {RIPng}}{15}{section*.61}
+\contentsline {paragraph}{}{15}{section*.62}
+\contentsline {paragraph}{}{15}{section*.63}
+\contentsline {paragraph}{}{16}{section*.64}
+\contentsline {section}{\numberline {1.3}Protocol Selection}{16}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Choice of the main protocol}{16}{subsection.1.3.1}
+\contentsline {paragraph}{}{16}{section*.65}
+\contentsline {paragraph}{}{16}{section*.66}
+\contentsline {paragraph}{}{16}{section*.67}
+\contentsline {paragraph}{}{16}{section*.68}
+\contentsline {paragraph}{}{16}{section*.69}
+\contentsline {subsection}{\numberline {1.3.2}Choice of routing protocol}{17}{subsection.1.3.2}
+\contentsline {paragraph}{}{17}{section*.70}
+\contentsline {paragraph}{}{17}{section*.71}
+\contentsline {paragraph}{}{17}{section*.72}
+\contentsline {paragraph}{}{17}{section*.73}
+\contentsline {paragraph}{}{17}{section*.74}
+\contentsline {paragraph}{}{17}{section*.75}
+\contentsline {subsection}{\numberline {1.3.3}Choice of complementary protocols}{17}{subsection.1.3.3}
+\contentsline {paragraph}{}{17}{section*.76}
+\contentsline {paragraph}{}{17}{section*.77}
+\contentsline {subsection}{\numberline {1.3.4}Conclusion}{17}{subsection.1.3.4}
+\contentsline {paragraph}{}{17}{section*.78}
+\contentsline {section}{\numberline {1.4}Final structure}{18}{section.1.4}
+\contentsline {paragraph}{}{18}{section*.79}
+\contentsline {paragraph}{}{18}{section*.80}
+\contentsline {paragraph}{}{18}{section*.81}
+\contentsline {paragraph}{}{18}{section*.82}
+\contentsline {paragraph}{}{18}{section*.83}
