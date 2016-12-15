@@ -1,4 +1,4 @@
-\subsection{Payload}
+\section{Payload}
 \paragraph{Aim} AstreaSAT payload, needs to provide a radio link to the client satellites, for real time data relay with no less than 25MB/s of data rate. For achieving its porpoise, the payload will consist on a pack of arrays of antennas and data handling computers.
 
 \paragraph{}AstreaSAT payload will have to have three types of radio links for transmitting in every condition the data received from the clients:
@@ -12,7 +12,7 @@ The radio frequencies that we can use to establish the previous described links 
 
 \paragraph{} Finally, the Payload will consist on a combination of antennas, transceivers and data handling systems which will combine to create a data relay module.
 
-\subsubsection{Antennas}
+\subsection{Antennas}
 \paragraph{}The antennas are essential in this mission, since their role is to transmit and receive the data from other satellites as well as the ground stations. In order to provide fast and reliable communication, several options have been studied and information about their main parameters is presented below.\\
 It has to be kept in mind that the mass of the antennas should be as low as possible given that there are already a lot of subsystems in the CubeSat and the mass limitation is about 4kg.
 Additionally, the power consumption has to be kept as low as possible given the limitations regarding to the power supply of the CubeSat. The antennas must be certified to work under space conditions (high temperature range and radiation protection shield).\\
@@ -85,13 +85,13 @@ For an effective communication, the signal has to be able to trespass the atmosp
 
 \end{longtable}
 
-\subsubsection{Antenna selection}
+\subsection{Antenna selection}
 \paragraph{}After a market study, the best two antennas to add in the CubeSat are the patch antenna AntDevCov and the turnstile antenna ANT430 Gomspace. The number of units of each antenna are 4 and 2 respectively. The 4 patch antennas will be placed on each side face of the CubeSat and they will occupy a 1U face. The 2 turnstile antennas will be placed on the upper and lower face of the CubeSat and, as they do not occupy space, other systems such as  a solar panel or the thruster can be placed on those faces.
 
 \paragraph{} Other antenna types, like helicoidal deployable antennas, parabolic antennas or monopole antennas, had been discarded because of their big volume and mass or because the don't accomplish the preliminary requirements stated on the project charter.  
 \paragraph{} Nevertheless, this is only a preselection. After the link budget study and negotiation with communications department changes can be made if it is necessary.
 
-\subsubsection{Payload Data Handling Systems}
+\subsection{Payload Data Handling Systems}
 \paragraph{} Every AstreaSAT will act as a router to transmit client data to the ground. This initial raw data, should be temporally stored into the satellite in order to process it, if necessary. Since, to down-link the data, first the satellites need to establish connection, data can not be directly retransmitted to other sources (Ground Station or satellite) as it enters to the satellite. Furthermore, non loss compression algorithms can be applied to reduce the data size load and achieve higher data transmission velocities.
 
 \paragraph{}To sum up, Payload Data Handling System of every AstreaSAT (PDHS) will be able to receive, process and send the client data, using the integrated transceivers (transmitter + receiver )  for sending the data and the PDHS computer to process it. PDHS have a hard disk associated which will temporally store the client data.
@@ -178,7 +178,7 @@ For an effective communication, the signal has to be able to trespass the atmosp
 		
 	\end{longtable}
 	\paragraph{}The main advantage of NanoMind Z7000 over ISIS iOBC is the computing availability, because of its two 667MHz processor Z7000 can handle higher data payloads and processit at higher velocities, reducing in last term delay between communications. Also, Z7000 presents a lower mass, critical think in our mass limitation of 4kg. But the turning point is, as stated before, Z7000 comes integrated on a single board with a maximum of three NanoMind TR-600 transceivers, fact that makes it a perfect option to build a data relay module payload.
-\subsubsection{Study of the commercial available options and options chosen}
+\subsection{Study of the commercial available options and options chosen}
 \paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{payloadoptions} is presented below.
 
 \begin{longtable}{| l | c | c | }

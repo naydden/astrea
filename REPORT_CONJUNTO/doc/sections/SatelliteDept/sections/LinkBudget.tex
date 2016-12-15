@@ -1,4 +1,4 @@
-\subsection{Link Budget}
+\section{Link Budget}
 \paragraph
 \ Astrea constellation main satellite must be able to stablish three different telecommunications link: 
 \begin{itemize}
@@ -6,7 +6,7 @@
 	\item Space to Space link between Astrea satellites.
 	\item Space to Space link between client and Astrea satellites.
 \end{itemize} 
-\subsubsection{Communications Basics}
+\subsection{Communications Basics}
 \paragraph
 \
 
@@ -46,7 +46,7 @@ with the weather conditions, especially with rain.
 	\label{principal_losses}
 \end{figure}
 
-\subsubsection{Propagation losses}
+\subsection{Propagation losses}
 \subsubsubsection{Free Space Losses}
 \paragraph{Range and Path Loss}
 \
@@ -171,7 +171,7 @@ reliability of the link, but a good rule-of-thumb is 20dB to
 30dB.
 
 
-\subsubsection{Local Losses}
+\subsection{Local Losses}
 \subsubsubsection{Equipament Losses}
 \paragraph{}The receiving and emitting equipments also introduces some losses to the signal.\\
 \underline{Feeder Losses}: Feeder losses occur in the several components between the receiving antenna and the
@@ -186,7 +186,7 @@ This item is related to the specific region of the globe where the ground statio
 characteristics (e.g. temperature, moisture, thickness of atmospheric ice layer…), which
 may provoke variation in signal reception. \cite{Jorge2012}
 \paragraph{} Communications department, had chosen the best locations over the globe, with stable good weather conditions to neglect this fact.
-\subsubsection{Modulation Technique}
+\subsection{Modulation Technique}
 \paragraph
 \ Modulation technique is a key consideration. This is the
 method by which the analogue or digital information is
@@ -232,7 +232,7 @@ where:
 
 \paragraph{} AstreaSAT is equipped with Software Defined Radios, it has the ability to change the modulation methods when its flying, for calculus MSK and PSK modulations will be considered, because of their more restrictive conditions.
 
-\subsubsection{System Noise}
+\subsection{System Noise}
 The system noise temperature ($T_S$) is the sum of the antenna noise temperature ($T_A$) and
 the composite temperature of other components ($T_{comp}$), according to:    \cite{Jorge2012}
 \begin{equation}
@@ -272,7 +272,7 @@ where:
 
 This is the lowest possible noise level for a system with a given physical temperature. For most applications, temperature is typically assumed to be room temperature (290K). Equations \ref{channelCapacity} and \ref{noise} demonstrate that RF power and bandwidth can be traded off to achieve a given performance level (as defined by BER). \cite{Note1998}
 
-\subsubsection{Link Budget Calculation}
+\subsection{Link Budget Calculation}
 \paragraph{Methodology} \ From the expected requirements fixed on the Project Charter, general radio systems parameters will computed, in order to have a reference to look for the best communications system on board the Astrea satellites. As background, general losses parameters had been calculated on previous sections. 
 
 \paragraph{} The most important concern on AstreaSAT link Budget is how far every satellite can emit on the desired frequencies. This is a key factor to know the utility of the modules selected. At least, Project Charter communication requirements must be accomplish.

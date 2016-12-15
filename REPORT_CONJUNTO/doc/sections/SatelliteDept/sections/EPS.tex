@@ -1,4 +1,4 @@
-\subsection{Electrical Power System}
+\section{Electrical Power System}
 
 \paragraph{}The electric power system of the satellite must provide and manage the energy generated efficiently in order to have all the systems operating under normal conditions during the lifetime of the mission. The EPS of the Cubesat is, probably, the most fundamental requirement of the satellite, since its failure would result in a mission failure. 
 
@@ -11,7 +11,7 @@
 \cite{epsbasics}
 \end{figure}
 
-\subsubsection{Estimation of the power required}
+\subsection{Estimation of the power required}
 \paragraph{}To select the adequate electrical power systems it is essential that the power consumed by the CubeSat is known \textit{a priori}. Thus, to select the solar arrays and the batteries, as well as the power management system, an estimation of the power consumed has to be made.
 
 \paragraph{}The vast majority of the time the satellite will work under typical operation conditions. However, the estimation of the power consumption provided in the table \ref{powerestimation} has been made for typical-high conditions in order to have a power margin and a more reliable estimation.
@@ -60,7 +60,7 @@
 
 Additionally, it is worth mentioning that the thrusters are not included in the final estimated power. The thruster will only be active for shorts periods of time to maintain the orbit, and when it ignites, the other subsystems will not perform in typical conditions. The CubeSat will manage to send only the essential information to the other satellites and, since it is unlikely that their thruster is ignited, the communication is ensured during the maneuver.
 
-\subsubsection{Solar arrays}
+\subsection{Solar arrays}
 
 \paragraph{}Given that the space of a 3U CubeSat is very limited, the primary source of electrical power has to be photovoltaic cells. The photovoltaic cells will collect and convert the energy of the sun into electrical energy and they have to be correctly selected to prevent failure given their importance. 
 
@@ -71,7 +71,7 @@ Additionally, it is worth mentioning that the thrusters are not included in the 
 \paragraph{}Every cubesat will come with at least 4 deployable solar panels providing it with 67.2W of power, approximately, to supply peak demands during the lifetime of the mission. Additionally, it is worth mentioning that these solar arrays are compatible with the hardward used (the structure and the power management system).\\
 Note that these 4 deployable solar panels are a basic requirement. If more space is available on the faces of the satellite, additional 1U non-deployable solar arrays (giving an extra power of 2.3W per array, approximately) or 1U deployable arrays (giving an extra power of 16.8W or ~10W) will be placed. They are also low mass equipment (about 80g per array) as the deployable solar arrays and highly compatible with the CubeSat. Their current and voltage are different but given that the CubeSat will be equipped with the NanoPower P60, that should not be a problem. The only drawback of these arrays is that they may be only fully operational for 2 years in LEO. However, that does not mean they will not work anymore after these 2 years; it means that they will start losing efficiency.
 
-\subsubsection{Power management system}
+\subsection{Power management system}
 
 \paragraph{}The role of the power management system is to distribute the power and supply the energy to the different systems used in the CubeSat. Since the systems of the CubeSat have different power and energy needs, the power management system has to be highly compatible and have a number of buses high enough to supply the different voltage and intensity required to the systems.
 
@@ -86,7 +86,7 @@ Note that these 4 deployable solar panels are a basic requirement. If more space
 \paragraph{}All these features make the \textbf{NanoPower P60} a very efficient and configurable power management unit that fulfills the mission requirements. Furthermore, given this capacity to configure each input and output channel and the high number of channels that it has, the compatibility between all the systems used in the satellite is ensured. Additionally, the communication between this system and the onboard computer in order to detect potential failures is a really adequate feature.\\
 With the NanoPower P60 we aim to distribute the energy to all of the subsystems of the CubeSat.
 
-\subsubsection{Batteries}
+\subsection{Batteries}
 
 \paragraph{}	Batteries are essential for a proper mission operation. They will provide the spacecraft subsystems with the power needed when the solar arrays are working less efficiently or not properly. Astrea is looking for decent capacity batteries that provide a slightly high typical energy and power supply, since all the systems will not usually operate under peak conditions. Additionally, through the lifetime of the mission, the solar arrays will face an important unfavorable condition; in the worst case scenario, the satellite will be in the dark during half of the period of the orbit. So, it is clear that the batteries are a critical system of the CubeSat
 
@@ -96,7 +96,7 @@ With the NanoPower P60 we aim to distribute the energy to all of the subsystems 
 
 \paragraph{}As mentioned above, if the satellite was in the dark during half of the period of the orbit, the estimated energy that it would need would be ~50W. Thereby, the capacity of the batteries is more than enough to supply the required energy in the worst case scenario. In fact, they will supply energy when the energy demand of the CubeSat is higher than the energy collected by the solar cells. And logically, they will store the energy collected by the solar arrays when the energy demand of the systems is lower than the energy collected.
 
-\subsubsection{Study of the commercial available options and options chosen}
+\subsection{Study of the commercial available options and options chosen}
 \paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{epsoptions} is presented below.
 
 \begin{longtable}{| l | c | c | }
