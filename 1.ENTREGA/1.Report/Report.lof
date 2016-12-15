@@ -76,37 +76,34 @@
 \contentsline {figure}{\numberline {7.2.1}{\ignorespaces DLL of the CCSDS.\relax }}{125}{figure.caption.136}
 \contentsline {figure}{\numberline {7.3.1}{\ignorespaces CCSDS Recommended Protocols}}{129}{figure.caption.142}
 \contentsline {figure}{\numberline {7.3.2}{\ignorespaces Combination of CCSDS Recommended Protocols}}{130}{figure.caption.143}
-\contentsline {figure}{\numberline {7.3.3}{\ignorespaces SPP header}}{132}{figure.caption.151}
-\contentsline {figure}{\numberline {7.3.4}{\ignorespaces IPv4 header}}{133}{figure.caption.156}
-\contentsline {figure}{\numberline {7.3.5}{\ignorespaces IPv6 header}}{134}{figure.caption.159}
-\contentsline {figure}{\numberline {7.3.6}{\ignorespaces Encapsulation header}}{135}{figure.caption.164}
-\contentsline {figure}{\numberline {7.5.1}{\ignorespaces Overall space communication protocol stack \relax }}{155}{figure.caption.213}
+\contentsline {figure}{\numberline {7.3.3}{\ignorespaces IPv6 header}}{133}{figure.caption.153}
+\contentsline {figure}{\numberline {7.5.1}{\ignorespaces Overall space communication protocol stack \relax }}{147}{figure.caption.187}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.6.1}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{176}{figure.caption.223}
-\contentsline {figure}{\numberline {9.6.2}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to -90\IeC {\textordmasculine }\relax }}{177}{figure.caption.224}
-\contentsline {figure}{\numberline {9.6.3}{\ignorespaces Links vs time for latitudes from 70\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{178}{figure.caption.225}
-\contentsline {figure}{\numberline {9.6.4}{\ignorespaces Links vs time for latitudes from 45\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{178}{figure.caption.226}
-\contentsline {figure}{\numberline {9.6.5}{\ignorespaces Links vs time for latitudes from 55\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{179}{figure.caption.227}
-\contentsline {figure}{\numberline {9.6.6}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine }\relax }}{179}{figure.caption.228}
-\contentsline {figure}{\numberline {9.6.7}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{180}{figure.caption.229}
-\contentsline {figure}{\numberline {9.6.8}{\ignorespaces Links vs time for latitudes from -62.5\IeC {\textordmasculine } to -57.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{180}{figure.caption.230}
-\contentsline {figure}{\numberline {9.6.9}{\ignorespaces Links vs time for longitudes from 0\IeC {\textordmasculine } to 270\IeC {\textordmasculine }\relax }}{181}{figure.caption.231}
-\contentsline {figure}{\numberline {9.6.10}{\ignorespaces Links vs time for longitudes of 0\IeC {\textordmasculine }, 120\IeC {\textordmasculine } and 240\IeC {\textordmasculine }\relax }}{182}{figure.caption.232}
-\contentsline {figure}{\numberline {9.6.11}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{183}{figure.caption.234}
-\contentsline {figure}{\numberline {9.8.1}{\ignorespaces S-band Equipment}}{186}{figure.caption.243}
-\contentsline {figure}{\numberline {9.8.2}{\ignorespaces X-band Equipment}}{186}{figure.caption.245}
+\contentsline {figure}{\numberline {9.6.1}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{168}{figure.caption.197}
+\contentsline {figure}{\numberline {9.6.2}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to -90\IeC {\textordmasculine }\relax }}{169}{figure.caption.198}
+\contentsline {figure}{\numberline {9.6.3}{\ignorespaces Links vs time for latitudes from 70\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{170}{figure.caption.199}
+\contentsline {figure}{\numberline {9.6.4}{\ignorespaces Links vs time for latitudes from 45\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{170}{figure.caption.200}
+\contentsline {figure}{\numberline {9.6.5}{\ignorespaces Links vs time for latitudes from 55\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{171}{figure.caption.201}
+\contentsline {figure}{\numberline {9.6.6}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine }\relax }}{171}{figure.caption.202}
+\contentsline {figure}{\numberline {9.6.7}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{172}{figure.caption.203}
+\contentsline {figure}{\numberline {9.6.8}{\ignorespaces Links vs time for latitudes from -62.5\IeC {\textordmasculine } to -57.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{172}{figure.caption.204}
+\contentsline {figure}{\numberline {9.6.9}{\ignorespaces Links vs time for longitudes from 0\IeC {\textordmasculine } to 270\IeC {\textordmasculine }\relax }}{173}{figure.caption.205}
+\contentsline {figure}{\numberline {9.6.10}{\ignorespaces Links vs time for longitudes of 0\IeC {\textordmasculine }, 120\IeC {\textordmasculine } and 240\IeC {\textordmasculine }\relax }}{174}{figure.caption.206}
+\contentsline {figure}{\numberline {9.6.11}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{175}{figure.caption.208}
+\contentsline {figure}{\numberline {9.8.1}{\ignorespaces S-band Equipment}}{178}{figure.caption.217}
+\contentsline {figure}{\numberline {9.8.2}{\ignorespaces X-band Equipment}}{178}{figure.caption.219}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{196}{figure.caption.269}
-\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{198}{figure.caption.277}
-\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{220}{figure.caption.343}
-\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{223}{figure.caption.348}
-\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{225}{figure.caption.351}
-\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{226}{figure.caption.352}
-\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{229}{figure.caption.363}
+\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{187}{figure.caption.243}
+\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{189}{figure.caption.251}
+\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{211}{figure.caption.317}
+\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{213}{figure.caption.322}
+\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{215}{figure.caption.325}
+\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{215}{figure.caption.326}
+\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{217}{figure.caption.337}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{270}{figure.caption.376}
+\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{257}{figure.caption.350}
 \addvspace {10\p@ }
