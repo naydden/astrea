@@ -484,32 +484,32 @@
 \contentsline {section}{\numberline {11.2}Economic Feasibility Report}{247}{section.11.2}
 \contentsline {subsection}{\numberline {11.2.1}Previous costs}{247}{subsection.11.2.1}
 \contentsline {subsubsection}{\numberline {11.2.1.1}Engineering hours}{247}{subsubsection.11.2.1.1}
-\contentsline {subsubsection}{\numberline {11.2.1.2}Administrarion costs}{249}{subsubsection.11.2.1.2}
+\contentsline {subsubsection}{\numberline {11.2.1.2}Administrarion costs}{248}{subsubsection.11.2.1.2}
 \contentsline {subsubsection}{\numberline {11.2.1.3}Taxes}{249}{subsubsection.11.2.1.3}
 \contentsline {subsubsection}{\numberline {11.2.1.4}Insurance}{249}{subsubsection.11.2.1.4}
-\contentsline {subsection}{\numberline {11.2.2}Economic feasibility study}{251}{subsection.11.2.2}
-\contentsline {section}{\numberline {11.3}Conclusions of the financial study}{254}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}Pay Back Time (PBT)}{254}{subsection.11.3.1}
-\contentsline {subsection}{\numberline {11.3.2}Updated Pay Back Time (UPBT)}{254}{subsection.11.3.2}
-\contentsline {subsection}{\numberline {11.3.3}Break Even Point (BEP)}{255}{subsection.11.3.3}
-\contentsline {subsection}{\numberline {11.3.4}Net Present Value (NPV)}{256}{subsection.11.3.4}
-\contentsline {subsection}{\numberline {11.3.5}Internal Rate of Return (IRR)}{257}{subsection.11.3.5}
-\contentsline {chapter}{\numberline {12}Marketing Plan}{258}{chapter.12}
-\contentsline {section}{\numberline {12.1}Executive Summary}{259}{section.12.1}
-\contentsline {section}{\numberline {12.2}Target Customers}{260}{section.12.2}
-\contentsline {section}{\numberline {12.3}Unique Selling Proposition}{261}{section.12.3}
-\contentsline {section}{\numberline {12.4}Pricing \& Positioning Strategy}{262}{section.12.4}
-\contentsline {section}{\numberline {12.5}Distribution Plan}{263}{section.12.5}
-\contentsline {section}{\numberline {12.6}Marketing Materials}{264}{section.12.6}
-\contentsline {section}{\numberline {12.7}Online Marketing Strategy}{265}{section.12.7}
-\contentsline {section}{\numberline {12.8}Conversion Strategy}{266}{section.12.8}
-\contentsline {section}{\numberline {12.9}Joint Ventures \& Partnerships}{267}{section.12.9}
-\contentsline {chapter}{\numberline {13}Environmental Impact Study}{268}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introduction}{269}{section.13.1}
-\contentsline {section}{\numberline {13.2}Ground Stations}{270}{section.13.2}
-\contentsline {section}{\numberline {13.3}Satellites}{271}{section.13.3}
-\contentsline {section}{\numberline {13.4}Launch system}{272}{section.13.4}
-\contentsline {chapter}{\numberline {14}Social and Security Considerations}{275}{chapter.14}
-\contentsline {section}{\numberline {14.1}Social and security considerations}{276}{section.14.1}
-\contentsline {paragraph}{}{277}{section*.375}
-\contentsline {section}{\numberline {14.2}Legislation}{278}{section.14.2}
+\contentsline {subsection}{\numberline {11.2.2}Economic feasibility study}{250}{subsection.11.2.2}
+\contentsline {section}{\numberline {11.3}Conclusions of the financial study}{253}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Pay Back Time (PBT)}{253}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}Updated Pay Back Time (UPBT)}{253}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}Break Even Point (BEP)}{254}{subsection.11.3.3}
+\contentsline {subsection}{\numberline {11.3.4}Net Present Value (NPV)}{255}{subsection.11.3.4}
+\contentsline {subsection}{\numberline {11.3.5}Internal Rate of Return (IRR)}{256}{subsection.11.3.5}
+\contentsline {chapter}{\numberline {12}Marketing Plan}{257}{chapter.12}
+\contentsline {section}{\numberline {12.1}Executive Summary}{258}{section.12.1}
+\contentsline {section}{\numberline {12.2}Target Customers}{259}{section.12.2}
+\contentsline {section}{\numberline {12.3}Unique Selling Proposition}{260}{section.12.3}
+\contentsline {section}{\numberline {12.4}Pricing \& Positioning Strategy}{261}{section.12.4}
+\contentsline {section}{\numberline {12.5}Distribution Plan}{262}{section.12.5}
+\contentsline {section}{\numberline {12.6}Marketing Materials}{263}{section.12.6}
+\contentsline {section}{\numberline {12.7}Online Marketing Strategy}{264}{section.12.7}
+\contentsline {section}{\numberline {12.8}Conversion Strategy}{265}{section.12.8}
+\contentsline {section}{\numberline {12.9}Joint Ventures \& Partnerships}{266}{section.12.9}
+\contentsline {chapter}{\numberline {13}Environmental Impact Study}{267}{chapter.13}
+\contentsline {section}{\numberline {13.1}Introduction}{268}{section.13.1}
+\contentsline {section}{\numberline {13.2}Ground Stations}{269}{section.13.2}
+\contentsline {section}{\numberline {13.3}Satellites}{270}{section.13.3}
+\contentsline {section}{\numberline {13.4}Launch system}{271}{section.13.4}
+\contentsline {chapter}{\numberline {14}Social and Security Considerations}{274}{chapter.14}
+\contentsline {section}{\numberline {14.1}Social and security considerations}{275}{section.14.1}
+\contentsline {paragraph}{}{276}{section*.375}
+\contentsline {section}{\numberline {14.2}Legislation}{277}{section.14.2}
