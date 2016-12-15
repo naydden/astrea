@@ -26,15 +26,15 @@ Global coverage will be discussed considering the elevation angle and its result
 
 
 \subsection{Atmospheric restrictive conditions}
-In order to obtain the final restrictive angle of elevation needed to contact the ground stations some considerations have to be made. First, a description of the different atmospheric conditions will be defined. Then, we will relate these to our bandwidth in order to analyse if they must be taken into account when communicating with ground stations. [elec2013cantero]
+In order to obtain the final restrictive angle of elevation needed to contact the ground stations some considerations have to be made. First, a description of the different atmospheric conditions will be defined. Then, we will relate these to our bandwidth in order to analyse if they must be taken into account when communicating with ground stations.  \cite{Gomez2013}
 \paragraph{    }
-\textendash\textbf{ Atmospheric gases: }water vapour and oxygen absorptions; important when frequencies are above 3 GHz. More information [64] and [07328546]\\*
+\textendash\textbf{ Atmospheric gases: }water vapour and oxygen absorptions; important when frequencies are above 3 GHz. More information \cite{Zubair2011} and \cite{Luini2015}\\
 
-\textendash\textbf{ Precipitations and Clouds: }these conditions are relevant for signals above 10GHz. \\*
+\textendash\textbf{ Precipitations and Clouds: }these conditions are relevant for signals above 10GHz. \\
 
-\textendash\textbf{ Cross Polarization Discrimination: }direct consequence of both terrestrial links and rain. Related to non-spherical rain drops which have a polarization rotated towards the component of the major axis, and hence may attenuate a signal wave. \\*
+\textendash\textbf{ Cross Polarization Discrimination: }direct consequence of both terrestrial links and rain. Related to non-spherical rain drops which have a polarization rotated towards the component of the major axis, and hence may attenuate a signal wave. \\
 
-\textendash\textbf{ Scintillation } is a rapid fluctuation in signal amplitude at low elevations. \\*
+\textendash\textbf{ Scintillation } is a rapid fluctuation in signal amplitude at low elevations. \\
 
 \textendash\textbf{ Radio Refracting Index: } for elevation angles below 3 degrees (especially those below 1 degree) and depending on the latitude of our satellite we may find big signal losses due to the resulting differential ray bending.\\*\\*
 
@@ -56,21 +56,21 @@ By means of these physical phenomena we can substract the elevation angle as fun
 
 The ASTREA CONSTELLATION was designed and optimized in order to fulfill global coverage for a constant elevation angle - respect to the latitude - of 20 degrees.\\* 
 
-Our constellation will be operating at S-band for telemetry and X-band for data relay. Therefore, the satellites need to be operating up to 10 GHz. This directly implies that physical conditions such as atmospheric gases, precipitations and clouds must be studied when determining the elevation angle needed. \\*
+Our constellation will be operating at S-band for telemetry and X-band for data relay. Therefore, the satellites need to be operating up to 10 GHz. This directly implies that physical conditions such as atmospheric gases, precipitations and clouds must be studied when determining the elevation angle needed. \\
 
-The minimum elevation angle is applied in low latitude regions for constellations based on polar orbits whereas this value is also applied out of the low-latitude region for inclined orbit constellations [a general evaluation criterion]. The minimum elevation angle is a specific value which is equivalent to the maximum elevation angle needed to fulfill coverage at a given latitude, considering that the distance between planes is maximum at the equator and that it is reduced for higher latitude positions.\\*
+The minimum elevation angle is applied in low latitude regions for constellations based on polar orbits whereas this value is also applied out of the low-latitude region for inclined orbit constellations \cite{Li2016}. The minimum elevation angle is a specific value which is equivalent to the maximum elevation angle needed to fulfill coverage at a given latitude, considering that the distance between planes is maximum at the equator and that it is reduced for higher latitude positions.\\
 
-This elevation angle is maximum in a Walker Delta constellation when the latitude is equal to the orbital inclination angle[a general evaluation criterion]. This means that the limiting restrictive elevation angle that we need in order to fulfill global coverage is defined at latitude equal to 72 degrees, which is the inclination of our constellation. Otherwise, we can define a constant elevation angle that will apply to the equator, which will then be, for this model, the restrictive condition. \\*
+This elevation angle is maximum in a Walker Delta constellation when the latitude is equal to the orbital inclination angle[a general evaluation criterion]. This means that the limiting restrictive elevation angle that we need in order to fulfill global coverage is defined at latitude equal to 72 degrees, which is the inclination of our constellation. Otherwise, we can define a constant elevation angle that will apply to the equator, which will then be, for this model, the restrictive condition. \\
 
-Accordingly, the approach considered is that of a constant elevation angle to fulfill global coverage at 20 degrees. This implies that our constellation is configured and distributed in order to optimize coverage both at the equator and at the maximum elevation angle latitude. This value has been contrasted and discussed considering the atmospheric conditions and analysing experimental data, which contemplates also the rotation of the Earth among others. \\*
+Accordingly, the approach considered is that of a constant elevation angle to fulfill global coverage at 20 degrees. This implies that our constellation is configured and distributed in order to optimize coverage both at the equator and at the maximum elevation angle latitude. This value has been contrasted and discussed considering the atmospheric conditions and analysing experimental data, which contemplates also the rotation of the Earth among others. \\
 
-This constant elevation angle model will be very useful in order to analyse and calcute the distribution of the constellation. Nevertheless, we need to describe in an accurate way the minimum elevation angle respect to the latitude. This is why a different model must be approached. \\*
+This constant elevation angle model will be very useful in order to analyse and calcute the distribution of the constellation. Nevertheless, we need to describe in an accurate way the minimum elevation angle respect to the latitude. This is why a different model must be approached. \\
 
-Thus, we need to describe the elevation angle respect to the latitude of our constellation taking into account all considerations above. First, for a latitude of 0 degrees the value of the minimum elevation angle will be of 10 degrees. In our model we have considered that this value was of constant 20 degrees, so in fact we have redundant global coverage. At latitudes between the equator and 45 degrees our second model increases linearly to 15 degrees. From 45 to 60 degrees the elevation angle also increases linearly to 22 degrees. Then, from 60 to 70 tha value increases highly reaching a peak at 70 degrees, where the elevation angle will be of 30 degrees. Finally, from 70 to 80 degrees this model is reduced linearly to 15 degrees, and from 80 to the north and south poles it falls to 0 degrees. This is a simple model that will guarantee global coverage, especially at the latitudes of our ground stations \\*
+Thus, we need to describe the elevation angle respect to the latitude of our constellation taking into account all considerations above. First, for a latitude of 0 degrees the value of the minimum elevation angle will be of 10 degrees. In our model we have considered that this value was of constant 20 degrees, so in fact we have redundant global coverage. At latitudes between the equator and 45 degrees our second model increases linearly to 15 degrees. From 45 to 60 degrees the elevation angle also increases linearly to 22 degrees. Then, from 60 to 70 tha value increases highly reaching a peak at 70 degrees, where the elevation angle will be of 30 degrees. Finally, from 70 to 80 degrees this model is reduced linearly to 15 degrees, and from 80 to the north and south poles it falls to 0 degrees. This is a simple model that will guarantee global coverage, especially at the latitudes of our ground stations \\
 
 For the distribution of ground stations we need to guarantee that these will be covered either by one satellite or two at any given moment. As discussed before, the model used was based on a constant 20 degree constant elevation angle. However, for this last model that we have described - which is more realistic - we obtain more coverage than for the constant model except for those regions next to the peak. The most restrictive latitude is now 60 degrees - where all the ground stations are set - and has a 22 degree restriction of the angle of elevation, which is higher than the constant model described previously. These facts imply the following: \\*
 
-\textendash\  At low latitudes (between 0 and 30 degrees) the constellation fulfills global coverage generously. \\*
+\textendash\  At low latitudes (between 0 and 30 degrees) the constellation fulfills global coverage generously. \\
 
 \textendash\ At ground station latitude (60 degrees) the constellation is covering the station succesfully. As discussed before, our first model considered a constant 20 degree elevation angle instead of the 22 degrees that now must be corrected. For the previous model coverage was well established with margin. For the latter, the margin has decreased but coverage is still complete. Note: each orbit could be reduced by a number of satellites per plane, but this would endanger the correct and stationary working of the constellation. In this case we would not be able to control possible incidencies such as unoperative satellites with enough margin. \\
 
@@ -91,9 +91,9 @@ Analysing the minimum elevation angle needed in order to fulfill global coverage
 
 Comparing our configuration to other present constellations some clarifications can be made: 
 
-\textendash\ The minimum elevation angle peak is proportional to the bandwidth at which the satellite is communicating with Earth. For instance, Iridium's peak of elevation angle is the highest relative to the other configurations since it is also working with the highest frequency signals. \\*
+\textendash\ The minimum elevation angle peak is proportional to the bandwidth at which the satellite is communicating with Earth. For instance, Iridium's peak of elevation angle is the highest relative to the other configurations since it is also working with the highest frequency signals. \\
 
-\textendash\ The latitude position of the peaks is related to the inclination of the constellation. Iridium, - a polar orbit based configuration - describes a peak at 90 degrees of latitude whereas Celestri and GlobalStar are near 40 to 50 degrees. \\*
+\textendash\ The latitude position of the peaks is related to the inclination of the constellation. Iridium, - a polar orbit based configuration - describes a peak at 90 degrees of latitude whereas Celestri and GlobalStar are near 40 to 50 degrees. \\
 
 With these tendencies our model can be confirmed as function of the frequencies of the signals and related to the inclination of the orbits. 
 
@@ -101,7 +101,7 @@ With these tendencies our model can be confirmed as function of the frequencies 
 \begin{figure}[h]
 \includegraphics[width=8cm]{latitudes}
 \centering
-\caption{Minimum elevation angle as function of latitude. Source: [a general evaluation criterion]}
+\caption{Minimum elevation angle as function of latitude. Source: \cite{Li2016}}
 \end{figure}
 
 \end{document}

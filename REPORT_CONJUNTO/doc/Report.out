@@ -112,8 +112,8 @@
 \BOOKMARK [2][-]{subsection.6.7.2}{Space Debris}{section.6.7}% 112
 \BOOKMARK [2][-]{subsection.6.7.3}{End-of-Life Types}{section.6.7}% 113
 \BOOKMARK [1][-]{section.6.8}{Conclusions}{chapter.6}% 114
-\BOOKMARK [-1][-]{part.3}{III Communications}{}% 115
-\BOOKMARK [0][-]{chapter.7}{Space Segment Protocol Stack}{part.3}% 116
+\BOOKMARK [-1][-]{part.3}{III Protocol Stack}{}% 115
+\BOOKMARK [0][-]{chapter.7}{Space Segment}{part.3}% 116
 \BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 117
 \BOOKMARK [1][-]{section.7.2}{Layer 2: Data Link}{chapter.7}% 118
 \BOOKMARK [2][-]{subsection.7.2.1}{Functions of the DLL}{section.7.2}% 119
@@ -148,7 +148,7 @@
 \BOOKMARK [3][-]{subsubsection.7.4.3.2}{TCP features}{subsection.7.4.3}% 148
 \BOOKMARK [2][-]{subsection.7.4.4}{Choice of protocol for the transport layer}{section.7.4}% 149
 \BOOKMARK [1][-]{section.7.5}{Global Overview}{chapter.7}% 150
-\BOOKMARK [0][-]{chapter.8}{Ground Segment Protocols}{part.3}% 151
+\BOOKMARK [0][-]{chapter.8}{Ground Segment}{part.3}% 151
 \BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 152
 \BOOKMARK [1][-]{section.8.2}{Ground Segment protocols}{chapter.8}% 153
 \BOOKMARK [2][-]{subsection.8.2.1}{File Transfer Protocol \(FTP\)}{section.8.2}% 154

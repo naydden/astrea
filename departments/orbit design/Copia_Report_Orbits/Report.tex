@@ -1,0 +1,78 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% LaTeX Template
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{doc_config/doc_config} % Document Configurations
+
+\input{doc_config/doc_info} % Document information
+
+\input{doc_config/headers_and_footers} % Headers and footers
+
+\input{doc_config/defined_stuff} % User defined environments
+
+% Paragraph formatting
+\setlength{\parindent}{0pt}
+
+\usepackage{epigraph}
+\usepackage{tocloft}
+
+\begin{document}
+
+\input{./doc_config/cover} % COVER
+\newpage\thispagestyle{EmptyPage}
+\mbox{}\newpage
+
+\pagenumbering{roman}
+
+% TABLE OF CONTENTS
+\setcounter{tocdepth}{3}
+\tableofcontents
+\pagebreak
+
+%\mbox{}\newpage
+\renewcommand{\cfttabnumwidth}{4em}
+\listoftables
+\pagebreak
+
+%\mbox{}\newpage
+\renewcommand{\cftfignumwidth}{4em}
+\listoffigures
+
+
+% DOCUMENT SECTIONS
+
+\newpage
+\pagenumbering{arabic}
+%
+%\newpage
+%\setlength{\parskip}{1em}
+%\part{Communications}
+%\import{sections/CommunicationsDept/}{Ch1-SpaceSegment}
+%\import{sections/CommunicationsDept/}{Ch2-GroundSegment}
+%\import{sections/CommunicationsDept/}{Ch3-GroundStation}
+
+\part{Orbit Design}
+\import{sections/OrbitDesign/}{Ch1-Geometry}
+\import{sections/OrbitDesign/}{Ch2-OrbitalCoverage}
+\import{sections/OrbitDesign/}{Ch3-ConstConfig}
+\import{sections/OrbitDesign/}{Ch4-OrbitPerturbations}
+\import{sections/OrbitDesign/}{Ch5-Decision}
+
+% BIBLIOGRAPHY
+
+% styles:
+%	abbrv   : [#] Initial. Surname (pages and vol. abbrev.)
+% 	acm     : [#] Surname, Initial. (sc)
+%	alpha   : [Abrev.yy] Name Surname
+%	apalike : [Surname, yyyy] Surname, Initial 
+%	ieeetr  : [#] Initial. Surname (pages and vol. ext.)
+%	plain   : [#] Name Surname
+%	siam    : [#] Initial. Surname (sc)
+%	unsrt   : [#] Name Surname
+
+\bibliographystyle{unsrt}
+\bibliography{sections/OrbitDesign/ConstellationConfiguration/OrbitalMechanics,sections/OrbitDesign/Geometry/Bibliography/Howard,sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/DragDyn} 
+
+\end{document}

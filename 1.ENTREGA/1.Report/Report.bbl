@@ -1,0 +1,255 @@
+\begin{thebibliography}{10}
+
+\bibitem{Howard}
+Howard~D. Curtis.
+\newblock {\em {Orbital Mechanics for Engineering Students}}, volume 3rd
+  editio.
+\newblock Elsevier, 2014.
+
+\bibitem{Chobotov2002}
+Vladimir~A Chobotov.
+\newblock {\em {Orbital Mechanics}}.
+\newblock 2002.
+
+\bibitem{Walker1971}
+J.G. Walker.
+\newblock {Some Circular Orbit Pattern Providing Continuous Whole Earth
+  Coverage}.
+\newblock {\em Journal of the British Interplanetary Society}, 24:369--384,
+  1971.
+
+\bibitem{Walker1977}
+J.G. Walker.
+\newblock {Continuous whole-Earth coverage by circular-orbit satellite
+  patterns}.
+\newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
+
+\bibitem{Secretariat2014}
+CCSDS Secretariat.
+\newblock {Overview of Space Communications Protocols}.
+\newblock (CCSDS 130.0-G-3):43, 2014.
+
+\bibitem{X200}
+{International Telecommunication Union}.
+\newblock {\em {X.200: Data Networks and open system communications}},
+  volume~4.
+\newblock 1994.
+
+\bibitem{CCSDSOverview}
+CCSDS.
+\newblock {\em {Report Concerning Space Data System Standards - Overview of
+  Space Communications Protocols}}.
+\newblock Number CCSDS 130.0-G-3. 2014.
+
+\bibitem{SPP}
+CCSDS.
+\newblock {\em {Recommendation for Space Data System Standards - Space Packet
+  Protocol}}.
+\newblock Number CCSDS 133.0-B-1. 2003.
+
+\bibitem{ES}
+CCSDS.
+\newblock {\em {Recommendation for Space Data System Standards - Encapsulation
+  Service}}.
+\newblock Number 133.1-B-2. 2009.
+
+\bibitem{SANA}
+{Space Assigned Number Authority (SANA) Registry}.
+\newblock http://sanaregistry.org/.
+
+\bibitem{IPoC}
+CCSDS.
+\newblock {\em {Recommendation for Space Data System Standards - IP over CCSDS
+  Space Links}}.
+\newblock Number CCSDS 702.1-B-1. 2012.
+
+\bibitem{IP}
+{Information Sciences Institute University of Southern California 4676
+  Admiralty Way} and California~90291 {Marina del Rey}.
+\newblock {\em {Internet Protocol Specification}}.
+\newblock 1981.
+
+\bibitem{IPv6}
+S~Deering and R~Hinden.
+\newblock {\em {Internet Protocol, Version 6 (IPv6) Specification}}.
+\newblock 1998.
+
+\bibitem{SANAPVN}
+{Space Assigned Number Authority (SANA) Registry: Packet Version Number}.
+\newblock
+  http://sanaregistry.org/r/packet{\_}version{\_}number/packet{\_}version{\_}number.html.
+
+\bibitem{SANAAPID}
+{Space Assigned Number Authority (SANA) Registry: Application Identifier}.
+\newblock
+  http://sanaregistry.org/r/space{\_}packet{\_}protocol{\_}application{\_}process{\_}id/space{\_}packet{\_}protocol{\_}application{\_}process{\_}id.html.
+
+\bibitem{SANAPID}
+{Space Assigned Number Authority (SANA) Registry: Protocol Identifier}.
+\newblock http://sanaregistry.org/r/protocol{\_}id/protocol{\_}id.html.
+
+\bibitem{SANAIPE}
+{Space Assigned Number Authority (SANA) Registry: IP Extension header}.
+\newblock http://sanaregistry.org/r/ipe{\_}header/ipe{\_}header.html.
+
+\bibitem{ICMP}
+J~Postel.
+\newblock {Internet Control Message Protocol}.
+\newblock pages 1--21, 1981.
+
+\bibitem{ICMPv6}
+A~Conta, S~Deering, and M~Gupta.
+\newblock {Internet Control Message Protocol (ICMPv6) for the Internet Protocol
+  Version 6 (IPv6) Specification}.
+\newblock 6:1--24, 2006.
+
+\bibitem{IGMP}
+H~Holbrook, B~Cain, and B~Haberman.
+\newblock {\em {Using Internet Group Management Protocol Version 3 (IGMPv3) and
+  Multicast Listener Discovery Protocol Version 2 (MLDv2) for Source-Specific
+  Multicast}}.
+\newblock 2006.
+
+\bibitem{IPsec}
+S~Kent and K~Seo.
+\newblock {Security Architecture for the Internet Protocol}.
+\newblock pages 1--101, 2005.
+
+\bibitem{PIMSM}
+B~Fenner, M~Handley, H~Holbrook, I~Kouvelas, R~Parekh, Z~Zhang, and L~Zheng.
+\newblock {\em {Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol
+  Specification (Revised)}}.
+\newblock 2016.
+
+\bibitem{PIMDM}
+A~Adams, J~Nicholas, and W~Siadak.
+\newblock {\em {Protocol Independent Multicast - Dense Mode (PIM-DM): Protocol
+  Specification (Revised)}}.
+\newblock 2005.
+
+\bibitem{EIGRP}
+D~Savage, J~Ng, S~Moore, D~Slice, P~Paluch, and R~White.
+\newblock {\em {Cisco's Enhanced Interior Gateway Routing Protocol (EIGRP)}}.
+\newblock 2016.
+
+\bibitem{OSPFv2}
+J~Moy.
+\newblock {\em {OSPF Version 2 Status}}.
+\newblock 1998.
+
+\bibitem{OSPFIPv6}
+R~Coltun, D~Ferguson, J~Moy, and A~Lindem.
+\newblock {\em {OSPF for IPv6}}.
+\newblock 2008.
+
+\bibitem{RIPv2}
+G~Malkin.
+\newblock {RIP Version 2}.
+\newblock pages 1--39, 1998.
+
+\bibitem{RIPng}
+G~Malkin and R~Minnear.
+\newblock {RIPng for IPv6}.
+\newblock pages 1--19, 1997.
+
+\bibitem{IANAPN}
+{Internet Assigned Number Authority (IANA) Registry: Protocol Numbers}.
+\newblock
+  http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml.
+
+\bibitem{XBand}
+Dartcom.
+\newblock {http://www.dartcom.co.uk/files/DartcomXBandEOSSystemBrochure.pdf}.
+
+\bibitem{SBand}
+ISISpace.
+\newblock https://www.isispace.nl/product/full-ground-station-kit-s-band/.
+
+\bibitem{UKForm}
+{UK Government}.
+\newblock
+  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0023/47138/ofw564.pdf.
+
+\bibitem{UKFees}
+{UK Government}.
+\newblock
+  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0020/27461/fees.pdf.
+
+\bibitem{UKMHzFees}
+{Government UK}.
+\newblock
+  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0038/66899/fees{\_}for{\_}grant{\_}of{\_}rsa{\_}for{\_}roes.pdf.
+
+\bibitem{UKAllocation}
+{UK Government}.
+\newblock
+  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0028/44875/ofw{\_}241{\_}mar{\_}2013.pdf.
+
+\bibitem{CndForm}
+{Canada Government}.
+\newblock http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf00023.html.
+
+\bibitem{CndFees}
+{Canada Government}.
+\newblock http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01027.html{\#}a4.
+
+\bibitem{SBandDatasheet}
+IQ~wireless.
+\newblock {http://www.iq-wireless.com/images/pdf/SLINK-PHY-Datasheet.pdf}.
+
+\bibitem{EUI}
+{Energy Star}.
+\newblock {US Energy Use Intensity by Property Type}, 2016.
+
+\bibitem{endesa}
+Endesa.
+\newblock {Precios de Tarifas Reguladas Luz y Gas}.
+
+\bibitem{inf}
+{Precios de contratos de mantenimiento en Madrid | Fojenet}.
+
+\bibitem{clean}
+LimpiezasSIL.
+\newblock {Como Calcular un Presupuesto de Limpieza}.
+
+\bibitem{OVO}
+{OVO Energy}.
+\newblock {Average electricity prices around the world}.
+
+\bibitem{cubesatdimensions}
+CalPoly.
+\newblock {Cubesat design specification (CDS)}.
+\newblock page~42, 2014.
+
+\bibitem{epsbasics}
+Robert Burt.
+\newblock {Distributed Electrical Power System in Cubesat Applications}.
+\newblock pages 2--3, 2011.
+
+\bibitem{collisionLEO}
+{IADC Space Debris Mitigation Guidelines}.
+\newblock 2007.
+
+\bibitem{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}
+{Secretar{\'{i}}a de Estado de telecomunicaciones y para la sociedad de la
+  informaci{\'{o}}n.}
+\newblock {Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias (CNAF) revisado
+  2015}.
+\newblock pages 3--110, 2015.
+
+\bibitem{Note1998}
+Application Note.
+\newblock {Tutorial on Basic Link Budget Analysis}.
+\newblock {\em Intersil}, (June 1998):1--8, 1998.
+
+\bibitem{Jorge2012}
+Carlos Jorge and Rodrigues Capela.
+\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
+\newblock (April), 2012.
+
+\bibitem{CraigClark}
+Craig Clark.
+\newblock {Constellations of CubeSats are revolutionising how we use
+  satellites}.
+
+\end{thebibliography}

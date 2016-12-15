@@ -36,25 +36,13 @@ The DLL is responsible for converting data stream to signals bit by bit and to s
 \item \textbf{Flow control}: Stations on same link may have different speed or capacity. Data-link layer ensures flow control that enables both machine to exchange data on same speed. 
  \end{itemize}
 \subsection{Working procedure}
-In the previous section, the functions of the DLL have been determined. Now, the way it is achieved will be exposed. To do so, a list of possible protocols from the simplest one to the more complex will explained. A ranking of the prefered working procedures will be done. All the images have been extracted from\cite{Forouzan2012}.
+In the previous section, the functions of the DLL have been determined. Now, the way it is achieved will be exposed. To do so, a list of possible protocols from the simplest one to the more complex will briefly explained. To see more information about these procedures as their algorithms and flow diagrams, Annexes XXXXXX can be consulted. After knowing the main features of each one, a ranking of the prefered working procedures will be done. 
 \subsubsection{Simplest Protocol}
 This protocol has no error or flow control. It is supposed that the frames are traveling only in one direction, from the sender to the receiver. It is also supposed that the receiver can immediately handle the frames received, so there is no overwhelming. The DLL of the sender site gets data from its network layer, makes a frame out of the data and sends it.
 The DLL at the receiver site receives a frame from its physical layer, extracts data from the frame and delivers the data to its network layer. The problem here is that the sender site cannot send a frame until its network layer has a data packet to send and the receiver site cannot deliver a data packet to its network layer until a frame arrives. There is the need to introduce the idea of events in the protocol. The
 procedure at the sender site is constantly running; there is no action until there is a request
 from the network layer. The procedure at the receiver site is also constantly running, but
-there is no action until notification from the physical layer arrives.
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{simplestsender.PNG}
-\caption{Sender algorithm for the simplest protocol.}
-\end{center}
-\end{figure}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{simplestreceiver.PNG}
-\caption{Receiver algorithm for the simplest protocol.}
-\end{center}
-\end{figure}
+there is no action until notification from the physical layer arrives. This protocol is very simple and unreal.
 \subsubsection{Stop-and-Wait Protocol}
 If data frames arrive at the receiver site faster than they can be processed, the frames
 must be stored until their use. Normally, the receiver does not have enough storage
@@ -64,19 +52,8 @@ with frames,we somehow need to tell the sender to slow down. There must be
 feedback from the receiver to the sender.\\
 In the Stop-and-Wait Protocol the sends one frame, stops until it receives confirmation from the receiver and then sends the next frame. We still have unidirectional communication
 for data frames, but auxiliary ACK frames (simple tokens of acknowledgment) travel
-from the other direction. We add flow control to our previous protocol. In this case the algorithms of the sender and the receiver are the following ones. 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{sendersawp.PNG} 
-\caption{Sender algorithm for the Stop-and-Wait Protocol.}
-\end{center}
-\end{figure} 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{receiversawp.PNG} 
-\caption{Receiver algorithm for the Stop-and-Wait Protocol.}
-\end{center}
-\end{figure}
+from the other direction. We add flow control to our previous protocol. \\
+
 The two protocols explained are protocols that can be suitable for noiseless channels. However, noiseless channels are nonexistent. There is a need to add error control to the protocol. Three protocols are discussed with the aim of doing so.
 \subsubsection{Stop-and-Wait Automatic Repeat Request}
 The Stop-and Wait ARQ adds a simple error control mechanism to the Stop-and-Wait Protocol. To detect and correct corrupted frames, we need to add redundancy bits to our data
@@ -89,77 +66,23 @@ a timer. If the timer expires and there is no ACK for the sent frame, the frame 
 copy is held, and the timer is restarted. Since the protocol uses the stop-and-wait mechanism,
 there is only one specific frame that needs an ACK even though several copies of
 the same frame can be in the network. Since an ACK frame can also be corrupted and lost, it too needs redundancy bits
-and a sequence number. In the following figure is possible to see more clearly what is going on with this protocol. 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{flowdiagram.PNG} 
-\caption{Flow diagram of the Stop-and Wait ARQ.}
-\end{center}
-\end{figure}
-The main problem of this protocol is its efficiency. The Stop-and-Wait ARQ is very inneficinet if our channel is thick and long. The product of thickness and longitud is called the bandwidth-delay product. We can think of the channel as a pipe. The
-bandwidth-delay product then is the volume of the pipe in bits. The pipe is always there.
-If we do not use it, we are inefficient. 
+and a sequence number. The main problem of this protocol is its efficiency.  
 \subsubsection{Go-Back-N Automatic Repeat Request}
-To improve the efficiency of transmission (filling the pipe), multiple frames must be in
+To improve the efficiency of transmission, multiple frames must be in
 transition while waiting for acknowledgment. In other words, we need to let more than
 one frame be outstanding to keep the channel busy while the sender is waiting for
 acknowledgment. In the Go-Back-N Automatic Repeat Request the sender sends several frames before receiving acknowledgments. It also keeps a copy of these frames until the acknowledgments
-arrive. Although there can be a timer for each frame that is sent, in this protocol only one is used. The reason is that the timer for the first outstanding frame always expires first and then all outstanding frames when this timer expires are sent again. The receiver sends a positive acknowledgment if a frame has arrived safe and sound
+arrive. The receiver sends a positive acknowledgment if a frame has arrived safe and sound
 and in order. If a frame is damaged or is received out of order, the receiver is silent and
 will discard all subsequent frames until it receives the one it is expecting. The silence of
 the receiver causes the timer of the unacknowledged frame at the sender site to expire.
 This, in turn, causes the sender to go back and resend all frames, beginning with the one
-with the expired timer. The receiver does not have to acknowledge each frame received.
-It can send one cumulative acknowledgment for several frames. That is the reason why the protocol is called Go-Back-N. The flow diagram and the and algorithms of the sender and the receiver are shown next. 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{diagramN.PNG}  
-\caption{Flow diagram of the Go-Back-N ARQ.}
-\end{center}
-\end{figure} 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{receiverN.PNG} 
-\caption{Receiver algorithm for the Go-Back-N ARQ.}
-\end{center}
-\end{figure} 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{SenderN.PNG} 
-\caption{Sender algorithm for the Go-Back-N ARQ.}
-\end{center}
-\end{figure}
+with the expired timer.
 \subsubsection{Selective Repeat Automatic Repeat Request}
-Go-Back-N ARQ simplifies the process at the receiver site. The receiver keeps track of
-only one variable, and there is no need to buffer out-of-order frames; they are simply
-discarded. However, this protocol is very inefficient for a noisy link. In a noisy link a
-frame has a higher probability of damage, which means the resending of multiple frames. In the case of these protocol, the Selective Repeat ARQ, the processing at the receiver is more complex but is more efficient for noisy links. The Selective Repeat Protocol allows a number of frames to arrive out of order and be kept until there is a set of in-order frames to be
+In the Selective Repeat ARQ, the processing at the receiver is more complex than in Go-Back-N ARQ but is more efficient for noisy links. The Selective Repeat Protocol allows a number of frames to arrive out of order and be kept until there is a set of in-order frames to be
 delivered to the network layer. The handling of the request event is similar to that of the previous protocol except
 that one timer is started for each frame sent. The arrival event is more complicated here. An ACK
 or a NAK frame may arrive. If a valid NAK frame arrives, the corresponding frame is resent. If a valid ACK arrives the corresponding timer stops. When the time for a frame has expire, only this frame is resent.
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.8]{flowselective.PNG}  
-\caption{Flow diagram of the Selective Repeat ARQ.}
-\end{center}
-\end{figure}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.8]{senderselective1.PNG}
-\end{center} 
-\end{figure}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{senderselective2.PNG} 
-\caption{Sender algorithm for the Selective Repeat ARQ.}
-\end{center}
-\end{figure}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{receiverselective.PNG}  
-\caption{Receiver algorithm for the Selective Repeat ARQ.}
-\end{center}
-\end{figure}
 \subsubsection{Bidirecional links: Piggybacking}
 Piggybacking is not a protocol, is a technique. All que protocols explained until now are all unidirectional: data frames flow
 in only one direction although control information such as ACK and NAK frames can
@@ -296,45 +219,7 @@ The decision taken is to use the TC Space Data Link Protocol with the TC sync. a
 \item Security: Incorporing the SLDS authentication and confidentality is provided.
 \item More virtual channels: This feature allow more clients communicating with their satellites at the same time.
 \end{itemize}
-\subsection{TC Space Data Link Protocol}
-Now some specifications of the chosen protocol will be exposed in order to know how it is structured and how many bits it adds to the original data. Further information of the protocol can be found in \cite{CCSDS2010}. The protocol specifications will be explained when it is used with the support of the SDLS protocol. In this section is important to know that 1 octet is an eight-bit word. The structure of the transfer frame in this protocol is the following one: 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{transferfram.PNG}    
-\caption{Transfer frame structure of the TC Space DL Protocol with SDLS.}
-\end{center}
-\end{figure}  
-In the transfer frame primary header, the following information is contained:
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{transferframeprimaryheader.PNG}   
-\caption{Transfer frame primary header.}
-\end{center}
-\end{figure} 
-With this data, is possible to say that the TC Space Data Link Protocol will add to data coming from the Network layer at least 5 octets (40 bits).
-\subsection{TC Sync and Channel Coding}
-This protocol is the corresponding to the Synchronization and Channel Coding Sublayer that has be used with the TC Space and Data Link Protocol. It has functions as for example, encapsuate the data units so that the start and end can be detected by the receiving end, ensure there are sufficient bit transitions in the transmitted bit stream so that the receiver can mantain bit synchronization during the reception of the data unit, etc. In a nutshell, one instance of the Synchronization and Channel Coding Sublayer processes the data stream for a single Physical Channel, making it a stream of bits that can be transferred over a space link in a single direction. The procedures can be differenciated between the ones that occur in the sending end and the one that occur in the receiving end. The procedures are the following ones: 
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{Proceduressendingend.PNG}    
-\caption{Procedure at the sending end.}
-\end{center}
-\end{figure}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=1]{proceduresreceivingend.PNG}  
-\caption{Procedure at the receiving end.}
-\end{center}
-\end{figure}
-Is possible to see that two packets of data are created, BCH Codeblocks and CLTUs. From the point of view of the Synchronization and Channel Coding Sublayer, the content of
-the Frames parameter is a single block of data. For a single Channel Access request, the Synchronization and Channel Coding Sublayer
-generates a set of BCH Codeblocks, and that set of BCH Codeblocks is placed in a single
-CLTU. One of the managed parameters for the Physical Channel is the maximum length of a
-CLTU. The lenght of the CLTU can be calculated as follows (in octets): 
-\begin{equation}
-Lenght of the CLTU=10+8\cdot(\frac{Total lenght of the frames+6}{7})
-\end{equation} 
-Since with the TC Space Data Link protocol the frames can have different sizes, the CLTU can also have different sizes. More information about this sublayer of the DLL can be found in reference \cite{Synchronization2012}
+More information about the chosen protocols such as the amount of bits occupied by the header, its configuration and total lenght can be found at Annexes XXXXXXXXXXXXXX.
 
 %\bibliographystyle{unsrt}
 %\bibliography{forouzan,Secretariat2014,TC,tmsynch} 

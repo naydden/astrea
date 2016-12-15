@@ -1,10 +1,31 @@
 \begin{thebibliography}{10}
 
+\bibitem{DavidA.Vallado1998}
+{David A. Vallado}.
+\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
+\newblock 1998.
+
 \bibitem{Howard}
-Howard~D. Curtis.
+Howard~D.. Curtis.
 \newblock {\em {Orbital Mechanics for Engineering Students}}, volume 3rd
   editio.
 \newblock Elsevier, 2014.
+
+\bibitem{GPS}
+U~S~Air Force.
+\newblock {Global Positioning System: Space Segment}.
+\newblock $\backslash$url{\{}http://www.gps.gov/systems/gps/space/{\}}.
+
+\bibitem{SaVi}
+L~Wood.
+\newblock {SaVi: satellite constellation visualization,}.
+\newblock {\em First Anual CCSR Research Symposium (CRS 2011)
+  $\backslash$url{\{}http://arxiv.org/abs/1204.3265{\}}}, 2011.
+
+\bibitem{ccar}
+Bob Jayne.
+\newblock {Effects of Satellite Constellation Deployment on Communication
+  Networks}.
 
 \bibitem{Walker1971}
 J.G. Walker.
@@ -33,6 +54,17 @@ Carlos Jorge and Rodrigues Capela.
 Application Note.
 \newblock {Tutorial on Basic Link Budget Analysis}.
 \newblock {\em Intersil}, (June 1998):1--8, 1998.
+
+\bibitem{Iridium}
+Iridium Satellite.
+\newblock {The IRIDIUM System}.
+\newblock $\backslash$url{\{}http://www.iridium.it/en/iridium.htm{\}}.
+
+\bibitem{Kufa}
+Abbas~Fadil Alrofiae and Suha~Hadi Kadhem.
+\newblock {The effects of Sun attraction and solar radiation pressure on Medium
+  Earth orbit Satellites}.
+\newblock 4(2), 2012.
 
 \bibitem{Forouzan2012}
 Behrouz~a. Forouzan.
@@ -255,6 +287,11 @@ Robert Burt.
 \bibitem{collisionLEO}
 {IADC Space Debris Mitigation Guidelines}.
 \newblock 2007.
+
+\bibitem{Macdonald2014}
+M~Macdonald and V~Badescu.
+\newblock {\em {The International Handbook of Space Technology}}.
+\newblock 2014.
 
 \bibitem{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}
 {Secretar{\'{i}}a de Estado de telecomunicaciones y para la sociedad de la

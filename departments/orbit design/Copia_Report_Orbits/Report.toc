@@ -1,0 +1,78 @@
+\contentsline {chapter}{List of Tables}{iv}{section*.1}
+\contentsline {chapter}{List of Figures}{v}{section*.2}
+\contentsline {part}{I\hspace {1em}Orbit Design}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Orbit Geometry}{2}{chapter.1}
+\contentsline {paragraph}{}{3}{section*.3}
+\contentsline {section}{\numberline {1.1}Keplerian Geometry}{4}{section.1.1}
+\contentsline {paragraph}{}{4}{section*.5}
+\contentsline {section}{\numberline {1.2}Dynamic equations}{6}{section.1.2}
+\contentsline {paragraph}{}{6}{section*.8}
+\contentsline {chapter}{\numberline {2}Orbital Coverage}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Satellite Footprint}{8}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Introduction}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Second Subsection}{8}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Elevation Angle}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Second Subsection}{9}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Minimum Plane Inclination}{10}{section.2.3}
+\contentsline {paragraph}{In conclusion\\}{10}{section*.10}
+\contentsline {section}{\numberline {2.4}Market Study: Current Nanosatellites in Orbit}{11}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Criteria for the orbital height of the satellites}{11}{subsection.2.4.1}
+\contentsline {paragraph}{Satellites currently in Orbit\\}{11}{section*.11}
+\contentsline {paragraph}{The most interesting potential clients\\}{11}{section*.13}
+\contentsline {subsection}{\numberline {2.4.2}New Space: Adapting to new society needs}{12}{subsection.2.4.2}
+\contentsline {chapter}{\numberline {3}Constellation Configuration}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction: The Global Positioning System Example}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Polar Orbit Constellation}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{15}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}General Configuration}{16}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}The Streets of Coverage Method}{16}{subsubsection.3.2.2.1}
+\contentsline {subsection}{\numberline {3.2.3}Results of Streets of Coverage}{19}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Walker-Delta Constellation}{21}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Full Walker-Delta Constellation}{21}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Characteristics}{21}{subsubsection.3.3.1.1}
+\contentsline {paragraph}{}{22}{figure.caption.25}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Notation}{22}{subsubsection.3.3.1.2}
+\contentsline {subsubsection}{\numberline {3.3.1.3}Coverage}{22}{subsubsection.3.3.1.3}
+\contentsline {subsection}{\numberline {3.3.2}Semi Walker-Delta Constellation}{23}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Introduction}{23}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Second Subsection}{23}{subsubsection.3.3.2.2}
+\contentsline {subsection}{\numberline {3.3.3}Custom Walker-Delta Constellation}{23}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Introduction}{23}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Second Subsection}{24}{subsubsection.3.3.3.2}
+\contentsline {section}{\numberline {3.4}Testing Method}{25}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Introduction}{25}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Second Subsection}{25}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Orbit Perturbations}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sources of Perturbation}{27}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Introduction to Orbit Perturbations}{27}{subsection.4.1.1}
+\contentsline {paragraph}{The Approach of the Perturbations Study}{28}{section*.27}
+\contentsline {subsection}{\numberline {4.1.2}Gravity Potential of Earth}{28}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Atmospheric Drag}{29}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}3rd Body Perturbations}{30}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Other Perturbations}{30}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Significant Perturbations}{31}{section.4.2}
+\contentsline {paragraph}{Propagation Algorithm\\}{31}{section*.30}
+\contentsline {paragraph}{In conclusion\\}{31}{section*.32}
+\contentsline {section}{\numberline {4.3}Orbit Decay}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Effects on the Ascention Node}{32}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Introduction}{32}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Second Subsection}{32}{subsubsection.4.3.1.2}
+\contentsline {subsection}{\numberline {4.3.2}Linearized Orbit Decay Computation}{32}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Introduction}{32}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Second Subsection}{32}{subsubsection.4.3.2.2}
+\contentsline {subsection}{\numberline {4.3.3}Dynamic Orbit Decay Computation}{32}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Introduction}{32}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Second Subsection}{32}{subsubsection.4.3.3.2}
+\contentsline {section}{\numberline {4.4}Orbital Station-Keeping}{33}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Raising the orbit height to increase Lifetime}{33}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Using Thrusters to increase Lifetime}{34}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Energy equation}{34}{subsubsection.4.4.2.1}
+\contentsline {paragraph}{}{34}{section*.34}
+\contentsline {paragraph}{}{35}{section*.35}
+\contentsline {subsubsection}{\numberline {4.4.2.2}Delta-V}{35}{subsubsection.4.4.2.2}
+\contentsline {subsubsection}{\numberline {4.4.2.3}Time}{36}{subsubsection.4.4.2.3}
+\contentsline {subsubsection}{\numberline {4.4.2.4}Propellant}{36}{subsubsection.4.4.2.4}
+\contentsline {subsubsection}{\numberline {4.4.2.5}Orbit maintenance}{36}{subsubsection.4.4.2.5}
+\contentsline {subsubsection}{\numberline {4.4.2.6}Results}{37}{subsubsection.4.4.2.6}
+\contentsline {paragraph}{}{38}{section*.39}
