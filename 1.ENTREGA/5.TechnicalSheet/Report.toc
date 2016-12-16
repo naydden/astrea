@@ -7,4 +7,4 @@
 \contentsline {paragraph}{Planes distribution of the Astrea Constellation \\}{5}{section*.10}
 \contentsline {section}{\numberline {0.5}Satellites Orbits Table}{6}{section.0.5}
 \contentsline {section}{\numberline {0.6}Launch and Deployment}{12}{section.0.6}
-\contentsline {chapter}{\numberline {1}Bibliography}{13}{chapter.1}
+\contentsline {chapter}{\numberline {1}Bibliography}{14}{chapter.1}
