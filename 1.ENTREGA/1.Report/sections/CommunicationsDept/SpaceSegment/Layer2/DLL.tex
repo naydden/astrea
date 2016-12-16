@@ -23,7 +23,7 @@
 %\chapter{DLL}
 \subsection{Functions of the DLL}
 The Data-Link layer is the protocol layer in a program that handles the moving of data in and out across a physical link in a network. The Data-Link layer is layer 2 in the Open Systems Interconnect (OSI) model for a set of telecommunication protocols.
-The DLL is responsible for converting data stream to signals bit by bit and to sent that over the underlying hardware.At the receiving end, DLL picks up data from hardware which are in the form of electrical signals, assembles them in a recognizable frame format, and hands over to upper layer. The DLL also ensures that an initial connection has been set up, divides output data into data frames, and handles the acknowledgements from a receiver that the data arrived successfully. It also ensures that incoming data has been received successfully by analyzing bit patterns at special places in the frames. The specific functions are the following ones\footnote{They are explaied in Annex XXXXXXXXXXXXXXXXXXX}.
+The DLL is responsible for converting data stream to signals bit by bit and to sent that over the underlying hardware.At the receiving end, DLL picks up data from hardware which are in the form of electrical signals, assembles them in a recognizable frame format, and hands over to upper layer. The DLL also ensures that an initial connection has been set up, divides output data into data frames, and handles the acknowledgements from a receiver that the data arrived successfully. It also ensures that incoming data has been received successfully by analyzing bit patterns at special places in the frames. The specific functions are the following ones\footnote{They are explaied in Annex II 7.1.1}.
 \begin{itemize}
 \item \textbf{Framing}
 \item \textbf{Adressing}
@@ -31,7 +31,7 @@ The DLL is responsible for converting data stream to signals bit by bit and to s
 \item \textbf{Flow control}
  \end{itemize}
 \subsection{Working procedure}
-The way these functions are achieved will be explained. To do so, a list of possible protocols from the simplest one to the more complex will briefly exposed. To see more information about these procedures as their algorithms and flow diagrams, Annexes XXXXXX can be consulted. After knowing the main features of each one, a ranking of the prefered working procedures will be done. 
+The way these functions are achieved will be explained. To do so, a list of possible protocols from the simplest one to the more complex will briefly exposed. To see more information about these procedures as their algorithms and flow diagrams, Annex II 7.1.2 can be consulted. After knowing the main features of each one, a ranking of the prefered working procedures will be done. 
 \subsubsection{Simplest Protocol}
 \begin{itemize}
 \item No error or flow control
@@ -207,7 +207,7 @@ The decision taken is to use the TC Space Data Link Protocol with the TC sync. a
 \item Security: Incorporing the SLDS authentication and confidentality is provided.
 \item More virtual channels: This feature allow more clients communicating with their satellites at the same time.
 \end{itemize}
-More information about the chosen protocols such as the amount of bits occupied by the header, its configuration and total lenght can be found at Annexes XXXXXXXXXXXXXX.
+More information about the chosen protocols such as the amount of bits occupied by the header, its configuration and total lenght can be found at Annex II 7.1.3 and Annex II 7.1.4.
 
 %\bibliographystyle{unsrt}
 %\bibliography{forouzan,Secretariat2014,TC,tmsynch} 

@@ -30,7 +30,7 @@ The transport layer is responsible for process-to-process delivery, i.e, the del
 
 Regarding addressing, at the transport layer, it is necessary a transport layer address, called a port number, to choose among multiple processes running on the destination host. The destination port number is needed for delivery, whereas the source port number is needed for the reply. 
 
-The addressing mechanism allows multiplexing and demultiplexing by the transport layer. In the following pages the main protocols are briefly described. More characteristics can be found at Annex XXXXXXXXXXXXXXXXXXXXX.
+The addressing mechanism allows multiplexing and demultiplexing by the transport layer. In the following pages the main protocols are briefly described. More characteristics can be found at Annex II 7.4.
 \subsection{User Datagram Protocol (UDP)}
 \begin{itemize}
 \item Conectionless
@@ -51,6 +51,6 @@ The addressing mechanism allows multiplexing and demultiplexing by the transport
 \item Flow and error control mechanisms.
 \end{itemize}
 \subsection{Choice of protocol for the transport layer}
-Three protocols have been exposed, the UDP, the SCTP and the TCP. The first one has some disadvantages which make it not suitable for the purpose of the project, such as the fact that no reliabililty is guaranteed, for example, amongst others. The second one is designed mostly for Internet applications, which does not fit the goals of this project. Therefore, the only candidate suitable for the project is the TCP, Transmission Control Protoco. More information had to be compiled in order to know the full suitability of it to the project. The exposition of all its parameters is not shown in this report for its large length. See Annex XXXXXXXX for more information.  As it has the required features that the project demands, it is the chosen protocol for this layer. Also, as it has been established during the deep research done, it is very recommended to use the extension SCPS, due to adaptation to space needs.  
+Three protocols have been exposed, the UDP, the SCTP and the TCP. The first one has some disadvantages which make it not suitable for the purpose of the project, such as the fact that no reliabililty is guaranteed, for example, amongst others. The second one is designed mostly for Internet applications, which does not fit the goals of this project. Therefore, the only candidate suitable for the project is the TCP, Transmission Control Protoco. More information had to be compiled in order to know the full suitability of it to the project. The exposition of all its parameters is not shown in this report for its large length. See Annex II 7.4.3 for more information.  As it has the required features that the project demands, it is the chosen protocol for this layer. Also, as it has been established during the deep research done, it is very recommended to use the extension SCPS, due to adaptation to space needs.  
 
 %\end{document}
