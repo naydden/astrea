@@ -95,22 +95,15 @@ Dot-decimal notation & 172.16.254.1 \\
 \subsubsection{Internet Protocol version 6 (IPv6)\cite{IPv6}}
 \paragraph{}The Internet Protocol version 6 (IPv6) is the most recent version of the Internet Protocol, developed to solve the problem of the exhaustion of IP adresses of the IPv4. IPv6 is intended to replace IPv4. The new features of the IPv6 compared of those of the IPv4 are the following:
 \begin{itemize}
-	\item Larger adress space: The length of IPv6 adresses is 128 bits, which is four times the length of IPv4 adresses. It offers a capacity of $2^{128}$ adresses.
-	\item Multicasting: IPv6 acomplishes multicasting without using other protocols (such as IGMP for IPv4)
-	\item Stateless address autoconfiguration (SLAAC): IPv6 hosts can configure themselves automatically when they are connected to a IPv6 network using the Neighbor Discovery Protocol via Internet Control Message Protocol version 6 (ICMPv6) router discovery messages. When a host is connectes for the first time, it sends a link-local router solicitation multicast request for its configuration parameters. Then, routers respond to the request with a router advertisement packet that contains Internet Layer configuration parameters.
-	\item Network-layer security: Internet Protocol Security was developed for IPv6 before it was adapted for IPv4.
-	\item Simplified processing by routers: Packet headers and the process of packet forwarding have been simplified, so packet processing by routers is more efficient. Headers now have a fixed length of 40 bytes, and may have an optional section aimed for options between the header section and the data section. Figure \ref{fig:IPv6header} shows the structure of a IPv6 header. IPv6 routers do not perform fragmentation.
-	\item Mobility: Mobile IPv6 avoids triangular routing (unlike IPv4) and is as efficient as native IPv6.
-	\item Options extensibility: IPv6 headers have astructure capable of extending the protocol in the future without affecting the core packet structure.
-	\item Jumbograms: IPv4 limits packets to (2 power 16) - 1 octets per payload. A IPv6 node can handle packets of (2 power 32) - 1 octets (called jumbograms).
+	\item Larger adress space 
+	\item Multicasting
+	\item Stateless address autoconfiguration (SLAAC)
+	\item Network-layer security
+	\item Simplified processing by routers
+	\item Mobility
+	\item Options extensibility
+	\item Jumbograms
 \end{itemize}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.6]{IPv6_header.PNG}
-\caption[IPv6 header]{Example of a header for an IPv6 packet.}
-\label{fig:IPv6header}
-\end{center}
-\end{figure}
 
 \subsubsection{Auxiliary protocols}
 
@@ -138,7 +131,6 @@ Extension (IPE) convention in conjunction with the CCSDS Encapsulation Service. 
 \begin{itemize}
 \item Neighbour table. It stores the IP adress of the routers that have a direct connection with this router. If a router is connectedto another with an intermediate router, it will not be recorded in this table.
 \item Topology table. It keeps record of routes that has learned from neightbouring router tables, and also records the distance (number of intermediate routers) of each route, the feasible successor and the successors (other routes that have the same destination and are loop free). Routes in this table are either labelled as "passive" or "active". Passive means that EIGRP  has determined the path for the specific route and has finished processing. Active means that EIGRP is still trying to calculate the best path for the specific route. The router dones not use the routes in this table. A route in this table will be inserted in the routing talbe when is marked as passive, is not a feasible successor and does not have a higher distance than an equivalent path.
-\end{itemize}
 \subsubsection*{Open Shortest Path First (OSPF)\cite{OSPFv2}\cite{OSPFIPv6}}
 \paragraph{}The Open Shortest Path First (OSPF) is a routing protocol for Internet Protocol (IP) networks that operates in a single autonomous system. OSPF version 2 is designed for IPv4, while OSPF version 3 is designed for IPv6. The topology is presented as a routing table to the Internet layer which routes packets based solely on their destination IP address. OSPF detects changes in the topology, such as link failures, and creates a new loop-free routing structure. It computes the shortest-path tree for each route using a method based on Dijkstra's algorithm. OSPF does not use a transport protocol, such as UDP or TCP, but encapsulates its data directly in IP packets with protocol number 89. It implements its own transport layer error detection and correction functions. OSPF uses multicast addressing for distributing route information within a broadcast domain.
 
