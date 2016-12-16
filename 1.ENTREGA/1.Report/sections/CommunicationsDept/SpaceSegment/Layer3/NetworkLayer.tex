@@ -31,13 +31,13 @@
 %\chapter{Network Layer}
 
 \subsection{Functions of the Network Layer}
-\paragraph{}According to \cite{X200}, the Network layer is the third layer in the Open Systems Interconnection (OSI) model. It is located above the Data link layer and below the Transport layer. This layer is used for transmitting data sequences called datagrams between a sender and a reciever than may not be directly connected through only one link. The Network layer provides the following functions:
+\paragraph{}According to \cite{X200}, the Network layer is the third layer in the Open Systems Interconnection (OSI) model. It is located above the Data link layer and below the Transport layer. This layer is used for transmitting data sequences called datagrams between a sender and a reciever than may not be directly connected through only one link. The Network layer provides the following functions\footnote{Explained in Annex XXXXXXXXXXXXXXXXXXXX}
 \begin{itemize}
-\item \textbf{Routing}: Selects the best path between two nodes in a network, often using itermediate nodes called routers.
-\item \textbf{Network fow control}: Routers may indicate a transmitting node to reduce its transmission when the router's buffer becomes full.
-\item \textbf{Package fragmentation}: If the message to be transmitted is too large to be transmitted in the Data link layer, the network may split it into several packages in one node, send them independently an reassemble them in another node. Optionally, it can provide error control.
-\item \textbf{Logical-physical adress allocation}: Translates the logical adress (or names) of the network nodes into a unique physical adress.
-\item \textbf{Message forwarding}: A network may be divided into subnetworks, connected through specialized hosts, called gateways or routers, that forward packets between those subnetworks.
+\item \textbf{Routing}
+\item \textbf{Network fow control}
+\item \textbf{Package fragmentation}
+\item \textbf{Logical-physical adress allocation}
+\item \textbf{Message forwarding}
 \end{itemize}
 
 \subsection{Protocols}
@@ -45,14 +45,14 @@
 \paragraph{}Figure \ref{fig:CCSDSprotocols}, shows this tyme all the recommended protocols by the CCSDS for Space Communications. In Figure \ref{fig:CCSDScombinations} those protocols arearranged in some possible combinations. As it can be seen, IP cannot be directly used neither by the protocols in the Data Link layer nor the Encapsulation Service.
 \begin{figure}[H]
 \begin{center}
-\includegraphics[scale=1]{CCSDSprotocols.PNG}
+\includegraphics[scale=0.6]{CCSDSprotocols.PNG}
 \caption[CCSDS Recommended Protocols]{Protocols recommended by the CCSDS, classified in their respective OSI layers. Extracted from \cite{CCSDSOverview}.}
 \label{fig:CCSDSprotocols}
 \end{center}
 \end{figure}
 \begin{figure}[H]
 \begin{center}
-\includegraphics[scale=1]{CCSDScombinations.PNG}
+\includegraphics[scale=0.6]{CCSDScombinations.PNG}
 \caption[Combination of CCSDS Recommended Protocols]{Possible Combinations of the CCSDS recommended protocols. Extracted from \cite{CCSDSOverview}.}
 \label{fig:CCSDScombinations}
 \end{center}
@@ -63,7 +63,7 @@
 \subsubsection{Main protocols}
 
 \subsubsection*{Space Packet Protocol (SPP)\cite{SPP}}
-\paragraph{}The Space Packet Protocol (SPP) is a protocol designed to efficiently transfer application data over a network of space links. SPP provides a unidirectional data transfer service from a single source user application to one or more destination user applications through one or more subnetworks. The path from the source user application to the destination user application is called a Logical Data Path (LDP). Every LDP is uniquely identified by a Path Identifier (Path ID). The protocol data unit used by this protocol is the Space Packet. Each Space Packet is defined by a header section and a data section.
+\paragraph{}Protocol designed to efficiently transfer application data over a network of space links. The path from the source user application to the destination user application is called a Logical Data Path (LDP). Every LDP is uniquely identified by a Path Identifier (Path ID). The protocol data unit used by this protocol is the Space Packet. Each Space Packet is defined by a header section and a data section.
 \paragraph{}The following features are common to the services of the SPP:
 \begin{itemize}
 \item Pre-configured Services. 
@@ -73,23 +73,8 @@
 \item Non–sequence Preserving Services.
 \end{itemize}
 \subsubsection{Internet Protocol version 4 (IPv4)\cite{IP}}
-\paragraph{}The Internet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet. Despite the ongoing deployment of a successor protocol (IPv6), the IPv4 still routes most of the Internet traffic. IPv4 is a conectionless protocol and does not guarantee delivery, nor does it assure proper sequencing or avoidance of duplicate delivery. These aspects are adressed by a transport layer protocol.
-\paragraph{}One of the features of IPv4 are adresses. Network adresses are the identification number of any device that is part of a network. IPv4 uses 32-bit (4 byte) adresses. Therefore, the adress space is limited to 4294967296 ($2^{32}$) adresses. A IPv4 adress is usually represented in two ways: in binary notation, where each group of 8 bits is separated by a dot, or in decimal notation, where each 8-bit binary number is translated to decimal, as it can be seen in Table \ref{table:IPadress}.
-\begin{table}[H]
-\begin{center}
-\begin{tabular}{|l|c|}
-\hline 
-IP adress & 10101100000100001111111000000001 \\ 
-\hline 
-Dot-binary notation & 10101100.00010000.11111110.00000001 \\ 
-\hline 
-Dot-decimal notation & 172.16.254.1 \\ 
-\hline
-\end{tabular}
-\end{center}
-\caption[IP adress notation]{IP adress notation in dot-decimal and dot-binary.}
-\label{table:IPadress}
-\end{table}
+\paragraph{}The Internet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet. IPv4 is a conectionless protocol and does not guarantee delivery, nor does it assure proper sequencing or avoidance of duplicate delivery. These aspects are adressed by a transport layer protocol.
+\paragraph{}One of the features of IPv4 are adresses. Network adresses are the identification number of any device that is part of a network. IPv4 uses 32-bit (4 byte) adresses. Therefore, the adress space is limited to 4294967296 ($2^{32}$) adresses.
 \paragraph{}IPv4 provides fragmentation of packets. If size of the packet is bigger than the maximum transmission unit (MTU) of the destination, and the message allow fragmentation (the option of Do not Fragment in the header of the packet is set to 0) the transmitting router will divide the packet in fragments smaller than the MTU.
 
 \subsubsection{Internet Protocol version 6 (IPv6)\cite{IPv6}}
