@@ -1,18 +1,6 @@
 \definecolor{blue}{rgb}{0.2,0.5,0.8}
 \section{Communication Protocols}
-The communication protocols are a list of rules that allow different entities to communicate between them, enabling the transference of information.\\
-In Astrea constellation, the communication protocols are very important because are the ones that allow the constellation to work together and accomplish de function it has been designed for. The protocols used in Astrea constellation have to be: 
-\begin{table}[H]
-\begin{center}
-\begin{tabular}{|c|c|c|c|}
-\hline
-\rowcolor{blue} High-speed & Reliable &Secure&Compatible with external satellites\\
-\hline
-\end{tabular}
-\caption{Requirements of the communications protocol}
-\end{center}
-\end{table}
-In order to accomplish the requirements, the standards of the Consultative Committee for Space Data Systems (CCSDS) have been followed, toguether with the ISO model. Regarding the protocols of the Ground Segment, security has been the most important requirement to decide the protocol. The chosen protocols are exposed in the following table.
+In order to accomplish the requirements of the communications protocols, the standards of the Consultative Committee for Space Data Systems (CCSDS) have been followed, toguether with the ISO model. Regarding the protocols of the Ground Segment, security has been the most important requirement to decide the protocol. The chosen protocols are exposed in the following table.
 \begin{table}[H]
 \begin{center}
 \begin{tabular}{|l|l|l|}
@@ -32,9 +20,28 @@ Transport Layer&\multicolumn{2}{|l|}{Space communication protocol specification 
 \hline
 \multicolumn{2}{|l|}{Presentation of the data to the client}&Application\\
 \hline
-\multicolumn{2}{|l|}{Protocol}&Secure Shell (SSSH)\\
+\multicolumn{2}{|l|}{Protocol}&Secure Shell (SSH)\\
 \hline
 \end{tabular}
 \caption{Communications protocol overview}
+\end{center}
+\end{table}
+The headers in the space segment are added by each layer considering that the entire message coming from the above layer is the whole message (including above layer's header). For this reason, the total number of bits ocuppied by the headers is important. 
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\rowcolor{blue}\textbf{Layer}&\textbf{Header (octets)}&\textbf{Header (bits)}\\
+\hline
+Transport Layer&33&264\\
+\hline
+Network Layer&44&352\\
+\hline
+Data Link Layer&5&40\\
+\hline
+\cellcolor{blue}Total lenght of headers&82&656\\
+\hline
+\end{tabular}
+\caption{Headers of Space Segment Protocols}
 \end{center}
 \end{table}
