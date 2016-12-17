@@ -29,7 +29,6 @@ Rocket Lab provides two gantt diagrams on which their launching procedure is exp
 \caption{Countdown Operations Flow}
 \label{fig:gantt2}
 \end{figure}
-
 %
 %\newline
 %\begin{figure}{}
@@ -96,12 +95,12 @@ In a more schematic way, the procedure goes as follows:
 \end{figure}
 
 \subsection{Orbit Parameters Calculation}
-\newline
 \begin{center}
 $V_s = \sqrt{\frac{GM_t}{R_t\,+\,h}} $
 \newline\newline
 $T_s = \frac{2\pi*(R_t\,+\,h)}{V_s}$\newline
 \end{center}
+
 Where $R_t$ and h are Earth's radius and height above Earth's surface respectively. For $h = 542 \,km$, the values obtained are $V_s = 7,589.6 \,m/s$ and $T_s = 5,723.1 \,s$. Let's call the spacing between satellites $\theta = \frac{360^\circ}{21} = 17.14^\circ$ and $R = R_t \,+ \,h$. Using these values it is possible to compute the period of the elliptical orbit, $T_r$, along with the rest of the parameters:
 \newline
 \begin{center}
@@ -118,7 +117,6 @@ $\epsilon = \sqrt{1\,-\,\frac{b^2}{a^2}}=0.0305$
 $\Delta V = \sqrt{\frac{GM_t}{R1}}\,(\sqrt{\frac{2R_2}{R1\,+\,R2}}-1)=115.01\,m/s$
 \newline\newline
 \end{center}
-
 \subsubsection{Plane Order}
 Having described the procedure used to put one orbital plane in orbit, it is now time to describe the order in which all of the 9 planes are put into orbit. The fact that establishes one path or another is the fact that satellites can only communicate with neighbours, that is, one satellite can only communicate with its neighbours from the same plane and the neighbours from the neighbour planes.
 \newline\newline
