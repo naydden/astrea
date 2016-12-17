@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-\contentsline {chapter}{List of Tables}{v}{section*.1}
-\contentsline {chapter}{List of Figures}{vi}{section*.2}
+\contentsline {chapter}{List of Tables}{ix}{section*.1}
+\contentsline {chapter}{List of Figures}{xi}{section*.2}
 \contentsline {part}{I\hspace {1em}ANNEX I: Orbit Design}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Orbit Geometry}{2}{chapter.1}
 \contentsline {paragraph}{}{2}{section*.3}
@@ -327,13 +326,13 @@
 \contentsline {subsection}{\numberline {10.2.3}Power management system}{185}{subsection.10.2.3}
 \contentsline {paragraph}{}{185}{section*.263}
 \contentsline {paragraph}{}{185}{section*.264}
-\contentsline {paragraph}{}{185}{section*.265}
+\contentsline {paragraph}{}{186}{section*.265}
 \contentsline {paragraph}{}{186}{section*.266}
 \contentsline {paragraph}{}{186}{section*.267}
 \contentsline {paragraph}{}{186}{section*.268}
 \contentsline {subsection}{\numberline {10.2.4}Batteries}{186}{subsection.10.2.4}
 \contentsline {paragraph}{}{186}{section*.269}
-\contentsline {paragraph}{}{186}{section*.270}
+\contentsline {paragraph}{}{187}{section*.270}
 \contentsline {paragraph}{}{187}{section*.271}
 \contentsline {paragraph}{}{187}{section*.272}
 \contentsline {subsection}{\numberline {10.2.5}Study of the commercial available options and options chosen}{187}{subsection.10.2.5}
@@ -444,44 +443,4 @@
 \contentsline {paragraph}{}{213}{section*.350}
 \contentsline {paragraph}{}{213}{section*.351}
 \contentsline {section}{\numberline {10.9}Astrea satellite Final Configuration}{213}{section.10.9}
-\contentsline {part}{V\hspace {1em}ANNEX V: Financial and Other Considerations}{215}{part.5}
-\contentsline {paragraph}{}{216}{section*.352}
-\contentsline {chapter}{\numberline {11}Financial Study}{217}{chapter.11}
-\contentsline {section}{\numberline {11.1}Selling the product}{217}{section.11.1}
-\contentsline {subsection}{\numberline {11.1.1}Estimation of demand}{218}{subsection.11.1.1}
-\contentsline {subsubsection}{\numberline {11.1.1.1}Universities}{218}{subsubsection.11.1.1.1}
-\contentsline {subsubsection}{\numberline {11.1.1.2}Particular customers}{219}{subsubsection.11.1.1.2}
-\contentsline {subsubsection}{\numberline {11.1.1.3}Demand}{219}{subsubsection.11.1.1.3}
-\contentsline {subsection}{\numberline {11.1.2}Pricing the service}{219}{subsection.11.1.2}
-\contentsline {section}{\numberline {11.2}Economic Feasibility Report}{220}{section.11.2}
-\contentsline {subsection}{\numberline {11.2.1}Previous costs}{220}{subsection.11.2.1}
-\contentsline {subsubsection}{\numberline {11.2.1.1}Engineering hours}{220}{subsubsection.11.2.1.1}
-\contentsline {subsubsection}{\numberline {11.2.1.2}Administrarion costs}{222}{subsubsection.11.2.1.2}
-\contentsline {subsubsection}{\numberline {11.2.1.3}Taxes}{222}{subsubsection.11.2.1.3}
-\contentsline {subsubsection}{\numberline {11.2.1.4}Insurance}{222}{subsubsection.11.2.1.4}
-\contentsline {subsection}{\numberline {11.2.2}Economic feasibility study}{224}{subsection.11.2.2}
-\contentsline {section}{\numberline {11.3}Conclusions of the financial study}{226}{section.11.3}
-\contentsline {subsection}{\numberline {11.3.1}Pay Back Time (PBT)}{226}{subsection.11.3.1}
-\contentsline {subsection}{\numberline {11.3.2}Updated Pay Back Time (UPBT)}{227}{subsection.11.3.2}
-\contentsline {subsection}{\numberline {11.3.3}Break Even Point (BEP)}{227}{subsection.11.3.3}
-\contentsline {subsection}{\numberline {11.3.4}Net Present Value (NPV)}{228}{subsection.11.3.4}
-\contentsline {subsection}{\numberline {11.3.5}Internal Rate of Return (IRR)}{229}{subsection.11.3.5}
-\contentsline {chapter}{\numberline {12}Marketing Plan}{230}{chapter.12}
-\contentsline {section}{\numberline {12.1}Executive Summary}{230}{section.12.1}
-\contentsline {section}{\numberline {12.2}Target Customers}{230}{section.12.2}
-\contentsline {section}{\numberline {12.3}Unique Selling Proposition}{231}{section.12.3}
-\contentsline {section}{\numberline {12.4}Pricing \& Positioning Strategy}{231}{section.12.4}
-\contentsline {section}{\numberline {12.5}Distribution Plan}{232}{section.12.5}
-\contentsline {section}{\numberline {12.6}Marketing Materials}{232}{section.12.6}
-\contentsline {section}{\numberline {12.7}Online Marketing Strategy}{232}{section.12.7}
-\contentsline {section}{\numberline {12.8}Conversion Strategy}{233}{section.12.8}
-\contentsline {section}{\numberline {12.9}Joint Ventures \& Partnerships}{233}{section.12.9}
-\contentsline {chapter}{\numberline {13}Environmental Impact Study}{234}{chapter.13}
-\contentsline {section}{\numberline {13.1}Introduction}{234}{section.13.1}
-\contentsline {section}{\numberline {13.2}Ground Stations}{234}{section.13.2}
-\contentsline {section}{\numberline {13.3}Satellites}{234}{section.13.3}
-\contentsline {section}{\numberline {13.4}Launch system}{235}{section.13.4}
-\contentsline {chapter}{\numberline {14}Legislation}{238}{chapter.14}
-\contentsline {chapter}{\numberline {15}Bibliography}{241}{chapter.15}
-=======
->>>>>>> dd40c272ff0293d50525d618ff85492e2a4d8675
+\contentsline {chapter}{\numberline {11}Bibliography}{215}{chapter.11}
