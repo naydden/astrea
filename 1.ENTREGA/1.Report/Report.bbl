@@ -5,17 +5,22 @@ D.A. Vallado.
 \newblock {\em {Fundamentals of Astrodynamics and Applications}}.
 \newblock Springer-Verlag New York, 3 edition, 2007.
 
+\bibitem{nanosats}
+Erik Kulu.
+\newblock {Nanosatellite and CubeSat Database}, 2016.
+
+\bibitem{ISC}
+Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
+  Rodriguez-Osorio, Frank Pinto, and Scott Burleigh.
+\newblock {Survey of Inter-satellite Communication for Small Satellite Systems:
+  An OSI Framework Approach}.
+\newblock {\em IEEE Communications Surveys {\&} Tutorials}, (c):1--51, 2016.
+
 \bibitem{Howard}
 Howard~D. Curtis.
 \newblock {\em {Orbital Mechanics for Engineering Students}}, volume 3rd
   editio.
 \newblock Elsevier, 2014.
-
-\bibitem{Li2016}
-Yongjun Li, Shanghong Zhao, and Jili Wu.
-\newblock {A general evaluation criterion for the coverage performance of LEO
-  constellations}.
-\newblock {\em Aerospace Science and Technology}, 48:94--101, 2016.
 
 \bibitem{Walker1971}
 J.G. Walker.
@@ -41,21 +46,13 @@ CCSDS.
   Space Communications Protocols}}.
 \newblock Number CCSDS 130.0-G-3. 2014.
 
-\bibitem{Gomez2013}
-Jorge~Cantero G{\'{o}}mez.
-\newblock {Communication link design at 437 . 5 MHz for a nanosatellite}.
-\newblock (June), 2013.
+\bibitem{SpaceWorks}
+{E. Buchen} and {D. DePasquale}.
+\newblock {Nano/Microsatellite Market Assessment 2014}.
+\newblock pages 1--18, 2014.
 
-\bibitem{Zubair2011}
-Muhammad Zubair, Zaffar Haider, Shahid~a Khan, and Jamal Nasir.
-\newblock {Atmospheric influences on satellite communications}.
-\newblock {\em PRZEGL{\c{A}}D ELEKTROTECHNICZNY (Electrical Review)},
-  87(5):261--264, 2011.
-
-\bibitem{Luini2015}
-Lorenzo Luini, Carlo Capsoni, Carlo Riva, and Luis~David Emiliani.
-\newblock {Predicting total tropospheric attenuation on monthly basis}.
-\newblock pages 1--6, 2015.
+\bibitem{keppler}
+{Kepler Communications}, 2016.
 
 \bibitem{Secretariat2014}
 CCSDS Secretariat.
@@ -108,10 +105,5 @@ Dartcom.
 \newblock {Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias (CNAF) revisado
   2015}.
 \newblock pages 3--110, 2015.
-
-\bibitem{CraigClark}
-Craig Clark.
-\newblock {Constellations of CubeSats are revolutionising how we use
-  satellites}.
 
 \end{thebibliography}

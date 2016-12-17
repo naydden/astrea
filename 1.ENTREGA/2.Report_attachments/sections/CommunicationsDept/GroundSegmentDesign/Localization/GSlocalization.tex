@@ -1,11 +1,13 @@
-In the following lines, a study of the location of the Ground Sations will be carried in order to know the optinal location for them. As it has been stated in the report, the study has been done using a Matlab code that can be found in Annex VI.
+In the following lines, a study of the location of the Ground Sations will be carried in order to know the optinal location for them. As it has been stated in the report, the study has been done using a Matlab code that can be found in [{REF TO ANNEX VI. Section 14}].
+
+The code evaluates the visibility of a ground stations over time. For a given time, it computes the number of satellites that it has in sight. This analysis is done for a significant period of time in invertavals of a fixed time step.
 
 \subsection{Latitude analysis}
 Is easy to see that the effect of changing the latitude is practically independent for the longitude. For this reason, the links during the day for a given longitude are studied independently of the latitude and viceversa. Doing the analysis for latitudes between 0º and 90º during 2 days, with 5 minutes time-step, this are the results:
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{0_30_90_lat.jpg}
-\caption{Links vs time for latitudes from 0º to 90º}
+\caption[Links vs time for latitudes from 0º to 90º]{Number of links versus time for latitudes from 0º to 90º with a time interval of 5 minutes. Dark blue line shows the results for latitude 0º, green line for 30º, red line for 60º and light blue line for 90º}
 \label{fig:lat1}
 \end{center}
 \end{figure}
@@ -15,7 +17,7 @@ Doing the same analysis but for negative latitudes, the following results are ob
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{0_-30_-90_lat.jpg}
-\caption{Links vs time for latitudes from 0º to -90º}
+\caption[Links vs time for latitudes from 0º to -90º]{Number of links versus time for latitudes from 0º to 90º with a time interval of 5 minutes. Dark blue line shows the results for latitude 0º, green line for -30º, red line for -60º and light blue line for -90º}
 \label{fig:lat2}
 \end{center}
 \end{figure}
@@ -25,7 +27,7 @@ Taking into account that the results of positive latitudes can be extrapolated t
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{70_5_90_lat.jpg}
-\caption{Links vs time for latitudes from 70º to 90º}
+\caption[Links vs time for latitudes from 70º to 90º]{Number of links versus time for latitudes from 70º to 90º with a time interval of 5 minutes. Dark blue line shows the results for latitude 70º, green line for 75º, red line for 80º, light blue line for 85º and violet line for 90º}
 \label{fig:lat3}
 \end{center}
 \end{figure}
@@ -35,7 +37,7 @@ Now, the latitudes that can provide more links are, around 60º:
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{45_10_75_lat.jpg}
-\caption{Links vs time for latitudes from 45º to 75º}
+\caption[Links vs time for latitudes from 45º to 75º]{Number of links versus time for latitudes from 45º to 75º with a time interval of 5 minutes. Dark blue line shows the results for latitude 45º, green line for 55º, red line for 65º and light blue line for 75º}
 \label{fig:lat4}
 \end{center}
 \end{figure}
@@ -43,7 +45,7 @@ As it can be seen in Figure \ref{fig:lat4}, the optimal latitude must be between
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{55_5_75_lat.jpg}
-\caption{Links vs time for latitudes from 55º to 75º}
+\caption[Links vs time for latitudes from 55º to 75º]{Number of links versus time for latitudes from 55º to 75º with a time interval of 5 minutes. Dark blue line shows the results for latitude 55º, green line for 60º, red line for 65º, light blue line for 70º and violet line for 75º}
 \label{fig:lat5}
 \end{center}
 \end{figure}
@@ -51,7 +53,7 @@ The better performance is registered around 60º and 65º. Figure \ref{fig:lat5}
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{575_25_675_lat.jpg}
-\caption{Links vs time for latitudes from 57.5º to 67.5º}
+\caption[Links vs time for latitudes from 57.5º to 67.5º]{Number of links versus time for latitudes from 57.5º to 67.5º with a time interval of 5 minutes. Dark blue line shows the results for latitude 57.5º, green line for 60º, red line for 62.5º, light blue line for 65º and violet line for 67.5º}
 \label{fig:lat6}
 \end{center}
 \end{figure}
@@ -59,7 +61,7 @@ In Figure \ref{fig:lat6} there is no problem with the coverage. For ensuring the
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{575_25_675_(30s)_lat.jpg}
-\caption{Links vs time for latitudes from 57.5º to 67.5º with 30 seconds time-step}
+\caption[Links vs time for latitudes from 57.5º to 67.5º reduced timestep]{Number of links versus time for latitudes from 57.5º to 67.5º with a time interval of 30 seconds. Dark blue line shows the results for latitude 57.5º, green line for 60º, red line for 62.5º, light blue line for 65º and violet line for 67.5º}
 \label{fig:lat7}
 \end{center}
 \end{figure}
@@ -67,7 +69,7 @@ It can be seen that between 65º and 67.5º the system loses the 2nd link and fo
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{-625_-25_575_(30s)_lat.jpg}
-\caption{Links vs time for latitudes from -62.5º to -57.5º with 30 seconds time-step}
+\caption[Links vs time for latitudes from -62.5º to -57.5º reduced timestep]{Number of links versus time for latitudes from -62.5º to -57.5º with a time interval of 30 seconds. Dark blue line shows the results for latitude -62.5º, green line for -60º and red line for -57.5º}
 \label{fig:lat8}
 \end{center}
 \end{figure}
@@ -83,6 +85,7 @@ It is intuitive to think that the effect of changing the longitude is delaying t
 \begin{center}
 \includegraphics[scale=0.30]{0_90_270_long.jpg}
 \caption{Links vs time for longitudes from 0º to 270º}
+\caption[Links vs time for longitudes from 0º to 270º]{Number of links versus time for longitudes from 0º to 270º with a time interval of 5 minutes. Dark blue line shows the results for longitude 0º, green line for 90º, red line for 180º and light blue line for 270º}
 \label{fig:long1}
 \end{center}
 \end{figure}
@@ -90,7 +93,7 @@ As it is seen in Figure \ref{fig:long1} the delay has a reason of 3 hours for ev
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{0_120_240_long.jpg}
-\caption{Links vs time for longitudes of 0º, 120º and 240º}
+\caption[Links vs time for longitudes from 0º to 240º]{Number of links versus time for longitudes from 0º to 240º with a time interval of 5 minutes. Dark blue line shows the results for longitude 0º, green line for 120º and red line for 240º}
 \label{fig:long2}
 \end{center}
 \end{figure}

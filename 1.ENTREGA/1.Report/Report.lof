@@ -19,36 +19,36 @@
 \contentsline {figure}{\numberline {4.3.3}{\ignorespaces Height variation of the satellite\relax }}{23}{figure.caption.33}
 \contentsline {figure}{\numberline {4.3.4}{\ignorespaces Height variation of the satellite with a more restrictive minimum height\relax }}{25}{figure.caption.35}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1.1}{\ignorespaces Candidate 1. Full Polar constellation with global coverage. h= 560km; Np=20; Npp=21; Tsat=420 \relax }}{29}{figure.caption.38}
-\contentsline {figure}{\numberline {5.1.2}{\ignorespaces Candidate 2. Full Polar constellation with total ground station coverage. h= 550km; Np=18; Npp=20; Tsat=288 \relax }}{30}{figure.caption.39}
-\contentsline {figure}{\numberline {5.1.3}{\ignorespaces Candidate 3. 210\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=8; Npp=21; Tsat=168 \relax }}{30}{figure.caption.40}
-\contentsline {figure}{\numberline {5.1.4}{\ignorespaces Candidate 4. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{30}{figure.caption.41}
-\contentsline {figure}{\numberline {5.1.5}{\ignorespaces Candidate 5. 210\IeC {\textordmasculine } Walker-Delta constellation configuration with total coverage of the lattitudes from 0 to 52 degrees. h= 560km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{31}{figure.caption.42}
-\contentsline {figure}{\numberline {5.1.6}{\ignorespaces Candidate 6. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=21; Tsat= 189\relax }}{31}{figure.caption.43}
-\contentsline {figure}{\numberline {5.1.7}{\ignorespaces Candidate 7. Full Walker-Delta constellation configuration.\relax }}{31}{figure.caption.44}
-\contentsline {figure}{\numberline {5.2.1}{\ignorespaces Length of the passes on the example GS.\relax }}{34}{figure.caption.48}
-\contentsline {figure}{\numberline {5.3.1}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{35}{figure.caption.51}
+\contentsline {figure}{\numberline {5.1.1}{\ignorespaces Candidate 1. Full Polar constellation with global coverage. h= 560km; Np=20; Npp=21; Tsat=420 \relax }}{27}{figure.caption.38}
+\contentsline {figure}{\numberline {5.1.2}{\ignorespaces Candidate 2. Full Polar constellation with total ground station coverage. h= 550km; Np=18; Npp=20; Tsat=288 \relax }}{27}{figure.caption.39}
+\contentsline {figure}{\numberline {5.1.3}{\ignorespaces Candidate 3. 210\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=8; Npp=21; Tsat=168 \relax }}{28}{figure.caption.40}
+\contentsline {figure}{\numberline {5.1.4}{\ignorespaces Candidate 4. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{28}{figure.caption.41}
+\contentsline {figure}{\numberline {5.1.5}{\ignorespaces Candidate 5. 210\IeC {\textordmasculine } Walker-Delta constellation configuration with total coverage of the latitudes from 0 to 52 degrees. h= 560km; in=72; Np=14; Npp=19; Tsat= 226\relax }}{29}{figure.caption.42}
+\contentsline {figure}{\numberline {5.1.6}{\ignorespaces Candidate 6. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=14; Npp=19; Tsat= 226\relax }}{29}{figure.caption.43}
+\contentsline {figure}{\numberline {5.1.7}{\ignorespaces Candidate 7. Full Walker-Delta constellation configuration.h= 542km; in=72; Np=9; Npp=21; Tsat= 189\relax }}{30}{figure.caption.44}
+\contentsline {figure}{\numberline {5.2.1}{\ignorespaces Length of the passes on the example GS.\relax }}{33}{figure.caption.49}
+\contentsline {figure}{\numberline {5.3.1}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{34}{figure.caption.52}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.5.1}{\ignorespaces Old Constellation\relax }}{48}{figure.caption.53}
-\contentsline {figure}{\numberline {6.5.2}{\ignorespaces Old and New Constellations\relax }}{49}{figure.caption.54}
-\contentsline {figure}{\numberline {6.5.3}{\ignorespaces New Constellation\relax }}{50}{figure.caption.55}
+\contentsline {figure}{\numberline {6.5.1}{\ignorespaces Old Constellation\relax }}{47}{figure.caption.54}
+\contentsline {figure}{\numberline {6.5.2}{\ignorespaces Old and New Constellations\relax }}{48}{figure.caption.55}
+\contentsline {figure}{\numberline {6.5.3}{\ignorespaces New Constellation\relax }}{49}{figure.caption.56}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{56}{figure.caption.59}
-\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{57}{figure.caption.60}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{67}{figure.caption.68}
-\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{70}{figure.caption.69}
-\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{70}{figure.caption.70}
-\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{73}{figure.caption.77}
+\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{55}{figure.caption.60}
+\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{56}{figure.caption.61}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{66}{figure.caption.69}
+\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{69}{figure.caption.70}
+\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{69}{figure.caption.71}
+\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{72}{figure.caption.78}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Roles and Responsabilities\relax }}{98}{figure.caption.128}
-\contentsline {figure}{\numberline {14.2.1}{\ignorespaces BSCW\relax }}{100}{figure.caption.129}
-\contentsline {figure}{\numberline {14.2.2}{\ignorespaces Git commits, viewed with Gitk\relax }}{100}{figure.caption.129}
-\contentsline {figure}{\numberline {14.2.3}{\ignorespaces Texmaker, Latex.\relax }}{100}{figure.caption.130}
-\contentsline {figure}{\numberline {14.2.4}{\ignorespaces Slack\relax }}{100}{figure.caption.130}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Roles and Responsabilities\relax }}{97}{figure.caption.129}
+\contentsline {figure}{\numberline {14.2.1}{\ignorespaces BSCW\relax }}{99}{figure.caption.130}
+\contentsline {figure}{\numberline {14.2.2}{\ignorespaces Git commits, viewed with Gitk\relax }}{99}{figure.caption.130}
+\contentsline {figure}{\numberline {14.2.3}{\ignorespaces Texmaker, Latex.\relax }}{99}{figure.caption.131}
+\contentsline {figure}{\numberline {14.2.4}{\ignorespaces Slack\relax }}{99}{figure.caption.131}
 \addvspace {10\p@ }
