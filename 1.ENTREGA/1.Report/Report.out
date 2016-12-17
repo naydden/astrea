@@ -132,85 +132,84 @@
 \BOOKMARK [2][-]{subsection.8.1.1}{Introduction}{section.8.1}% 132
 \BOOKMARK [2][-]{subsection.8.1.2}{Protocols}{section.8.1}% 133
 \BOOKMARK [1][-]{section.8.2}{Delivery of the data method}{chapter.8}% 134
-\BOOKMARK [-1][-]{part.4}{IV Ground Segment Design}{}% 135
-\BOOKMARK [0][-]{chapter.9}{Design of the Ground Segment}{part.4}% 136
-\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 137
-\BOOKMARK [1][-]{section.9.2}{Localization of the Ground Stations}{chapter.9}% 138
-\BOOKMARK [2][-]{subsection.9.2.1}{Method}{section.9.2}% 139
-\BOOKMARK [2][-]{subsection.9.2.2}{Conclusion}{section.9.2}% 140
-\BOOKMARK [1][-]{section.9.3}{Legislation}{chapter.9}% 141
-\BOOKMARK [2][-]{subsection.9.3.1}{United Kingdom Ground Station}{section.9.3}% 142
-\BOOKMARK [2][-]{subsection.9.3.2}{Canada Ground Station}{section.9.3}% 143
-\BOOKMARK [1][-]{section.9.4}{Annual costs}{chapter.9}% 144
-\BOOKMARK [2][-]{subsection.9.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{section.9.4}% 145
-\BOOKMARK [1][-]{section.9.5}{Initial investment}{chapter.9}% 146
-\BOOKMARK [2][-]{subsection.9.5.1}{Description of the systems}{section.9.5}% 147
-\BOOKMARK [2][-]{subsection.9.5.2}{Investment}{section.9.5}% 148
-\BOOKMARK [1][-]{section.9.6}{Renting of a Ground Station}{chapter.9}% 149
-\BOOKMARK [2][-]{subsection.9.6.1}{Contact with GS companies}{section.9.6}% 150
-\BOOKMARK [2][-]{subsection.9.6.2}{LeafSpace}{section.9.6}% 151
-\BOOKMARK [3][-]{subsubsection.9.6.2.1}{Features}{subsection.9.6.2}% 152
-\BOOKMARK [1][-]{section.9.7}{Decision taking}{chapter.9}% 153
-\BOOKMARK [2][-]{subsection.9.7.1}{Decision}{section.9.7}% 154
-\BOOKMARK [-1][-]{part.5}{V Satellite design}{}% 155
-\BOOKMARK [0][-]{chapter.10}{Satellite design}{part.5}% 156
-\BOOKMARK [1][-]{section.10.1}{Structure and mechanics}{chapter.10}% 157
-\BOOKMARK [2][-]{subsection.10.1.1}{Structure}{section.10.1}% 158
-\BOOKMARK [2][-]{subsection.10.1.2}{Thermal protection}{section.10.1}% 159
-\BOOKMARK [2][-]{subsection.10.1.3}{Options chosen for the structure and thermal protection}{section.10.1}% 160
-\BOOKMARK [1][-]{section.10.2}{Electrical Power System}{chapter.10}% 161
-\BOOKMARK [2][-]{subsection.10.2.1}{Estimation of the power required}{section.10.2}% 162
-\BOOKMARK [2][-]{subsection.10.2.2}{Solar arrays}{section.10.2}% 163
-\BOOKMARK [2][-]{subsection.10.2.3}{Power management system}{section.10.2}% 164
-\BOOKMARK [2][-]{subsection.10.2.4}{Batteries}{section.10.2}% 165
-\BOOKMARK [2][-]{subsection.10.2.5}{Options chosen for the EPS}{section.10.2}% 166
-\BOOKMARK [1][-]{section.10.3}{Propulsion Systems}{chapter.10}% 167
-\BOOKMARK [1][-]{section.10.4}{Attitude and Orbital Control Systems}{chapter.10}% 168
-\BOOKMARK [2][-]{subsection.10.4.1}{Orbital Control}{section.10.4}% 169
-\BOOKMARK [1][-]{section.10.5}{Payload}{chapter.10}% 170
-\BOOKMARK [2][-]{subsection.10.5.1}{Antennas}{section.10.5}% 171
-\BOOKMARK [3][-]{subsubsection.10.5.1.1}{Patch antenna}{subsection.10.5.1}% 172
-\BOOKMARK [2][-]{subsection.10.5.2}{Payload Data Handling Systems}{section.10.5}% 173
-\BOOKMARK [3][-]{subsubsection.10.5.2.1}{Transceivers}{subsection.10.5.2}% 174
-\BOOKMARK [2][-]{subsection.10.5.3}{Options chosen for the payload module}{section.10.5}% 175
-\BOOKMARK [1][-]{section.10.6}{Communication module}{chapter.10}% 176
-\BOOKMARK [1][-]{section.10.7}{Astrea satellite final configuration}{chapter.10}% 177
-\BOOKMARK [1][-]{section.10.8}{Budget}{chapter.10}% 178
-\BOOKMARK [-1][-]{part.6}{VI Financial and Other Considerations}{}% 179
-\BOOKMARK [0][-]{chapter.11}{Financial Study}{part.6}% 180
-\BOOKMARK [1][-]{section.11.1}{Selling the product}{chapter.11}% 181
-\BOOKMARK [2][-]{subsection.11.1.1}{Estimation of demand}{section.11.1}% 182
-\BOOKMARK [3][-]{subsubsection.11.1.1.1}{Universities}{subsection.11.1.1}% 183
-\BOOKMARK [3][-]{subsubsection.11.1.1.2}{Particular customers}{subsection.11.1.1}% 184
-\BOOKMARK [3][-]{subsubsection.11.1.1.3}{Demand}{subsection.11.1.1}% 185
-\BOOKMARK [2][-]{subsection.11.1.2}{Pricing the service}{section.11.1}% 186
-\BOOKMARK [1][-]{section.11.2}{Economic Feasibility Report}{chapter.11}% 187
-\BOOKMARK [2][-]{subsection.11.2.1}{Previous costs}{section.11.2}% 188
-\BOOKMARK [3][-]{subsubsection.11.2.1.1}{Engineering hours}{subsection.11.2.1}% 189
-\BOOKMARK [3][-]{subsubsection.11.2.1.2}{Administrarion costs}{subsection.11.2.1}% 190
-\BOOKMARK [3][-]{subsubsection.11.2.1.3}{Taxes}{subsection.11.2.1}% 191
-\BOOKMARK [3][-]{subsubsection.11.2.1.4}{Insurance}{subsection.11.2.1}% 192
-\BOOKMARK [2][-]{subsection.11.2.2}{Economic feasibility study}{section.11.2}% 193
-\BOOKMARK [1][-]{section.11.3}{Conclusions of the financial study}{chapter.11}% 194
-\BOOKMARK [2][-]{subsection.11.3.1}{Pay Back Time \(PBT\)}{section.11.3}% 195
-\BOOKMARK [2][-]{subsection.11.3.2}{Updated Pay Back Time \(UPBT\)}{section.11.3}% 196
-\BOOKMARK [2][-]{subsection.11.3.3}{Break Even Point \(BEP\)}{section.11.3}% 197
-\BOOKMARK [2][-]{subsection.11.3.4}{Net Present Value \(NPV\)}{section.11.3}% 198
-\BOOKMARK [2][-]{subsection.11.3.5}{Internal Rate of Return \(IRR\)}{section.11.3}% 199
-\BOOKMARK [0][-]{chapter.12}{Marketing Plan}{part.6}% 200
-\BOOKMARK [1][-]{section.12.1}{Executive Summary}{chapter.12}% 201
-\BOOKMARK [1][-]{section.12.2}{Target Customers}{chapter.12}% 202
-\BOOKMARK [1][-]{section.12.3}{Unique Selling Proposition}{chapter.12}% 203
-\BOOKMARK [1][-]{section.12.4}{Pricing \046 Positioning Strategy}{chapter.12}% 204
-\BOOKMARK [1][-]{section.12.5}{Distribution Plan}{chapter.12}% 205
-\BOOKMARK [1][-]{section.12.6}{Marketing Materials}{chapter.12}% 206
-\BOOKMARK [1][-]{section.12.7}{Online Marketing Strategy}{chapter.12}% 207
-\BOOKMARK [1][-]{section.12.8}{Conversion Strategy}{chapter.12}% 208
-\BOOKMARK [1][-]{section.12.9}{Joint Ventures \046 Partnerships}{chapter.12}% 209
-\BOOKMARK [0][-]{chapter.13}{Environmental Impact Study}{part.6}% 210
-\BOOKMARK [1][-]{section.13.1}{Introduction}{chapter.13}% 211
-\BOOKMARK [1][-]{section.13.2}{Ground Stations}{chapter.13}% 212
-\BOOKMARK [1][-]{section.13.3}{Satellites}{chapter.13}% 213
-\BOOKMARK [1][-]{section.13.4}{Launch system}{chapter.13}% 214
-\BOOKMARK [0][-]{chapter.14}{Social and Security Considerations}{part.6}% 215
-\BOOKMARK [0][-]{chapter.15}{Bibliography}{part.6}% 216
+\BOOKMARK [0][-]{chapter.9}{Design of the Ground Segment}{part.3}% 135
+\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 136
+\BOOKMARK [1][-]{section.9.2}{Localization of the Ground Stations}{chapter.9}% 137
+\BOOKMARK [2][-]{subsection.9.2.1}{Method}{section.9.2}% 138
+\BOOKMARK [2][-]{subsection.9.2.2}{Conclusion}{section.9.2}% 139
+\BOOKMARK [1][-]{section.9.3}{Legislation}{chapter.9}% 140
+\BOOKMARK [2][-]{subsection.9.3.1}{United Kingdom Ground Station}{section.9.3}% 141
+\BOOKMARK [2][-]{subsection.9.3.2}{Canada Ground Station}{section.9.3}% 142
+\BOOKMARK [1][-]{section.9.4}{Annual costs}{chapter.9}% 143
+\BOOKMARK [2][-]{subsection.9.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{section.9.4}% 144
+\BOOKMARK [1][-]{section.9.5}{Initial investment}{chapter.9}% 145
+\BOOKMARK [2][-]{subsection.9.5.1}{Description of the systems}{section.9.5}% 146
+\BOOKMARK [2][-]{subsection.9.5.2}{Investment}{section.9.5}% 147
+\BOOKMARK [1][-]{section.9.6}{Renting of a Ground Station}{chapter.9}% 148
+\BOOKMARK [2][-]{subsection.9.6.1}{Contact with GS companies}{section.9.6}% 149
+\BOOKMARK [2][-]{subsection.9.6.2}{LeafSpace}{section.9.6}% 150
+\BOOKMARK [3][-]{subsubsection.9.6.2.1}{Features}{subsection.9.6.2}% 151
+\BOOKMARK [1][-]{section.9.7}{Decision taking}{chapter.9}% 152
+\BOOKMARK [2][-]{subsection.9.7.1}{Decision}{section.9.7}% 153
+\BOOKMARK [-1][-]{part.4}{IV Satellite design}{}% 154
+\BOOKMARK [0][-]{chapter.10}{Satellite design}{part.4}% 155
+\BOOKMARK [1][-]{section.10.1}{Structure and mechanics}{chapter.10}% 156
+\BOOKMARK [2][-]{subsection.10.1.1}{Structure}{section.10.1}% 157
+\BOOKMARK [2][-]{subsection.10.1.2}{Thermal protection}{section.10.1}% 158
+\BOOKMARK [2][-]{subsection.10.1.3}{Options chosen for the structure and thermal protection}{section.10.1}% 159
+\BOOKMARK [1][-]{section.10.2}{Electrical Power System}{chapter.10}% 160
+\BOOKMARK [2][-]{subsection.10.2.1}{Estimation of the power required}{section.10.2}% 161
+\BOOKMARK [2][-]{subsection.10.2.2}{Solar arrays}{section.10.2}% 162
+\BOOKMARK [2][-]{subsection.10.2.3}{Power management system}{section.10.2}% 163
+\BOOKMARK [2][-]{subsection.10.2.4}{Batteries}{section.10.2}% 164
+\BOOKMARK [2][-]{subsection.10.2.5}{Options chosen for the EPS}{section.10.2}% 165
+\BOOKMARK [1][-]{section.10.3}{Propulsion Systems}{chapter.10}% 166
+\BOOKMARK [1][-]{section.10.4}{Attitude and Orbital Control Systems}{chapter.10}% 167
+\BOOKMARK [2][-]{subsection.10.4.1}{Orbital Control}{section.10.4}% 168
+\BOOKMARK [1][-]{section.10.5}{Payload}{chapter.10}% 169
+\BOOKMARK [2][-]{subsection.10.5.1}{Antennas}{section.10.5}% 170
+\BOOKMARK [3][-]{subsubsection.10.5.1.1}{Patch antenna}{subsection.10.5.1}% 171
+\BOOKMARK [2][-]{subsection.10.5.2}{Payload Data Handling Systems}{section.10.5}% 172
+\BOOKMARK [3][-]{subsubsection.10.5.2.1}{Transceivers}{subsection.10.5.2}% 173
+\BOOKMARK [2][-]{subsection.10.5.3}{Options chosen for the payload module}{section.10.5}% 174
+\BOOKMARK [1][-]{section.10.6}{Communication module}{chapter.10}% 175
+\BOOKMARK [1][-]{section.10.7}{Astrea satellite final configuration}{chapter.10}% 176
+\BOOKMARK [1][-]{section.10.8}{Budget}{chapter.10}% 177
+\BOOKMARK [-1][-]{part.5}{V Financial and Other Considerations}{}% 178
+\BOOKMARK [0][-]{chapter.11}{Financial Study}{part.5}% 179
+\BOOKMARK [1][-]{section.11.1}{Selling the product}{chapter.11}% 180
+\BOOKMARK [2][-]{subsection.11.1.1}{Estimation of demand}{section.11.1}% 181
+\BOOKMARK [3][-]{subsubsection.11.1.1.1}{Universities}{subsection.11.1.1}% 182
+\BOOKMARK [3][-]{subsubsection.11.1.1.2}{Particular customers}{subsection.11.1.1}% 183
+\BOOKMARK [3][-]{subsubsection.11.1.1.3}{Demand}{subsection.11.1.1}% 184
+\BOOKMARK [2][-]{subsection.11.1.2}{Pricing the service}{section.11.1}% 185
+\BOOKMARK [1][-]{section.11.2}{Economic Feasibility Report}{chapter.11}% 186
+\BOOKMARK [2][-]{subsection.11.2.1}{Previous costs}{section.11.2}% 187
+\BOOKMARK [3][-]{subsubsection.11.2.1.1}{Engineering hours}{subsection.11.2.1}% 188
+\BOOKMARK [3][-]{subsubsection.11.2.1.2}{Administrarion costs}{subsection.11.2.1}% 189
+\BOOKMARK [3][-]{subsubsection.11.2.1.3}{Taxes}{subsection.11.2.1}% 190
+\BOOKMARK [3][-]{subsubsection.11.2.1.4}{Insurance}{subsection.11.2.1}% 191
+\BOOKMARK [2][-]{subsection.11.2.2}{Economic feasibility study}{section.11.2}% 192
+\BOOKMARK [1][-]{section.11.3}{Conclusions of the financial study}{chapter.11}% 193
+\BOOKMARK [2][-]{subsection.11.3.1}{Pay Back Time \(PBT\)}{section.11.3}% 194
+\BOOKMARK [2][-]{subsection.11.3.2}{Updated Pay Back Time \(UPBT\)}{section.11.3}% 195
+\BOOKMARK [2][-]{subsection.11.3.3}{Break Even Point \(BEP\)}{section.11.3}% 196
+\BOOKMARK [2][-]{subsection.11.3.4}{Net Present Value \(NPV\)}{section.11.3}% 197
+\BOOKMARK [2][-]{subsection.11.3.5}{Internal Rate of Return \(IRR\)}{section.11.3}% 198
+\BOOKMARK [0][-]{chapter.12}{Marketing Plan}{part.5}% 199
+\BOOKMARK [1][-]{section.12.1}{Executive Summary}{chapter.12}% 200
+\BOOKMARK [1][-]{section.12.2}{Target Customers}{chapter.12}% 201
+\BOOKMARK [1][-]{section.12.3}{Unique Selling Proposition}{chapter.12}% 202
+\BOOKMARK [1][-]{section.12.4}{Pricing \046 Positioning Strategy}{chapter.12}% 203
+\BOOKMARK [1][-]{section.12.5}{Distribution Plan}{chapter.12}% 204
+\BOOKMARK [1][-]{section.12.6}{Marketing Materials}{chapter.12}% 205
+\BOOKMARK [1][-]{section.12.7}{Online Marketing Strategy}{chapter.12}% 206
+\BOOKMARK [1][-]{section.12.8}{Conversion Strategy}{chapter.12}% 207
+\BOOKMARK [1][-]{section.12.9}{Joint Ventures \046 Partnerships}{chapter.12}% 208
+\BOOKMARK [0][-]{chapter.13}{Environmental Impact Study}{part.5}% 209
+\BOOKMARK [1][-]{section.13.1}{Introduction}{chapter.13}% 210
+\BOOKMARK [1][-]{section.13.2}{Ground Stations}{chapter.13}% 211
+\BOOKMARK [1][-]{section.13.3}{Satellites}{chapter.13}% 212
+\BOOKMARK [1][-]{section.13.4}{Launch system}{chapter.13}% 213
+\BOOKMARK [0][-]{chapter.14}{Social and Security Considerations}{part.5}% 214
+\BOOKMARK [0][-]{chapter.15}{Bibliography}{part.5}% 215
