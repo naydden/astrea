@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{iii}{section*.1}
-\contentsline {chapter}{List of Figures}{iv}{section*.2}
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {part}{I\hspace {1em}Orbit Design}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Orbital Coverage}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Orbit Geometry}{2}{section.1.1}
@@ -16,72 +16,210 @@
 \contentsline {subsection}{\numberline {2.2.1}Introduction}{6}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}General Configuration}{7}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}The Streets of Coverage Method}{8}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Results of Streets of Coverage}{10}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Walker-Delta Constellation}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Full Walker-Delta Constellation}{11}{subsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.1.1}Characteristics}{11}{subsubsection.2.3.1.1}
-\contentsline {subsubsection}{\numberline {2.3.1.2}Notation}{13}{subsubsection.2.3.1.2}
-\contentsline {subsubsection}{\numberline {2.3.1.3}Coverage}{13}{subsubsection.2.3.1.3}
-\contentsline {subsection}{\numberline {2.3.2}Semi Walker Delta Configuration}{14}{subsection.2.3.2}
-\contentsline {paragraph}{ }{14}{section*.22}
-\contentsline {subsubsection}{\numberline {2.3.2.1}Advantages}{14}{subsubsection.2.3.2.1}
-\contentsline {paragraph}{ }{14}{section*.24}
-\contentsline {subsubsection}{\numberline {2.3.2.2}Disadvantages}{15}{subsubsection.2.3.2.2}
-\contentsline {paragraph}{ }{15}{section*.26}
-\contentsline {subsection}{\numberline {2.3.3}Other Walker Delta Configurations}{16}{subsection.2.3.3}
-\contentsline {paragraph}{ }{16}{section*.27}
-\contentsline {subsubsection}{\numberline {2.3.3.1}SWDC including an additional polar orbit.}{16}{subsubsection.2.3.3.1}
-\contentsline {paragraph}{ }{16}{section*.28}
-\contentsline {subsubsection}{\numberline {2.3.3.2}Mixed Walker Delta.}{17}{subsubsection.2.3.3.2}
-\contentsline {paragraph}{ }{17}{section*.30}
-\contentsline {paragraph}{ }{17}{section*.32}
-\contentsline {section}{\numberline {2.4}Testing Method}{18}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Introduction}{18}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Method Bases}{18}{subsection.2.4.2}
-\contentsline {subsubsection}{\numberline {2.4.2.1}Global Coverage Conditions}{19}{subsubsection.2.4.2.1}
-\contentsline {subsubsection}{\numberline {2.4.2.2}Results of Testing Method}{20}{subsubsection.2.4.2.2}
-\contentsline {chapter}{\numberline {3}Orbit Perturbations}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}Sources of Perturbation}{23}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Introduction to Orbit Perturbations\cite {Vallado2007}}{23}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Significant Perturbations}{24}{section.3.2}
-\contentsline {paragraph}{Propagation Algorithm\\}{24}{section*.40}
-\contentsline {paragraph}{In conclusion\\}{25}{section*.42}
-\contentsline {section}{\numberline {3.3}Orbit Decay}{25}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Effects on the Ascention Node}{25}{subsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.1.1}Introduction}{25}{subsubsection.3.3.1.1}
-\contentsline {subsubsection}{\numberline {3.3.1.2}Perigee Effect}{26}{subsubsection.3.3.1.2}
-\contentsline {subsubsection}{\numberline {3.3.1.3}Ascention Node}{26}{subsubsection.3.3.1.3}
-\contentsline {subsubsection}{\numberline {3.3.1.4}Conclusion}{27}{subsubsection.3.3.1.4}
-\contentsline {subsection}{\numberline {3.3.2}Effects of the Solar Cicle}{27}{subsection.3.3.2}
-\contentsline {paragraph}{ }{27}{section*.44}
-\contentsline {subsection}{\numberline {3.3.3}Orbital Decay Propagation Results}{30}{subsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.1}Introduction}{30}{subsubsection.3.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.3.2}Drag Computation Algorithm}{30}{subsubsection.3.3.3.2}
-\contentsline {paragraph}{In conclusion}{31}{section*.49}
-\contentsline {section}{\numberline {3.4}Orbital Station-Keeping}{31}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Raising the orbit height to increase Lifetime}{32}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Using Thrusters to increase Lifetime}{33}{subsection.3.4.2}
-\contentsline {subsubsection}{\numberline {3.4.2.1}Energy equation}{33}{subsubsection.3.4.2.1}
-\contentsline {paragraph}{}{33}{section*.51}
-\contentsline {paragraph}{}{34}{section*.52}
-\contentsline {subsubsection}{\numberline {3.4.2.2}Delta-V}{34}{subsubsection.3.4.2.2}
-\contentsline {subsubsection}{\numberline {3.4.2.3}Time}{35}{subsubsection.3.4.2.3}
-\contentsline {subsubsection}{\numberline {3.4.2.4}Propellant}{35}{subsubsection.3.4.2.4}
-\contentsline {subsubsection}{\numberline {3.4.2.5}Orbit maintenance}{35}{subsubsection.3.4.2.5}
-\contentsline {subsubsection}{\numberline {3.4.2.6}Results}{36}{subsubsection.3.4.2.6}
-\contentsline {paragraph}{}{37}{section*.59}
-\contentsline {chapter}{\numberline {4}Constellation Design Decision}{40}{chapter.4}
-\contentsline {section}{\numberline {4.1}Considered Designs}{40}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Introduction}{40}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Candidate 1: Polar - Global Coverage}{40}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Candidate 2: Polar - GS Coverage}{41}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Candidate 3 and 4: Walker-Delta GS Coverage}{41}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Candidate 5: Walker-Delta Lat: 0-58}{42}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Candidate 6: Polar - Walker-Delta J2 + Rotaci\IeC {\'o}}{42}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Candidate 7: Walker-Delta GS Coverage 3}{43}{subsection.4.1.7}
-\contentsline {section}{\numberline {4.2}Constellation Performance Analysis}{46}{section.4.2}
-\contentsline {paragraph}{Time factor\\}{46}{section*.67}
-\contentsline {paragraph}{Quality Time\\}{46}{section*.68}
-\contentsline {subsection}{\numberline {4.2.1}Performance Evaluation}{46}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Ordered Weighting Average based Decision}{48}{section.4.3}
-\contentsline {chapter}{\numberline {5}Bibliography}{50}{chapter.5}
+\contentsline {subsection}{\numberline {2.2.4}Results of Streets of Coverage}{11}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Walker-Delta Constellation}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Full Walker-Delta Constellation}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Custom Walker Delta Configuration}{14}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Testing Method}{15}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Introduction}{15}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Method Bases}{15}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Global Coverage Conditions}{16}{subsubsection.2.4.2.1}
+\contentsline {subsubsection}{\numberline {2.4.2.2}Results of Testing Method}{17}{subsubsection.2.4.2.2}
+\contentsline {chapter}{\numberline {3}Orbit Perturbations}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}Sources of Perturbation}{20}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Introduction to Orbit Perturbations\cite {Vallado2007}}{20}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Significant Perturbations}{21}{section.3.2}
+\contentsline {paragraph}{Propagation Algorithm\\}{21}{section*.29}
+\contentsline {paragraph}{In conclusion\\}{22}{section*.31}
+\contentsline {section}{\numberline {3.3}Orbit Decay}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Effects on the Ascention Node}{22}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Introduction}{22}{subsubsection.3.3.1.1}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Perigee Effect}{23}{subsubsection.3.3.1.2}
+\contentsline {subsubsection}{\numberline {3.3.1.3}Ascention Node}{23}{subsubsection.3.3.1.3}
+\contentsline {subsubsection}{\numberline {3.3.1.4}Conclusion}{24}{subsubsection.3.3.1.4}
+\contentsline {subsection}{\numberline {3.3.2}Effects of the Solar Cicle}{24}{subsection.3.3.2}
+\contentsline {paragraph}{ }{24}{section*.33}
+\contentsline {subsection}{\numberline {3.3.3}Orbital Decay Propagation Results}{27}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Introduction}{27}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Drag Computation Algorithm}{27}{subsubsection.3.3.3.2}
+\contentsline {paragraph}{In conclusion}{28}{section*.38}
+\contentsline {section}{\numberline {3.4}Orbital Station-Keeping}{28}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Raising the orbit height to increase Lifetime}{29}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Using Thrusters to increase Lifetime}{30}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Energy equation}{30}{subsubsection.3.4.2.1}
+\contentsline {paragraph}{}{30}{section*.40}
+\contentsline {paragraph}{}{31}{section*.41}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Delta-V}{31}{subsubsection.3.4.2.2}
+\contentsline {subsubsection}{\numberline {3.4.2.3}Time}{32}{subsubsection.3.4.2.3}
+\contentsline {subsubsection}{\numberline {3.4.2.4}Propellant}{32}{subsubsection.3.4.2.4}
+\contentsline {subsubsection}{\numberline {3.4.2.5}Orbit maintenance}{32}{subsubsection.3.4.2.5}
+\contentsline {subsubsection}{\numberline {3.4.2.6}Results}{33}{subsubsection.3.4.2.6}
+\contentsline {paragraph}{}{34}{section*.48}
+\contentsline {chapter}{\numberline {4}Constellation Design Decision}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Considered Designs}{37}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Introduction}{37}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Candidate 1: Polar - Global Coverage}{37}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Candidate 2: Polar - GS Coverage}{38}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Candidate 3 and 4: Walker-Delta GS Coverage}{38}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Candidate 5: Walker-Delta Lat: 0-58}{39}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Candidate 6: Polar - Walker-Delta J2 + Rotaci\IeC {\'o}}{39}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Candidate 7: Walker-Delta GS Coverage 3}{40}{subsection.4.1.7}
+\contentsline {section}{\numberline {4.2}Constellation Performance Analysis}{43}{section.4.2}
+\contentsline {paragraph}{Time factor\\}{43}{section*.56}
+\contentsline {paragraph}{Quality Time\\}{43}{section*.57}
+\contentsline {subsection}{\numberline {4.2.1}Performance Evaluation}{43}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Ordered Weighting Average based Decision}{45}{section.4.3}
+\contentsline {part}{II\hspace {1em}Constellation Deployment}{47}{part.2}
+\contentsline {chapter}{\numberline {5}Constellation Deployment}{48}{chapter.5}
+\contentsline {section}{\numberline {5.1}Constellation Deployment Department}{49}{section.5.1}
+\contentsline {section}{\numberline {5.2}Launching System}{50}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Launch site and vehicle analysis}{50}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Deployer}{53}{section.5.3}
+\contentsline {section}{\numberline {5.4}First Placement}{54}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}First Placement logistics}{54}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}1st Placement Maneuver}{55}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}In-Orbit Injection}{55}{subsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.3.1}Plane Order}{56}{subsubsection.5.4.3.1}
+\contentsline {section}{\numberline {5.5}Replacement Strategy}{58}{section.5.5}
+\contentsline {section}{\numberline {5.6}Spare Strategy}{59}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Introduction}{59}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Spare Strategy Selection}{60}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}Major failure deffinition}{61}{subsection.5.6.3}
+\contentsline {paragraph}{}{61}{section*.67}
+\contentsline {subsection}{\numberline {5.6.4}Decision}{62}{subsection.5.6.4}
+\contentsline {paragraph}{}{62}{section*.68}
+\contentsline {paragraph}{}{62}{section*.69}
+\contentsline {section}{\numberline {5.7}End-of-Life Strategy}{63}{section.5.7}
+\contentsline {section}{\numberline {5.8}Conclusions}{64}{section.5.8}
+\contentsline {part}{III\hspace {1em}Communications}{65}{part.3}
+\contentsline {chapter}{\numberline {6}Space Segment Protocol Stack}{66}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{66}{section.6.1}
+\contentsline {paragraph}{}{67}{section*.72}
+\contentsline {section}{\numberline {6.2}Layer 2: Data Link}{68}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Functions of the DLL}{68}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Working procedure}{68}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Protocols}{69}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Layer 3: The Network}{70}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Functions of the Network Layer}{70}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Protocols}{71}{subsection.6.3.2}
+\contentsline {paragraph}{}{71}{section*.74}
+\contentsline {subsection}{\numberline {6.3.3}Protocol Selection}{71}{subsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.3.1}Choice of the main protocol}{71}{subsubsection.6.3.3.1}
+\contentsline {paragraph}{}{71}{section*.75}
+\contentsline {subsubsection}{\numberline {6.3.3.2}Choice of routing protocol}{72}{subsubsection.6.3.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3.3}Choice of complementary protocols}{72}{subsubsection.6.3.3.3}
+\contentsline {paragraph}{}{72}{section*.76}
+\contentsline {paragraph}{}{72}{section*.77}
+\contentsline {subsubsection}{\numberline {6.3.3.4}Conclusion}{72}{subsubsection.6.3.3.4}
+\contentsline {paragraph}{}{72}{section*.78}
+\contentsline {section}{\numberline {6.4}Layer 4: Transport and Session}{72}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Protocols}{73}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Choice of protocol for the transport layer}{73}{subsection.6.4.2}
+\contentsline {chapter}{\numberline {7}Ground Segment Protocols}{74}{chapter.7}
+\contentsline {section}{\numberline {7.1}Ground Segment Protocols}{74}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Introduction}{74}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Protocols}{74}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Delivery of the data method}{75}{section.7.2}
+\contentsline {chapter}{\numberline {8}Design of the Ground Segment}{76}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{76}{section.8.1}
+\contentsline {section}{\numberline {8.2}Localization of the Ground Stations}{77}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Method}{77}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Conclusion}{78}{subsection.8.2.2}
+\contentsline {section}{\numberline {8.3}Legislation}{79}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}United Kingdom Ground Station}{79}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Canada Ground Station}{79}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.4}Annual costs}{80}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Annual costs of the Ground Stations and the Mission Control Centre}{80}{subsection.8.4.1}
+\contentsline {section}{\numberline {8.5}Initial investment}{80}{section.8.5}
+\contentsline {subsection}{\numberline {8.5.1}Description of the systems}{80}{subsection.8.5.1}
+\contentsline {subsection}{\numberline {8.5.2}Investment}{81}{subsection.8.5.2}
+\contentsline {section}{\numberline {8.6}Renting of a Ground Station}{82}{section.8.6}
+\contentsline {subsection}{\numberline {8.6.1}Contact with GS companies}{82}{subsection.8.6.1}
+\contentsline {subsection}{\numberline {8.6.2}LeafSpace}{82}{subsection.8.6.2}
+\contentsline {subsubsection}{\numberline {8.6.2.1}Features}{82}{subsubsection.8.6.2.1}
+\contentsline {paragraph}{Antenna}{82}{section*.82}
+\contentsline {paragraph}{Pricing}{83}{section*.83}
+\contentsline {paragraph}{Boost Performance}{83}{section*.84}
+\contentsline {paragraph}{Way of use}{83}{section*.85}
+\contentsline {paragraph}{Services}{83}{section*.86}
+\contentsline {paragraph}{Map}{83}{section*.87}
+\contentsline {paragraph}{Operation}{84}{section*.89}
+\contentsline {section}{\numberline {8.7}Decision taking}{84}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Decision}{85}{subsection.8.7.1}
+\contentsline {part}{IV\hspace {1em}Satellite design}{86}{part.4}
+\contentsline {chapter}{\numberline {9}Satellite design}{87}{chapter.9}
+\contentsline {section}{\numberline {9.1}Structure and mechanics}{87}{section.9.1}
+\contentsline {paragraph}{}{87}{section*.90}
+\contentsline {paragraph}{}{87}{section*.91}
+\contentsline {subsection}{\numberline {9.1.1}Structure}{87}{subsection.9.1.1}
+\contentsline {paragraph}{}{87}{section*.92}
+\contentsline {paragraph}{}{87}{section*.93}
+\contentsline {subsection}{\numberline {9.1.2}Thermal protection}{88}{subsection.9.1.2}
+\contentsline {paragraph}{}{88}{section*.94}
+\contentsline {paragraph}{}{88}{section*.95}
+\contentsline {subsection}{\numberline {9.1.3}Options chosen for the structure and thermal protection}{88}{subsection.9.1.3}
+\contentsline {paragraph}{}{88}{section*.96}
+\contentsline {section}{\numberline {9.2}Electrical Power System}{88}{section.9.2}
+\contentsline {paragraph}{}{88}{section*.97}
+\contentsline {subsection}{\numberline {9.2.1}Estimation of the power required}{89}{subsection.9.2.1}
+\contentsline {paragraph}{}{89}{section*.98}
+\contentsline {paragraph}{}{89}{section*.99}
+\contentsline {subsection}{\numberline {9.2.2}Solar arrays}{89}{subsection.9.2.2}
+\contentsline {paragraph}{}{89}{section*.100}
+\contentsline {paragraph}{}{89}{section*.101}
+\contentsline {subsection}{\numberline {9.2.3}Power management system}{89}{subsection.9.2.3}
+\contentsline {paragraph}{}{89}{section*.102}
+\contentsline {paragraph}{}{89}{section*.103}
+\contentsline {subsection}{\numberline {9.2.4}Batteries}{90}{subsection.9.2.4}
+\contentsline {paragraph}{}{90}{section*.104}
+\contentsline {paragraph}{}{90}{section*.105}
+\contentsline {paragraph}{}{90}{section*.106}
+\contentsline {subsection}{\numberline {9.2.5}Options chosen for the EPS}{90}{subsection.9.2.5}
+\contentsline {paragraph}{}{90}{section*.107}
+\contentsline {section}{\numberline {9.3}Propulsion Systems}{90}{section.9.3}
+\contentsline {paragraph}{}{90}{section*.108}
+\contentsline {paragraph}{}{91}{section*.109}
+\contentsline {paragraph}{}{91}{section*.110}
+\contentsline {paragraph}{}{91}{section*.111}
+\contentsline {section}{\numberline {9.4}Attitude and Orbital Control Systems}{91}{section.9.4}
+\contentsline {paragraph}{}{91}{section*.112}
+\contentsline {paragraph}{}{91}{section*.113}
+\contentsline {paragraph}{}{92}{section*.114}
+\contentsline {subsection}{\numberline {9.4.1}Orbital Control}{92}{subsection.9.4.1}
+\contentsline {paragraph}{}{92}{section*.115}
+\contentsline {paragraph}{}{92}{section*.116}
+\contentsline {paragraph}{}{92}{section*.117}
+\contentsline {section}{\numberline {9.5}Payload}{92}{section.9.5}
+\contentsline {paragraph}{}{92}{section*.118}
+\contentsline {paragraph}{}{93}{section*.119}
+\contentsline {paragraph}{}{93}{section*.120}
+\contentsline {subsection}{\numberline {9.5.1}Antennas}{93}{subsection.9.5.1}
+\contentsline {paragraph}{}{93}{section*.121}
+\contentsline {subsubsection}{\numberline {9.5.1.1}Patch antenna}{93}{subsubsection.9.5.1.1}
+\contentsline {paragraph}{}{93}{section*.122}
+\contentsline {paragraph}{}{93}{section*.123}
+\contentsline {subsection}{\numberline {9.5.2}Payload Data Handling Systems}{94}{subsection.9.5.2}
+\contentsline {paragraph}{}{94}{section*.124}
+\contentsline {paragraph}{}{94}{section*.125}
+\contentsline {paragraph}{}{94}{section*.126}
+\contentsline {subsubsection}{\numberline {9.5.2.1}Transceivers}{94}{subsubsection.9.5.2.1}
+\contentsline {paragraph}{}{94}{section*.127}
+\contentsline {paragraph}{}{94}{section*.128}
+\contentsline {paragraph}{}{95}{section*.129}
+\contentsline {subsection}{\numberline {9.5.3}Options chosen for the payload module}{95}{subsection.9.5.3}
+\contentsline {paragraph}{}{95}{section*.130}
+\contentsline {section}{\numberline {9.6}Communication module}{95}{section.9.6}
+\contentsline {paragraph}{}{95}{section*.131}
+\contentsline {paragraph}{}{95}{section*.132}
+\contentsline {paragraph}{}{95}{section*.133}
+\contentsline {section}{\numberline {9.7}Astrea satellite final configuration}{96}{section.9.7}
+\contentsline {paragraph}{}{96}{section*.134}
+\contentsline {section}{\numberline {9.8}Budget}{96}{section.9.8}
+\contentsline {paragraph}{}{97}{section*.135}
+\contentsline {paragraph}{}{97}{section*.136}
+\contentsline {paragraph}{}{97}{section*.137}
+\contentsline {part}{V\hspace {1em}Financial and Other Considerations}{98}{part.5}
+\contentsline {chapter}{\numberline {10}Financial Study}{99}{chapter.10}
+\contentsline {chapter}{\numberline {11}Environmental Impact Study}{104}{chapter.11}
+\contentsline {chapter}{\numberline {12}Social and Security Considerations}{105}{chapter.12}
+\contentsline {chapter}{\numberline {13}Bibliography}{107}{chapter.13}

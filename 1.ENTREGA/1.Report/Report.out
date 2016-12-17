@@ -15,53 +15,134 @@
 \BOOKMARK [2][-]{subsection.2.2.4}{Results of Streets of Coverage}{section.2.2}% 15
 \BOOKMARK [1][-]{section.2.3}{Walker-Delta Constellation}{chapter.2}% 16
 \BOOKMARK [2][-]{subsection.2.3.1}{Full Walker-Delta Constellation}{section.2.3}% 17
-\BOOKMARK [3][-]{subsubsection.2.3.1.1}{Characteristics}{subsection.2.3.1}% 18
-\BOOKMARK [3][-]{subsubsection.2.3.1.2}{Notation}{subsection.2.3.1}% 19
-\BOOKMARK [3][-]{subsubsection.2.3.1.3}{Coverage}{subsection.2.3.1}% 20
-\BOOKMARK [2][-]{subsection.2.3.2}{Semi Walker Delta Configuration}{section.2.3}% 21
-\BOOKMARK [3][-]{subsubsection.2.3.2.1}{Advantages}{subsection.2.3.2}% 22
-\BOOKMARK [3][-]{subsubsection.2.3.2.2}{Disadvantages}{subsection.2.3.2}% 23
-\BOOKMARK [2][-]{subsection.2.3.3}{Other Walker Delta Configurations}{section.2.3}% 24
-\BOOKMARK [3][-]{subsubsection.2.3.3.1}{SWDC including an additional polar orbit.}{subsection.2.3.3}% 25
-\BOOKMARK [3][-]{subsubsection.2.3.3.2}{Mixed Walker Delta.}{subsection.2.3.3}% 26
-\BOOKMARK [1][-]{section.2.4}{Testing Method}{chapter.2}% 27
-\BOOKMARK [2][-]{subsection.2.4.1}{Introduction}{section.2.4}% 28
-\BOOKMARK [2][-]{subsection.2.4.2}{Method Bases}{section.2.4}% 29
-\BOOKMARK [3][-]{subsubsection.2.4.2.1}{Global Coverage Conditions}{subsection.2.4.2}% 30
-\BOOKMARK [3][-]{subsubsection.2.4.2.2}{Results of Testing Method}{subsection.2.4.2}% 31
-\BOOKMARK [0][-]{chapter.3}{Orbit Perturbations}{part.1}% 32
-\BOOKMARK [1][-]{section.3.1}{Sources of Perturbation}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.1.1}{Introduction to Orbit PerturbationsVallado2007}{section.3.1}% 34
-\BOOKMARK [1][-]{section.3.2}{Significant Perturbations}{chapter.3}% 35
-\BOOKMARK [1][-]{section.3.3}{Orbit Decay}{chapter.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.1}{Effects on the Ascention Node}{section.3.3}% 37
-\BOOKMARK [3][-]{subsubsection.3.3.1.1}{Introduction}{subsection.3.3.1}% 38
-\BOOKMARK [3][-]{subsubsection.3.3.1.2}{Perigee Effect}{subsection.3.3.1}% 39
-\BOOKMARK [3][-]{subsubsection.3.3.1.3}{Ascention Node}{subsection.3.3.1}% 40
-\BOOKMARK [3][-]{subsubsection.3.3.1.4}{Conclusion}{subsection.3.3.1}% 41
-\BOOKMARK [2][-]{subsection.3.3.2}{Effects of the Solar Cicle}{section.3.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.3}{Orbital Decay Propagation Results}{section.3.3}% 43
-\BOOKMARK [3][-]{subsubsection.3.3.3.1}{Introduction}{subsection.3.3.3}% 44
-\BOOKMARK [3][-]{subsubsection.3.3.3.2}{Drag Computation Algorithm}{subsection.3.3.3}% 45
-\BOOKMARK [1][-]{section.3.4}{Orbital Station-Keeping}{chapter.3}% 46
-\BOOKMARK [2][-]{subsection.3.4.1}{Raising the orbit height to increase Lifetime}{section.3.4}% 47
-\BOOKMARK [2][-]{subsection.3.4.2}{Using Thrusters to increase Lifetime}{section.3.4}% 48
-\BOOKMARK [3][-]{subsubsection.3.4.2.1}{Energy equation}{subsection.3.4.2}% 49
-\BOOKMARK [3][-]{subsubsection.3.4.2.2}{Delta-V}{subsection.3.4.2}% 50
-\BOOKMARK [3][-]{subsubsection.3.4.2.3}{Time}{subsection.3.4.2}% 51
-\BOOKMARK [3][-]{subsubsection.3.4.2.4}{Propellant}{subsection.3.4.2}% 52
-\BOOKMARK [3][-]{subsubsection.3.4.2.5}{Orbit maintenance}{subsection.3.4.2}% 53
-\BOOKMARK [3][-]{subsubsection.3.4.2.6}{Results}{subsection.3.4.2}% 54
-\BOOKMARK [0][-]{chapter.4}{Constellation Design Decision}{part.1}% 55
-\BOOKMARK [1][-]{section.4.1}{Considered Designs}{chapter.4}% 56
-\BOOKMARK [2][-]{subsection.4.1.1}{Introduction}{section.4.1}% 57
-\BOOKMARK [2][-]{subsection.4.1.2}{Candidate 1: Polar - Global Coverage}{section.4.1}% 58
-\BOOKMARK [2][-]{subsection.4.1.3}{Candidate 2: Polar - GS Coverage}{section.4.1}% 59
-\BOOKMARK [2][-]{subsection.4.1.4}{Candidate 3 and 4: Walker-Delta GS Coverage}{section.4.1}% 60
-\BOOKMARK [2][-]{subsection.4.1.5}{Candidate 5: Walker-Delta Lat: 0-58}{section.4.1}% 61
-\BOOKMARK [2][-]{subsection.4.1.6}{Candidate 6: Polar - Walker-Delta J2 + Rotaci\363}{section.4.1}% 62
-\BOOKMARK [2][-]{subsection.4.1.7}{Candidate 7: Walker-Delta GS Coverage 3}{section.4.1}% 63
-\BOOKMARK [1][-]{section.4.2}{Constellation Performance Analysis}{chapter.4}% 64
-\BOOKMARK [2][-]{subsection.4.2.1}{Performance Evaluation}{section.4.2}% 65
-\BOOKMARK [1][-]{section.4.3}{Ordered Weighting Average based Decision}{chapter.4}% 66
-\BOOKMARK [0][-]{chapter.5}{Bibliography}{part.1}% 67
+\BOOKMARK [2][-]{subsection.2.3.2}{Custom Walker Delta Configuration}{section.2.3}% 18
+\BOOKMARK [1][-]{section.2.4}{Testing Method}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.4.1}{Introduction}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.2}{Method Bases}{section.2.4}% 21
+\BOOKMARK [3][-]{subsubsection.2.4.2.1}{Global Coverage Conditions}{subsection.2.4.2}% 22
+\BOOKMARK [3][-]{subsubsection.2.4.2.2}{Results of Testing Method}{subsection.2.4.2}% 23
+\BOOKMARK [0][-]{chapter.3}{Orbit Perturbations}{part.1}% 24
+\BOOKMARK [1][-]{section.3.1}{Sources of Perturbation}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Introduction to Orbit PerturbationsVallado2007}{section.3.1}% 26
+\BOOKMARK [1][-]{section.3.2}{Significant Perturbations}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.3}{Orbit Decay}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.1}{Effects on the Ascention Node}{section.3.3}% 29
+\BOOKMARK [3][-]{subsubsection.3.3.1.1}{Introduction}{subsection.3.3.1}% 30
+\BOOKMARK [3][-]{subsubsection.3.3.1.2}{Perigee Effect}{subsection.3.3.1}% 31
+\BOOKMARK [3][-]{subsubsection.3.3.1.3}{Ascention Node}{subsection.3.3.1}% 32
+\BOOKMARK [3][-]{subsubsection.3.3.1.4}{Conclusion}{subsection.3.3.1}% 33
+\BOOKMARK [2][-]{subsection.3.3.2}{Effects of the Solar Cicle}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.3}{Orbital Decay Propagation Results}{section.3.3}% 35
+\BOOKMARK [3][-]{subsubsection.3.3.3.1}{Introduction}{subsection.3.3.3}% 36
+\BOOKMARK [3][-]{subsubsection.3.3.3.2}{Drag Computation Algorithm}{subsection.3.3.3}% 37
+\BOOKMARK [1][-]{section.3.4}{Orbital Station-Keeping}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.4.1}{Raising the orbit height to increase Lifetime}{section.3.4}% 39
+\BOOKMARK [2][-]{subsection.3.4.2}{Using Thrusters to increase Lifetime}{section.3.4}% 40
+\BOOKMARK [3][-]{subsubsection.3.4.2.1}{Energy equation}{subsection.3.4.2}% 41
+\BOOKMARK [3][-]{subsubsection.3.4.2.2}{Delta-V}{subsection.3.4.2}% 42
+\BOOKMARK [3][-]{subsubsection.3.4.2.3}{Time}{subsection.3.4.2}% 43
+\BOOKMARK [3][-]{subsubsection.3.4.2.4}{Propellant}{subsection.3.4.2}% 44
+\BOOKMARK [3][-]{subsubsection.3.4.2.5}{Orbit maintenance}{subsection.3.4.2}% 45
+\BOOKMARK [3][-]{subsubsection.3.4.2.6}{Results}{subsection.3.4.2}% 46
+\BOOKMARK [0][-]{chapter.4}{Constellation Design Decision}{part.1}% 47
+\BOOKMARK [1][-]{section.4.1}{Considered Designs}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.1.1}{Introduction}{section.4.1}% 49
+\BOOKMARK [2][-]{subsection.4.1.2}{Candidate 1: Polar - Global Coverage}{section.4.1}% 50
+\BOOKMARK [2][-]{subsection.4.1.3}{Candidate 2: Polar - GS Coverage}{section.4.1}% 51
+\BOOKMARK [2][-]{subsection.4.1.4}{Candidate 3 and 4: Walker-Delta GS Coverage}{section.4.1}% 52
+\BOOKMARK [2][-]{subsection.4.1.5}{Candidate 5: Walker-Delta Lat: 0-58}{section.4.1}% 53
+\BOOKMARK [2][-]{subsection.4.1.6}{Candidate 6: Polar - Walker-Delta J2 + Rotaci\363}{section.4.1}% 54
+\BOOKMARK [2][-]{subsection.4.1.7}{Candidate 7: Walker-Delta GS Coverage 3}{section.4.1}% 55
+\BOOKMARK [1][-]{section.4.2}{Constellation Performance Analysis}{chapter.4}% 56
+\BOOKMARK [2][-]{subsection.4.2.1}{Performance Evaluation}{section.4.2}% 57
+\BOOKMARK [1][-]{section.4.3}{Ordered Weighting Average based Decision}{chapter.4}% 58
+\BOOKMARK [-1][-]{part.2}{II Constellation Deployment}{}% 59
+\BOOKMARK [0][-]{chapter.5}{Constellation Deployment}{part.2}% 60
+\BOOKMARK [1][-]{section.5.1}{Constellation Deployment Department}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.2}{Launching System}{chapter.5}% 62
+\BOOKMARK [2][-]{subsection.5.2.1}{Launch site and vehicle analysis}{section.5.2}% 63
+\BOOKMARK [1][-]{section.5.3}{Deployer}{chapter.5}% 64
+\BOOKMARK [1][-]{section.5.4}{First Placement}{chapter.5}% 65
+\BOOKMARK [2][-]{subsection.5.4.1}{First Placement logistics}{section.5.4}% 66
+\BOOKMARK [2][-]{subsection.5.4.2}{1st Placement Maneuver}{section.5.4}% 67
+\BOOKMARK [2][-]{subsection.5.4.3}{In-Orbit Injection}{section.5.4}% 68
+\BOOKMARK [3][-]{subsubsection.5.4.3.1}{Plane Order}{subsection.5.4.3}% 69
+\BOOKMARK [1][-]{section.5.5}{Replacement Strategy}{chapter.5}% 70
+\BOOKMARK [1][-]{section.5.6}{Spare Strategy}{chapter.5}% 71
+\BOOKMARK [2][-]{subsection.5.6.1}{Introduction}{section.5.6}% 72
+\BOOKMARK [2][-]{subsection.5.6.2}{Spare Strategy Selection}{section.5.6}% 73
+\BOOKMARK [2][-]{subsection.5.6.3}{Major failure deffinition}{section.5.6}% 74
+\BOOKMARK [2][-]{subsection.5.6.4}{Decision}{section.5.6}% 75
+\BOOKMARK [1][-]{section.5.7}{End-of-Life Strategy}{chapter.5}% 76
+\BOOKMARK [1][-]{section.5.8}{Conclusions}{chapter.5}% 77
+\BOOKMARK [-1][-]{part.3}{III Communications}{}% 78
+\BOOKMARK [0][-]{chapter.6}{Space Segment Protocol Stack}{part.3}% 79
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 80
+\BOOKMARK [1][-]{section.6.2}{Layer 2: Data Link}{chapter.6}% 81
+\BOOKMARK [2][-]{subsection.6.2.1}{Functions of the DLL}{section.6.2}% 82
+\BOOKMARK [2][-]{subsection.6.2.2}{Working procedure}{section.6.2}% 83
+\BOOKMARK [2][-]{subsection.6.2.3}{Protocols}{section.6.2}% 84
+\BOOKMARK [1][-]{section.6.3}{Layer 3: The Network}{chapter.6}% 85
+\BOOKMARK [2][-]{subsection.6.3.1}{Functions of the Network Layer}{section.6.3}% 86
+\BOOKMARK [2][-]{subsection.6.3.2}{Protocols}{section.6.3}% 87
+\BOOKMARK [2][-]{subsection.6.3.3}{Protocol Selection}{section.6.3}% 88
+\BOOKMARK [3][-]{subsubsection.6.3.3.1}{Choice of the main protocol}{subsection.6.3.3}% 89
+\BOOKMARK [3][-]{subsubsection.6.3.3.2}{Choice of routing protocol}{subsection.6.3.3}% 90
+\BOOKMARK [3][-]{subsubsection.6.3.3.3}{Choice of complementary protocols}{subsection.6.3.3}% 91
+\BOOKMARK [3][-]{subsubsection.6.3.3.4}{Conclusion}{subsection.6.3.3}% 92
+\BOOKMARK [1][-]{section.6.4}{Layer 4: Transport and Session}{chapter.6}% 93
+\BOOKMARK [2][-]{subsection.6.4.1}{Protocols}{section.6.4}% 94
+\BOOKMARK [2][-]{subsection.6.4.2}{Choice of protocol for the transport layer}{section.6.4}% 95
+\BOOKMARK [0][-]{chapter.7}{Ground Segment Protocols}{part.3}% 96
+\BOOKMARK [1][-]{section.7.1}{Ground Segment Protocols}{chapter.7}% 97
+\BOOKMARK [2][-]{subsection.7.1.1}{Introduction}{section.7.1}% 98
+\BOOKMARK [2][-]{subsection.7.1.2}{Protocols}{section.7.1}% 99
+\BOOKMARK [1][-]{section.7.2}{Delivery of the data method}{chapter.7}% 100
+\BOOKMARK [0][-]{chapter.8}{Design of the Ground Segment}{part.3}% 101
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 102
+\BOOKMARK [1][-]{section.8.2}{Localization of the Ground Stations}{chapter.8}% 103
+\BOOKMARK [2][-]{subsection.8.2.1}{Method}{section.8.2}% 104
+\BOOKMARK [2][-]{subsection.8.2.2}{Conclusion}{section.8.2}% 105
+\BOOKMARK [1][-]{section.8.3}{Legislation}{chapter.8}% 106
+\BOOKMARK [2][-]{subsection.8.3.1}{United Kingdom Ground Station}{section.8.3}% 107
+\BOOKMARK [2][-]{subsection.8.3.2}{Canada Ground Station}{section.8.3}% 108
+\BOOKMARK [1][-]{section.8.4}{Annual costs}{chapter.8}% 109
+\BOOKMARK [2][-]{subsection.8.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{section.8.4}% 110
+\BOOKMARK [1][-]{section.8.5}{Initial investment}{chapter.8}% 111
+\BOOKMARK [2][-]{subsection.8.5.1}{Description of the systems}{section.8.5}% 112
+\BOOKMARK [2][-]{subsection.8.5.2}{Investment}{section.8.5}% 113
+\BOOKMARK [1][-]{section.8.6}{Renting of a Ground Station}{chapter.8}% 114
+\BOOKMARK [2][-]{subsection.8.6.1}{Contact with GS companies}{section.8.6}% 115
+\BOOKMARK [2][-]{subsection.8.6.2}{LeafSpace}{section.8.6}% 116
+\BOOKMARK [3][-]{subsubsection.8.6.2.1}{Features}{subsection.8.6.2}% 117
+\BOOKMARK [1][-]{section.8.7}{Decision taking}{chapter.8}% 118
+\BOOKMARK [2][-]{subsection.8.7.1}{Decision}{section.8.7}% 119
+\BOOKMARK [-1][-]{part.4}{IV Satellite design}{}% 120
+\BOOKMARK [0][-]{chapter.9}{Satellite design}{part.4}% 121
+\BOOKMARK [1][-]{section.9.1}{Structure and mechanics}{chapter.9}% 122
+\BOOKMARK [2][-]{subsection.9.1.1}{Structure}{section.9.1}% 123
+\BOOKMARK [2][-]{subsection.9.1.2}{Thermal protection}{section.9.1}% 124
+\BOOKMARK [2][-]{subsection.9.1.3}{Options chosen for the structure and thermal protection}{section.9.1}% 125
+\BOOKMARK [1][-]{section.9.2}{Electrical Power System}{chapter.9}% 126
+\BOOKMARK [2][-]{subsection.9.2.1}{Estimation of the power required}{section.9.2}% 127
+\BOOKMARK [2][-]{subsection.9.2.2}{Solar arrays}{section.9.2}% 128
+\BOOKMARK [2][-]{subsection.9.2.3}{Power management system}{section.9.2}% 129
+\BOOKMARK [2][-]{subsection.9.2.4}{Batteries}{section.9.2}% 130
+\BOOKMARK [2][-]{subsection.9.2.5}{Options chosen for the EPS}{section.9.2}% 131
+\BOOKMARK [1][-]{section.9.3}{Propulsion Systems}{chapter.9}% 132
+\BOOKMARK [1][-]{section.9.4}{Attitude and Orbital Control Systems}{chapter.9}% 133
+\BOOKMARK [2][-]{subsection.9.4.1}{Orbital Control}{section.9.4}% 134
+\BOOKMARK [1][-]{section.9.5}{Payload}{chapter.9}% 135
+\BOOKMARK [2][-]{subsection.9.5.1}{Antennas}{section.9.5}% 136
+\BOOKMARK [3][-]{subsubsection.9.5.1.1}{Patch antenna}{subsection.9.5.1}% 137
+\BOOKMARK [2][-]{subsection.9.5.2}{Payload Data Handling Systems}{section.9.5}% 138
+\BOOKMARK [3][-]{subsubsection.9.5.2.1}{Transceivers}{subsection.9.5.2}% 139
+\BOOKMARK [2][-]{subsection.9.5.3}{Options chosen for the payload module}{section.9.5}% 140
+\BOOKMARK [1][-]{section.9.6}{Communication module}{chapter.9}% 141
+\BOOKMARK [1][-]{section.9.7}{Astrea satellite final configuration}{chapter.9}% 142
+\BOOKMARK [1][-]{section.9.8}{Budget}{chapter.9}% 143
+\BOOKMARK [-1][-]{part.5}{V Financial and Other Considerations}{}% 144
+\BOOKMARK [0][-]{chapter.10}{Financial Study}{part.5}% 145
+\BOOKMARK [0][-]{chapter.11}{Environmental Impact Study}{part.5}% 146
+\BOOKMARK [0][-]{chapter.12}{Social and Security Considerations}{part.5}% 147
+\BOOKMARK [0][-]{chapter.13}{Bibliography}{part.5}% 148
