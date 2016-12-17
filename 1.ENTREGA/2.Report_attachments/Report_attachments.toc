@@ -304,7 +304,7 @@
 \contentsline {subsubsection}{\numberline {9.5.4.1}Building a ground station}{180}{subsubsection.9.5.4.1}
 \contentsline {subsubsection}{\numberline {9.5.4.2}Renting a ground station}{181}{subsubsection.9.5.4.2}
 \contentsline {subsection}{\numberline {9.5.5}Decision}{181}{subsection.9.5.5}
-\contentsline {part}{IV\hspace {1em}ANNEX V: Satellite design}{182}{part.4}
+\contentsline {part}{IV\hspace {1em}ANNEX IV: Satellite design}{182}{part.4}
 \contentsline {chapter}{\numberline {10}Satellite design}{183}{chapter.10}
 \contentsline {section}{\numberline {10.1}Structure and mechanics}{183}{section.10.1}
 \contentsline {paragraph}{}{183}{section*.247}
@@ -450,7 +450,7 @@
 \contentsline {paragraph}{}{216}{section*.353}
 \contentsline {paragraph}{}{216}{section*.354}
 \contentsline {section}{\numberline {10.9}Astrea satellite Final Configuration}{216}{section.10.9}
-\contentsline {part}{V\hspace {1em}ANNEX VI: Financial and Other Considerations}{218}{part.5}
+\contentsline {part}{V\hspace {1em}ANNEX V: Financial and Other Considerations}{218}{part.5}
 \contentsline {paragraph}{}{219}{section*.355}
 \contentsline {chapter}{\numberline {11}Financial Study}{220}{chapter.11}
 \contentsline {section}{\numberline {11.1}Selling the product}{220}{section.11.1}
