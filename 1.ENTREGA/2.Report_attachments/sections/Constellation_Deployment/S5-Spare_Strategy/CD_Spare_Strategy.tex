@@ -1,15 +1,4 @@
 \section{Spare Strategy}
-\subsection{Introduction}
-When building a satellite constellation with the target to provide global coverage communication relay between LEO satellites and between LEO satellites and the ground, it is crucial to avoid any deterioration of the service. In order to ensure that any possible fail from the satellites would not spoil the constellation operation for more than 6 hours; a spare strategy has to be done. Nowadays, four different types of spare strategies are known:
-\begin{itemize} 
-
-\item {Spare satellites in constellation}
-\item {In-orbit spare} 
-\item {Spare satellites in parking orbits} 
-\item {Spare satellites on the ground} 
-
-\end{itemize}
-Each existing spare strategy is valid. Despite, depending on the enterprise prioprities the most suitable has to be choosen. In addition, the decision taken is related to the constellation flexibility to degrade the service to a lower performance level during a certain period and to its cost. 
 
 \subsection{Spare Strategy Alternatives}
 
@@ -45,14 +34,7 @@ By mading this choice it has to be assumed that the spare satellites can be keep
 \newline
 The simpliest and easiest one; the only thing that has to be done is to build extra satellites. The spares will remain on ground when the constellation is launched. Only in case the structure collapses due to a satellites failure, an emergency launch will put the spares in orbit. Moreover, this method is expensive because every extra launch has a high cost and it can take weeks to recover the constellation performance. 
 \newline
-\subsection{Spare Strategy Selection}
-From all those alternatives, two of them  are quickly discarded: in-orbit spares and in parking orbit spares. The first one is having a non-working satellite in orbit because not only the satellite has to be purchased, but also it has to be launched to a different orbit than the principal one. That fact will increase the cost of the launch or even worst it could create the necessity of an extra launch. Although, the satellites needs to reach the operative orbit and it is known that cubesats propulsion is not really powerful. Furthermore, this satellites might never be needed. So it is highly probable this investment to be a waist of money and sources and this are the main reasons why it has benn discarded.
-\newline
-\newline
-The second is not available in the \textit{Astrea Constellation} case. On the one hand, the main parking in orbit will be the ISS which is at an altitude of 400km above the earth and the constellation is situated at among 550km above the earth. Knowing that, this option is immediately discarded. On the other hand, the Electron the rocket that will accomplish the mission to put the satellites in orbit cannot stay in parking orbit before arriving to its final destination. Definitely, the service cannot rely on this option.
-\newline
-\newline
-Two possible spare strategies remain: pare satellites in the constellation or on ground. In spite deciding if both ones are useful or only one of them is, a feasibility study is done. The objective is analise the diferent kind of failure that have to be covered and determine how the constellation will collapse. Only after that the most suitable strategy method can be designed having as reference the alternatives presented above. 
+
 \subsection{Major failure deffinition}
 
 \paragraph{}In Project Charter, it has been stated that a major failure can be defined as the loss of a client’s satellite coverage because of a failure in the network. However, this deffinition is not enough precise. For example, during a communication, it can happen that a data packet is lost, or has an error and it is discarded. This means that, for that packet, the communication was lost, but it dones not mean that the communication with the client was lost. Another aspect to take into account is that a satellite may fail, but an alternative path can still exist and, therefore, the communication can continue. Morover, if the client satellite loses all communication with all satellites in range, due to the different orbital velocities of the client satellite and the network satellites, the client satellite will eventually be in range of a functional network satellite.
@@ -107,20 +89,7 @@ Two possible spare strategies remain: pare satellites in the constellation or on
 
 \paragraph{}Therefore, for a critical failure to happen because of a delay of more than 5 minutes in the communication due to a failure in the network, two satellites must fail in less than 160 seconds, and both of them must be in a communication path between a client and a ground station.
 
-\subsubsection{Conclusion}
 
-\paragraph{}It can be concluded that a major failure can happen due to various factors:
-\begin{itemize}
-\item The failure of at one satellites.
-\item The failure of all ground stations. It would be at least 3 ground stations.
-\item The failure of at least two satellites in a communication route in less than 3 minutes.
-\end{itemize}
-
-
-\subsection{Decision}
-\paragraph{}Having studied all the possibilities of failure and taking into account that the porformance of the satellite is guaranteed for four years the conclusion is that there are no spare satellites needed in-orbit because of the fact that the constellation is dimensioned in order to have the capacity to assume some minor expected failures that will not affect the performance of the entire constellation.
-
-\paragraph{}However, there has to be always spares on ground for at least two planes so that in case of a major failure there can be a fast reaction to replace the planes afected. Besides, these satellites will not suppose a great increase in the cost of the constellation because if they are not used as spares they can be used for to following replacement. 
 
 
  
