@@ -1,60 +1,45 @@
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1.1}{\ignorespaces Eccentricity values depending on the shape of the orbit\relax }}{4}{table.caption.6}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.2.1}{\ignorespaces Streets of Coverage Method main variables\relax }}{25}{table.caption.27}
-\contentsline {table}{\numberline {3.4.1}{\ignorespaces Coverage Testing Method main Variables\relax }}{37}{table.caption.47}
-\contentsline {table}{\numberline {3.4.2}{\ignorespaces Testing Values for the Coverage Testing Method\relax }}{38}{table.caption.49}
+\contentsline {table}{\numberline {3.2.1}{\ignorespaces Streets of Coverage Method main variables\relax }}{22}{table.caption.25}
+\contentsline {table}{\numberline {3.4.1}{\ignorespaces Coverage Testing Method main Variables\relax }}{34}{table.caption.45}
+\contentsline {table}{\numberline {3.4.2}{\ignorespaces Testing Values for the Coverage Testing Method\relax }}{35}{table.caption.47}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1.1}{\ignorespaces Exponential Atmosphere Model main Variables\relax }}{46}{table.caption.55}
-\contentsline {table}{\numberline {4.1.2}{\ignorespaces Third Body Perturbations Coefficients\relax }}{47}{table.caption.56}
-\contentsline {table}{\numberline {4.3.1}{\ignorespaces Selected data to compute orbit decay extracted from figure \ref {fig{figure4}}\relax }}{54}{table.caption.64}
-\contentsline {table}{\numberline {4.4.1}{\ignorespaces Simulation Thruster Parameters\relax }}{64}{table.caption.75}
-\contentsline {table}{\numberline {4.4.2}{\ignorespaces Station-Keeping with Thrusters Simulation 1 Results\relax }}{66}{table.caption.77}
-\contentsline {table}{\numberline {4.4.3}{\ignorespaces Station-Keeping with Thrusters Simulation 2 Results\relax }}{66}{table.caption.79}
+\contentsline {table}{\numberline {4.1.1}{\ignorespaces Exponential Atmosphere Model main Variables\relax }}{43}{table.caption.53}
+\contentsline {table}{\numberline {4.1.2}{\ignorespaces Third Body Perturbations Coefficients\relax }}{44}{table.caption.54}
+\contentsline {table}{\numberline {4.3.1}{\ignorespaces Selected data to compute orbit decay extracted from figure \ref {fig{figure4}}\relax }}{51}{table.caption.62}
+\contentsline {table}{\numberline {4.4.1}{\ignorespaces Simulation Thruster Parameters\relax }}{61}{table.caption.73}
+\contentsline {table}{\numberline {4.4.2}{\ignorespaces Station-Keeping with Thrusters Simulation 1 Results\relax }}{63}{table.caption.75}
+\contentsline {table}{\numberline {4.4.3}{\ignorespaces Station-Keeping with Thrusters Simulation 2 Results\relax }}{63}{table.caption.77}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.2.1}{\ignorespaces Constellation parameters for the Example Constellation\relax }}{76}{table.caption.90}
-\contentsline {table}{\numberline {5.2.2}{\ignorespaces Performance Parameters for the Example Constellation\relax }}{77}{table.caption.92}
-\contentsline {table}{\numberline {5.3.1}{\ignorespaces Constellation Configuration OWA Decision\relax }}{78}{table.caption.93}
+\contentsline {table}{\numberline {5.2.1}{\ignorespaces Constellation parameters for the Example Constellation\relax }}{73}{table.caption.88}
+\contentsline {table}{\numberline {5.2.2}{\ignorespaces Performance Parameters for the Example Constellation\relax }}{74}{table.caption.90}
+\contentsline {table}{\numberline {5.3.1}{\ignorespaces Constellation Configuration OWA Decision\relax }}{75}{table.caption.91}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.2.1}{\ignorespaces List of Launchers\relax }}{83}{table.caption.95}
-\contentsline {table}{\numberline {6.2.2}{\ignorespaces Criteria\relax }}{85}{table.caption.96}
-\contentsline {table}{\numberline {6.2.3}{\ignorespaces Flight Profile\relax }}{87}{table.caption.100}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {7.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{123}{table.caption.133}
-\contentsline {table}{\numberline {7.2.2}{\ignorespaces Ranking of working procedures\relax }}{123}{table.caption.134}
-\contentsline {table}{\numberline {7.2.3}{\ignorespaces Reliability of CCSDS protocols\relax }}{125}{table.caption.136}
-\contentsline {table}{\numberline {7.2.4}{\ignorespaces Identifiers of TC and Proximity-1 Space Data Link Layer Protocols\relax }}{126}{table.caption.137}
+\contentsline {table}{\numberline {6.2.1}{\ignorespaces List of Launchers\relax }}{80}{table.caption.93}
+\contentsline {table}{\numberline {6.2.2}{\ignorespaces Criteria\relax }}{82}{table.caption.94}
+\contentsline {table}{\numberline {6.2.3}{\ignorespaces Flight Profile\relax }}{84}{table.caption.98}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {9.2.1}{\ignorespaces First approximation of costs of the GS\relax }}{148}{table.caption.180}
-\contentsline {table}{\numberline {9.5.1}{\ignorespaces OWA of the GS\relax }}{156}{table.caption.188}
-\contentsline {table}{\numberline {9.6.1}{\ignorespaces Equivalent coordenates\relax }}{164}{table.caption.199}
-\contentsline {table}{\numberline {9.9.1}{\ignorespaces Costs per year for the control centre\relax }}{171}{table.caption.217}
-\contentsline {table}{\numberline {9.9.2}{\ignorespaces Annual costs\relax }}{172}{table.caption.221}
-\contentsline {table}{\numberline {9.9.3}{\ignorespaces Total annual cost of the ground segment consumption and maitenance\relax }}{172}{table.caption.222}
-\contentsline {table}{\numberline {9.9.4}{\ignorespaces Salaries according to country}}{173}{table.caption.225}
-\contentsline {table}{\numberline {9.9.5}{\ignorespaces Salaries in Spain}}{173}{table.caption.228}
+\contentsline {table}{\numberline {8.1.1}{\ignorespaces Options studied for the structure and thermal protection\relax }}{132}{table.8.1}
+\contentsline {table}{\numberline {8.1.2}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{132}{table.8.2}
+\contentsline {table}{\numberline {8.2.1}{\ignorespaces Estimation of the power consumption under typical working conditions\relax }}{134}{table.8.1}
+\contentsline {table}{\numberline {8.2.2}{\ignorespaces Options studied for the Electric Power System\relax }}{138}{table.8.2}
+\contentsline {table}{\numberline {8.2.3}{\ignorespaces Options studied for the Electric Power System\relax }}{138}{table.8.3}
+\contentsline {table}{\numberline {8.3.1}{\ignorespaces Main features of BGT-X5\relax }}{140}{table.8.1}
+\contentsline {table}{\numberline {8.3.2}{\ignorespaces Options studied for the propulsion system\relax }}{141}{table.8.2}
+\contentsline {table}{\numberline {8.3.3}{\ignorespaces Option chosen for the propulsion system\relax }}{141}{table.8.3}
+\contentsline {table}{\numberline {8.4.1}{\ignorespaces Main ADACS features\relax }}{143}{table.8.1}
+\contentsline {table}{\numberline {8.5.1}{\ignorespaces Main features of the patch antenna\relax }}{147}{table.8.1}
+\contentsline {table}{\numberline {8.5.2}{\ignorespaces Main features of the turnstile antenna\relax }}{147}{table.8.2}
+\contentsline {table}{\numberline {8.5.3}{\ignorespaces Main inter-satellite communication transceivers features\relax }}{149}{table.8.3}
+\contentsline {table}{\numberline {8.5.4}{\ignorespaces Main space to ground communication transceivers features\relax }}{149}{table.8.4}
+\contentsline {table}{\numberline {8.5.5}{\ignorespaces Main PDHS computers features\relax }}{150}{table.8.5}
+\contentsline {table}{\numberline {8.5.6}{\ignorespaces Options studied for the payload\relax }}{151}{table.8.6}
+\contentsline {table}{\numberline {8.5.7}{\ignorespaces Options chosen for the payload\relax }}{152}{table.8.7}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {10.1.1}{\ignorespaces Options studied for the structure and thermal protection\relax }}{179}{table.10.1}
-\contentsline {table}{\numberline {10.1.2}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{179}{table.10.2}
-\contentsline {table}{\numberline {10.2.1}{\ignorespaces Estimation of the power consumption under typical working conditions\relax }}{181}{table.10.1}
-\contentsline {table}{\numberline {10.2.2}{\ignorespaces Options studied for the Electric Power System\relax }}{185}{table.10.2}
-\contentsline {table}{\numberline {10.2.3}{\ignorespaces Options studied for the Electric Power System\relax }}{185}{table.10.3}
-\contentsline {table}{\numberline {10.3.1}{\ignorespaces Main features of BGT-X5\relax }}{187}{table.10.1}
-\contentsline {table}{\numberline {10.3.2}{\ignorespaces Options studied for the propulsion system\relax }}{188}{table.10.2}
-\contentsline {table}{\numberline {10.3.3}{\ignorespaces Option chosen for the propulsion system\relax }}{188}{table.10.3}
-\contentsline {table}{\numberline {10.4.1}{\ignorespaces Main ADACS features\relax }}{190}{table.10.1}
-\contentsline {table}{\numberline {10.5.1}{\ignorespaces Main features of the patch antenna\relax }}{194}{table.10.1}
-\contentsline {table}{\numberline {10.5.2}{\ignorespaces Main features of the turnstile antenna\relax }}{194}{table.10.2}
-\contentsline {table}{\numberline {10.5.3}{\ignorespaces Main inter-satellite communication transceivers features\relax }}{196}{table.10.3}
-\contentsline {table}{\numberline {10.5.4}{\ignorespaces Main space to ground communication transceivers features\relax }}{196}{table.10.4}
-\contentsline {table}{\numberline {10.5.5}{\ignorespaces Main PDHS computers features\relax }}{197}{table.10.5}
-\contentsline {table}{\numberline {10.5.6}{\ignorespaces Options studied for the payload\relax }}{198}{table.10.6}
-\contentsline {table}{\numberline {10.5.7}{\ignorespaces Options chosen for the payload\relax }}{199}{table.10.7}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {11.1.1}{\ignorespaces Table. List of Universities with Aerospace Degrees\relax }}{221}{table.caption.340}
-\contentsline {table}{\numberline {11.2.3}{\ignorespaces Feasibility Study\relax }}{227}{table.caption.341}
+\contentsline {table}{\numberline {9.1.1}{\ignorespaces Table. List of Universities with Aerospace Degrees\relax }}{174}{table.caption.249}
+\contentsline {table}{\numberline {9.2.3}{\ignorespaces Feasibility Study\relax }}{180}{table.caption.250}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
