@@ -31,7 +31,7 @@
 %\chapter{Network Layer}
 
 \subsection{Functions of the Network Layer}
-\paragraph{}According to \cite{X200}, the Network layer is the third layer in the Open Systems Interconnection (OSI) model. It is located above the Data link layer and below the Transport layer. This layer is used for transmitting data sequences called datagrams between a sender and a reciever than may not be directly connected through only one link. The Network layer provides the following functions\footnote{Explained in Annex II 7.2.1}
+The Network layer provides the following functions\footnote{Explained in Annex II 7.2.1}
 \begin{itemize}
 \item \textbf{Routing}
 \item \textbf{Network fow control}
@@ -41,108 +41,24 @@
 \end{itemize}
 
 \subsection{Protocols}
-\paragraph{}The Consultive Comitee for Space Data Systems (CCSDS)\cite{CCSDSOverview} has two standards for using in the Network layer in conjuction with the Space Data Link Layer Protocols recommended by the CCSDS. Those two standards are the Space Packet Protocol (SPP)\cite{SPP} and the Encapsulation Service\cite{ES}. With the Space Packet Protocol, application processes generate and consume Protocol Data Units (PDU). The Encapsulation Service encapsulates PDU of recognized protocols defined in a Space Assigned Number Authority (SANA)\cite{SANA} registry into two types of packets, either Space Packets or Encapsulation Packets. External protocols data units, such as the Internet Protocol datagrams, can be transmitted by CCSDS Space Data Link Protocols, although they cannot be directly encapsulated by the Encapsulation Service, and an intermediate service, such as IP over CCSDS (IPoC)\cite{IPoC}, must be used.
-\paragraph{}Figure \ref{fig:CCSDSprotocols}, shows this tyme all the recommended protocols by the CCSDS for Space Communications. In Figure \ref{fig:CCSDScombinations} those protocols arearranged in some possible combinations. As it can be seen, IP cannot be directly used neither by the protocols in the Data Link layer nor the Encapsulation Service.
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.6]{CCSDSprotocols.PNG}
-\caption[CCSDS Recommended Protocols]{Protocols recommended by the CCSDS, classified in their respective OSI layers. Extracted from \cite{CCSDSOverview}.}
-\label{fig:CCSDSprotocols}
-\end{center}
-\end{figure}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.6]{CCSDScombinations.PNG}
-\caption[Combination of CCSDS Recommended Protocols]{Possible Combinations of the CCSDS recommended protocols. Extracted from \cite{CCSDSOverview}.}
-\label{fig:CCSDScombinations}
-\end{center}
-\end{figure}
-\paragraph{}Protocols in the Network Layer can be classified according if they are the main protocol (SPP or IP, for example) or they provide additional features so that the main protocol can work efficiently. An example of the latter are routing protocols, and also for IP, IPoC and Encapsulation Service.
-\paragraph{}In the following pages, a brief review of distinct protocols on the Network layer will take place. Since CCSDS ecommends using SPP or Encapsulation Service, only SPP and protocols that can be encapsulated by the Encapsulation Service, either directly or indirecly, will be reviewed. The protocols reviewed will be classified according if they are the main protocol, auxiliary protocols, or routing protocols. More information about the protocols now explained such as the working procedures, the features and some compatibilities and restrictions can be found at Annexes II 7.2.2.
-
-\subsubsection{Main protocols}
-
-\subsubsection*{Space Packet Protocol (SPP)\cite{SPP}}
-\paragraph{}Protocol designed to efficiently transfer application data over a network of space links. The path from the source user application to the destination user application is called a Logical Data Path (LDP). Every LDP is uniquely identified by a Path Identifier (Path ID). The protocol data unit used by this protocol is the Space Packet. Each Space Packet is defined by a header section and a data section.
-\paragraph{}The following features are common to the services of the SPP:
+\paragraph{}According to the CCSDS the protocols to use can be divided into three different protocols: 
 \begin{itemize}
-\item Pre-configured Services. 
-\item Unidirectional Services.
-\item Asynchronous Services.
-\item Unconfirmed Services. 
-\item Non–sequence Preserving Services.
+\item Main protocol
+\item Routing protocol
+\item Auxiliary protocols
 \end{itemize}
-\subsubsection{Internet Protocol version 4 (IPv4)\cite{IP}}
-\paragraph{}The Internet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet. IPv4 is a conectionless protocol and does not guarantee delivery, nor does it assure proper sequencing or avoidance of duplicate delivery. These aspects are adressed by a transport layer protocol.
-\paragraph{}One of the features of IPv4 are adresses. Network adresses are the identification number of any device that is part of a network. IPv4 uses 32-bit (4 byte) adresses. Therefore, the adress space is limited to 4294967296 ($2^{32}$) adresses.
-\paragraph{}IPv4 provides fragmentation of packets. If size of the packet is bigger than the maximum transmission unit (MTU) of the destination, and the message allow fragmentation (the option of Do not Fragment in the header of the packet is set to 0) the transmitting router will divide the packet in fragments smaller than the MTU.
-
-\subsubsection{Internet Protocol version 6 (IPv6)\cite{IPv6}}
-\paragraph{}The Internet Protocol version 6 (IPv6) is the most recent version of the Internet Protocol, developed to solve the problem of the exhaustion of IP adresses of the IPv4. IPv6 is intended to replace IPv4. The new features of the IPv6 compared of those of the IPv4 are the following:
+The possible protocols are:
 \begin{itemize}
-	\item Larger adress space 
-	\item Multicasting
-	\item Stateless address autoconfiguration (SLAAC)
-	\item Network-layer security
-	\item Simplified processing by routers
-	\item Mobility
-	\item Options extensibility
-	\item Jumbograms
+\item Main protocol: Space Packet Protocol (SPP), Internet Protocol version 4(IPv4) and Internet Protocol version 6(IPv6).
+\item Routing protocol: Enhanced Interior Gateway Routing Protocol (EIGRP), Open Shortest Path First (OSPF) and Routing Information Protocol (RIP).
+\item Auxiliary protocols: Encapsulation service, IP over CCSDS (IPvC), Internet Control Message Protocol (ICMP), Internet Control Message Protocol version 6(ICMPv6), Internet Group Management Protocol (IGMP), Internet Protocol Security (IPsec) and Protocol Independent Multicast (PIM).
 \end{itemize}
-
-\subsubsection{Auxiliary protocols}
-
-\subsubsection{Encapsulation service\cite{ES}}
-\paragraph{}The Encapsulation Service is a service used to transfer data units that can not be directly transferred by the CCSDS Space Data Link Protocols. In order to be directly transferred by a Space Data Link Protocol, a data unit must have a Packet Version Number authorized by the CCSDS (a list of PVN authorized by CCSDS is contained in \cite{SANAPVN}). With the Encapsulation Service, data units that do not have an authorized VPN can be transmitted with Space Data Link Protocols. The data unit to be transmitted must be of an integral number of octets.
-\subsubsection*{IP over CCSDS (IPoC)\cite{IPoC}}
-\paragraph{}The IP over CCSDS is used to transfer IP Data Units over CCSDS Space Data Link Protocols. IP Data Units are encapsulated in Encapsulation Packets and sent through Space Data Link Protocols. IPoC uses the CCSDS Internet Protocol
-Extension (IPE) convention in conjunction with the CCSDS Encapsulation Service. The IPE convention is used to add IPE octecs at the beginning of a IP Data Unit, encapsulate the result in an Encapsulation Packet, and transmit it with a CCSDS Space Data Link Protocol. It is used because not all protocols that use an IP datagram have a Protocl ID used by the Encapsulation Packet.
-\subsubsection*{Internet Control Message Protocol (ICMP)\cite{ICMP}}
-\paragraph{}The Internet Control Message Protocol (ICMP) is one of the main protocols of the TCP/IP protocol suite. It is used to send error messages to the source IP of the data packet. It is assigned IP protocol number 1. ICMP messages are typically used for diagnostic, control purposes or generated in response to errors in IP operations. They are processed differently than normal IP proceessing.
-\subsubsection*{Internet Control Message Protocol version 6 (ICMPv6)\cite{ICMPv6}}
-\paragraph{}The Internet Control Message Protocol version 6 (ICMPv6) is the implementation of the ICMP for IPv6. Several extensions have been published that define new types of ICMPv6 messages, as well as new options for existing message types. One of those is the Neighbor Discovery Protocol (NDP), a node discovery protocol for IPv6 that replacesand enhances the features of the Address Resolution Protocol (ARP). Secure Neighbor Discovery (SEND) is, respectively, an extension of NDP with extra security. Multicast Router Discovery (MRD) allows discovery of multicast routers.
-
-\subsubsection*{Internet Group Management Protocol (IGMP)\cite{IGMP}}
-\paragraph{}The Internet Group Management Protocol (IGMP) is used by hosts and adjacent routers on IPv4 networks to establish multicast group memberships. It is a part of IP multicast, and it is used in one-to-many networking applications such as online streaming video. IGMP operates between the client computer and a local multicast router. IGMP messages are carried in bare IP packets with protocol number 2.
-
-\subsubsection*{Internet Protocol Security (IPsec)\cite{IPsec}}
-\paragraph{}The Internet Protocol Security (IPsec) is a protocol suite for secure Internet Protocol (IP) communications. It authenticates and encrypts each IP packet of a communication session. IPSec includes protocols for establishing mutual authentication between agents at the beginning of the session and negotiation of cryptographic keys to be used during the session. IPsec can be used in protecting data flows between a pair of hosts (host-to-host), between a pair of security gateways (network-to-network), or between a security gateway and a host (network-to-host). It supports network-level peer authentication, data origin authentication, data integrity, data confidentiality (encryption), and replay protection.
-\subsubsection*{Protocol Independent Multicast (PIM)\cite{PIMSM}\cite{PIMDM}}
-\paragraph{}The Protocol Independent Multicast (PIM) is a family of multicast routing protocols for Internet Protocol (IP) networks that provide one-to-many and many-to-many distribution of data. PIM does not include its own topology discovery mechanism, but instead uses routing information supplied by other routing protocols.
-\subsubsection{Routing protocols}
-\subsubsection*{Enhanced Interior Gateway Routing Protocol (EIGRP)\cite{EIGRP}}
-\paragraph{}The Enhanced Interior Gateway Routing Protocol (EIGRP) is a routing protocol used on a computer networks for automating routing decisions and configuration.
-\paragraph{}All routers contain a routing table that lists the routes to network destinations. If a router cannot find a valid path to the destination, the traffic is discarded. EIGRP is a dynamic routing protocol, which means that routers automatically exchange information about routes and, therefore, the administrator does not have to change the routing table manually. Besides the routing table, routers adittionlly have two more tables that are explained in Annex II 7.2.2.3.
-If there is a change in the network (a link fails, or a router is disconnected), the path
-becomes unavaiable, and is removed from the routing table. The routing table of a router
-will be updated, and only the changes since the previous update will be transmitted to
-the neightbouring routers. The information about the changes in the routing table is not
-transmitted periodically, but only when a change actually occurs.
-
-\subsubsection*{Open Shortest Path First (OSPF)\cite{OSPFv2}\cite{OSPFIPv6}}
-\paragraph{}The Open Shortest Path First (OSPF) is a routing protocol for Internet Protocol (IP) networks that operates in a single autonomous system. OSPF version 2 is designed for IPv4, while OSPF version 3 is designed for IPv6. The topology is presented as a routing table to the Internet layer which routes packets based solely on their destination IP address. OSPF detects changes in the topology, such as link failures, and creates a new loop-free routing structure. It computes the shortest-path tree for each route using a method based on Dijkstra's algorithm. OSPF does not use a transport protocol, such as UDP or TCP, but encapsulates its data directly in IP packets with protocol number 89. It implements its own transport layer error detection and correction functions. OSPF uses multicast addressing for distributing route information within a broadcast domain.
-
-\subsubsection*{Routing Information Protocol (RIP)\cite{RIPv2}\cite{RIPng}}
-\paragraph{}The Routing Information Protocol (RIP) uses a hop count to establish the distance between two routers and, in order to prevent loops, establishes 15 as the limit number of hops in a route. If the number of hops is 16, the distance between the two routers is considered infinite. Each router has a routing table with all the routes to each possible destination, and the number of hops to get there. There are 3 versions of RIP: RIPv1, which is the original, RIPv2, which is an updated version of RIPv2, and RIPng, which is the new generation of RIP compatible with IPv6.
-\paragraph{}The operating principle of the RIP is the following: When a RIP router comes online, it sends a broadcast message to all of its RIP enabled interfaces. All the neighbouring routers that receive the Request message respond back with the Response Message containing their Routing table. The Response Message is also gratuitously sent when the Update timer expires (by deffect, 30 seconds). On receiving the Routing table, the router processes each entry of the routing table following a set of rules that can be seen in Annex XXXXXXXXXX. If the Invalid timer (per deffect 180 seconds) expires and a routing entry has not been updated, the hop counter of that route will be set to 16, marking the route as invalid. Then, if the Flush timer (per deffect 240 seconds) expires, the invalid route entry will be removed
-
 \subsection{Protocol Selection}
-
 \subsubsection{Choice of the main protocol}
-\paragraph{}The choice of the main protocol will be between SPP, IPv4 and IPv6. Tho make the choice, it is important to take into account that the Astrea constellation is a network that can be of more than two hundred satelites, which will communicate point-to-point. Each node can be the source ,the destination or an intermediate node of a communication route.
-\paragraph{}SPP has the advantage of being designed to work easily with the protocols of the adjacent layers, while IP needs IP over CCSDS and Encapsulation Service. However, SPP requires a parametre called Path ID, which is the identifier of a Logical Data Path. Since each satellite of Astrea constellation can be the source or the destination of a data path, this means that for a network of 200 nodes, there are 200x199=39800 possible routes. The parameter to indicate the Path ID has a length of 11 bits, which can identify 2048 different routes, which is not enough. Another issue to take into account is that since the ground station nodes of the constellation are moving respect the satellite nodes, their relative position changes and, therefore, paths also change. If the path associated to a Path ID changes during a transmission, or if is not updated for all nodes at the time of the transmission, errors can occur. This does not happen with IP, since instead of Path ID it uses the IP adress of the source and destination node. For this reason, SPP is discarded.
-\paragraph{}The main differences between IPv4 and IPv6 are the header of the datagram and the IP adresses of the nodes. Since our  network is private and it is not intended to be connected to the Internet, nodes can have an arbitrary IP adress assigned. For this reason, IPv4 adresses are better, since they are shorter than IPv6 adresses. The size of the header would also be smaller in IPv4 than IPv6. However, for long datagrams, the extra length of IPv6 headers is irrelevant. Another difference is that IPv6 datagrams require less processing power, however, since the processing power is very small compared to the power required by the antennas this factor also has little importance in terms of power. However, it is important in terms of time, since less processing means less time to process. Other features of IPv6 that, in Astrea network, do not privide benefits are the multicast and mobility features, which the network ill not have. Additionally, due to the changing nature of the constellation, jumbograms will not be used because a packet so long may be interrumted when the path changes.
-\paragraph{}The real benefits of IPv6 over IPv4 is that there are less additional protocols compared to IPv4 to perform the same features, since ICMPv6 provide the features of ICMP, ARP and IGMP, and some features of IPv6 itself and its additional protocols have been eliminated since they were already performed by other layer protocols and were redundant. All of this helps to reduce the time required to process the data and this, in long paths, is a significant factor.
-\paragraph{}If reliable adjacent layer protocols are provided, IPv6 is the best option, due to less processing in routers and more simple additional protocols. Additionally, IPv6 is progressively replacing IPv4 and, therefore, using IPv6 has no risk of being obsolete.
-
+\paragraph{}The choice of the main protocol will be between SPP, IPv4 and IPv6. To make the choice, it is important to take into account that the Astrea constellation is a network that can be of more than two hundred satelites, which will communicate point-to-point. Each node can be the source ,the destination or an intermediate node of a communication route.
+For this reason, the SPP has to be discharged, because it requires a Path ID. In Astrea constellation there are 29800 possible routes while the Path ID parameter only has 11 bits, that means that could work in a network with a maximum of 2048 routes. Between IPv4 and IPv6, is logical to choose IPv6 for its amplified benefits. Then, IPv6 will be the main protocol of the network layer. More details about this decision can be found in Annex XXXXXXXXXXXX. 
 \subsubsection{Choice of routing protocol}
-\paragraph{}The choice of the routing protocol will be between EIGRP, OSPF and RIP.
-\paragraph{}EIGRP is a protocol compatible with either IPv4 and IPv6. Contrary to other protocols, it only sends topology changes instead of the whole routing table, allowing for less data transmitted. It also contains more information about routes than other routing protocols, and provides authentication processes.
-\paragraph{}RIP is a protocol that, compared to EIGRP and OSPF, has the drawback that its time to converge and its scalability are poor. Additionally, RIP uses the User Datagram Protocol (UDP) as its transport protocol. On the other, it is easier to configure than other protocols.
-\paragraph{}OSPF is a protocol also compatible with IPv4 and IPv6. Unlike EIGRP, each router exchanges its adjacency links with adjacent routers and then, each router creates its own map of the network and, using this map, each router creates its own routing table. However, it has mechanisms to ensure that thare are not loops in the network.
-\paragraph{}Taking into account that nodes in the Astrea network have an order of magnitude of 200 and is continously changing the data paths. Also, since Astrea is a network where a node can be the beginning or the end of a communication, this means that for a given node there has to be a route to every other node in the network, and for a network of 200 nodes, there are 199 possible routes for the 200 nodes, which is a total of 39800 different entries in the routing table only for the satellite nodes. Since RIP has longer time to converge compared to other protocols, and due to the huge size of the routing table, RIP is discarded.
-\paragraph{}EIGRP does not have this problem because it does not transmit the whole routing table, but only the changes. Although the network is continously moving, the paths between the satellite nodes remain the same. The problem happens with the ground nodes, which are continouslly changing its position respect the satellite nodes due to Earth's rotation. And since each satellite node can communicate with every ground station, the number of entries in the routing table that will be updated for a network of 200 satellite nodes and 5 ground stations is 200x5, which is 1000 entries that will be updated frequently. Since OSPF does not transmit the routing table but only the adjacencies, only 205 entries will be transmitted. This reduces the time to share the updated information to the whole network. For this reason, OSPF is chosen.
-
+First of all, RIP will be discharged because it has poor scalability and needs more time to converge. Then, the decision remains between EIGRP and OSPF. The difference between these two protocols is the way they update the routing table. With the EIGRP, 2000 entries are updated frequently while with OSPF, only 205 entries are needed to be updated. For this reason, OSPF is chosen. From more details about this selection, see Annnex XXXXXXXXXX.
 \subsubsection{Choice of complementary protocols}
 \paragraph{}The choice of which protocols include will depend on the main protocol of the network layer and the degree of services featured by the communication process.
 \paragraph{}Since IPv6 has been chosen, IP over CCSDS and Encapsulation Service are necessary. Additionally, ICMPv6 greatly expand the features of IPv6 such as flow control. Security features are already provided in the Data Link layer and, therefore, IPsec is not necessary. Also, no multicast features are required, so no multicast protocols will not be used.

@@ -20,37 +20,19 @@
 
 %\chapter{Session and Transport Layer}
 
-This layer is the one in charge of the free-of-error transference of data from one process to another. Therefore, its goal is to provide and guarantee a reliable and cheap flow of the data. 
+The objective of this layer is to provide and guarantee a reliable and cheap flow of the data. 
 
-Whereas the network layer oversees source-to-destination delivery of individual packets, it does not recognize any relationship between those packets. It treats each one independently, as though each piece belonged to a separate message, whether or not it does. The transport layer, on the other hand, ensures that the whole message arrives intact and in order, overseeing both error control and flow control source-to-destination level. \\
-A transport layer can be either connectionless or connection-oriented. A connectionless transport layer treats each segment as an independent packet and delivers it to the transport layer at the destination machine. A connection-oriented transport layer makes a connection with the transport layer at the destination machine first before delivering the packets. After all the data is transferred, the connection is terminated.\\
-In the transport layer, a message is normally divided into transmittable segments. A connectionless protocol, such as UDP, treats each segment separately. A connectionoriented protocol, such as TCP and SCTP, creates a relationship between the segments using sequence numbers.
-\paragraph{}
 The transport layer is responsible for process-to-process delivery, i.e, the delivery of a packet, part of a message, from one process to another. Two processes communicate in a client/server relationship. 
 
-Regarding addressing, at the transport layer, it is necessary a transport layer address, called a port number, to choose among multiple processes running on the destination host. The destination port number is needed for delivery, whereas the source port number is needed for the reply. 
-
-The addressing mechanism allows multiplexing and demultiplexing by the transport layer. In the following pages the main protocols are briefly described. More characteristics can be found at Annex II 7.4.
-\subsection{User Datagram Protocol (UDP)}
+More information about the functions of the Transport Layer and of the protocols recommended by the CCSDS can be found at Annex II 7.4.
+\subsection{Protocols}
+The protocols recommended to be used over this layer are:
 \begin{itemize}
-\item Conectionless
-\item Unreliable
-\item Very limited error checking
-\item Very simple with minimum overhead.
-\end{itemize}
-\subsection{Stream Control Transmission Protocol (SCTP)}
-\begin{itemize}
-\item Reliable
-\item Message-oriented
-\item Designed for Internet applications.
-\end{itemize}
-\subsection{ Transmission Control Protocol (TCP)}
-\begin{itemize}
-\item Process-to-process 
-\item Connection-oriented
-\item Flow and error control mechanisms.
+\item User Datagram Protocol (UDP)
+\item Stream Control Transmission Protocol (SCTP)
+\item Transmission Control Protocol (TCP)
 \end{itemize}
 \subsection{Choice of protocol for the transport layer}
-Three protocols have been exposed, the UDP, the SCTP and the TCP. The first one has some disadvantages which make it not suitable for the purpose of the project, such as the fact that no reliabililty is guaranteed, for example, amongst others. The second one is designed mostly for Internet applications, which does not fit the goals of this project. Therefore, the only candidate suitable for the project is the TCP, Transmission Control Protoco. More information had to be compiled in order to know the full suitability of it to the project. The exposition of all its parameters is not shown in this report for its large length. See Annex II 7.4.3 for more information.  As it has the required features that the project demands, it is the chosen protocol for this layer. Also, as it has been established during the deep research done, it is very recommended to use the extension SCPS, due to adaptation to space needs.  
+The UDP has some disadvantages which make it not suitable for the purpose of the project, such as the fact that no reliabililty is guaranteed, for example, amongst others. The SCTP is designed mostly for Internet applications, which does not fit the goals of this project. Therefore, the only candidate suitable for the project is the TCP, Transmission Control Protoco. More information had to be compiled in order to know the full suitability of it to the project. The exposition of all its parameters is not shown in this report for its large length. See Annex II 7.4.3 for more information.  As it has the required features that the project demands, it is the chosen protocol for this layer. Also, as it has been established during the deep research done, it is very recommended to use the extension SCPS, due to adaptation to space needs.  
 
 %\end{document}

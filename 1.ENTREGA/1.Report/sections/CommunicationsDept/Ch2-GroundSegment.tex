@@ -1,46 +1,18 @@
 \chapter{Ground Segment Protocols}
 
-\section{Introduction}
-In the previous chapter the space protocols have been selected, so in this one the focus will be on the ground segment protocols. The information will be transmitted to the client using the Internet, so a part of the protocol is already established by the system. However, a secure protocol has to be defined above the Internet protocol to assure confidenciality to the client. The protocol used in the Internet is the TCP/IP protocol suite, that provides an end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received. The layer of this protocol that can be adjusted to our needs in the application layer. The application layer is an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communications network. In TCP/IP, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardizes communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client-server or peer-to-peer networking model. That means that the application layer is very important in Astrea project because it will define how the information is received by the client.\\
-In the following lines the characteristics of the different available protocols for the application layer depending on the presentation of the data is presented. More information about them can be consulted in Annex II 8.1.
-\section{Ground Segment protocols}
-
-\subsection{File Transfer Protocol (FTP)}
+\section{Ground Segment Protocols}
+\subsection{Introduction}
+In the previous chapter the space protocols have been selected, so in this one the focus will be on the ground segment protocols. The information will be transmitted to the client using the Internet, so a part of the protocol is already established by the system. However, a secure protocol has to be defined above the Internet protocol to assure confidenciality to the client. The protocol used in the Internet is the TCP/IP protocol suite, that provides an end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received.
+In the following lines the characteristics of the different available protocols that can be adapted to the needs of the project are presented. More information about the suitability of them can be consulted in Annex II 8.1.
+\subsection{Protocols}
+The protocols are the following ones:
 \begin{itemize}
-\item Use to transfer computer files between client and server on a computer network.
-\item Users may authenticate themselves with a clear-text sign-in protocol
-\item Slow connection 
-\end{itemize}
-\subsection{Secure Shell (SSH)} 
-\begin{itemize}
-\item Cryptographic protocol
-\item Secure operation over an unsecure network
-\item Clien-server architecture
-\end{itemize}
-\subsection{Simple Mail Transfer Protocol (SMTP)} 
-\begin{itemize}
-\item Used for electronic mail transmission
-\item Connection-oriented
-\item Text-based
-\item Communication between mail sender and mail receiver
-\end{itemize}
-\subsection{Hypertext Transfer Protocol (HTTP)} 
-\begin{itemize}
-\item Pprotocol for distributed, collaborative, hypermedia information systems
-\item Request-response protocol
-\end{itemize}
-\subsection{Transport Layer Security (TLS)} 
-\begin{itemize}
-\item Cryptographic protocol
-\item Provides privacy and data integrity between two communication computer applications
-\item Useful for web browsing, email, Internet faxing, instant messagint and voice-over-IP (VoIP).
-\end{itemize}
-\subsection{Hypertext Transfer Protocol Secure (HTTPS)}
-\begin{itemize}
-\item Secure communication over a computer network
-\item Encrypted connection
-\item Authentication of the visited website and protection of the privacy and integrity of the exchanged data
-\end{itemize}
+\item File Transfer Protocol (FTP)
+\item Secure Shell (SSH)
+\item Simple Mail Transfer Protocol (SMTP)
+\item Hypertext Transfer Protocol (HTTP)
+\item Transport Layer Security (TLS)
+\item Hypertext Transfer Protocol Secure (HTTPS) 
 \section{Delivery of the data method} 
 At first, it has to be take in account that this layer provides the plataform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
 
