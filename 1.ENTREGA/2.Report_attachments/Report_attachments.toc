@@ -1,0 +1,16 @@
+\contentsline {chapter}{List of Tables}{vi}{section*.1}
+\contentsline {chapter}{List of Figures}{vii}{section*.2}
+\contentsline {part}{I\hspace {1em}ANNEX VI: Matlab Codes}{1}{part.1}
+\contentsline {section}{\numberline {0.1}Satellite Footprint}{2}{section.0.1}
+\contentsline {section}{\numberline {0.2}Minimum Plane Inclination}{3}{section.0.2}
+\contentsline {section}{\numberline {0.3}Satellite Number Computation for Polar Orbits}{6}{section.0.3}
+\contentsline {section}{\numberline {0.4}Orbit Parameters}{8}{section.0.4}
+\contentsline {section}{\numberline {0.5}Walker Delta Testing}{14}{section.0.5}
+\contentsline {section}{\numberline {0.6}Orbit Plotter}{15}{section.0.6}
+\contentsline {section}{\numberline {0.7}Perturbations}{22}{section.0.7}
+\contentsline {section}{\numberline {0.8}Orbit Decay}{27}{section.0.8}
+\contentsline {section}{\numberline {0.9}Performance Evaluator}{32}{section.0.9}
+\contentsline {section}{\numberline {0.10}Thrust}{36}{section.0.10}
+\contentsline {section}{\numberline {0.11}Satellites Datasheet}{41}{section.0.11}
+\contentsline {section}{\numberline {0.12}Ground Station Localization}{43}{section.0.12}
+\contentsline {chapter}{\numberline {1}Bibliography}{47}{chapter.1}
