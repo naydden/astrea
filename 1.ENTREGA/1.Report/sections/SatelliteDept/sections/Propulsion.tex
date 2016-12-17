@@ -1,82 +1,11 @@
 \section{Propulsion Systems}
+\paragraph{}The propulsion system is an important part of the satellite given the needs of the satellite to perform different maneuvers, such as reach the desired orbit after it has been deployed from the rocket, and to maintain the orbit and avoid falling to the Earth. The main parameters that have to be consider are thrust, total specific impulse, power required, weight of the propulsion system and its volume, since the size and weight of the CubeSat are very restrictive.
 
-\subsection{Requirements}
+\paragraph{}At the moment, the most used and modern thrusters for small satellites are: ionic, pulsed plasma, electrothermal and green monopropellant thrusters. An important aspect to consider is that the goal is to reduce the mass required although this will imply smaller accelerations than conventional propulsion systems.
 
-\paragraph{}
-There is a big risk of a collision with space debris while a spacecraft is operating in Low Earth Orbits. The Inter-Agency Space Debris Coordination Committee recommended to the United Nations (section 5.3.2 ‘Objects Passing Through the LEO Region’): “Whenever possible space systems that are terminating their operational phases in orbits that pass through the LEO region, or have the potential to interfere with the LEO region, should be de-orbited (direct re-entry is preferred) or where appropriate manoeuvred into an orbit with a reduced lifetime. Retrieval is also a disposal option.” and “A space system should be left in an orbit in which, using an accepted nominal projection for solar activity, atmospheric drag will limit the orbital lifetime after completion of operations. A study on the effect of post- mission orbital lifetime limitation on collision rate and debris population growth has been performed by the IADC. This IADC and some other studies and a number of existing national guidelines have found 25 years to be a reasonable and appropriate lifetime limit.” \cite{collisionLEO}
+\paragraph{}The \textbf{BGT-X5}, a green monopropellant propulsion system, has been chosen as the thruster for the CubeSat. The high thrust and delta V that BGT-X5 provides has predominated at expenses of other variables as weight or specific impulse where others options were better. With this thruster the CubeSat will be able to carry out the necessary actions to keep the satellite in orbit, to relocate the satellite or to change its orbit.
 
-Thus, a proper propulsion system is needed both for maintaining the satellite's orbit and for de-orbiting after the mission's lifetime.
-
-\paragraph{}
-Given the size of the CubeSat, not many effective options are available and a committed solution has to be found in order to follow the recommendations by the IADC.
-
-
-\subsection{Thrusters}
-
-\paragraph{}
-Thruster is a main part of the structure because it is needed to allow the satellite to realise different maneuvers how incorporate it adequatly to the orbit after the deployment of the rocket, can obtain the optimal orientation or to mantain the satellite in the orbital and avoid its fallen. 
-
-\paragraph{}
-The main parameters that must consider are thrust, total specific impulse,power required, weight of the  propulsion subsystem and its volume.
-
-\paragraph{}
-At the moment, the most used and more modern thrusters for satellites are: ionic, pulsed plasma, electrothermal and green monopropellant thrusters. An important aspect to consider is that the goal is to reduce the mass required although this will cause minor accelerations than conventional engines but it will be suitable for small satellites.
-
-\paragraph{}
-After a market study,the best two options to consider are the green monopropellant thruster BGT-X5 and the ion thruster BIT-1, both from Busek company. These two thruster are among the most used in the aerospace industry for small satellites. The main difference between both are the thrust and the specific impulse. On the one hand, the BIT-1 thruster provides a lower thrust but with a high specific impulse. On the other hand, BGT-X5 thruster provides a high thrust, around 0.5 N but with a lower specific impulse.
-
-\paragraph{}
-Finally, BGT-X5 has been chosen how the CubeSat thruster. With the high thrust and delta V that BGT-X5 provides, the CubeSat will be able to carry out the necessary actions to keep the satellite in orbit, to relocate the satellite or to change its orbit.
-
-
-\paragraph{}
-The following table \ref{thrusterfinal} shows the main parameters of this thruster.
-
-\begin{longtable}{| l | r |}
-
-\hline
-
-\rowcolor[gray]{0.60} \multicolumn{2}{|c|}{\textbf{BGT-X5}} \\
-
-\hline
-
-\hline
-\rowcolor[gray]{0.75}	\textbf{PARAMETERS} &  \textbf{VALUE}   \\
-\hline
-
-\cellcolor[gray]{0.85} \textbf{Total thruster power} & 20 W  \\
-\cellcolor[gray]{0.85} \textbf{Thrust} & 0.5 N \\
-\cellcolor[gray]{0.85} \textbf{Specific impulse} & 225 s \\
-\cellcolor[gray]{0.85} \textbf{Thruster Mass} & 1500 g \\
-\cellcolor[gray]{0.85} \textbf{Input voltage} & 12 V \\
-\cellcolor[gray]{0.85} \textbf{Delta V} & 146 m/s \\
-\hline
-\caption{Main features of BGT-X5}
-\label{thrusterfinal}
-\end{longtable}
-
-
-\subsection{Study of the commercial available options}
-\paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{propulsionoptions} is presented below.
-
-
-\begin{longtable}{| l | c | c | }
-\hline
-\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro)}   \\
-\hline
-\endfirsthead
-
-\rowcolor[gray]{0.85} \textbf{Propulsion} &  &  \\
-	   ~Busek ion thruster BIT-1 & \makecell{Volume 1/2 U \\ High Isp (2150 s) \\ Low thrust (100 uN)} & 58000 \\
-	   \hline
-	   ~Busek BGT-X5 & \makecell{Volume 1 U  \\ High thrust (0.5 N) \\ High delta V (146 m/s)} & 50000 \\
-	   \hline
-
-\caption{Options studied for the propulsion system}
-\label{propulsionoptions}
-\end{longtable}
-
-\paragraph{}Finally, the option chosen is presented in the table \ref{propulsionfinal}.
+\paragraph{}The option chosen is presented in the table below \ref{propulsionfinal}.
 
 \begin{longtable}{| l | r | r | }
 \hline
