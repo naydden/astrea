@@ -449,8 +449,5 @@
 \contentsline {section}{\numberline {13.2}Ground Stations}{252}{section.13.2}
 \contentsline {section}{\numberline {13.3}Satellites}{253}{section.13.3}
 \contentsline {section}{\numberline {13.4}Launch system}{254}{section.13.4}
-\contentsline {chapter}{\numberline {14}Social and Security Considerations}{257}{chapter.14}
-\contentsline {section}{\numberline {14.1}Social and security considerations}{258}{section.14.1}
-\contentsline {paragraph}{}{259}{section*.321}
-\contentsline {section}{\numberline {14.2}Legislation}{260}{section.14.2}
-\contentsline {chapter}{\numberline {15}Bibliography}{262}{chapter.15}
+\contentsline {chapter}{\numberline {14}Legislation}{257}{chapter.14}
+\contentsline {chapter}{\numberline {15}Bibliography}{260}{chapter.15}
