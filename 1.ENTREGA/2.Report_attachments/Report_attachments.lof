@@ -53,86 +53,74 @@
 \contentsline {figure}{\numberline {5.2.1}{\ignorespaces Length of the passes on the example GS.\relax }}{72}{figure.caption.92}
 \contentsline {figure}{\numberline {5.3.1}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{73}{figure.caption.95}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.2.1}{\ignorespaces Electron Rocket\relax }}{80}{figure.caption.98}
-\contentsline {figure}{\numberline {6.2.2}{\ignorespaces Second Stage\relax }}{80}{figure.caption.99}
-\contentsline {figure}{\numberline {6.2.3}{\ignorespaces Electron Rocket Fairing\relax }}{81}{figure.caption.100}
-\contentsline {figure}{\numberline {6.2.4}{\ignorespaces Rocket Lab Facilities\relax }}{82}{figure.caption.102}
-\contentsline {figure}{\numberline {6.3.1}{\ignorespaces ISIPOD\relax }}{84}{figure.caption.103}
-\contentsline {figure}{\numberline {6.3.2}{\ignorespaces GPOD\relax }}{84}{figure.caption.104}
-\contentsline {figure}{\numberline {6.4.1}{\ignorespaces Launch Range Operations Flow/Schedule\relax }}{85}{figure.caption.105}
-\contentsline {figure}{\numberline {6.4.2}{\ignorespaces Countdown Operations Flow\relax }}{85}{figure.caption.106}
-\contentsline {figure}{\numberline {6.4.3}{\ignorespaces Rocket's trajectory from lift-off to final orbit.\relax }}{87}{figure.caption.107}
-\contentsline {figure}{\numberline {6.4.4}{\ignorespaces Half of a revolution of the rocket in the elliptical spacing orbit.\relax }}{87}{figure.caption.107}
-\contentsline {figure}{\numberline {6.4.5}{\ignorespaces Deployment of the second satellite.\relax }}{88}{figure.caption.108}
-\contentsline {figure}{\numberline {6.4.6}{\ignorespaces Half of a revolution of the rocket after the deployment of the second satellite.\relax }}{88}{figure.caption.108}
-\contentsline {figure}{\numberline {6.4.7}{\ignorespaces Deployment of the third satellite.\relax }}{89}{figure.caption.109}
-\contentsline {figure}{\numberline {6.5.1}{\ignorespaces Old Constellation\relax }}{93}{figure.caption.110}
-<<<<<<< HEAD
-\contentsline {figure}{\numberline {6.5.2}{\ignorespaces Old and New Constellations\relax }}{93}{figure.caption.111}
-\contentsline {figure}{\numberline {6.5.3}{\ignorespaces New Constellation\relax }}{94}{figure.caption.112}
-\contentsline {figure}{\numberline {6.6.1}{\ignorespaces 1 communication range failure}}{97}{figure.caption.117}
-\contentsline {figure}{\numberline {6.6.2}{\ignorespaces 3 communication range failure}}{98}{figure.caption.120}
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces 7 communication range failure}}{98}{figure.caption.121}
-\contentsline {figure}{\numberline {6.6.4}{\ignorespaces View of the Space Debris around the Earth\relax }}{101}{figure.caption.128}
-=======
-\contentsline {figure}{\numberline {6.5.2}{\ignorespaces Old and New Constellations\relax }}{94}{figure.caption.111}
-\contentsline {figure}{\numberline {6.5.3}{\ignorespaces New Constellation\relax }}{95}{figure.caption.112}
-\contentsline {figure}{\numberline {6.6.1}{\ignorespaces 1 communication range failure}}{97}{figure.caption.117}
-\contentsline {figure}{\numberline {6.6.2}{\ignorespaces 3 communication range failure}}{98}{figure.caption.120}
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces 7 communication range failure}}{98}{figure.caption.121}
-\contentsline {figure}{\numberline {6.7.1}{\ignorespaces View of the Space Debris around the Earth\relax }}{101}{figure.caption.128}
->>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
+\contentsline {figure}{\numberline {6.1.1}{\ignorespaces Electron Rocket\relax }}{77}{figure.caption.97}
+\contentsline {figure}{\numberline {6.1.2}{\ignorespaces Second Stage\relax }}{77}{figure.caption.98}
+\contentsline {figure}{\numberline {6.1.3}{\ignorespaces Electron Rocket Fairing\relax }}{78}{figure.caption.99}
+\contentsline {figure}{\numberline {6.1.4}{\ignorespaces Rocket Lab Facilities\relax }}{78}{figure.caption.100}
+\contentsline {figure}{\numberline {6.1.5}{\ignorespaces ISIPOD\relax }}{79}{figure.caption.101}
+\contentsline {figure}{\numberline {6.1.6}{\ignorespaces GPOD\relax }}{79}{figure.caption.102}
+\contentsline {figure}{\numberline {6.2.1}{\ignorespaces Launch Range Operations Flow/Schedule\relax }}{80}{figure.caption.103}
+\contentsline {figure}{\numberline {6.2.2}{\ignorespaces Countdown Operations Flow\relax }}{80}{figure.caption.104}
+\contentsline {figure}{\numberline {6.2.3}{\ignorespaces Rocket's trajectory from lift-off to final orbit.\relax }}{82}{figure.caption.105}
+\contentsline {figure}{\numberline {6.2.4}{\ignorespaces Half of a revolution of the rocket in the elliptical spacing orbit.\relax }}{82}{figure.caption.105}
+\contentsline {figure}{\numberline {6.2.5}{\ignorespaces Deployment of the second satellite.\relax }}{83}{figure.caption.106}
+\contentsline {figure}{\numberline {6.2.6}{\ignorespaces Half of a revolution of the rocket after the deployment of the second satellite.\relax }}{83}{figure.caption.106}
+\contentsline {figure}{\numberline {6.2.7}{\ignorespaces Deployment of the third satellite.\relax }}{84}{figure.caption.107}
+\contentsline {figure}{\numberline {6.3.1}{\ignorespaces Old Constellation\relax }}{88}{figure.caption.108}
+\contentsline {figure}{\numberline {6.3.2}{\ignorespaces Old and New Constellations\relax }}{88}{figure.caption.109}
+\contentsline {figure}{\numberline {6.3.3}{\ignorespaces New Constellation\relax }}{89}{figure.caption.110}
+\contentsline {figure}{\numberline {6.4.1}{\ignorespaces 1 communication range failure}}{92}{figure.caption.115}
+\contentsline {figure}{\numberline {6.4.2}{\ignorespaces 3 communication range failure}}{93}{figure.caption.118}
+\contentsline {figure}{\numberline {6.4.3}{\ignorespaces 7 communication range failure}}{93}{figure.caption.119}
+\contentsline {figure}{\numberline {6.4.4}{\ignorespaces View of the Space Debris around the Earth\relax }}{96}{figure.caption.126}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Sender algorithm for the simplest protocol.\relax }}{107}{figure.caption.129}
-\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Receiver algorithm for the simplest protocol.\relax }}{108}{figure.caption.130}
-\contentsline {figure}{\numberline {7.1.3}{\ignorespaces Sender algorithm for the Stop-and-Wait Protocol.\relax }}{108}{figure.caption.131}
-\contentsline {figure}{\numberline {7.1.4}{\ignorespaces Receiver algorithm for the Stop-and-Wait Protocol.\relax }}{109}{figure.caption.132}
-\contentsline {figure}{\numberline {7.1.5}{\ignorespaces Flow diagram of the Stop-and Wait ARQ.\relax }}{110}{figure.caption.133}
-\contentsline {figure}{\numberline {7.1.6}{\ignorespaces Flow diagram of the Go-Back-N ARQ.\relax }}{111}{figure.caption.134}
-\contentsline {figure}{\numberline {7.1.7}{\ignorespaces Receiver algorithm for the Go-Back-N ARQ.\relax }}{112}{figure.caption.135}
-\contentsline {figure}{\numberline {7.1.8}{\ignorespaces Sender algorithm for the Go-Back-N ARQ.\relax }}{113}{figure.caption.136}
-\contentsline {figure}{\numberline {7.1.9}{\ignorespaces Flow diagram of the Selective Repeat ARQ.\relax }}{114}{figure.caption.137}
-\contentsline {figure}{\numberline {7.1.10}{\ignorespaces Sender algorithm for the Selective Repeat ARQ.\relax }}{115}{figure.caption.139}
-\contentsline {figure}{\numberline {7.1.11}{\ignorespaces Receiver algorithm for the Selective Repeat ARQ.\relax }}{116}{figure.caption.140}
-\contentsline {figure}{\numberline {7.1.12}{\ignorespaces DLL of the CCSDS.\relax }}{119}{figure.caption.143}
-\contentsline {figure}{\numberline {7.1.13}{\ignorespaces Transfer frame structure of the TC Space DL Protocol with SDLS.\relax }}{121}{figure.caption.146}
-\contentsline {figure}{\numberline {7.1.14}{\ignorespaces Transfer frame primary header.\relax }}{121}{figure.caption.147}
-\contentsline {figure}{\numberline {7.1.15}{\ignorespaces Procedure at the sending end.\relax }}{122}{figure.caption.148}
-\contentsline {figure}{\numberline {7.1.16}{\ignorespaces Procedure at the receiving end.\relax }}{123}{figure.caption.149}
-\contentsline {figure}{\numberline {7.2.1}{\ignorespaces CCSDS Recommended Protocols}}{125}{figure.caption.152}
-\contentsline {figure}{\numberline {7.2.2}{\ignorespaces Combination of CCSDS Recommended Protocols}}{126}{figure.caption.153}
-\contentsline {figure}{\numberline {7.2.3}{\ignorespaces SPP header}}{128}{figure.caption.161}
-\contentsline {figure}{\numberline {7.2.4}{\ignorespaces IPv4 header}}{129}{figure.caption.166}
-\contentsline {figure}{\numberline {7.2.5}{\ignorespaces IPv6 header}}{130}{figure.caption.169}
-\contentsline {figure}{\numberline {7.2.6}{\ignorespaces Encapsulation header}}{131}{figure.caption.174}
-\contentsline {figure}{\numberline {7.4.1}{\ignorespaces Overall space communication protocol stack \relax }}{150}{figure.caption.223}
+\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Sender algorithm for the simplest protocol.\relax }}{102}{figure.caption.127}
+\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Receiver algorithm for the simplest protocol.\relax }}{103}{figure.caption.128}
+\contentsline {figure}{\numberline {7.1.3}{\ignorespaces Sender algorithm for the Stop-and-Wait Protocol.\relax }}{103}{figure.caption.129}
+\contentsline {figure}{\numberline {7.1.4}{\ignorespaces Receiver algorithm for the Stop-and-Wait Protocol.\relax }}{104}{figure.caption.130}
+\contentsline {figure}{\numberline {7.1.5}{\ignorespaces Flow diagram of the Stop-and Wait ARQ.\relax }}{105}{figure.caption.131}
+\contentsline {figure}{\numberline {7.1.6}{\ignorespaces Flow diagram of the Go-Back-N ARQ.\relax }}{106}{figure.caption.132}
+\contentsline {figure}{\numberline {7.1.7}{\ignorespaces Receiver algorithm for the Go-Back-N ARQ.\relax }}{107}{figure.caption.133}
+\contentsline {figure}{\numberline {7.1.8}{\ignorespaces Sender algorithm for the Go-Back-N ARQ.\relax }}{108}{figure.caption.134}
+\contentsline {figure}{\numberline {7.1.9}{\ignorespaces Flow diagram of the Selective Repeat ARQ.\relax }}{109}{figure.caption.135}
+\contentsline {figure}{\numberline {7.1.10}{\ignorespaces Sender algorithm for the Selective Repeat ARQ.\relax }}{110}{figure.caption.137}
+\contentsline {figure}{\numberline {7.1.11}{\ignorespaces Receiver algorithm for the Selective Repeat ARQ.\relax }}{111}{figure.caption.138}
+\contentsline {figure}{\numberline {7.1.12}{\ignorespaces DLL of the CCSDS.\relax }}{114}{figure.caption.141}
+\contentsline {figure}{\numberline {7.1.13}{\ignorespaces Transfer frame structure of the TC Space DL Protocol with SDLS.\relax }}{116}{figure.caption.144}
+\contentsline {figure}{\numberline {7.1.14}{\ignorespaces Transfer frame primary header.\relax }}{116}{figure.caption.145}
+\contentsline {figure}{\numberline {7.1.15}{\ignorespaces Procedure at the sending end.\relax }}{117}{figure.caption.146}
+\contentsline {figure}{\numberline {7.1.16}{\ignorespaces Procedure at the receiving end.\relax }}{118}{figure.caption.147}
+\contentsline {figure}{\numberline {7.2.1}{\ignorespaces CCSDS Recommended Protocols}}{120}{figure.caption.150}
+\contentsline {figure}{\numberline {7.2.2}{\ignorespaces Combination of CCSDS Recommended Protocols}}{121}{figure.caption.151}
+\contentsline {figure}{\numberline {7.2.3}{\ignorespaces SPP header}}{123}{figure.caption.159}
+\contentsline {figure}{\numberline {7.2.4}{\ignorespaces IPv4 header}}{124}{figure.caption.164}
+\contentsline {figure}{\numberline {7.2.5}{\ignorespaces IPv6 header}}{125}{figure.caption.167}
+\contentsline {figure}{\numberline {7.2.6}{\ignorespaces Encapsulation header}}{126}{figure.caption.172}
+\contentsline {figure}{\numberline {7.4.1}{\ignorespaces Overall space communication protocol stack \relax }}{145}{figure.caption.221}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1.1}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{158}{figure.caption.224}
-\contentsline {figure}{\numberline {9.1.2}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to -90\IeC {\textordmasculine }\relax }}{159}{figure.caption.225}
-\contentsline {figure}{\numberline {9.1.3}{\ignorespaces Links vs time for latitudes from 70\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{160}{figure.caption.226}
-\contentsline {figure}{\numberline {9.1.4}{\ignorespaces Links vs time for latitudes from 45\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{160}{figure.caption.227}
-\contentsline {figure}{\numberline {9.1.5}{\ignorespaces Links vs time for latitudes from 55\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{161}{figure.caption.228}
-\contentsline {figure}{\numberline {9.1.6}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine }\relax }}{161}{figure.caption.229}
-\contentsline {figure}{\numberline {9.1.7}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{162}{figure.caption.230}
-\contentsline {figure}{\numberline {9.1.8}{\ignorespaces Links vs time for latitudes from -62.5\IeC {\textordmasculine } to -57.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{162}{figure.caption.231}
-\contentsline {figure}{\numberline {9.1.9}{\ignorespaces Links vs time for longitudes from 0\IeC {\textordmasculine } to 270\IeC {\textordmasculine }\relax }}{163}{figure.caption.232}
-\contentsline {figure}{\numberline {9.1.10}{\ignorespaces Links vs time for longitudes of 0\IeC {\textordmasculine }, 120\IeC {\textordmasculine } and 240\IeC {\textordmasculine }\relax }}{164}{figure.caption.233}
+\contentsline {figure}{\numberline {9.1.1}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{153}{figure.caption.222}
+\contentsline {figure}{\numberline {9.1.2}{\ignorespaces Links vs time for latitudes from 0\IeC {\textordmasculine } to -90\IeC {\textordmasculine }\relax }}{154}{figure.caption.223}
+\contentsline {figure}{\numberline {9.1.3}{\ignorespaces Links vs time for latitudes from 70\IeC {\textordmasculine } to 90\IeC {\textordmasculine }\relax }}{155}{figure.caption.224}
+\contentsline {figure}{\numberline {9.1.4}{\ignorespaces Links vs time for latitudes from 45\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{155}{figure.caption.225}
+\contentsline {figure}{\numberline {9.1.5}{\ignorespaces Links vs time for latitudes from 55\IeC {\textordmasculine } to 75\IeC {\textordmasculine }\relax }}{156}{figure.caption.226}
+\contentsline {figure}{\numberline {9.1.6}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine }\relax }}{156}{figure.caption.227}
+\contentsline {figure}{\numberline {9.1.7}{\ignorespaces Links vs time for latitudes from 57.5\IeC {\textordmasculine } to 67.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{157}{figure.caption.228}
+\contentsline {figure}{\numberline {9.1.8}{\ignorespaces Links vs time for latitudes from -62.5\IeC {\textordmasculine } to -57.5\IeC {\textordmasculine } with 30 seconds time-step\relax }}{157}{figure.caption.229}
+\contentsline {figure}{\numberline {9.1.9}{\ignorespaces Links vs time for longitudes from 0\IeC {\textordmasculine } to 270\IeC {\textordmasculine }\relax }}{158}{figure.caption.230}
+\contentsline {figure}{\numberline {9.1.10}{\ignorespaces Links vs time for longitudes of 0\IeC {\textordmasculine }, 120\IeC {\textordmasculine } and 240\IeC {\textordmasculine }\relax }}{159}{figure.caption.231}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{180}{figure.caption.248}
-\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{182}{figure.caption.256}
-\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{201}{figure.caption.322}
-\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{203}{figure.caption.327}
-\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{205}{figure.caption.330}
-\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{206}{figure.caption.331}
-\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{209}{figure.caption.342}
-<<<<<<< HEAD
-=======
+\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{175}{figure.caption.246}
+\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{177}{figure.caption.254}
+\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{196}{figure.caption.320}
+\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{198}{figure.caption.325}
+\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{200}{figure.caption.328}
+\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{201}{figure.caption.329}
+\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{204}{figure.caption.340}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{240}{figure.caption.355}
->>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
+\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{235}{figure.caption.353}
 \addvspace {10\p@ }
 >>>>>>> 5a9592b960fb0f0afa9465b188e4fe542f48616e
