@@ -16,15 +16,26 @@
 \contentsline {table}{\numberline {5.2.2}{\ignorespaces Performance Parameters for the Example Constellation\relax }}{65}{table.caption.86}
 \contentsline {table}{\numberline {5.3.1}{\ignorespaces Constellation Configuration OWA Decision\relax }}{66}{table.caption.87}
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {table}{\numberline {6.2.1}{\ignorespaces List of Launchers\relax }}{70}{table.caption.89}
 \contentsline {table}{\numberline {6.2.2}{\ignorespaces Criteria\relax }}{72}{table.caption.90}
 \contentsline {table}{\numberline {6.2.3}{\ignorespaces Flight Profile\relax }}{74}{table.caption.94}
 \contentsline {table}{\numberline {6.3.1}{\ignorespaces Criteria\relax }}{76}{table.caption.96}
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {7.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{94}{table.caption.106}
+=======
+\contentsline {table}{\numberline {6.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{71}{table.caption.92}
+\addvspace {10\p@ }
+>>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {9.1.1}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{90}{table.9.1}
+\contentsline {table}{\numberline {9.2.1}{\ignorespaces Options studied for the Electric Power System\relax }}{92}{table.9.1}
+\contentsline {table}{\numberline {9.3.1}{\ignorespaces Option chosen for the propulsion system\relax }}{93}{table.9.1}
+\contentsline {table}{\numberline {9.4.1}{\ignorespaces Options studied for the AOCDS\relax }}{94}{table.9.1}
+\contentsline {table}{\numberline {9.5.1}{\ignorespaces Options chosen for the payload\relax }}{97}{table.9.1}
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {table}{\numberline {10.1.1}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{113}{table.10.1}
 \contentsline {table}{\numberline {10.2.1}{\ignorespaces Options studied for the Electric Power System\relax }}{115}{table.10.1}
 \contentsline {table}{\numberline {10.3.1}{\ignorespaces Option chosen for the propulsion system\relax }}{116}{table.10.1}
@@ -32,6 +43,9 @@
 \contentsline {table}{\numberline {10.5.1}{\ignorespaces Options chosen for the payload\relax }}{120}{table.10.1}
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {11.0.1}{\ignorespaces Feasibility Study\relax }}{125}{table.caption.171}
+=======
+\contentsline {table}{\numberline {10.0.1}{\ignorespaces Feasibility Study\relax }}{103}{table.caption.157}
+>>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

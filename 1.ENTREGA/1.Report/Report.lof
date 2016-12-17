@@ -48,6 +48,7 @@
 \contentsline {figure}{\numberline {5.2.1}{\ignorespaces Length of the passes on the example GS.\relax }}{65}{figure.caption.85}
 \contentsline {figure}{\numberline {5.3.1}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{66}{figure.caption.88}
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {6.2.1}{\ignorespaces Electron Rocket\relax }}{73}{figure.caption.91}
 \contentsline {figure}{\numberline {6.2.2}{\ignorespaces Second Stage\relax }}{73}{figure.caption.92}
 \contentsline {figure}{\numberline {6.2.3}{\ignorespaces Electron Rocket Fairing\relax }}{74}{figure.caption.93}
@@ -64,6 +65,16 @@
 \contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{106}{figure.caption.113}
 \contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{106}{figure.caption.114}
 \contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{109}{figure.caption.121}
+=======
+\contentsline {figure}{\numberline {6.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{69}{figure.caption.89}
+\contentsline {figure}{\numberline {6.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{70}{figure.caption.90}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{80}{figure.caption.98}
+\contentsline {figure}{\numberline {8.5.1}{\ignorespaces S-band Equipment}}{83}{figure.caption.99}
+\contentsline {figure}{\numberline {8.5.2}{\ignorespaces X-band Equipment}}{83}{figure.caption.100}
+\contentsline {figure}{\numberline {8.6.1}{\ignorespaces LeafSpace Ground Stations}}{86}{figure.caption.107}
+>>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
