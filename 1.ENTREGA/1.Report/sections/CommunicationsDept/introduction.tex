@@ -1,4 +1,3 @@
-\paragraph{}
 Over this chapter, the \textbf{space communication protocols} are going to be defined. That is, a set of rules are going to be established in order to achieve the actual node-to-node communication. Altough the scope of the chapter is limited to the space segment, this inital introduction on the protocol definition is usfeul for the ground segment.
 Having said that, several factors constrain the design of this relation of rules:
 
@@ -11,12 +10,12 @@ Having said that, several factors constrain the design of this relation of rules
 
 \item \textbf{Security:} Messages are not just required to arrive to their destination but they also must be ordered and coherent when they reach the client. That is the reason why error control is taken into consideration very seriously along the design process.
 \end{itemize}
-In the diagram \ref{fig:osi}, it can be clearly seen the structure of a protocol stack. Each layer has an underlying protocol, designed to achieve a specific task. There are \textbf{low-level} protocols, dealing with \textit{hardware} or with the establishment of the \textit{physical} path between two nodes. Also, there are the \textbf{high-level} protocols, dealing with session control, optimum \textit{logical} paths generation and bridging the application layer with the physical layer.
+In the diagram \ref{fig:OsiModelLayers}, it can be clearly seen the structure of a protocol stack. Each layer has an underlying protocol, designed to achieve a specific task. There are \textbf{low-level} protocols, dealing with \textit{hardware} or with the establishment of the \textit{physical} path between two nodes. Also, there are the \textbf{high-level} protocols, dealing with session control, optimum \textit{logical} paths generation and bridging the application layer with the physical layer.
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.8]{./sections/CommunicationsDept/OSI}
 \caption{OSI Model layers}
-\label{fig:osi}
+\label{fig:OsiModelLayers}
 \end{figure}
 
 As it can be deducted, both the sending and the receiving node have to work in coordination. Also, each layer is designed with encapsulation in mind. Therefore, each layer does not depend on the others and develops its own task independently.

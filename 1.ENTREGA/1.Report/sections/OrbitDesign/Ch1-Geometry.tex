@@ -7,12 +7,12 @@
 \paragraph{}
 Throughout this chapter, the bases of orbital geometry will be explained in order to correctly understand the parameters that will later be exposed when dealing with the constellation orbits (or the position of the satellites in them). However, long theoretical explanations will be avoided so as not to distract the reader from the main objective of the project.
 
-To understand the movement in space is enough to apply the Newton's laws. These, however, need an inertial non-rotating frame to be correctly described. When dealing with Earth-orbiting, one usually chooses a reference system called \textit{geocentric-equatorial system} which is shown in the figure~\ref{fig:eqframe} As can be seen, the XY plane coincides with the plane Equatorial with the X axis pointing in the direction of the vernal equinox \footnote{an imaginary line found by drawing a line from the Earth to the Sun on the first day of spring}. The Z axis correspond the axis of rotation of the earth and points to the north (following the right-hand rule).
+To understand the movement in space is enough to apply the Newton's laws. These, however, need an inertial non-rotating frame to be correctly described. When dealing with Earth-orbiting, one usually chooses a reference system called \textit{geocentric-equatorial system} which is shown in the figure~\ref{fig:eqframe}.a. As can be seen, the XY plane coincides with the plane Equatorial with the X axis pointing in the direction of the vernal equinox \footnote{an imaginary line found by drawing a line from the Earth to the Sun on the first day of spring}. The Z axis correspond the axis of rotation of the earth and points to the north (following the right-hand rule).
 
 \begin{figure}[H]
 \centering
-\includegraphics[scale=.55]{./Geometry/fig-Ch1-Geometry/eqframe.png}
-\caption{Geocentric-equatorial frame. Extracted from \cite{Howard}.}
+\includegraphics[scale=.35]{./Geometry/fig-Ch1-Geometry/COE&eqframe.png}
+\caption{a) Geocentric-equatorial frame and b) Classical Orbital Elements. Extracted from \cite{Howard}.}
 \label{fig:eqframe}
 \end{figure}
 
@@ -20,26 +20,26 @@ By defining this system, any point in the space can be depicted by its position 
 
 \section{Keplerian Geometry}
 \paragraph{}
-The \textit{Classical Orbital elements}, also known as the \textit{Keplerian elements} as an attribution to Johannes Kepler, are six independent quantities which re sufficient to describe the size, shape and orientation of an orbit. This set of elements are shown in the figure~\ref{fig:COE} and are defined as follows:
+The \textit{Classical Orbital elements}, also known as the \textit{Keplerian elements} as an attribution to Johannes Kepler, are six independent quantities which are sufficient to describe the size, shape and orientation of an orbit. This set of elements are shown in the figure~\ref{fig:eqframe}.b and are defined as follows:
 \begin{itemize}
 \item\textbf{Semi-major axis} ($a$): It is related to the size of the orbit and its defined by the sum of the apogee (furthest point) and the perigee (closest point) divided by two.
 \item\textbf{Eccentricity} ($e$): It defines the shape of the orbit with respect to that of a circle. Thus, the eccentricity of a circular orbit is null while hyperbolic orbits have an eccentricity greater than one.
-\begin{table}[H]
-\centering
-\label{tb:evalues}
-\begin{tabular}{|l|c|}
-\hline
-Circular     & $e=1$   \\ \hline
-Elliptical   & $0<e<1$ \\ \hline
-Parabolic  	 & $e=1$   \\ \hline
-Hyperbolic   & $e>1$   \\ \hline
-\end{tabular}
-\caption{Eccentricity values depending on the shape of the orbit}
-\end{table}
+%\begin{table}[H]
+%\centering
+%\label{tb:evalues}
+%\begin{tabular}{|l|c|}
+%\hline
+%Circular     & $e=1$   \\ \hline
+%Elliptical   & $0<e<1$ \\ \hline
+%Parabolic  	 & $e=1$   \\ \hline
+%Hyperbolic   & $e>1$   \\ \hline
+%\end{tabular}
+%\caption{Eccentricity values depending on the shape of the orbit}
+%\end{table}
 \item\textbf{Inclination} ($i$): the inclination is the angle between the positive Z axis and the angular momentum vector ($\textbf{h}$) which is perpendicular to the orbital plane. The inclination of the orbit can take a value from $0\deg$ to $180\deg$. For $0\deg\leq i\leq 90\deg$ the motion \textit{posigrade} and for $90\deg\leq i\leq 180\deg$ the motion is \textit{retrogade}.
 \item\textbf{Right ascension of the ascending node - RAAN} ($\Omega$): This parameter, along with the inclination define the orientation of the orbital plane. It is the angle between the positive X axis and the intersection of the orbital plane with the equatorial plane XY in counterclockwise direction. The intersection mentioned is called the node line and the point where the orbit passes through the node line (from south to north) is the ascension node ($0\deg\leq \Omega\leq 360\deg$).
 \item\textbf{Argument of perigee} ($\omega$): Is defined as the angle between the ascending node and the perigee. It describes the orientation of the ellipse with respect to the frame ($0\deg\leq \omega\leq 360\deg$). 
-\item\textbf{True Anomaly} ($\phi$): This last quantity is used to describe the satellite's instantaneous position with respect to the perigee. Is the angle, measured clockwise, between the perigee and the satellite position. From all the orbital elements, the true anomaly is the only that changes continuously. Sometimes, true anomaly is substituted by the mean anomaly, which can be calculated using another auxiliary angle called the eccentric anomaly.
+\item\textbf{True Anomaly} ($\phi$ or $\nu$): This last quantity is used to describe the satellite's instantaneous position with respect to the perigee. Is the angle, measured clockwise, between the perigee and the satellite position. From all the orbital elements, the true anomaly is the only that changes continuously. Sometimes, true anomaly is substituted by the mean anomaly, which can be calculated using another auxiliary angle called the eccentric anomaly.
 \begin{equation}
 \begin{gathered}
 \cos E=\frac{e+\cos \theta}{1+e\cos \theta}\\
@@ -49,12 +49,12 @@ M=E-e\sin E
 
 \end{itemize}
 
-\begin{figure}[H]
-\centering
-\includegraphics[scale=.3]{./Geometry/fig-Ch1-Geometry/COE.png}
-\caption{Geocentric-equatorial frame and the Classical Orbital Elements. Extracted from \cite{Howard}.}
-\label{fig:COE}
-\end{figure}
+%\begin{figure}[H]
+%\centering
+%\includegraphics[scale=.3]{./Geometry/fig-Ch1-Geometry/COE.png}
+%\caption{Geocentric-equatorial frame and the Classical Orbital Elements. Extracted from \cite{Howard}.}
+%\label{fig:COE}
+%\end{figure}
 
 \section{Dynamic equations}
 \paragraph{}

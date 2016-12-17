@@ -31,13 +31,13 @@
 %\chapter{Network Layer}
 
 \subsection{Functions of the Network Layer}
-\paragraph{}According to \cite{X200}, the Network layer is the third layer in the Open Systems Interconnection (OSI) model. It is located above the Data link layer and below the Transport layer. This layer is used for transmitting data sequences called datagrams between a sender and a reciever than may not be directly connected through only one link. The Network layer provides the following functions:
+\paragraph{}According to \cite{X200}, the Network layer is the third layer in the Open Systems Interconnection (OSI) model. It is located above the Data link layer and below the Transport layer. This layer is used for transmitting data sequences called datagrams between a sender and a reciever than may not be directly connected through only one link. The Network layer provides the following functions\footnote{Explained in Annex II 7.2.1}
 \begin{itemize}
-\item \textbf{Routing}: Selects the best path between two nodes in a network, often using itermediate nodes called routers.
-\item \textbf{Network fow control}: Routers may indicate a transmitting node to reduce its transmission when the router's buffer becomes full.
-\item \textbf{Package fragmentation}: If the message to be transmitted is too large to be transmitted in the Data link layer, the network may split it into several packages in one node, send them independently an reassemble them in another node. Optionally, it can provide error control.
-\item \textbf{Logical-physical adress allocation}: Translates the logical adress (or names) of the network nodes into a unique physical adress.
-\item \textbf{Message forwarding}: A network may be divided into subnetworks, connected through specialized hosts, called gateways or routers, that forward packets between those subnetworks.
+\item \textbf{Routing}
+\item \textbf{Network fow control}
+\item \textbf{Package fragmentation}
+\item \textbf{Logical-physical adress allocation}
+\item \textbf{Message forwarding}
 \end{itemize}
 
 \subsection{Protocols}
@@ -45,25 +45,25 @@
 \paragraph{}Figure \ref{fig:CCSDSprotocols}, shows this tyme all the recommended protocols by the CCSDS for Space Communications. In Figure \ref{fig:CCSDScombinations} those protocols arearranged in some possible combinations. As it can be seen, IP cannot be directly used neither by the protocols in the Data Link layer nor the Encapsulation Service.
 \begin{figure}[H]
 \begin{center}
-\includegraphics[scale=1]{CCSDSprotocols.PNG}
+\includegraphics[scale=0.6]{CCSDSprotocols.PNG}
 \caption[CCSDS Recommended Protocols]{Protocols recommended by the CCSDS, classified in their respective OSI layers. Extracted from \cite{CCSDSOverview}.}
 \label{fig:CCSDSprotocols}
 \end{center}
 \end{figure}
 \begin{figure}[H]
 \begin{center}
-\includegraphics[scale=1]{CCSDScombinations.PNG}
+\includegraphics[scale=0.6]{CCSDScombinations.PNG}
 \caption[Combination of CCSDS Recommended Protocols]{Possible Combinations of the CCSDS recommended protocols. Extracted from \cite{CCSDSOverview}.}
 \label{fig:CCSDScombinations}
 \end{center}
 \end{figure}
 \paragraph{}Protocols in the Network Layer can be classified according if they are the main protocol (SPP or IP, for example) or they provide additional features so that the main protocol can work efficiently. An example of the latter are routing protocols, and also for IP, IPoC and Encapsulation Service.
-\paragraph{}In the following pages, a brief review of distinct protocols on the Network layer will take place. Since CCSDS ecommends using SPP or Encapsulation Service, only SPP and protocols that can be encapsulated by the Encapsulation Service, either directly or indirecly, will be reviewed. The protocols reviewed will be classified according if they are the main protocol, auxiliary protocols, or routing protocols. More information about the protocols now explained such as the working procedures, the features and some compatibilities and restrictions can be found at Annexes XXXXXXXXXXXXXX.
+\paragraph{}In the following pages, a brief review of distinct protocols on the Network layer will take place. Since CCSDS ecommends using SPP or Encapsulation Service, only SPP and protocols that can be encapsulated by the Encapsulation Service, either directly or indirecly, will be reviewed. The protocols reviewed will be classified according if they are the main protocol, auxiliary protocols, or routing protocols. More information about the protocols now explained such as the working procedures, the features and some compatibilities and restrictions can be found at Annexes II 7.2.2.
 
 \subsubsection{Main protocols}
 
 \subsubsection*{Space Packet Protocol (SPP)\cite{SPP}}
-\paragraph{}The Space Packet Protocol (SPP) is a protocol designed to efficiently transfer application data over a network of space links. SPP provides a unidirectional data transfer service from a single source user application to one or more destination user applications through one or more subnetworks. The path from the source user application to the destination user application is called a Logical Data Path (LDP). Every LDP is uniquely identified by a Path Identifier (Path ID). The protocol data unit used by this protocol is the Space Packet. Each Space Packet is defined by a header section and a data section.
+\paragraph{}Protocol designed to efficiently transfer application data over a network of space links. The path from the source user application to the destination user application is called a Logical Data Path (LDP). Every LDP is uniquely identified by a Path Identifier (Path ID). The protocol data unit used by this protocol is the Space Packet. Each Space Packet is defined by a header section and a data section.
 \paragraph{}The following features are common to the services of the SPP:
 \begin{itemize}
 \item Pre-configured Services. 
@@ -73,44 +73,22 @@
 \item Non–sequence Preserving Services.
 \end{itemize}
 \subsubsection{Internet Protocol version 4 (IPv4)\cite{IP}}
-\paragraph{}The Internet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet. Despite the ongoing deployment of a successor protocol (IPv6), the IPv4 still routes most of the Internet traffic. IPv4 is a conectionless protocol and does not guarantee delivery, nor does it assure proper sequencing or avoidance of duplicate delivery. These aspects are adressed by a transport layer protocol.
-\paragraph{}One of the features of IPv4 are adresses. Network adresses are the identification number of any device that is part of a network. IPv4 uses 32-bit (4 byte) adresses. Therefore, the adress space is limited to 4294967296 ($2^{32}$) adresses. A IPv4 adress is usually represented in two ways: in binary notation, where each group of 8 bits is separated by a dot, or in decimal notation, where each 8-bit binary number is translated to decimal, as it can be seen in Table \ref{table:IPadress}.
-\begin{table}[H]
-\begin{center}
-\begin{tabular}{|l|c|}
-\hline 
-IP adress & 10101100000100001111111000000001 \\ 
-\hline 
-Dot-binary notation & 10101100.00010000.11111110.00000001 \\ 
-\hline 
-Dot-decimal notation & 172.16.254.1 \\ 
-\hline
-\end{tabular}
-\end{center}
-\caption[IP adress notation]{IP adress notation in dot-decimal and dot-binary.}
-\label{table:IPadress}
-\end{table}
+\paragraph{}The Internet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP). It is one of the core protocols of standards-based internetworking methods in the Internet. IPv4 is a conectionless protocol and does not guarantee delivery, nor does it assure proper sequencing or avoidance of duplicate delivery. These aspects are adressed by a transport layer protocol.
+\paragraph{}One of the features of IPv4 are adresses. Network adresses are the identification number of any device that is part of a network. IPv4 uses 32-bit (4 byte) adresses. Therefore, the adress space is limited to 4294967296 ($2^{32}$) adresses.
 \paragraph{}IPv4 provides fragmentation of packets. If size of the packet is bigger than the maximum transmission unit (MTU) of the destination, and the message allow fragmentation (the option of Do not Fragment in the header of the packet is set to 0) the transmitting router will divide the packet in fragments smaller than the MTU.
 
 \subsubsection{Internet Protocol version 6 (IPv6)\cite{IPv6}}
 \paragraph{}The Internet Protocol version 6 (IPv6) is the most recent version of the Internet Protocol, developed to solve the problem of the exhaustion of IP adresses of the IPv4. IPv6 is intended to replace IPv4. The new features of the IPv6 compared of those of the IPv4 are the following:
 \begin{itemize}
-	\item Larger adress space: The length of IPv6 adresses is 128 bits, which is four times the length of IPv4 adresses. It offers a capacity of $2^{128}$ adresses.
-	\item Multicasting: IPv6 acomplishes multicasting without using other protocols (such as IGMP for IPv4)
-	\item Stateless address autoconfiguration (SLAAC): IPv6 hosts can configure themselves automatically when they are connected to a IPv6 network using the Neighbor Discovery Protocol via Internet Control Message Protocol version 6 (ICMPv6) router discovery messages. When a host is connectes for the first time, it sends a link-local router solicitation multicast request for its configuration parameters. Then, routers respond to the request with a router advertisement packet that contains Internet Layer configuration parameters.
-	\item Network-layer security: Internet Protocol Security was developed for IPv6 before it was adapted for IPv4.
-	\item Simplified processing by routers: Packet headers and the process of packet forwarding have been simplified, so packet processing by routers is more efficient. Headers now have a fixed length of 40 bytes, and may have an optional section aimed for options between the header section and the data section. Figure \ref{fig:IPv6header} shows the structure of a IPv6 header. IPv6 routers do not perform fragmentation.
-	\item Mobility: Mobile IPv6 avoids triangular routing (unlike IPv4) and is as efficient as native IPv6.
-	\item Options extensibility: IPv6 headers have astructure capable of extending the protocol in the future without affecting the core packet structure.
-	\item Jumbograms: IPv4 limits packets to (2 power 16) - 1 octets per payload. A IPv6 node can handle packets of (2 power 32) - 1 octets (called jumbograms).
+	\item Larger adress space 
+	\item Multicasting
+	\item Stateless address autoconfiguration (SLAAC)
+	\item Network-layer security
+	\item Simplified processing by routers
+	\item Mobility
+	\item Options extensibility
+	\item Jumbograms
 \end{itemize}
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.6]{IPv6_header.PNG}
-\caption[IPv6 header]{Example of a header for an IPv6 packet.}
-\label{fig:IPv6header}
-\end{center}
-\end{figure}
 
 \subsubsection{Auxiliary protocols}
 
@@ -134,10 +112,13 @@ Extension (IPE) convention in conjunction with the CCSDS Encapsulation Service. 
 \subsubsection{Routing protocols}
 \subsubsection*{Enhanced Interior Gateway Routing Protocol (EIGRP)\cite{EIGRP}}
 \paragraph{}The Enhanced Interior Gateway Routing Protocol (EIGRP) is a routing protocol used on a computer networks for automating routing decisions and configuration.
-\paragraph{}All routers contain a routing table that lists the routes to network destinations. If a router cannot find a valid path to the destination, the traffic is discarded. EIGRP is a dynamic routing protocol, which means that routers automatically exchange information about routes and, therefore, the administrator does not have to change the routing table manually. Besides the routing table, routers adittionlly have two more tables.
-\begin{itemize}
-\item Neighbour table. It stores the IP adress of the routers that have a direct connection with this router. If a router is connectedto another with an intermediate router, it will not be recorded in this table.
-\item Topology table. It keeps record of routes that has learned from neightbouring router tables, and also records the distance (number of intermediate routers) of each route, the feasible successor and the successors (other routes that have the same destination and are loop free). Routes in this table are either labelled as "passive" or "active". Passive means that EIGRP  has determined the path for the specific route and has finished processing. Active means that EIGRP is still trying to calculate the best path for the specific route. The router dones not use the routes in this table. A route in this table will be inserted in the routing talbe when is marked as passive, is not a feasible successor and does not have a higher distance than an equivalent path.
+\paragraph{}All routers contain a routing table that lists the routes to network destinations. If a router cannot find a valid path to the destination, the traffic is discarded. EIGRP is a dynamic routing protocol, which means that routers automatically exchange information about routes and, therefore, the administrator does not have to change the routing table manually. Besides the routing table, routers adittionlly have two more tables that are explained in Annex II 7.2.2.3.
+If there is a change in the network (a link fails, or a router is disconnected), the path
+becomes unavaiable, and is removed from the routing table. The routing table of a router
+will be updated, and only the changes since the previous update will be transmitted to
+the neightbouring routers. The information about the changes in the routing table is not
+transmitted periodically, but only when a change actually occurs.
+
 \subsubsection*{Open Shortest Path First (OSPF)\cite{OSPFv2}\cite{OSPFIPv6}}
 \paragraph{}The Open Shortest Path First (OSPF) is a routing protocol for Internet Protocol (IP) networks that operates in a single autonomous system. OSPF version 2 is designed for IPv4, while OSPF version 3 is designed for IPv6. The topology is presented as a routing table to the Internet layer which routes packets based solely on their destination IP address. OSPF detects changes in the topology, such as link failures, and creates a new loop-free routing structure. It computes the shortest-path tree for each route using a method based on Dijkstra's algorithm. OSPF does not use a transport protocol, such as UDP or TCP, but encapsulates its data directly in IP packets with protocol number 89. It implements its own transport layer error detection and correction functions. OSPF uses multicast addressing for distributing route information within a broadcast domain.
 
@@ -167,4 +148,4 @@ Extension (IPE) convention in conjunction with the CCSDS Encapsulation Service. 
 \paragraph{}Since IPv6 has been chosen, IP over CCSDS and Encapsulation Service are necessary. Additionally, ICMPv6 greatly expand the features of IPv6 such as flow control. Security features are already provided in the Data Link layer and, therefore, IPsec is not necessary. Also, no multicast features are required, so no multicast protocols will not be used.
 
 \subsubsection{Conclusion}
-\paragraph{}It has been decided that IPv6 will be the network layer protocol, complemented with IPoC, Encapsulation Service and ICMPv6, and with OSPF as the routing protocol. In Annex XXXXXXXXXX the headers of the different protocols are shown. 
+\paragraph{}It has been decided that IPv6 will be the network layer protocol, complemented with IPoC, Encapsulation Service and ICMPv6, and with OSPF as the routing protocol. In Annex II 7.2.3 the headers of the different protocols are shown. 

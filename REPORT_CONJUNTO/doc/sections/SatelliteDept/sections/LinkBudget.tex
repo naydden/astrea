@@ -21,7 +21,7 @@ When evaluating a wireless link, the three most important questions to be answer
 \end{enumerate}
 The upper limit in terms of data rate is given by Shannon's Channel Capacity Theorem:
 \begin{equation}
-	C=Blog_2(1+S/N)
+	C=B\cdot log_2(1+S/N)
 	\label{channelCapacity}
 \end{equation}
 where:
@@ -75,12 +75,12 @@ Likewise, these losses can be due to ionospheric, tropospheric and other local e
 \paragraph{Ionospheric Effects}
 \ All radio waves transmitted by satellites to the Earth or vice versa must pass through the
 ionosphere, the highest layer of the atmosphere, which contains ionized particles,
-especially due to the action of sun’s radiation. Free electrons are distributed in layers
+especially due to the action of sun's radiation. Free electrons are distributed in layers
 and clouds of electrons may be formed, originating what is known as travelling
 ionospheric disturbances, what provoke signal fluctuations that are only treated as
 statistical data. The effects are:
 \begin{itemize}
-	\item \textbf{Polarization rotation}: When a radio wave passes through the ionosphere, it contacts the layers of ionized 	electrons that move according to the Earth’s magnetic field. The direction these 	electrons move will no longer be parallel to the electric field of the wave and therefore	the polarization is shifted, in what is called Faraday rotation ($\theta_F$). ;
+	\item \textbf{Polarization rotation}: When a radio wave passes through the ionosphere, it contacts the layers of ionized 	electrons that move according to the Earth's magnetic field. The direction these 	electrons move will no longer be parallel to the electric field of the wave and therefore	the polarization is shifted, in what is called Faraday rotation ($\theta_F$). ;
 	\item \textbf{Scintillation effects}: Differences in the atmospheric refractive index may cause scattering and multipath 	effect, due to the different directions rays may take through the atmosphere. They are detected as variations in amplitude, phase, polarization and angle of arrival of	the radio waves.	It is often recommended the introduction of a fade margin so atmospheric scintillation
 	can be a tolerated phenomenon.; 
 	\item Absorption
@@ -108,12 +108,12 @@ collection of data already received allows the elaboration of the graphic that f
 \end{figure}
 \\
 
-Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into account troposphere’s thickest layer ($T_{trop}$), which has 20 km.\\
-It is also mandatory to refer that this graph represents the absorption for a satellite in the zenith, in other words, for an elevation angle of 90º ($\theta$ = 90º). For lower angles, the atmospheric absorption ($L_{abs}$) is given by \cite{Jorge2012}:
-\begin{equation}
-	L_{abs}(dB)=L_{abs|90º} (dB/km)\ cosec(\theta)\ T_{trop}(km)
-	\label{Labs}
-\end{equation}
+Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into account troposphere's thickest layer ($T_{trop}$), which has 20 km.\\
+It is also mandatory to refer that this graph represents the absorption for a satellite in the zenith, in other words, for an elevation angle of 90 degrees. For lower angles, the atmospheric absorption ($L_{abs}$) is given by \cite{Jorge2012}:
+%\begin{equation}
+%	L_{abs}(dB)=L_{abs|90�} (dB/km)\ cosec(\theta)\ T_{trop}(km)
+%	\label{Labs}
+%\end{equation}
 \paragraph{} For AstreaSAT, $5\mathrm{x}10^{-3}dB/km$ attenuation factor is considered for S band due to the $O_2$ specific attenuation. On the other hand, $4\mathrm{x}10^{-3}dB/km$ attenuation factor is considered for X band due to the $H_2O$ and to the $O_2$ specific attenuations. An study of the critical elevation angle will lately be performed. 
 \paragraph{} For AstreaSAT ground station, communication starts at an elevation angle of $\theta=10^o$ (worst case scenario). Consequently, $cosesc(\theta)$ will go from 5.76 to 1 (best reception case). In that case, we assume:
 \begin{align*}
@@ -182,8 +182,8 @@ the high power amplifier (HPA).\cite{Jorge2012}
 \subsubsubsection{Environment Losses}
 \paragraph{}
 This item is related to the specific region of the globe where the ground station is placed
-(equatorial, tropical, polar…). Depending on its latitude, each region has its own
-characteristics (e.g. temperature, moisture, thickness of atmospheric ice layer…), which
+(equatorial, tropical, polar...). Depending on its latitude, each region has its own
+characteristics (e.g. temperature, moisture, thickness of atmospheric ice layer...), which
 may provoke variation in signal reception. \cite{Jorge2012}
 \paragraph{} Communications department, had chosen the best locations over the globe, with stable good weather conditions to neglect this fact.
 \subsection{Modulation Technique}
@@ -277,6 +277,38 @@ This is the lowest possible noise level for a system with a given physical tempe
 
 \paragraph{} The most important concern on AstreaSAT link Budget is how far every satellite can emit on the desired frequencies. This is a key factor to know the utility of the modules selected. At least, Project Charter communication requirements must be accomplish.
  
-$EIRP=P_T-L_T-G_T$\\
-FRIIS EQUATION + GRAPH RANGE\\
-SENSITIVITY CALCULUS A PARTIR DE LA DE CAPACITAT + NOISE ADJUDICANT BANDWITH
+\paragraph{}To verify communication system chosen options, let's start calculating the minim required sensitivity for receiving strong enough signal. With this value, it is possible to know how far the satellite can listen to information.
+\paragraph{} Applying equation \ref{channelCapacity} and equation \ref{noise} on a simple Matlab routine:
+
+\begin{figure}[h]
+	\includegraphics[scale=0.9]{./sections/SatelliteDept/sections/images/SvsB}
+	\centering
+	\caption{Sensibility change along Bandwidth variation}
+	\label{SvsB}
+\end{figure}
+
+\paragraph{} As bandwidth increments, Sensitivity decrements, meaning that we need higher powered receivers in order to sense high bandwidth communications.
+\paragraph{Range calculation:} To know how far the satellite can be received or listen to, Friis equation \ref{friisEq} will be applied. 
+\begin{equation}
+	P_r=P_t+G_t+G_r -FSL -L_{abs}-L_{aml}-L_{point}
+	\label{friisEq}
+\end{equation}
+\begin{align*}
+		P_r&:\text{Received power}\\
+		P_t&:\text{Transmitted power}\\
+		G_t&:\text{Transmitter antenna gain}\\
+		G_r&:\text{Receiver antenna gain}\\
+		L_{prop}&:\text{All kind of losses}\\
+		L_{prop}&=FSL -L_{abs}-L_{aml}-L_{point}  	
+\end{align*}
+
+\begin{figure}[h]
+	\includegraphics[scale=0.9]{./sections/SatelliteDept/sections/images/friisCases}
+	\centering
+	\caption{Received power with distance variation}
+	\label{friis}
+\end{figure}
+\paragraph{S band range:} On Fig.\ref{friis} earth atmosphere and multiple losses (described previously) affect to the received power on ground. Despite all, ground station have powerful antennas that mitigate the losses effect. Therefore, because of the low gain of the antennas between satellites, the link is weaker.
+\paragraph{X band range:} In this case, X band, because its high frequency is more affected by atmospheric losses. Is it possible to appreciate it on Fig.\ref{friis}. Link between satellites is stronger that the one with the ground. Finally remark a fact, despite higher frequencies should have weaker links, in this case, the high antenna gains for X band, confer stronger links to the X band.
+
+\paragraph{}In order to use satellite communications, will be necessary to use Fig.\ref{SvsB} and \ref{friis}. From \ref{friis}, given a determinate altitude a power sensibility can be extract. Then, on \ref{SvsB}, taking the previous sensibility calculated, a Bandwidth for operation can be stated. The procedure works on both sites.

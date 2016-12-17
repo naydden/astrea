@@ -1,39 +1,33 @@
 \definecolor{blue}{rgb}{0.2,0.5,0.8}
 \section{Ground segment}
 The ground segment is composed by the Ground Stations (GS) and the Mission Control Center (MCC), that allow the receiving of the information from the constellation to the Earth.\\
-The placement of the different nodes of the Ground Segment is shown in the following map.  
-\begin{figure}[H]
-\begin{center}
-\includegraphics[scale=0.6]{map.PNG} 
-\caption{Location of the GS and MCC}
-\end{center}
-\end{figure}
+The placement of the different nodes of the Ground Segment is shown in the following map, toguether with the amount of links that are available in a given instant (except for the MCC, that no links with satellites are established.  
 \begin{table}[H]
 \begin{center}
-\begin{tabular}{|c|c|c|}
+\begin{tabular}{|l|l|p{3.5cm}|p{3.5cm}|}
 \hline
-\rowcolor{blue} \textbf{Node}&\textbf{Color in the map}&\textbf{Country}\\
+\rowcolor{blue} \textbf{Node}&\textbf{Country}&\textbf{Minimum available number of links}&\textbf{Maximum available number of links}\\
 \hline
-GS1&Yellow&Canada\\
+GS1&Canada&2&12\\
 \hline
-GS2&Orange&Falkland Islands\\
+GS2&Falkland Islands&2&12\\
 \hline
-GS3&Blue&United Kingdom\\
+GS3&United Kingdom&2&12\\
 \hline
-MCC&Green&Spain\\
+MCC&Spain&-&-\\
 \hline
 \end{tabular}
-\caption{Countries of location}
+\caption{Countries of location and available links}
 \end{center}
 \end{table}
 The MCC is composed by a set of offices with good connection to the GS. The systems that compose the GS are exposed in the following table. 
 \begin{table}[H]
 \begin{center}
-\begin{tabular}{|p{4cm}|p{4cm}|p{4cm}|p{4cm}|}
+\begin{tabular}{|p{2cm}|p{2cm}|p{4cm}|p{4cm}|p{4cm}|}
 \hline
-\rowcolor{blue} \textbf{System}&\textbf{Features}&\textbf{Purpose}&\textbf{Elements included}\\
+\rowcolor{blue} \textbf{System}&\textbf{Frequency range}&\textbf{Features}&\textbf{Purpose}&\textbf{Elements included}\\
 \hline
-S-band&Half-duplex system: downlink and uplink capability&Housekeepink data/TT\& C \newline
+S-band&2-4GHz&Half-duplex system: downlink and uplink capability&Housekeepink data/TT\& C \newline
 Client data upload&
 Transciever 
 \newline
@@ -49,7 +43,7 @@ RF Fuse
 \newline
 Rotors\\
 \hline
-X-band&X-band downlink capacity&Client data download&X-band receiver
+X-band&8-12GHz&X-band downlink capacity&Client data download&X-band receiver
 \newline
 LNA
 \newline
