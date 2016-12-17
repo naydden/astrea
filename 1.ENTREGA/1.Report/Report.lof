@@ -69,28 +69,25 @@
 \contentsline {figure}{\numberline {6.6.3}{\ignorespaces 7 communication range failure}}{94}{figure.caption.114}
 \contentsline {figure}{\numberline {6.7.1}{\ignorespaces View of the Space Debris around the Earth\relax }}{98}{figure.caption.124}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1.1}{\ignorespaces OSI Model layers\relax }}{104}{figure.caption.125}
-\contentsline {figure}{\numberline {7.2.1}{\ignorespaces DLL of the CCSDS.\relax }}{109}{figure.caption.128}
-\contentsline {figure}{\numberline {7.3.1}{\ignorespaces CCSDS Recommended Protocols}}{113}{figure.caption.134}
-\contentsline {figure}{\numberline {7.3.2}{\ignorespaces Combination of CCSDS Recommended Protocols}}{113}{figure.caption.135}
-\contentsline {figure}{\numberline {7.5.1}{\ignorespaces Overall space communication protocol stack \relax }}{124}{figure.caption.172}
+\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{104}{figure.caption.125}
+\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{105}{figure.caption.126}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{132}{figure.caption.173}
-\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{135}{figure.caption.174}
-\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{135}{figure.caption.175}
-\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{137}{figure.caption.182}
+\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{116}{figure.caption.134}
+\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{118}{figure.caption.135}
+\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{119}{figure.caption.136}
+\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{121}{figure.caption.143}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{141}{figure.caption.188}
-\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{143}{figure.caption.196}
-\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{162}{figure.caption.262}
-\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{164}{figure.caption.267}
-\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{166}{figure.caption.270}
-\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{167}{figure.caption.271}
-\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{170}{figure.caption.282}
+\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{125}{figure.caption.149}
+\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{127}{figure.caption.157}
+\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{146}{figure.caption.223}
+\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{148}{figure.caption.228}
+\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{150}{figure.caption.231}
+\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{150}{figure.caption.232}
+\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{152}{figure.caption.243}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.0.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{199}{figure.caption.295}
+\contentsline {figure}{\numberline {14.0.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{180}{figure.caption.256}
 \addvspace {10\p@ }
