@@ -9,6 +9,8 @@
 
 % Writing the constellation caracteristics
 
+%% Input Data
+
 a=6378.01e3;
 u=3.986012e14;
 h=(a+542e3)/a; 

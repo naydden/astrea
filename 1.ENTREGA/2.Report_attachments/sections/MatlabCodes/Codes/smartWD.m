@@ -11,6 +11,8 @@
 % coverage by having the distance between planes matches the planes
 % rotation
 
+%% Input Data
+
 p=[12 15 18];
 S=360./p; S=S*pi/180;
 

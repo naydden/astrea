@@ -2,9 +2,11 @@ function [L] = Links(Xs,Xg,e_min)
 %This function calculates the how many sats can a Ground Station see and 
 %contact (link) in every instant
 
-%Xs: sats coordinates in Earth radius in a inertial system centred at the center of the Earth. 
+%Xs: sats coordinates in Earth radius in a inertial system 
+%centred at the center of the Earth. 
     %Xs(coordinates [x y z], sat number,instant(time))
-%Xg: Ground Station coordinates in earth radius in a inertial system centred at the center of the Earth. . 
+%Xg: Ground Station coordinates in earth radius in a inertial system 
+%centred at the center of the Earth. . 
     %Xg(coordinates [x y z], instant(time))
 %e_min: minimum elevation respect the horitzon from which the station can
 %sees a sat. This elevaton angle resticts the view of a station because of

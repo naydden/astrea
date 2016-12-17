@@ -2,9 +2,9 @@ function [pert rho] = Perturbation( a,e,i,Bc)
 %% Perturbations
 % This matlab is used to compte the perturbaons in the classical orbital
 % elements due to:
-% � J2 (non spherical earth)
-% � Atmospheric drag
-% � Third body (Moon and Sun)
+%  J2 (non spherical earth)
+%  Atmospheric drag
+%  Third body (Moon and Sun)
 %Inputs:
 %   a: semi-major axis [m]
 %   e: eccentricity [-] 
@@ -80,7 +80,7 @@ j=3;
 pert(j,5)=-0.00338*cos(i)/n;
 pert(j,4)=0.00169*(4-5*(sin(i))^2)/n;
 
-% Fins aqui son �/dia, 
+% Fins aqui son /dia, 
 % Canviem unitats + apliquem periode actual
 pert(j,5)=pert(j,5)*P/(24*3600);
 pert(j,4)=pert(j,4)*P/(24*3600);
@@ -90,7 +90,7 @@ j=4;
 pert(j,5)=-0.00154*cos(i)/n;
 pert(j,4)=0.00077*(4-5*(sin(i))^2)/n;
 
-% Fins aqui son �/dia, 
+% Fins aqui son /dia, 
 % Canviem unitats + apliquem periode actual
 pert(j,5)=pert(j,5)*P/(24*3600);
 pert(j,4)=pert(j,4)*P/(24*3600);

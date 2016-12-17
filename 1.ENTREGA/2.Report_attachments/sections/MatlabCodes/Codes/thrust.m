@@ -49,7 +49,7 @@ A = 0.1*0.3;  % Satellite surface [m^2] --> 3U pointing to Earth
 % ORBIT DATA
 H0 = hmax;     % Altura inicial [m]
 E0 = 0.01;     % Excentricity
-I0 = 80*pi/180;       % Inclination [�]
+I0 = 80*pi/180;       % Inclination [deg]
 A0 = RE+H0;
 
 % SIMULATION PARAMETERS

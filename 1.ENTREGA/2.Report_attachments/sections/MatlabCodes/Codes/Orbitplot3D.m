@@ -54,7 +54,7 @@ for i=1:p
         'linewidth',1.5);
 end
 
-% Satellites (Laura)
+% Satellites 
 for i = 1:p
     for k = 1:s
       scatter3(X(1,k,i),X(2,k,i),X(3,k,i),25,'square','k','filled');

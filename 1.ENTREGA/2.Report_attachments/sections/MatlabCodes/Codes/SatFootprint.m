@@ -16,7 +16,7 @@ close all
 Re = 6378;          %Earth's Radius [Km]
 Se = 4*pi*Re^2;     %Earth's Surface [Km^2]
 h = 500:100:1000;   %Satellte height [Km]
-eo = 0:5:40;        %Elevation angle [�]
+eo = 0:5:40;        %Elevation angle [deg]
 
 %% SOLVER
 

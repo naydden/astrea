@@ -19,8 +19,8 @@ addpath(genpath('./auxiliar'));
 %_____Physical input__________
 
 global h, h = 542;  % [km]
-degreegen = 225;    % Walker Delta 360�, SemiWalker Delta 180�, 
-                    % other constellations range between 180 and 360�
+degreegen = 225;    % Walker Delta 360 deg, SemiWalker Delta 180 deg, 
+                    % other constellations range between 180 and 360 deg
 in = degtorad(72);  % inclination of the planes
 s = 21;             % satellites per plane
 p = 9;              % number of planes
@@ -38,8 +38,8 @@ global Re, Re = 6371;  %Earth's Radius [Km]
 %% 1. Preprocessing
 
 global m, m = degreegen/180; 
-            % generates Walker Delta Constellation (m=2 -> 2*180�
-            % generated constellation), Semi Walker (m=1 -> 1*180�) 
+            % generates Walker Delta Constellation (m=2 -> 2*180 deg)
+            % generated constellation), Semi Walker (m=1 -> 1*180 deg) 
             % or other 1<m<2.
                    
 global a, a = (Re+h)/Re; 
