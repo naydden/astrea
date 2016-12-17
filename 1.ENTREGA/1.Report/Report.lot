@@ -1,65 +1,31 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {2.2.1}{\ignorespaces Streets of Coverage Method main variables\relax }}{8}{table.caption.13}
+\contentsline {table}{\numberline {2.4.1}{\ignorespaces Coverage Testing Method main Variables\relax }}{19}{table.caption.33}
+\contentsline {table}{\numberline {2.4.2}{\ignorespaces Testing Values for the Coverage Testing Method\relax }}{20}{table.caption.35}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.2.1}{\ignorespaces Streets of Coverage Method main variables\relax }}{20}{table.caption.25}
-\contentsline {table}{\numberline {3.4.1}{\ignorespaces Coverage Testing Method main Variables\relax }}{32}{table.caption.45}
-\contentsline {table}{\numberline {3.4.2}{\ignorespaces Testing Values for the Coverage Testing Method\relax }}{33}{table.caption.47}
+\contentsline {table}{\numberline {3.1.1}{\ignorespaces Exponential Atmosphere Model main Variables\relax }}{26}{table.caption.41}
+\contentsline {table}{\numberline {3.1.2}{\ignorespaces Third Body Perturbations Coefficients\relax }}{27}{table.caption.42}
+\contentsline {table}{\numberline {3.3.1}{\ignorespaces Selected data to compute orbit decay extracted from figure \ref {figure4}\relax }}{33}{table.caption.50}
+\contentsline {table}{\numberline {3.4.1}{\ignorespaces Simulation Thruster Parameters\relax }}{39}{table.caption.57}
+\contentsline {table}{\numberline {3.4.2}{\ignorespaces Station-Keeping with Thrusters Simulation 1 Results\relax }}{41}{table.caption.59}
+\contentsline {table}{\numberline {3.4.3}{\ignorespaces Station-Keeping with Thrusters Simulation 2 Results\relax }}{41}{table.caption.61}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1.1}{\ignorespaces Exponential Atmosphere Model main Variables\relax }}{40}{table.caption.53}
-\contentsline {table}{\numberline {4.1.2}{\ignorespaces Third Body Perturbations Coefficients\relax }}{41}{table.caption.54}
-\contentsline {table}{\numberline {4.3.1}{\ignorespaces Selected data to compute orbit decay extracted from figure \ref {figure4}\relax }}{47}{table.caption.62}
-\contentsline {table}{\numberline {4.4.1}{\ignorespaces Simulation Thruster Parameters\relax }}{53}{table.caption.69}
-\contentsline {table}{\numberline {4.4.2}{\ignorespaces Station-Keeping with Thrusters Simulation 1 Results\relax }}{55}{table.caption.71}
-\contentsline {table}{\numberline {4.4.3}{\ignorespaces Station-Keeping with Thrusters Simulation 2 Results\relax }}{55}{table.caption.73}
+\contentsline {table}{\numberline {4.2.1}{\ignorespaces Constellation parameters for the Example Constellation\relax }}{50}{table.caption.72}
+\contentsline {table}{\numberline {4.2.2}{\ignorespaces Performance Parameters for the Example Constellation\relax }}{51}{table.caption.74}
+\contentsline {table}{\numberline {4.3.1}{\ignorespaces Constellation Configuration OWA Decision\relax }}{52}{table.caption.75}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.2.1}{\ignorespaces Constellation parameters for the Example Constellation\relax }}{64}{table.caption.84}
-\contentsline {table}{\numberline {5.2.2}{\ignorespaces Performance Parameters for the Example Constellation\relax }}{65}{table.caption.86}
-\contentsline {table}{\numberline {5.3.1}{\ignorespaces Constellation Configuration OWA Decision\relax }}{66}{table.caption.87}
+\contentsline {table}{\numberline {5.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{57}{table.caption.80}
 \addvspace {10\p@ }
-<<<<<<< HEAD
-\contentsline {table}{\numberline {6.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{71}{table.caption.92}
 \addvspace {10\p@ }
-=======
-<<<<<<< HEAD
-\contentsline {table}{\numberline {6.2.1}{\ignorespaces List of Launchers\relax }}{70}{table.caption.89}
-\contentsline {table}{\numberline {6.2.2}{\ignorespaces Criteria\relax }}{72}{table.caption.90}
-\contentsline {table}{\numberline {6.2.3}{\ignorespaces Flight Profile\relax }}{74}{table.caption.94}
-\contentsline {table}{\numberline {6.3.1}{\ignorespaces Criteria\relax }}{76}{table.caption.96}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {7.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{94}{table.caption.106}
-=======
-\contentsline {table}{\numberline {6.2.1}{\ignorespaces OWA of the DLL protocols.\relax }}{71}{table.caption.92}
->>>>>>> 5a9592b960fb0f0afa9465b188e4fe542f48616e
+\contentsline {table}{\numberline {8.1.1}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{75}{table.8.1}
+\contentsline {table}{\numberline {8.2.1}{\ignorespaces Options studied for the Electric Power System\relax }}{77}{table.8.1}
+\contentsline {table}{\numberline {8.3.1}{\ignorespaces Option chosen for the propulsion system\relax }}{78}{table.8.1}
+\contentsline {table}{\numberline {8.4.1}{\ignorespaces Options studied for the AOCDS\relax }}{79}{table.8.1}
+\contentsline {table}{\numberline {8.5.1}{\ignorespaces Options chosen for the payload\relax }}{82}{table.8.1}
 \addvspace {10\p@ }
->>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {9.1.1}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{90}{table.9.1}
-\contentsline {table}{\numberline {9.2.1}{\ignorespaces Options studied for the Electric Power System\relax }}{92}{table.9.1}
-\contentsline {table}{\numberline {9.3.1}{\ignorespaces Option chosen for the propulsion system\relax }}{93}{table.9.1}
-\contentsline {table}{\numberline {9.4.1}{\ignorespaces Options studied for the AOCDS\relax }}{94}{table.9.1}
-\contentsline {table}{\numberline {9.5.1}{\ignorespaces Options chosen for the payload\relax }}{97}{table.9.1}
-\addvspace {10\p@ }
-<<<<<<< HEAD
-\contentsline {table}{\numberline {10.0.1}{\ignorespaces Feasibility Study\relax }}{103}{table.caption.157}
-=======
-\contentsline {table}{\numberline {9.1.1}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{90}{table.9.1}
-\contentsline {table}{\numberline {9.2.1}{\ignorespaces Options studied for the Electric Power System\relax }}{92}{table.9.1}
-\contentsline {table}{\numberline {9.3.1}{\ignorespaces Option chosen for the propulsion system\relax }}{93}{table.9.1}
-\contentsline {table}{\numberline {9.4.1}{\ignorespaces Options studied for the AOCDS\relax }}{94}{table.9.1}
-\contentsline {table}{\numberline {9.5.1}{\ignorespaces Options chosen for the payload\relax }}{97}{table.9.1}
-\addvspace {10\p@ }
-<<<<<<< HEAD
-\contentsline {table}{\numberline {10.1.1}{\ignorespaces Options chosen for the structure and thermal protection\relax }}{113}{table.10.1}
-\contentsline {table}{\numberline {10.2.1}{\ignorespaces Options studied for the Electric Power System\relax }}{115}{table.10.1}
-\contentsline {table}{\numberline {10.3.1}{\ignorespaces Option chosen for the propulsion system\relax }}{116}{table.10.1}
-\contentsline {table}{\numberline {10.4.1}{\ignorespaces Options studied for the AOCDS\relax }}{117}{table.10.1}
-\contentsline {table}{\numberline {10.5.1}{\ignorespaces Options chosen for the payload\relax }}{120}{table.10.1}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {11.0.1}{\ignorespaces Feasibility Study\relax }}{125}{table.caption.171}
-=======
-\contentsline {table}{\numberline {10.0.1}{\ignorespaces Feasibility Study\relax }}{103}{table.caption.157}
->>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
->>>>>>> 5a9592b960fb0f0afa9465b188e4fe542f48616e
+\contentsline {table}{\numberline {9.0.1}{\ignorespaces Feasibility Study\relax }}{88}{table.caption.145}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

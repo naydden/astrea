@@ -1,86 +1,57 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.0.1}{\ignorespaces a) Geocentric-equatorial frame and b) Classical Orbital Elements. Extracted from \cite {Howard}.\relax }}{3}{figure.caption.4}
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces a) Geocentric-equatorial frame and b) Classical Orbital Elements. Extracted from \cite {Howard}.\relax }}{2}{figure.caption.3}
+\contentsline {figure}{\numberline {1.2.1}{\ignorespaces Single satellite coverage geometry\relax }}{3}{figure.caption.6}
+\contentsline {figure}{\numberline {1.3.1}{\ignorespaces Distribution of the currently in orbit nanosatellites. Data on the 203 operative satellites from \cite {nanosats}\relax }}{4}{figure.caption.8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Single satellite coverage geometry\relax }}{7}{figure.caption.7}
-\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Elevation angle cone. Source: NOAA\relax }}{8}{figure.caption.9}
-\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Minimum elevation angle as function of latitude. Source: \cite {Li2016}\relax }}{11}{figure.caption.15}
-\contentsline {figure}{\numberline {2.3.1}{\ignorespaces Minimum Inclination to provide coverage at different latitude for different orbit apogees.\relax }}{12}{figure.caption.16}
-\contentsline {figure}{\numberline {2.5.1}{\ignorespaces Distribution of the currently in orbit nanosatellites.\relax }}{15}{figure.caption.20}
+\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Distribution of the expanded 24-slot GPS constellation.\cite {GPS}\relax }}{6}{figure.caption.10}
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Distribution of the 66 Iridium constellation satellites. Generated using \cite {SaVi}\relax }}{7}{figure.caption.11}
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Distribution of the planes for Polar Orbits design.\relax }}{7}{figure.caption.12}
+\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Single plain street of coverage. The footprints of the satellites superpose leading to a street.\cite {ccar}\relax }}{8}{figure.caption.14}
+\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Two plains streets of coverage. An optimum phasing needs to be obtained.\cite {ccar}\relax }}{9}{figure.caption.15}
+\contentsline {figure}{\numberline {2.2.5}{\ignorespaces Variation of number of satellites for different heights and elevation angles\relax }}{10}{figure.caption.16}
+\contentsline {figure}{\numberline {2.2.6}{\ignorespaces Variation of number of satellites for different heights between 500 and 600km.\relax }}{11}{figure.caption.17}
+\contentsline {figure}{\numberline {2.3.1}{\ignorespaces Definition of the inclination $\delta $. Extracted from \cite {Walker1971}\relax }}{12}{figure.caption.18}
+\contentsline {figure}{\numberline {2.3.2}{\ignorespaces Delta pattern as seen from the North Pole. Extracted from \cite {Walker1977}\relax }}{12}{figure.caption.19}
+\contentsline {figure}{\numberline {2.3.3}{\ignorespaces Delta pattern 65$^{\circ }$: 30/6/1\relax }}{13}{figure.caption.20}
+\contentsline {figure}{\numberline {2.3.4}{\ignorespaces Minimum altitude for continuous global coverage. Comparison between polar patterns and Walker delta patterns. Extracted from \cite {Chobotov2002}\relax }}{14}{figure.caption.21}
+\contentsline {figure}{\numberline {2.3.5}{\ignorespaces 12 plane SWDC. Note the gap and the equidistant planes\relax }}{15}{figure.caption.23}
+\contentsline {figure}{\numberline {2.3.6}{\ignorespaces This geometry distribution induces a large anti-symmetric gap\relax }}{16}{figure.caption.25}
+\contentsline {figure}{\numberline {2.3.7}{\ignorespaces Added polar orbit to the 11 plane based SWDC\relax }}{17}{figure.caption.29}
+\contentsline {figure}{\numberline {2.3.8}{\ignorespaces 8 plane based MWDC generated for 210 degrees\relax }}{18}{figure.caption.31}
+\contentsline {figure}{\numberline {2.4.1}{\ignorespaces Geometrical conditions needed to fulfill global coverage. On the left: Condition between satellites of different planes. On the right: Condition between satellites of the same plane\relax }}{19}{figure.caption.34}
+\contentsline {figure}{\numberline {2.4.2}{\ignorespaces Possible satellite configurations for a 210\IeC {\textordmasculine } Walker Delta configuration\relax }}{21}{figure.caption.36}
+\contentsline {figure}{\numberline {2.4.3}{\ignorespaces Ground track and spherical representation for a 180\IeC {\textordmasculine } Walker Delta configuration\relax }}{21}{figure.caption.37}
+\contentsline {figure}{\numberline {2.4.4}{\ignorespaces Ground track and spherical representation for a 210\IeC {\textordmasculine } Walker Delta configuration\relax }}{21}{figure.caption.38}
+\contentsline {figure}{\numberline {2.4.5}{\ignorespaces Ground track and spherical representation for a 360\IeC {\textordmasculine } Walker Delta configuration\relax }}{22}{figure.caption.39}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Distribution of the expanded 24-slot GPS constellation.\cite {GPS}\relax }}{18}{figure.caption.22}
-\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Distribution of the 66 Iridium constellation satellites. Generated using \cite {SaVi}\relax }}{19}{figure.caption.23}
-\contentsline {figure}{\numberline {3.2.2}{\ignorespaces Distribution of the planes for Polar Orbits design.\relax }}{20}{figure.caption.24}
-\contentsline {figure}{\numberline {3.2.3}{\ignorespaces Single plain street of coverage. The footprints of the satellites superpose leading to a street.\cite {ccar}\relax }}{21}{figure.caption.26}
-\contentsline {figure}{\numberline {3.2.4}{\ignorespaces Two plains streets of coverage. An optimum phasing needs to be obtained.\cite {ccar}\relax }}{21}{figure.caption.27}
-\contentsline {figure}{\numberline {3.2.5}{\ignorespaces Variation of number of satellites for different heights and elevation angles\relax }}{23}{figure.caption.28}
-\contentsline {figure}{\numberline {3.2.6}{\ignorespaces Variation of number of satellites for different heights between 500 and 600km.\relax }}{24}{figure.caption.29}
-\contentsline {figure}{\numberline {3.3.1}{\ignorespaces Definition of the inclination $\delta $. Extracted from \cite {Walker1971}\relax }}{25}{figure.caption.30}
-\contentsline {figure}{\numberline {3.3.2}{\ignorespaces Delta pattern as seen from the North Pole. Extracted from \cite {Walker1977}\relax }}{26}{figure.caption.31}
-\contentsline {figure}{\numberline {3.3.3}{\ignorespaces Delta pattern 65$^{\circ }$: 30/6/1\relax }}{26}{figure.caption.32}
-\contentsline {figure}{\numberline {3.3.4}{\ignorespaces Minimum altitude for continuous global coverage. Comparison between polar patterns and Walker delta patterns. Extracted from \cite {Chobotov2002}\relax }}{27}{figure.caption.33}
-\contentsline {figure}{\numberline {3.3.5}{\ignorespaces 12 plane SWDC. Note the gap and the equidistant planes\relax }}{28}{figure.caption.35}
-\contentsline {figure}{\numberline {3.3.6}{\ignorespaces This geometry distribution induces a large anti-symmetric gap\relax }}{29}{figure.caption.37}
-\contentsline {figure}{\numberline {3.3.7}{\ignorespaces Added polar orbit to the 11 plane based SWDC\relax }}{30}{figure.caption.41}
-\contentsline {figure}{\numberline {3.3.8}{\ignorespaces 8 plane based MWDC generated for 210 degrees\relax }}{31}{figure.caption.43}
-\contentsline {figure}{\numberline {3.4.1}{\ignorespaces Geometrical conditions needed to fulfill global coverage. On the left: Condition between satellites of different planes. On the right: Condition between satellites of the same plane\relax }}{33}{figure.caption.46}
-\contentsline {figure}{\numberline {3.4.2}{\ignorespaces Possible satellite configurations for a 210\IeC {\textordmasculine } Walker Delta configuration\relax }}{34}{figure.caption.48}
-\contentsline {figure}{\numberline {3.4.3}{\ignorespaces Ground track and spherical representation for a 180\IeC {\textordmasculine } Walker Delta configuration\relax }}{34}{figure.caption.49}
-\contentsline {figure}{\numberline {3.4.4}{\ignorespaces Ground track and spherical representation for a 210\IeC {\textordmasculine } Walker Delta configuration\relax }}{35}{figure.caption.50}
-\contentsline {figure}{\numberline {3.4.5}{\ignorespaces Ground track and spherical representation for a 360\IeC {\textordmasculine } Walker Delta configuration\relax }}{35}{figure.caption.51}
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Logaritmic plot of the modulus of the increases in Angular Arguments of the orbit\relax }}{28}{figure.caption.44}
+\contentsline {figure}{\numberline {3.3.1}{\ignorespaces Ascention node perturbation On the left: Perigee deviation in terms of time. On the right: Ascending node deviation in terms of time\relax }}{29}{figure.caption.46}
+\contentsline {figure}{\numberline {3.3.2}{\ignorespaces Deviation of densities in the upper atmosphere due to the 19th solar cycle. Source: \cite {Priester1967}\relax }}{31}{figure.caption.48}
+\contentsline {figure}{\numberline {3.3.3}{\ignorespaces Measured intensities of the 23rd and 24th solar cycles. Source: NOAA\relax }}{32}{figure.caption.49}
+\contentsline {figure}{\numberline {3.3.4}{\ignorespaces Orbit Decay computed for several values of \relax }}{34}{figure.caption.51}
+\contentsline {figure}{\numberline {3.4.1}{\ignorespaces Increase in the Lifetime obtained by setting the constellation in a higher orbit\relax }}{35}{figure.caption.53}
+\contentsline {figure}{\numberline {3.4.2}{\ignorespaces Hohmann transfer. Extracted from \cite {Chobotov2002}\relax }}{37}{figure.caption.56}
+\contentsline {figure}{\numberline {3.4.3}{\ignorespaces Height variation of the satellite\relax }}{40}{figure.caption.58}
+\contentsline {figure}{\numberline {3.4.4}{\ignorespaces Height variation of the satellite with a more restrictive minimum height\relax }}{42}{figure.caption.60}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.2.1}{\ignorespaces Logaritmic plot of the modulus of the increases in Angular Arguments of the orbit\relax }}{42}{figure.caption.56}
-\contentsline {figure}{\numberline {4.3.1}{\ignorespaces Ascention node perturbation On the left: Perigee deviation in terms of time. On the right: Ascending node deviation in terms of time\relax }}{43}{figure.caption.58}
-\contentsline {figure}{\numberline {4.3.2}{\ignorespaces Deviation of densities in the upper atmosphere due to the 19th solar cycle. Source: \cite {Priester1967}\relax }}{45}{figure.caption.60}
-\contentsline {figure}{\numberline {4.3.3}{\ignorespaces Measured intensities of the 23rd and 24th solar cycles. Source: NOAA\relax }}{46}{figure.caption.61}
-\contentsline {figure}{\numberline {4.3.4}{\ignorespaces Orbit Decay computed for several values of \relax }}{48}{figure.caption.63}
-\contentsline {figure}{\numberline {4.4.1}{\ignorespaces Increase in the Lifetime obtained by setting the constellation in a higher orbit\relax }}{49}{figure.caption.65}
-\contentsline {figure}{\numberline {4.4.2}{\ignorespaces Hohmann transfer. Extracted from \cite {Chobotov2002}\relax }}{51}{figure.caption.68}
-\contentsline {figure}{\numberline {4.4.3}{\ignorespaces Height variation of the satellite\relax }}{54}{figure.caption.70}
-\contentsline {figure}{\numberline {4.4.4}{\ignorespaces Height variation of the satellite with a more restrictive minimum height\relax }}{56}{figure.caption.72}
+\contentsline {figure}{\numberline {4.1.1}{\ignorespaces Candidate 1. Full Polar constellation with global coverage. h= 560km; Np=20; Npp=21; Tsat=420 \relax }}{46}{figure.caption.63}
+\contentsline {figure}{\numberline {4.1.2}{\ignorespaces Candidate 2. Full Polar constellation with total ground station coverage. h= 550km; Np=18; Npp=20; Tsat=288 \relax }}{47}{figure.caption.64}
+\contentsline {figure}{\numberline {4.1.3}{\ignorespaces Candidate 3. 210\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=8; Npp=21; Tsat=168 \relax }}{47}{figure.caption.65}
+\contentsline {figure}{\numberline {4.1.4}{\ignorespaces Candidate 4. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{47}{figure.caption.66}
+\contentsline {figure}{\numberline {4.1.5}{\ignorespaces Candidate 5. 210\IeC {\textordmasculine } Walker-Delta constellation configuration with total coverage of the lattitudes from 0 to 52 degrees. h= 560km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{48}{figure.caption.67}
+\contentsline {figure}{\numberline {4.1.6}{\ignorespaces Candidate 6. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=21; Tsat= 189\relax }}{48}{figure.caption.68}
+\contentsline {figure}{\numberline {4.1.7}{\ignorespaces Candidate 7. Full Walker-Delta constellation configuration.\relax }}{48}{figure.caption.69}
+\contentsline {figure}{\numberline {4.2.1}{\ignorespaces Length of the passes on the example GS.\relax }}{51}{figure.caption.73}
+\contentsline {figure}{\numberline {4.3.1}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{52}{figure.caption.76}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1.1}{\ignorespaces Candidate 1. Full Polar constellation with global coverage. h= 560km; Np=20; Npp=21; Tsat=420 \relax }}{60}{figure.caption.75}
-\contentsline {figure}{\numberline {5.1.2}{\ignorespaces Candidate 2. Full Polar constellation with total ground station coverage. h= 550km; Np=18; Npp=20; Tsat=288 \relax }}{61}{figure.caption.76}
-\contentsline {figure}{\numberline {5.1.3}{\ignorespaces Candidate 3. 210\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=8; Npp=21; Tsat=168 \relax }}{61}{figure.caption.77}
-\contentsline {figure}{\numberline {5.1.4}{\ignorespaces Candidate 4. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{61}{figure.caption.78}
-\contentsline {figure}{\numberline {5.1.5}{\ignorespaces Candidate 5. 210\IeC {\textordmasculine } Walker-Delta constellation configuration with total coverage of the lattitudes from 0 to 52 degrees. h= 560km; in=72; Np=9; Npp=17; Tsat= 153\relax }}{62}{figure.caption.79}
-\contentsline {figure}{\numberline {5.1.6}{\ignorespaces Candidate 6. 225\IeC {\textordmasculine } Walker-Delta constellation configuration. h= 542km; in=72; Np=9; Npp=21; Tsat= 189\relax }}{62}{figure.caption.80}
-\contentsline {figure}{\numberline {5.1.7}{\ignorespaces Candidate 7. Full Walker-Delta constellation configuration.\relax }}{62}{figure.caption.81}
-\contentsline {figure}{\numberline {5.2.1}{\ignorespaces Length of the passes on the example GS.\relax }}{65}{figure.caption.85}
-\contentsline {figure}{\numberline {5.3.1}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{66}{figure.caption.88}
-\addvspace {10\p@ }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-\contentsline {figure}{\numberline {6.2.1}{\ignorespaces Electron Rocket\relax }}{73}{figure.caption.91}
-\contentsline {figure}{\numberline {6.2.2}{\ignorespaces Second Stage\relax }}{73}{figure.caption.92}
-\contentsline {figure}{\numberline {6.2.3}{\ignorespaces Electron Rocket Fairing\relax }}{74}{figure.caption.93}
-\contentsline {figure}{\numberline {6.2.4}{\ignorespaces Rocket Lab Facilities\relax }}{75}{figure.caption.95}
-\contentsline {figure}{\numberline {6.6.1}{\ignorespaces Old Constellation\relax }}{84}{figure.caption.97}
-\contentsline {figure}{\numberline {6.6.2}{\ignorespaces Old and New Constellations\relax }}{85}{figure.caption.98}
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces New Constellation\relax }}{86}{figure.caption.99}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{92}{figure.caption.103}
-\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{93}{figure.caption.104}
+\contentsline {figure}{\numberline {5.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{55}{figure.caption.77}
+\contentsline {figure}{\numberline {5.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{56}{figure.caption.78}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{103}{figure.caption.112}
-\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{106}{figure.caption.113}
-\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{106}{figure.caption.114}
-\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{109}{figure.caption.121}
-=======
->>>>>>> 5a9592b960fb0f0afa9465b188e4fe542f48616e
-\contentsline {figure}{\numberline {6.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{69}{figure.caption.89}
-\contentsline {figure}{\numberline {6.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{70}{figure.caption.90}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{80}{figure.caption.98}
-\contentsline {figure}{\numberline {8.5.1}{\ignorespaces S-band Equipment}}{83}{figure.caption.99}
-\contentsline {figure}{\numberline {8.5.2}{\ignorespaces X-band Equipment}}{83}{figure.caption.100}
-\contentsline {figure}{\numberline {8.6.1}{\ignorespaces LeafSpace Ground Stations}}{86}{figure.caption.107}
-<<<<<<< HEAD
-=======
->>>>>>> 3c6c30dce9837ff2248499dc00fa79ca9e9f068d
->>>>>>> 5a9592b960fb0f0afa9465b188e4fe542f48616e
+\contentsline {figure}{\numberline {7.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{66}{figure.caption.86}
+\contentsline {figure}{\numberline {7.5.1}{\ignorespaces S-band Equipment}}{69}{figure.caption.87}
+\contentsline {figure}{\numberline {7.5.2}{\ignorespaces X-band Equipment}}{69}{figure.caption.88}
+\contentsline {figure}{\numberline {7.6.1}{\ignorespaces LeafSpace Ground Stations}}{71}{figure.caption.95}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

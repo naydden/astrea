@@ -2,7 +2,7 @@
 %LET'S GO TEAM!!! ONE LESS SECTION
 %We are unstoppppable --> DAB DAB DAB
 
-In this chapter it is seen how the designed orbit configuration varies in time due to external perturbation sources. While some of them can be neglected, there are other of major importance to the future of the constellation. For instance, atmospheric drag determines in plenty of cases the lifetime of the constellation. A first classification of perturbations depending on the time in which their effects are present is the following:
+In this chapter it is seen how the designed orbit configuration varies in time due to external perturbation sources. While some of them can be neglected, there are other of major importance to the future of the constellation. A first classification of perturbations depending on the time in which their effects are present is the following:
 
 \begin{itemize}
 \item Secular terms (Sec): They depend on the semimajor axis, the excentricity and the inclination.
@@ -10,161 +10,13 @@ In this chapter it is seen how the designed orbit configuration varies in time d
 \item Long Period terms (LP): They depend on the argument of the periapsis or the ascendent node.
 \end{itemize}
 
-Even though most of the outter space is vacuum, there ideal models need to consider some factors that escape the typical two body problem. For instance, we can no longer consider Earth as a punctual mass, neither the atmospheric density equal to 0. To enumerate, here is a typical list of the main perturbation sources:
+Even though most of the outter space is vacuum, there ideal models need to consider some factors that escape the typical two body problem. To enumerate, here is a typical list of the main perturbation sources:
 
 Sources of perturbation:
 \begin{itemize}
-\item Gravity Field of the Central Body
-\item Atmospheric Drag
-\item Third Body perturbations
-\item Solar-Radiation Pressure
+\item Gravity Field of the Central Body: due to the Earth's aspherical shape as seen in [REF TO ANNEX I.Section 4.1.2]. This perturbation will not be considered because it does not affect Astrea's constellations as shown in [REF TO ANNEX I.Section 4.3.1]
+\item Atmospheric Drag: It is the perturbation caused by the remaining atmosphere. The study of the satellites orbit decay can be found in [REF TO ANNEX I.Section 4.3.3]. Even so, this effect is not taken into account because the satellites are equipped with thrusters.
+\item Third Body perturbations: Perturbation computed in [REF TO ANNEX I.Section 4.1.4]
+\item Solar-Radiation Pressure: Explained in [REF TO ANNEX I.Section 4.3.2]
 \item Other Perturbations
-\end{itemize}
-
-All the perturbations can be deeply studied.  Consequently, analytical solutions are very hard to find, and even they were found, they do not show clealy a meaning or are not really useful. Instead, there are two mainly used approaches:
-\begin{itemize}
-\item Special Perturbation: Step-by-step numerical integration of the motion equations with perturbation.
-\item General Perturbation: Through analytical expansion and integration of the equations of variation of orbit parameters.
-\end{itemize}
-
-\paragraph{The Approach of the Perturbations Study}
-For the purposes of these study the different approaches will be assessed. The first analysis will discuss which of the peturbations are the most significant to the study. This analysis will be done considering General Perturbation Techniques. In a deeper second analysis, the two approaches for the perturbations will be assessed and compared considering only the most significant perturbation sources.
-
-\subsection{Gravity Potential of Earth}
-Earth's aspherical shape can be modelled as a sum of terms corresponding to the Legendre polynomials. These polynomials can be empirically measured and consider radial symmetry. If one would like to compute also variations in longitude, then should use associated Legendre polynomials.
-
-\begin{equation}
-V(r,\delta,\lambda) = -\frac{\mu}{r} \left [\sum_{n=1}^{\infty }\left  ( \frac{R_{e}}{r} \right ) ^{n} \sum_{m=0}^{n}P_{nm} cos(\delta )(C_{nm}cos m\lambda + S_{nm}sin m\lambda)  \right ]
-\label{eq:Oblat}
-\end{equation}
-General Legendre associated polynomials developed Gravitational Potential
-
-\begin{equation}
-V(r,\delta) = -\frac{\mu}{r} \left [1-\sum_{n=2}^{\infty}   J_{n}\left( \frac{R_{e}}{r}\right) ^{n} P_{n} (sin\delta)  \right ]
-\end{equation}
-General Legendre polynomials developed Gravitational Potential
-
-For Earth, the $J_{n}$ coefficients are the following:
-
-$J_{2} = 0.00108263$
-$J_{3} = -0.00000254$
-$J_{4} = -0.00000161$
-
-Given this distribution, the only sognificant term $J_{2}$.
-
-\begin{equation}
-V(r,\delta) = -\frac{\mu}{r} \left [1-\frac{1}{2}   J_{2}\left( \frac{R_{e}}{r}\right) ^{2} (1-3sin^2\delta  \right ]
-\end{equation}
-Aproximated Gravitational Potential
-
-If we integrate the force that derives from this potential we can afterwards compute the effect of $J_{2}$ On the different orbtial elements:
-
-\begin{itemize}
-\item $\Delta a = 0$
-\item $\Delta e = 0$
-\item $\Delta i = 0$
-\item 
-\begin{equation}\Delta\Omega = -3\pi \frac{J_{2}R_{e}^2}{p^2}cos\,i\; [rad/orbit]
-\end{equation}
-\item 
-\begin{equation}\Delta\omega = \frac{3}{2} \pi \frac{J_{2}R_{e}^2}{p^2}(4-5sin^2\,i)\; [rad/orbit]
-\end{equation}
-
-\end{itemize}
-
-\subsection{Atmospheric Drag}
-In order to compute the effect of the remaining atmosphere we use the typical definition of atmospheric drag knowing a drag coefficient:
-
-\begin{equation}
-\vec{a}_{drag}= \frac{1}{2}\frac{C_{d}A}{m}\rho v_{rel}^2 \frac{\vec{v}_{rel}}{|\vec{v}_{rel}|}
-\label{eq:drag}
-\end{equation}
-
-The \textbf{ballistic coefficient $B_{c}$} is defined as $\frac{m}{C_{d}A}$, characterizing the behaviour of the satellite against atmospheric drag.\newline
-
-\textbf{Modelling the Atmosphere}\newline
-There are several modells for the atmosphere. For instance, the most commonly used, the exponential model:
-
-\begin{equation}
-\rho = \rho_{0} e^{-\frac{h-h_{0}}{H}}
-\end{equation}
-
-\begin{equation}
-H = \frac{kT}{Mg}
-\end{equation}
-
-Where:
-
-\begin{table}[H]
-\centering
-\begin{tabular}{|c|l|}
-\hline
-\multicolumn{2}{|c|}{Exponential Atmosphere Variables}     \\ \hline
-$\rho$             & Density at given height                  \\ \hline
-$\rho_{0}$         & Density at a reference height		       \\ \hline
-$h$           & Height over the ellipsoid            \\ \hline
-$h_{0}$            & Reference height \\ \hline
-$H$              & Scale Height      \\ \hline
-$k$              & Boltzmann Constant      \\ \hline
-$T$              & Temperature      \\ \hline
-$M$              & Molecular Weight      \\ \hline
-$g$              & Gravity      \\ \hline
-
-\end{tabular}
-\caption{Exponential Atmosphere Model main Variables}
-\end{table}  
-
-In addition, other models for the exospheric temperature and the molecular weight need to be used. For this study the ones proposed by The Australian Weather Space Agency are used.
-
-In addition, it is important to note that the following phenomena interfere with the previsions:
-
-\begin{itemize}
-\item Diurnal Variations
-\item 27-day solar-rotation cycle
-\item 11-year cycle of Sun spots
-\item Semi-annual/Seasonal variations
-\item Rotating atmosphere
-\item Winds
-\item Magnetic Storm Variations
-\item Others: Tides, Winds,...
-\end{itemize}
-
-Again, if we integrate this force in a period of time, considering the orbit nearly circular, we obtain:
-
-\begin{equation}
-\Delta r = -2 \pi \rho r^2/B \; [/orbit]
-\end{equation}
-
-\subsection{3rd Body Perturbations}
-The effects of this extra bodies in the system can be computed considering the motion equations. However, some aproximations can be found in the reference as:
-
-\begin{equation}
-\dot{\Omega} = \frac{A_{m}+A_{s}}{n} cos \,i \;[º/day]
-\end{equation}
-
-\begin{equation}
-\dot{\omega} = \frac{B_{m}+B_{s}}{n} (4 - 5sin^2 \,i)\;[º/day]
-\end{equation}
-
-Where $n$ stands for the rate of rotation in orbits/day. In that case, the $A_{m}, A_{s}, B_{m}$ and $B_{s}$ coefficients take as values:
-
-\begin{table}[H]
-\centering
-\begin{tabular}{l|l|l|}
-\cline{2-3}
-                           & $A_{m}+A_{s}$ & $B_{m}+B_{s}$ \\ \hline
-\multicolumn{1}{|l|}{Moon} & -0.00338      & 0.00169       \\ \hline
-\multicolumn{1}{|l|}{Sun}  & -0.00154      & 0.00077       \\ \hline
-\end{tabular}
-\caption{Third Body Perturbations Coefficients}
-\end{table}
-
-\subsection{Other Perturbations}
-In this bag the following low-intensity can be classified:
-
-\begin{itemize}
-\item Solar Radiation Pressure
-\item Solid-Earth and Ocean Tides
-\item Magnetic Field
-\item South Atlantic Anomaly
 \end{itemize}
