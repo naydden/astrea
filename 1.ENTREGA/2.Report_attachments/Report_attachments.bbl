@@ -34,6 +34,16 @@ Application Note.
 \newblock {Tutorial on Basic Link Budget Analysis}.
 \newblock {\em Intersil}, (June 1998):1--8, 1998.
 
+\bibitem{Vallado2007}
+D.A. Vallado.
+\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
+\newblock Springer-Verlag New York, 3 edition, 2007.
+
+\bibitem{Bate1971}
+R.R. Bate, D.D. Mueller, and J.E. White.
+\newblock {\em {Fundamentals of Astrodynamics}}.
+\newblock 1971.
+
 \bibitem{Forouzan2012}
 Behrouz~a. Forouzan.
 \newblock {\em {Data Communications and Networking - Global Edition}}.
@@ -189,9 +199,11 @@ Robert Burt.
   2015}.
 \newblock pages 3--110, 2015.
 
-\bibitem{CraigClark}
-Craig Clark.
-\newblock {Constellations of CubeSats are revolutionising how we use
-  satellites}.
+\bibitem{Espana.MinisteriodelaPresidencia1995}
+{Espa{\~{n}}a. Ministerio de la Presidencia}.
+\newblock {Real Decreto 278/1995, de 24 de febrero, por el que se crea en
+  Espa{\~{n}}a el Registro previsto en el Convenio de 12 de noviembre de 1974
+  de la Asamblea General de las Naciones Unidas. Ministerio}.
+\newblock {\em Bolet{\'{i}}n Oficial del Estado}, (58, 9 de marzo), 1995.
 
 \end{thebibliography}
