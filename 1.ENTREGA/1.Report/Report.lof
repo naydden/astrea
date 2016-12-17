@@ -56,31 +56,21 @@
 \contentsline {figure}{\numberline {6.3.2}{\ignorespaces GPOD\relax }}{77}{figure.caption.97}
 \contentsline {figure}{\numberline {6.4.1}{\ignorespaces Launch Range Operations Flow/Schedule\relax }}{78}{figure.caption.98}
 \contentsline {figure}{\numberline {6.4.2}{\ignorespaces Countdown Operations Flow\relax }}{78}{figure.caption.99}
-\contentsline {figure}{\numberline {6.4.3}{\ignorespaces Rocket's trajectory from lift-off to final orbit.\relax }}{82}{figure.caption.100}
-\contentsline {figure}{\numberline {6.4.4}{\ignorespaces Half of a revolution of the rocket in the elliptical spacing orbit.\relax }}{82}{figure.caption.100}
-\contentsline {figure}{\numberline {6.4.5}{\ignorespaces Deployment of the second satellite.\relax }}{83}{figure.caption.101}
-\contentsline {figure}{\numberline {6.4.6}{\ignorespaces Half of a revolution of the rocket after the deployment of the second satellite.\relax }}{83}{figure.caption.101}
-\contentsline {figure}{\numberline {6.4.7}{\ignorespaces Deployment of the third satellite.\relax }}{84}{figure.caption.102}
-\contentsline {figure}{\numberline {6.5.1}{\ignorespaces Old Constellation\relax }}{88}{figure.caption.103}
-\contentsline {figure}{\numberline {6.5.2}{\ignorespaces Old and New Constellations\relax }}{89}{figure.caption.104}
-\contentsline {figure}{\numberline {6.5.3}{\ignorespaces New Constellation\relax }}{90}{figure.caption.105}
-\contentsline {figure}{\numberline {6.6.1}{\ignorespaces 1 communication range failure}}{93}{figure.caption.110}
-\contentsline {figure}{\numberline {6.6.2}{\ignorespaces 3 communication range failure}}{94}{figure.caption.113}
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces 7 communication range failure}}{94}{figure.caption.114}
-\contentsline {figure}{\numberline {6.7.1}{\ignorespaces View of the Space Debris around the Earth\relax }}{98}{figure.caption.124}
+\contentsline {figure}{\numberline {6.5.1}{\ignorespaces Old Constellation\relax }}{84}{figure.caption.100}
+\contentsline {figure}{\numberline {6.5.2}{\ignorespaces Old and New Constellations\relax }}{85}{figure.caption.101}
+\contentsline {figure}{\numberline {6.5.3}{\ignorespaces New Constellation\relax }}{86}{figure.caption.102}
+\contentsline {figure}{\numberline {6.7.1}{\ignorespaces View of the Space Debris around the Earth\relax }}{89}{figure.caption.106}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{104}{figure.caption.125}
-\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{105}{figure.caption.126}
+\contentsline {figure}{\numberline {7.1.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{95}{figure.caption.107}
+\contentsline {figure}{\numberline {7.1.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{96}{figure.caption.108}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{115}{figure.caption.134}
-\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{118}{figure.caption.135}
-\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{118}{figure.caption.136}
-\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{121}{figure.caption.143}
+\contentsline {figure}{\numberline {9.2.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{106}{figure.caption.116}
+\contentsline {figure}{\numberline {9.5.1}{\ignorespaces S-band Equipment}}{109}{figure.caption.117}
+\contentsline {figure}{\numberline {9.5.2}{\ignorespaces X-band Equipment}}{109}{figure.caption.118}
+\contentsline {figure}{\numberline {9.6.1}{\ignorespaces LeafSpace Ground Stations}}{112}{figure.caption.125}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.0.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{159}{figure.caption.196}
 \addvspace {10\p@ }

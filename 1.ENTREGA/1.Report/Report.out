@@ -95,121 +95,82 @@
 \BOOKMARK [1][-]{section.6.5}{Replacement Strategy}{chapter.6}% 95
 \BOOKMARK [1][-]{section.6.6}{Spare Strategy}{chapter.6}% 96
 \BOOKMARK [2][-]{subsection.6.6.1}{Introduction}{section.6.6}% 97
-\BOOKMARK [2][-]{subsection.6.6.2}{Spare Strategy Alternatives}{section.6.6}% 98
-\BOOKMARK [2][-]{subsection.6.6.3}{Spare Strategy Selection}{section.6.6}% 99
-\BOOKMARK [2][-]{subsection.6.6.4}{Major failure deffinition}{section.6.6}% 100
-\BOOKMARK [2][-]{subsection.6.6.5}{Major failure}{section.6.6}% 101
-\BOOKMARK [3][-]{subsubsection.6.6.5.1}{Satellite in range failure}{subsection.6.6.5}% 102
-\BOOKMARK [3][-]{subsubsection.6.6.5.2}{Ground station failure}{subsection.6.6.5}% 103
-\BOOKMARK [3][-]{subsubsection.6.6.5.3}{Transmitting time failure}{subsection.6.6.5}% 104
-\BOOKMARK [3][-]{subsubsection.6.6.5.4}{Conclusion}{subsection.6.6.5}% 105
-\BOOKMARK [2][-]{subsection.6.6.6}{Decision}{section.6.6}% 106
-\BOOKMARK [1][-]{section.6.7}{End-of-Life Strategy}{chapter.6}% 107
-\BOOKMARK [2][-]{subsection.6.7.1}{Introduction}{section.6.7}% 108
-\BOOKMARK [2][-]{subsection.6.7.2}{Space Debris}{section.6.7}% 109
-\BOOKMARK [2][-]{subsection.6.7.3}{End-of-Life Types}{section.6.7}% 110
-\BOOKMARK [1][-]{section.6.8}{Conclusions}{chapter.6}% 111
-\BOOKMARK [-1][-]{part.3}{III Communications}{}% 112
-\BOOKMARK [0][-]{chapter.7}{Space Segment Protocol Stack}{part.3}% 113
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 114
-\BOOKMARK [1][-]{section.7.2}{Layer 2: Data Link}{chapter.7}% 115
-\BOOKMARK [2][-]{subsection.7.2.1}{Functions of the DLL}{section.7.2}% 116
-\BOOKMARK [2][-]{subsection.7.2.2}{Working procedure}{section.7.2}% 117
-\BOOKMARK [2][-]{subsection.7.2.3}{Protocols}{section.7.2}% 118
-\BOOKMARK [1][-]{section.7.3}{Layer 3: The Network}{chapter.7}% 119
-\BOOKMARK [2][-]{subsection.7.3.1}{Functions of the Network Layer}{section.7.3}% 120
-\BOOKMARK [2][-]{subsection.7.3.2}{Protocols}{section.7.3}% 121
-\BOOKMARK [2][-]{subsection.7.3.3}{Protocol Selection}{section.7.3}% 122
-\BOOKMARK [3][-]{subsubsection.7.3.3.1}{Choice of the main protocol}{subsection.7.3.3}% 123
-\BOOKMARK [3][-]{subsubsection.7.3.3.2}{Choice of routing protocol}{subsection.7.3.3}% 124
-\BOOKMARK [3][-]{subsubsection.7.3.3.3}{Choice of complementary protocols}{subsection.7.3.3}% 125
-\BOOKMARK [3][-]{subsubsection.7.3.3.4}{Conclusion}{subsection.7.3.3}% 126
-\BOOKMARK [1][-]{section.7.4}{Layer 4: Transport and Session}{chapter.7}% 127
-\BOOKMARK [2][-]{subsection.7.4.1}{Protocols}{section.7.4}% 128
-\BOOKMARK [2][-]{subsection.7.4.2}{Choice of protocol for the transport layer}{section.7.4}% 129
-\BOOKMARK [0][-]{chapter.8}{Ground Segment Protocols}{part.3}% 130
-\BOOKMARK [1][-]{section.8.1}{Ground Segment Protocols}{chapter.8}% 131
-\BOOKMARK [2][-]{subsection.8.1.1}{Introduction}{section.8.1}% 132
-\BOOKMARK [2][-]{subsection.8.1.2}{Protocols}{section.8.1}% 133
-\BOOKMARK [1][-]{section.8.2}{Delivery of the data method}{chapter.8}% 134
-\BOOKMARK [0][-]{chapter.9}{Design of the Ground Segment}{part.3}% 135
-\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 136
-\BOOKMARK [1][-]{section.9.2}{Localization of the Ground Stations}{chapter.9}% 137
-\BOOKMARK [2][-]{subsection.9.2.1}{Method}{section.9.2}% 138
-\BOOKMARK [2][-]{subsection.9.2.2}{Conclusion}{section.9.2}% 139
-\BOOKMARK [1][-]{section.9.3}{Legislation}{chapter.9}% 140
-\BOOKMARK [2][-]{subsection.9.3.1}{United Kingdom Ground Station}{section.9.3}% 141
-\BOOKMARK [2][-]{subsection.9.3.2}{Canada Ground Station}{section.9.3}% 142
-\BOOKMARK [1][-]{section.9.4}{Annual costs}{chapter.9}% 143
-\BOOKMARK [2][-]{subsection.9.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{section.9.4}% 144
-\BOOKMARK [1][-]{section.9.5}{Initial investment}{chapter.9}% 145
-\BOOKMARK [2][-]{subsection.9.5.1}{Description of the systems}{section.9.5}% 146
-\BOOKMARK [2][-]{subsection.9.5.2}{Investment}{section.9.5}% 147
-\BOOKMARK [1][-]{section.9.6}{Renting of a Ground Station}{chapter.9}% 148
-\BOOKMARK [2][-]{subsection.9.6.1}{Contact with GS companies}{section.9.6}% 149
-\BOOKMARK [2][-]{subsection.9.6.2}{LeafSpace}{section.9.6}% 150
-\BOOKMARK [3][-]{subsubsection.9.6.2.1}{Features}{subsection.9.6.2}% 151
-\BOOKMARK [1][-]{section.9.7}{Decision taking}{chapter.9}% 152
-\BOOKMARK [2][-]{subsection.9.7.1}{Decision}{section.9.7}% 153
-\BOOKMARK [-1][-]{part.4}{IV Satellite design}{}% 154
-\BOOKMARK [0][-]{chapter.10}{Satellite design}{part.4}% 155
-\BOOKMARK [1][-]{section.10.1}{Structure and mechanics}{chapter.10}% 156
-\BOOKMARK [2][-]{subsection.10.1.1}{Structure}{section.10.1}% 157
-\BOOKMARK [2][-]{subsection.10.1.2}{Thermal protection}{section.10.1}% 158
-\BOOKMARK [2][-]{subsection.10.1.3}{Options chosen for the structure and thermal protection}{section.10.1}% 159
-\BOOKMARK [1][-]{section.10.2}{Electrical Power System}{chapter.10}% 160
-\BOOKMARK [2][-]{subsection.10.2.1}{Estimation of the power required}{section.10.2}% 161
-\BOOKMARK [2][-]{subsection.10.2.2}{Solar arrays}{section.10.2}% 162
-\BOOKMARK [2][-]{subsection.10.2.3}{Power management system}{section.10.2}% 163
-\BOOKMARK [2][-]{subsection.10.2.4}{Batteries}{section.10.2}% 164
-\BOOKMARK [2][-]{subsection.10.2.5}{Options chosen for the EPS}{section.10.2}% 165
-\BOOKMARK [1][-]{section.10.3}{Propulsion Systems}{chapter.10}% 166
-\BOOKMARK [1][-]{section.10.4}{Attitude and Orbital Control Systems}{chapter.10}% 167
-\BOOKMARK [2][-]{subsection.10.4.1}{Orbital Control}{section.10.4}% 168
-\BOOKMARK [1][-]{section.10.5}{Payload}{chapter.10}% 169
-\BOOKMARK [2][-]{subsection.10.5.1}{Antennas}{section.10.5}% 170
-\BOOKMARK [3][-]{subsubsection.10.5.1.1}{Patch antenna}{subsection.10.5.1}% 171
-\BOOKMARK [2][-]{subsection.10.5.2}{Payload Data Handling Systems}{section.10.5}% 172
-\BOOKMARK [3][-]{subsubsection.10.5.2.1}{Transceivers}{subsection.10.5.2}% 173
-\BOOKMARK [2][-]{subsection.10.5.3}{Options chosen for the payload module}{section.10.5}% 174
-\BOOKMARK [1][-]{section.10.6}{Communication module}{chapter.10}% 175
-\BOOKMARK [1][-]{section.10.7}{Astrea satellite final configuration}{chapter.10}% 176
-\BOOKMARK [1][-]{section.10.8}{Budget}{chapter.10}% 177
-\BOOKMARK [-1][-]{part.5}{V Financial and Other Considerations}{}% 178
-\BOOKMARK [0][-]{chapter.11}{Financial Study}{part.5}% 179
-\BOOKMARK [1][-]{section.11.1}{Selling the product}{chapter.11}% 180
-\BOOKMARK [2][-]{subsection.11.1.1}{Estimation of demand}{section.11.1}% 181
-\BOOKMARK [3][-]{subsubsection.11.1.1.1}{Universities}{subsection.11.1.1}% 182
-\BOOKMARK [3][-]{subsubsection.11.1.1.2}{Particular customers}{subsection.11.1.1}% 183
-\BOOKMARK [3][-]{subsubsection.11.1.1.3}{Demand}{subsection.11.1.1}% 184
-\BOOKMARK [2][-]{subsection.11.1.2}{Pricing the service}{section.11.1}% 185
-\BOOKMARK [1][-]{section.11.2}{Economic Feasibility Report}{chapter.11}% 186
-\BOOKMARK [2][-]{subsection.11.2.1}{Previous costs}{section.11.2}% 187
-\BOOKMARK [3][-]{subsubsection.11.2.1.1}{Engineering hours}{subsection.11.2.1}% 188
-\BOOKMARK [3][-]{subsubsection.11.2.1.2}{Administrarion costs}{subsection.11.2.1}% 189
-\BOOKMARK [3][-]{subsubsection.11.2.1.3}{Taxes}{subsection.11.2.1}% 190
-\BOOKMARK [3][-]{subsubsection.11.2.1.4}{Insurance}{subsection.11.2.1}% 191
-\BOOKMARK [2][-]{subsection.11.2.2}{Economic feasibility study}{section.11.2}% 192
-\BOOKMARK [1][-]{section.11.3}{Conclusions of the financial study}{chapter.11}% 193
-\BOOKMARK [2][-]{subsection.11.3.1}{Pay Back Time \(PBT\)}{section.11.3}% 194
-\BOOKMARK [2][-]{subsection.11.3.2}{Updated Pay Back Time \(UPBT\)}{section.11.3}% 195
-\BOOKMARK [2][-]{subsection.11.3.3}{Break Even Point \(BEP\)}{section.11.3}% 196
-\BOOKMARK [2][-]{subsection.11.3.4}{Net Present Value \(NPV\)}{section.11.3}% 197
-\BOOKMARK [2][-]{subsection.11.3.5}{Internal Rate of Return \(IRR\)}{section.11.3}% 198
-\BOOKMARK [0][-]{chapter.12}{Marketing Plan}{part.5}% 199
-\BOOKMARK [1][-]{section.12.1}{Executive Summary}{chapter.12}% 200
-\BOOKMARK [1][-]{section.12.2}{Target Customers}{chapter.12}% 201
-\BOOKMARK [1][-]{section.12.3}{Unique Selling Proposition}{chapter.12}% 202
-\BOOKMARK [1][-]{section.12.4}{Pricing \046 Positioning Strategy}{chapter.12}% 203
-\BOOKMARK [1][-]{section.12.5}{Distribution Plan}{chapter.12}% 204
-\BOOKMARK [1][-]{section.12.6}{Marketing Materials}{chapter.12}% 205
-\BOOKMARK [1][-]{section.12.7}{Online Marketing Strategy}{chapter.12}% 206
-\BOOKMARK [1][-]{section.12.8}{Conversion Strategy}{chapter.12}% 207
-\BOOKMARK [1][-]{section.12.9}{Joint Ventures \046 Partnerships}{chapter.12}% 208
-\BOOKMARK [0][-]{chapter.13}{Environmental Impact Study}{part.5}% 209
-\BOOKMARK [1][-]{section.13.1}{Introduction}{chapter.13}% 210
-\BOOKMARK [1][-]{section.13.2}{Ground Stations}{chapter.13}% 211
-\BOOKMARK [1][-]{section.13.3}{Satellites}{chapter.13}% 212
-\BOOKMARK [1][-]{section.13.4}{Launch system}{chapter.13}% 213
-\BOOKMARK [0][-]{chapter.14}{Social and Security Considerations}{part.5}% 214
-\BOOKMARK [0][-]{chapter.15}{Bibliography}{part.5}% 215
+\BOOKMARK [2][-]{subsection.6.6.2}{Spare Strategy Selection}{section.6.6}% 98
+\BOOKMARK [2][-]{subsection.6.6.3}{Major failure deffinition}{section.6.6}% 99
+\BOOKMARK [2][-]{subsection.6.6.4}{Decision}{section.6.6}% 100
+\BOOKMARK [1][-]{section.6.7}{End-of-Life Strategy}{chapter.6}% 101
+\BOOKMARK [2][-]{subsection.6.7.1}{Introduction}{section.6.7}% 102
+\BOOKMARK [2][-]{subsection.6.7.2}{Space Debris}{section.6.7}% 103
+\BOOKMARK [2][-]{subsection.6.7.3}{End-of-Life Types}{section.6.7}% 104
+\BOOKMARK [1][-]{section.6.8}{Conclusions}{chapter.6}% 105
+\BOOKMARK [-1][-]{part.3}{III Communications}{}% 106
+\BOOKMARK [0][-]{chapter.7}{Space Segment Protocol Stack}{part.3}% 107
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 108
+\BOOKMARK [1][-]{section.7.2}{Layer 2: Data Link}{chapter.7}% 109
+\BOOKMARK [2][-]{subsection.7.2.1}{Functions of the DLL}{section.7.2}% 110
+\BOOKMARK [2][-]{subsection.7.2.2}{Working procedure}{section.7.2}% 111
+\BOOKMARK [2][-]{subsection.7.2.3}{Protocols}{section.7.2}% 112
+\BOOKMARK [1][-]{section.7.3}{Layer 3: The Network}{chapter.7}% 113
+\BOOKMARK [2][-]{subsection.7.3.1}{Functions of the Network Layer}{section.7.3}% 114
+\BOOKMARK [2][-]{subsection.7.3.2}{Protocols}{section.7.3}% 115
+\BOOKMARK [2][-]{subsection.7.3.3}{Protocol Selection}{section.7.3}% 116
+\BOOKMARK [3][-]{subsubsection.7.3.3.1}{Choice of the main protocol}{subsection.7.3.3}% 117
+\BOOKMARK [3][-]{subsubsection.7.3.3.2}{Choice of routing protocol}{subsection.7.3.3}% 118
+\BOOKMARK [3][-]{subsubsection.7.3.3.3}{Choice of complementary protocols}{subsection.7.3.3}% 119
+\BOOKMARK [3][-]{subsubsection.7.3.3.4}{Conclusion}{subsection.7.3.3}% 120
+\BOOKMARK [1][-]{section.7.4}{Layer 4: Transport and Session}{chapter.7}% 121
+\BOOKMARK [2][-]{subsection.7.4.1}{Protocols}{section.7.4}% 122
+\BOOKMARK [2][-]{subsection.7.4.2}{Choice of protocol for the transport layer}{section.7.4}% 123
+\BOOKMARK [0][-]{chapter.8}{Ground Segment Protocols}{part.3}% 124
+\BOOKMARK [1][-]{section.8.1}{Ground Segment Protocols}{chapter.8}% 125
+\BOOKMARK [2][-]{subsection.8.1.1}{Introduction}{section.8.1}% 126
+\BOOKMARK [2][-]{subsection.8.1.2}{Protocols}{section.8.1}% 127
+\BOOKMARK [1][-]{section.8.2}{Delivery of the data method}{chapter.8}% 128
+\BOOKMARK [0][-]{chapter.9}{Design of the Ground Segment}{part.3}% 129
+\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 130
+\BOOKMARK [1][-]{section.9.2}{Localization of the Ground Stations}{chapter.9}% 131
+\BOOKMARK [2][-]{subsection.9.2.1}{Method}{section.9.2}% 132
+\BOOKMARK [2][-]{subsection.9.2.2}{Conclusion}{section.9.2}% 133
+\BOOKMARK [1][-]{section.9.3}{Legislation}{chapter.9}% 134
+\BOOKMARK [2][-]{subsection.9.3.1}{United Kingdom Ground Station}{section.9.3}% 135
+\BOOKMARK [2][-]{subsection.9.3.2}{Canada Ground Station}{section.9.3}% 136
+\BOOKMARK [1][-]{section.9.4}{Annual costs}{chapter.9}% 137
+\BOOKMARK [2][-]{subsection.9.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{section.9.4}% 138
+\BOOKMARK [1][-]{section.9.5}{Initial investment}{chapter.9}% 139
+\BOOKMARK [2][-]{subsection.9.5.1}{Description of the systems}{section.9.5}% 140
+\BOOKMARK [2][-]{subsection.9.5.2}{Investment}{section.9.5}% 141
+\BOOKMARK [1][-]{section.9.6}{Renting of a Ground Station}{chapter.9}% 142
+\BOOKMARK [2][-]{subsection.9.6.1}{Contact with GS companies}{section.9.6}% 143
+\BOOKMARK [2][-]{subsection.9.6.2}{LeafSpace}{section.9.6}% 144
+\BOOKMARK [3][-]{subsubsection.9.6.2.1}{Features}{subsection.9.6.2}% 145
+\BOOKMARK [1][-]{section.9.7}{Decision taking}{chapter.9}% 146
+\BOOKMARK [2][-]{subsection.9.7.1}{Decision}{section.9.7}% 147
+\BOOKMARK [-1][-]{part.4}{IV Satellite design}{}% 148
+\BOOKMARK [0][-]{chapter.10}{Satellite design}{part.4}% 149
+\BOOKMARK [1][-]{section.10.1}{Structure and mechanics}{chapter.10}% 150
+\BOOKMARK [2][-]{subsection.10.1.1}{Structure}{section.10.1}% 151
+\BOOKMARK [2][-]{subsection.10.1.2}{Thermal protection}{section.10.1}% 152
+\BOOKMARK [2][-]{subsection.10.1.3}{Options chosen for the structure and thermal protection}{section.10.1}% 153
+\BOOKMARK [1][-]{section.10.2}{Electrical Power System}{chapter.10}% 154
+\BOOKMARK [2][-]{subsection.10.2.1}{Estimation of the power required}{section.10.2}% 155
+\BOOKMARK [2][-]{subsection.10.2.2}{Solar arrays}{section.10.2}% 156
+\BOOKMARK [2][-]{subsection.10.2.3}{Power management system}{section.10.2}% 157
+\BOOKMARK [2][-]{subsection.10.2.4}{Batteries}{section.10.2}% 158
+\BOOKMARK [2][-]{subsection.10.2.5}{Options chosen for the EPS}{section.10.2}% 159
+\BOOKMARK [1][-]{section.10.3}{Propulsion Systems}{chapter.10}% 160
+\BOOKMARK [1][-]{section.10.4}{Attitude and Orbital Control Systems}{chapter.10}% 161
+\BOOKMARK [2][-]{subsection.10.4.1}{Orbital Control}{section.10.4}% 162
+\BOOKMARK [1][-]{section.10.5}{Payload}{chapter.10}% 163
+\BOOKMARK [2][-]{subsection.10.5.1}{Antennas}{section.10.5}% 164
+\BOOKMARK [3][-]{subsubsection.10.5.1.1}{Patch antenna}{subsection.10.5.1}% 165
+\BOOKMARK [2][-]{subsection.10.5.2}{Payload Data Handling Systems}{section.10.5}% 166
+\BOOKMARK [3][-]{subsubsection.10.5.2.1}{Transceivers}{subsection.10.5.2}% 167
+\BOOKMARK [2][-]{subsection.10.5.3}{Options chosen for the payload module}{section.10.5}% 168
+\BOOKMARK [1][-]{section.10.6}{Communication module}{chapter.10}% 169
+\BOOKMARK [1][-]{section.10.7}{Astrea satellite final configuration}{chapter.10}% 170
+\BOOKMARK [1][-]{section.10.8}{Budget}{chapter.10}% 171
+\BOOKMARK [-1][-]{part.5}{V Financial and Other Considerations}{}% 172
+\BOOKMARK [0][-]{chapter.11}{Financial Study}{part.5}% 173
+\BOOKMARK [0][-]{chapter.12}{Environmental Impact Study}{part.5}% 174
+\BOOKMARK [0][-]{chapter.13}{Social and Security Considerations}{part.5}% 175
+\BOOKMARK [0][-]{chapter.14}{Bibliography}{part.5}% 176
