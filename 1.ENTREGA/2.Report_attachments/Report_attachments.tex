@@ -17,7 +17,8 @@
 
 \usepackage{epigraph}
 \usepackage{tocloft}
-
+\usepackage{listings}
+\usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}
 
 \begin{document}
 
@@ -66,8 +67,8 @@
 \import{sections/CommunicationsDept/}{Ch1-SpaceSegment}
 \import{sections/CommunicationsDept/}{Ch2-GroundSegment}
 
-\part{ANNEX IV: Ground Segment Design}
-\import{sections/CommunicationsDept/}{Ch3-GroundSegmentDesign}
+\part{ANNEX IV: Ground segment}
+\import{sections/CommunicationsDept/}{Ch3-GroundStation}
 
 \part{ANNEX V: Satellite design}
 \import{sections/SatelliteDept/}{SatDesign}
@@ -79,6 +80,8 @@
 \import{sections/FinancialDept/}{Ch2-Environmental}
 \import{sections/FinancialDept/}{Ch3-Social}
 
+\part{ANNEX VII: Matlab Codes}
+\import{sections/MatlabCodes/}{CodeAttach}
 
 
 % BIBLIOGRAPHY
@@ -93,7 +96,7 @@
 %	siam    : [#] Initial. Surname (sc)
 %	unsrt   : [#] Name Surname
 
-\bibliographystyle{unsrt}
-\bibliography{library} 
+%\bibliographystyle{unsrt}
+%\bibliography{library} 
 
 \end{document}
