@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{iii}{section*.1}
-\contentsline {chapter}{List of Figures}{iv}{section*.2}
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Aim of the project}{1}{chapter.1}
 \contentsline {paragraph}{}{1}{section*.3}
 \contentsline {paragraph}{}{1}{section*.4}
@@ -172,7 +172,7 @@
 \contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{75}{subsection.6.6.5}
 \contentsline {chapter}{\numberline {7}Financial Study}{76}{chapter.7}
 \contentsline {chapter}{\numberline {8}Environmental Impact Study}{80}{chapter.8}
-\contentsline {chapter}{\numberline {9}Social and Security Considerations}{81}{chapter.9}
+\contentsline {chapter}{\numberline {9}Social and security considerations}{81}{chapter.9}
 \contentsline {chapter}{\numberline {10}Organization and Planning}{83}{chapter.10}
 \contentsline {section}{\numberline {10.1}Internal Structure}{84}{section.10.1}
 \contentsline {section}{\numberline {10.2}Documents organisation}{85}{section.10.2}

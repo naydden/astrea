@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{ix}{section*.1}
-\contentsline {chapter}{List of Figures}{xi}{section*.2}
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {part}{I\hspace {1em}ANNEX I: Orbit Design}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Orbit Geometry}{2}{chapter.1}
 \contentsline {paragraph}{}{2}{section*.3}
@@ -300,13 +300,13 @@
 \contentsline {subsection}{\numberline {10.2.3}Power management system}{172}{subsection.10.2.3}
 \contentsline {paragraph}{}{172}{section*.245}
 \contentsline {paragraph}{}{172}{section*.246}
-\contentsline {paragraph}{}{173}{section*.247}
+\contentsline {paragraph}{}{172}{section*.247}
 \contentsline {paragraph}{}{173}{section*.248}
 \contentsline {paragraph}{}{173}{section*.249}
 \contentsline {paragraph}{}{173}{section*.250}
 \contentsline {subsection}{\numberline {10.2.4}Batteries}{173}{subsection.10.2.4}
 \contentsline {paragraph}{}{173}{section*.251}
-\contentsline {paragraph}{}{174}{section*.252}
+\contentsline {paragraph}{}{173}{section*.252}
 \contentsline {paragraph}{}{174}{section*.253}
 \contentsline {paragraph}{}{174}{section*.254}
 \contentsline {subsection}{\numberline {10.2.5}Study of the commercial available options and options chosen}{174}{subsection.10.2.5}
@@ -439,7 +439,7 @@
 \contentsline {subsection}{\numberline {11.3.3}Break Even Point (BEP)}{215}{subsection.11.3.3}
 \contentsline {subsection}{\numberline {11.3.4}Net Present Value (NPV)}{216}{subsection.11.3.4}
 \contentsline {subsection}{\numberline {11.3.5}Internal Rate of Return (IRR)}{216}{subsection.11.3.5}
-\contentsline {subsection}{\numberline {11.3.6}Conclusions of the feasibility study}{217}{subsection.11.3.6}
+\contentsline {subsection}{\numberline {11.3.6}Conclusions of the feasibility study}{216}{subsection.11.3.6}
 \contentsline {chapter}{\numberline {12}Marketing Plan}{218}{chapter.12}
 \contentsline {section}{\numberline {12.1}Executive Summary}{218}{section.12.1}
 \contentsline {section}{\numberline {12.2}Target Customers}{218}{section.12.2}
