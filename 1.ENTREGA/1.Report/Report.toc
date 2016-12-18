@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{ii}{section*.1}
-\contentsline {chapter}{List of Figures}{iii}{section*.2}
+\contentsline {chapter}{List of Tables}{iii}{section*.1}
+\contentsline {chapter}{List of Figures}{iv}{section*.2}
 \contentsline {chapter}{\numberline {1}Aim of the project}{1}{chapter.1}
 \contentsline {paragraph}{}{1}{section*.3}
 \contentsline {paragraph}{}{1}{section*.4}
