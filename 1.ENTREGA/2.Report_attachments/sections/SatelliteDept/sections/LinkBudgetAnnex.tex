@@ -1,27 +1,23 @@
-\section{Link Budget}
-\paragraph
-\ Astrea constellation main satellite must be able to stablish three different telecommunications link: 
-\begin{itemize}
-	\item Space to Ground link for payload and TT\&C data.
-	\item Space to Space link between Astrea satellites.
-	\item Space to Space link between client and Astrea satellites.
-\end{itemize} 
-\subsection{Communications Basics}
-\paragraph
-\
+\section{Link Budget} \label{Appendix:LinkBudget}
 
+\subsection{Communications Basics}
+\paragraph{}
 When evaluating a wireless link, the three most important questions to be answered are: \cite{Note1998}\\
+
 \begin{enumerate}
 	\item \underline{How much radio frequency (RF) power is available?}
 	Up to 2W for S band or up to 12W for Xband.
 	\item \underline{How much bandwidth is available?}\\
-	Available 400MHz with 28 channels of 14MHz or 228 channels of 1.75MHz for inter-satellite communication at S band. For X band, there's more than 4GHz available \cite{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}. In fact is limited by the TR-600 transceiver at 56MHz for S band and to 100MHz by SWIFT - XTS at X band.
+
+Available 400MHz with 28 channels of 14MHz or 228 channels of 1.75MHz for inter-satellite communication at S band. For X band, there's more than 4GHz available \cite{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}. In fact is limited by the TR-600 transceiver at 56MHz for S band and to 100MHz by SWIFT - XTS at X band.
 	\item \underline{What is the required reliability (as defined by Bit Error Rate, or BER)?}\\
-	Required reliability for space systems$E_b/N_o \geq 10$, so $BER=5.5x10^{-6}$ for a MSK, PSK (worst case) modulation as shown in Fig.\ref{BEvsSNR}.
+	
+Required reliability for space systems$E_b/N_o \geq 10$, so $BER=5.5x10^{-6}$ for a MSK, PSK (worst case) modulation as shown in Fig.\ref{BEvsSNR}.
 \end{enumerate}
+
 The upper limit in terms of data rate is given by Shannon's Channel Capacity Theorem:
 \begin{equation}
-	C=Blog_2(1+S/N)
+	C=B\cdot log_2(1+S/N)
 	\label{channelCapacity}
 \end{equation}
 where:
@@ -47,9 +43,8 @@ with the weather conditions, especially with rain.
 \end{figure}
 
 \subsection{Propagation losses}
-\subsubsubsection{Free Space Losses}
+\subsubsection{Free Space Losses}
 \paragraph{Range and Path Loss}
-\
 Another key consideration is the issue of range. As radio waves propagate in free space, power falls off as the square of range. For a doubling of range, power reaching a receiver antenna is reduced by a factor of four. This effect is due to the spreading of the radio waves as they propagate, and can be calculated by \cite{Note1998}:
 \begin{equation}
 L=20log_{10}(4\pi D/\lambda)
@@ -63,7 +58,7 @@ where:
 	f&= \text{frequency (Hz)}
 \end{align*}
 \clearpage
-\subsubsubsection{Atmospheric Losses}
+\subsubsection{Atmospheric Losses}
 \paragraph \ This kind of losses derives from the absorption of energy by atmospheric gases. They can assume two different types:
 \begin{itemize}
 	\item Atmospheric attenuation.
@@ -72,6 +67,7 @@ where:
 
 The major distinguishing factor between them is their origin. Attenuation is weatherrelated, while absorption comes in clear-sky conditions.
 Likewise, these losses can be due to ionospheric, tropospheric and other local effects. \cite{Jorge2012}
+
 \paragraph{Ionospheric Effects}
 \ All radio waves transmitted by satellites to the Earth or vice versa must pass through the
 ionosphere, the highest layer of the atmosphere, which contains ionized particles,
@@ -91,6 +87,7 @@ statistical data. The effects are:
 \end{itemize}
 These effects decrease usually with the increase of the square of the frequency and most serious ones in satellite communications are the polarization rotation and the
 scintillation effects, and those are the ones that will be treated in this dissertation. \cite{Jorge2012}
+
 \paragraph{Tropospheric Effects \cite{Jorge2012}}
 \ Troposphere is composed by a miscellany of molecules of different compounds, such as hail, raindrops or other atmospheric gases. Radio waves that pass by troposphere will suffer their effects and will be scattered, depolarized, absorbed and therefore attenuated.\\
 \underline{Attenuation}: As radio waves cross troposphere, radio frequency energy will be converted into thermal energy and that attenuates signal.\\
@@ -100,16 +97,19 @@ in absorption. Other atmospheric gases only become a problem in very dry air
 conditions above 70 GHz.
 Thereby, losses caused by atmospheric absorption vary with frequency and the
 collection of data already received allows the elaboration of the graphic that follows:
+
 \begin{figure}[h]
 	\includegraphics[scale=0.7]{./sections/SatelliteDept/sections/images/specificAttenuation}
 	\centering
 	\caption{Specific attenuation for different frequencies \cite{Jorge2012}}
 	\label{specificAtenuattion}
 \end{figure}
-\\
 
-Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into account troposphere’s thickest layer ($T_{trop}$), which has 20 km.\\
-It is also mandatory to refer that this graph represents the absorption for a satellite in the zenith, in other words, for an elevation angle of 90º ($\theta$ = 90º). For lower angles, the atmospheric absorption ($L_{abs}$) is given by \cite{Jorge2012}:
+Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into 
+account troposphere’s thickest layer ($T_{trop}$), which has 20 km.\\
+It is also mandatory to refer that this graph represents the absorption for a satellite in the zenith, in other 
+words, for an elevation angle of 90º ($\theta$ = 90º). For lower angles, the atmospheric absorption ($L_{abs}$) is 
+given by \cite{Jorge2012}:
 \begin{equation}
 	L_{abs}(dB)=L_{abs|90º} (dB/km)\ cosec(\theta)\ T_{trop}(km)
 	\label{Labs}
@@ -140,7 +140,7 @@ It is also mandatory to refer that this graph represents the absorption for a sa
 \clearpage
 \paragraph{Local Effects}
 These effects refer to the proximity of the local ground stations, possible sources that may interfere with the received signal and buildings that may block the signal. If the ground station is on a free external interferences zone, for satellite communications this factor may be negligible.
-\subsubsubsection{Pointing Losses}
+\subsubsection{Pointing Losses}
 \paragraph
 \
 Ideal reception implies that the value for misalignment losses would be 0 dB which
@@ -153,7 +153,7 @@ Antenna misalignment losses ($L_{aml}$) are calculated using statistical data, s
 are an approximation based on real data observed in several GS. Ergo, these values are
 not calculated, but estimated.\cite{Jorge2012}
  \paragraph{} Based on a estimation from \cite{Macdonald2014} a $L_{aml}=1dB$ is a good approximation.
-\subsubsubsection{Multipath and Fade Margin}
+\subsubsection{Multipath and Fade Margin}
 \paragraph
 \
 Multipath occurs when waves emitted by the transmitter
@@ -172,14 +172,14 @@ reliability of the link, but a good rule-of-thumb is 20dB to
 
 
 \subsection{Local Losses}
-\subsubsubsection{Equipament Losses}
+\subsubsection{Equipament Losses}
 \paragraph{}The receiving and emitting equipments also introduces some losses to the signal.\\
 \underline{Feeder Losses}: Feeder losses occur in the several components between the receiving antenna and the
 receiver device, such as filters, couplers and waveguides. These losses are similar to the
 ones which occur also in the emission, between the emitting antenna and the output of
 the high power amplifier (HPA).\cite{Jorge2012}
 
-\subsubsubsection{Environment Losses}
+\subsubsection{Environment Losses}
 \paragraph{}
 This item is related to the specific region of the globe where the ground station is placed
 (equatorial, tropical, polar…). Depending on its latitude, each region has its own
@@ -271,12 +271,3 @@ where:
 \end{align*}
 
 This is the lowest possible noise level for a system with a given physical temperature. For most applications, temperature is typically assumed to be room temperature (290K). Equations \ref{channelCapacity} and \ref{noise} demonstrate that RF power and bandwidth can be traded off to achieve a given performance level (as defined by BER). \cite{Note1998}
-
-\subsection{Link Budget Calculation}
-\paragraph{Methodology} \ From the expected requirements fixed on the Project Charter, general radio systems parameters will computed, in order to have a reference to look for the best communications system on board the Astrea satellites. As background, general losses parameters had been calculated on previous sections. 
-
-\paragraph{} The most important concern on AstreaSAT link Budget is how far every satellite can emit on the desired frequencies. This is a key factor to know the utility of the modules selected. At least, Project Charter communication requirements must be accomplish.
- 
-$EIRP=P_T-L_T-G_T$\\
-FRIIS EQUATION + GRAPH RANGE\\
-SENSITIVITY CALCULUS A PARTIR DE LA DE CAPACITAT + NOISE ADJUDICANT BANDWITH
