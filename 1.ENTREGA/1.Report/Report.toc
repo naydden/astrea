@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{iii}{section*.1}
-\contentsline {chapter}{List of Figures}{iv}{section*.2}
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Aim of the project}{1}{chapter.1}
 \contentsline {paragraph}{}{1}{section*.3}
 \contentsline {paragraph}{}{1}{section*.4}
@@ -34,147 +34,155 @@
 \contentsline {subsubsection}{\numberline {6.1.3.3}Orbital Station-Keeping}{20}{subsubsection.6.1.3.3}
 \contentsline {subsection}{\numberline {6.1.4}Constellation Design Decision}{22}{subsection.6.1.4}
 \contentsline {subsubsection}{\numberline {6.1.4.1}Considered Designs}{22}{subsubsection.6.1.4.1}
-\contentsline {subsubsection}{\numberline {6.1.4.2}Constellation Performance Analysis}{28}{subsubsection.6.1.4.2}
-\contentsline {paragraph}{Time factor\\}{28}{section*.39}
-\contentsline {paragraph}{Quality Time\\}{28}{section*.40}
-\contentsline {subsubsection}{\numberline {6.1.4.3}Ordered Weighting Average based Decision}{30}{subsubsection.6.1.4.3}
-\contentsline {section}{\numberline {6.2}Space Segment Systems. Satellite Design}{32}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Structure and mechanics}{32}{subsection.6.2.1}
-\contentsline {paragraph}{}{32}{section*.46}
-\contentsline {paragraph}{}{32}{section*.47}
-\contentsline {subsection}{\numberline {6.2.2}Structure}{32}{subsection.6.2.2}
-\contentsline {paragraph}{}{32}{section*.48}
-\contentsline {paragraph}{}{32}{section*.49}
-\contentsline {subsection}{\numberline {6.2.3}Thermal protection}{32}{subsection.6.2.3}
-\contentsline {paragraph}{}{32}{section*.50}
-\contentsline {paragraph}{}{33}{section*.51}
-\contentsline {subsection}{\numberline {6.2.4}Options chosen for the structure and thermal protection}{33}{subsection.6.2.4}
-\contentsline {paragraph}{}{33}{section*.52}
-\contentsline {subsubsection}{\numberline {6.2.4.1}Electrical Power System}{33}{subsubsection.6.2.4.1}
-\contentsline {paragraph}{}{33}{section*.53}
-\contentsline {subsubsection}{\numberline {6.2.4.2}Estimation of the power required}{33}{subsubsection.6.2.4.2}
-\contentsline {paragraph}{}{33}{section*.54}
-\contentsline {paragraph}{}{33}{section*.55}
-\contentsline {subsubsection}{\numberline {6.2.4.3}Solar arrays}{33}{subsubsection.6.2.4.3}
-\contentsline {paragraph}{}{33}{section*.56}
-\contentsline {paragraph}{}{34}{section*.57}
-\contentsline {subsubsection}{\numberline {6.2.4.4}Power management system}{34}{subsubsection.6.2.4.4}
-\contentsline {paragraph}{}{34}{section*.58}
-\contentsline {paragraph}{}{34}{section*.59}
-\contentsline {subsubsection}{\numberline {6.2.4.5}Batteries}{34}{subsubsection.6.2.4.5}
-\contentsline {paragraph}{}{34}{section*.60}
-\contentsline {paragraph}{}{34}{section*.61}
-\contentsline {paragraph}{}{34}{section*.62}
-\contentsline {subsubsection}{\numberline {6.2.4.6}Options chosen for the EPS}{35}{subsubsection.6.2.4.6}
-\contentsline {paragraph}{}{35}{section*.63}
-\contentsline {subsection}{\numberline {6.2.5}Propulsion Systems}{35}{subsection.6.2.5}
-\contentsline {paragraph}{}{35}{section*.64}
-\contentsline {paragraph}{}{35}{section*.65}
-\contentsline {paragraph}{}{35}{section*.66}
-\contentsline {paragraph}{}{36}{section*.67}
-\contentsline {subsection}{\numberline {6.2.6}Attitude and Orbital Control Systems}{36}{subsection.6.2.6}
-\contentsline {paragraph}{}{36}{section*.68}
-\contentsline {paragraph}{}{36}{section*.69}
-\contentsline {paragraph}{}{36}{section*.70}
-\contentsline {subsubsection}{\numberline {6.2.6.1}Orbital Control}{36}{subsubsection.6.2.6.1}
-\contentsline {paragraph}{}{36}{section*.71}
-\contentsline {paragraph}{}{37}{section*.72}
-\contentsline {paragraph}{}{37}{section*.73}
-\contentsline {subsection}{\numberline {6.2.7}Payload}{37}{subsection.6.2.7}
-\contentsline {paragraph}{}{37}{section*.74}
-\contentsline {paragraph}{}{37}{section*.75}
-\contentsline {paragraph}{}{37}{section*.76}
-\contentsline {subsubsection}{\numberline {6.2.7.1}Antennas}{38}{subsubsection.6.2.7.1}
-\contentsline {paragraph}{}{38}{section*.77}
-\contentsline {paragraph}{}{38}{section*.78}
-\contentsline {paragraph}{}{38}{section*.79}
-\contentsline {subsubsection}{\numberline {6.2.7.2}Payload Data Handling Systems}{38}{subsubsection.6.2.7.2}
-\contentsline {paragraph}{}{38}{section*.80}
-\contentsline {paragraph}{}{38}{section*.81}
-\contentsline {paragraph}{}{39}{section*.82}
-\contentsline {paragraph}{}{39}{section*.83}
-\contentsline {paragraph}{}{39}{section*.84}
-\contentsline {paragraph}{}{39}{section*.85}
-\contentsline {subsubsection}{\numberline {6.2.7.3}Options chosen for the payload module}{39}{subsubsection.6.2.7.3}
-\contentsline {paragraph}{}{39}{section*.86}
-\contentsline {subsection}{\numberline {6.2.8}Communication module}{40}{subsection.6.2.8}
-\contentsline {paragraph}{}{40}{section*.87}
-\contentsline {paragraph}{}{40}{section*.88}
-\contentsline {paragraph}{}{40}{section*.89}
-\contentsline {subsection}{\numberline {6.2.9}Astrea satellite final configuration}{40}{subsection.6.2.9}
-\contentsline {paragraph}{}{41}{section*.90}
-\contentsline {subsection}{\numberline {6.2.10}Budget}{41}{subsection.6.2.10}
-\contentsline {paragraph}{}{42}{section*.91}
-\contentsline {paragraph}{}{42}{section*.92}
-\contentsline {paragraph}{}{42}{section*.93}
-\contentsline {section}{\numberline {6.3}Ground Segment Systems}{42}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Introduction}{42}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Localization of the Ground Stations}{43}{subsection.6.3.2}
-\contentsline {subsubsection}{\numberline {6.3.2.1}Method}{43}{subsubsection.6.3.2.1}
-\contentsline {subsubsection}{\numberline {6.3.2.2}Conclusion}{44}{subsubsection.6.3.2.2}
-\contentsline {subsection}{\numberline {6.3.3}Legislation}{45}{subsection.6.3.3}
-\contentsline {subsubsection}{\numberline {6.3.3.1}United Kingdom Ground Station}{45}{subsubsection.6.3.3.1}
-\contentsline {subsubsection}{\numberline {6.3.3.2}Canada Ground Station}{45}{subsubsection.6.3.3.2}
-\contentsline {subsection}{\numberline {6.3.4}Annual costs}{46}{subsection.6.3.4}
-\contentsline {subsubsection}{\numberline {6.3.4.1}Annual costs of the Ground Stations and the Mission Control Centre}{46}{subsubsection.6.3.4.1}
-\contentsline {subsection}{\numberline {6.3.5}Initial investment}{46}{subsection.6.3.5}
-\contentsline {subsubsection}{\numberline {6.3.5.1}Description of the systems}{46}{subsubsection.6.3.5.1}
-\contentsline {subsubsection}{\numberline {6.3.5.2}Investment}{47}{subsubsection.6.3.5.2}
-\contentsline {subsection}{\numberline {6.3.6}Renting of a Ground Station}{48}{subsection.6.3.6}
-\contentsline {subsubsection}{\numberline {6.3.6.1}Contact with GS companies}{48}{subsubsection.6.3.6.1}
-\contentsline {subsubsection}{\numberline {6.3.6.2}LeafSpace}{48}{subsubsection.6.3.6.2}
-\contentsline {paragraph}{Antenna}{48}{section*.97}
-\contentsline {paragraph}{Pricing}{49}{section*.98}
-\contentsline {paragraph}{Boost Performance}{49}{section*.99}
-\contentsline {paragraph}{Way of use}{49}{section*.100}
-\contentsline {paragraph}{Services}{49}{section*.101}
-\contentsline {paragraph}{Map}{49}{section*.102}
-\contentsline {paragraph}{Operation}{50}{section*.104}
-\contentsline {subsection}{\numberline {6.3.7}Decision taking}{50}{subsection.6.3.7}
-\contentsline {subsubsection}{\numberline {6.3.7.1}Decision}{51}{subsubsection.6.3.7.1}
-\contentsline {section}{\numberline {6.4}Protocol Stack}{51}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Space Segment}{51}{subsection.6.4.1}
-\contentsline {subsubsection}{\numberline {6.4.1.1}Introduction}{51}{subsubsection.6.4.1.1}
-\contentsline {paragraph}{}{52}{section*.107}
-\contentsline {subsubsection}{\numberline {6.4.1.2}Layer 2: Data Link}{53}{subsubsection.6.4.1.2}
-\contentsline {subsubsection}{\numberline {6.4.1.3}Layer 3: The Network}{55}{subsubsection.6.4.1.3}
-\contentsline {paragraph}{}{56}{section*.109}
-\contentsline {paragraph}{}{56}{section*.110}
-\contentsline {paragraph}{}{57}{section*.111}
-\contentsline {paragraph}{}{57}{section*.112}
-\contentsline {paragraph}{}{57}{section*.113}
-\contentsline {subsubsection}{\numberline {6.4.1.4}Layer 4: Transport and Session}{57}{subsubsection.6.4.1.4}
-\contentsline {subsection}{\numberline {6.4.2}Ground Segment Protocols}{58}{subsection.6.4.2}
-\contentsline {subsubsection}{\numberline {6.4.2.1}Introduction}{58}{subsubsection.6.4.2.1}
-\contentsline {subsubsection}{\numberline {6.4.2.2}Protocols}{58}{subsubsection.6.4.2.2}
-\contentsline {subsubsection}{\numberline {6.4.2.3}Delivery of the data method}{59}{subsubsection.6.4.2.3}
-\contentsline {section}{\numberline {6.5}Launcher and Deployer}{60}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Launching System}{60}{subsection.6.5.1}
-\contentsline {subsubsection}{\numberline {6.5.1.1}Launch site and vehicle analysis}{60}{subsubsection.6.5.1.1}
-\contentsline {subsection}{\numberline {6.5.2}Deployer}{62}{subsection.6.5.2}
-\contentsline {section}{\numberline {6.6}Lifecycle Strategies}{63}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}First Placement}{63}{subsection.6.6.1}
-\contentsline {subsubsubsection}{\numberline {6.6.1.0.1}First Placement logistics}{63}{subsubsubsection.6.6.1.0.1}
-\contentsline {subsubsection}{\numberline {6.6.1.1}1st Placement Maneuver}{64}{subsubsection.6.6.1.1}
-\contentsline {subsubsection}{\numberline {6.6.1.2}In-Orbit Injection}{65}{subsubsection.6.6.1.2}
-\contentsline {subsection}{\numberline {6.6.2}Replacement Strategy}{66}{subsection.6.6.2}
-\contentsline {subsection}{\numberline {6.6.3}Spare Strategy}{67}{subsection.6.6.3}
-\contentsline {subsubsection}{\numberline {6.6.3.1}Introduction}{67}{subsubsection.6.6.3.1}
-\contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{68}{subsubsection.6.6.3.2}
-\contentsline {subsection}{\numberline {6.6.4}Major failure deffinition}{69}{subsection.6.6.4}
-\contentsline {paragraph}{}{69}{section*.118}
-\contentsline {subsubsection}{\numberline {6.6.4.1}Decision}{70}{subsubsection.6.6.4.1}
-\contentsline {paragraph}{}{70}{section*.119}
-\contentsline {paragraph}{}{70}{section*.120}
-\contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{70}{subsection.6.6.5}
-\contentsline {chapter}{\numberline {7}Financial Study}{71}{chapter.7}
-\contentsline {chapter}{\numberline {8}Environmental Impact Study}{75}{chapter.8}
-\contentsline {chapter}{\numberline {9}Social and security considerations}{76}{chapter.9}
-\contentsline {chapter}{\numberline {10}Organization and Planning}{78}{chapter.10}
-\contentsline {section}{\numberline {10.1}Internal Structure}{79}{section.10.1}
-\contentsline {section}{\numberline {10.2}Documents organisation}{80}{section.10.2}
-\contentsline {section}{\numberline {10.3}Planning}{81}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Tasks identification from work breakdown structure (WBS)}{81}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{83}{subsection.10.3.2}
-\contentsline {section}{\numberline {10.4}Scheduling}{84}{section.10.4}
-\contentsline {chapter}{\numberline {11}Bibliography}{85}{chapter.11}
+\contentsline {subsection}{\numberline {6.1.5}Introduction}{22}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Candidate 1: Polar - Global Coverage}{23}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Candidate 2: Polar - GS Coverage}{23}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}Candidate 3 and 4: Walker-Delta GS Coverage}{24}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.9}Candidate 5: Walker-Delta Lat: 0-58}{24}{subsection.6.1.9}
+\contentsline {subsection}{\numberline {6.1.10}Candidate 6: Polar - Walker-Delta J2 + Rotaci\IeC {\'o}}{25}{subsection.6.1.10}
+\contentsline {subsection}{\numberline {6.1.11}Candidate 7: Walker-Delta GS Coverage 3}{25}{subsection.6.1.11}
+\contentsline {subsection}{\numberline {6.1.12}Final candidate constellation paramater comparison.}{26}{subsection.6.1.12}
+\contentsline {subsubsection}{\numberline {6.1.12.1}Constellation Performance Analysis}{26}{subsubsection.6.1.12.1}
+\contentsline {paragraph}{Time factor\\}{26}{section*.40}
+\contentsline {paragraph}{Quality Time\\}{27}{section*.41}
+\contentsline {subsubsection}{\numberline {6.1.12.2}Ordered Weighting Average based Decision}{29}{subsubsection.6.1.12.2}
+\contentsline {section}{\numberline {6.2}Space Segment Systems. Satellite Design}{30}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Structure and mechanics}{30}{subsection.6.2.1}
+\contentsline {paragraph}{}{30}{section*.47}
+\contentsline {paragraph}{}{30}{section*.48}
+\contentsline {subsection}{\numberline {6.2.2}Structure}{31}{subsection.6.2.2}
+\contentsline {paragraph}{}{31}{section*.49}
+\contentsline {paragraph}{}{31}{section*.50}
+\contentsline {subsection}{\numberline {6.2.3}Thermal protection}{31}{subsection.6.2.3}
+\contentsline {paragraph}{}{31}{section*.51}
+\contentsline {paragraph}{}{31}{section*.52}
+\contentsline {subsection}{\numberline {6.2.4}Options chosen for the structure and thermal protection}{31}{subsection.6.2.4}
+\contentsline {paragraph}{}{31}{section*.53}
+\contentsline {subsubsection}{\numberline {6.2.4.1}Electrical Power System}{32}{subsubsection.6.2.4.1}
+\contentsline {paragraph}{}{32}{section*.54}
+\contentsline {subsubsection}{\numberline {6.2.4.2}Estimation of the power required}{32}{subsubsection.6.2.4.2}
+\contentsline {paragraph}{}{32}{section*.55}
+\contentsline {paragraph}{}{32}{section*.56}
+\contentsline {subsubsection}{\numberline {6.2.4.3}Solar arrays}{32}{subsubsection.6.2.4.3}
+\contentsline {paragraph}{}{32}{section*.57}
+\contentsline {paragraph}{}{32}{section*.58}
+\contentsline {subsubsection}{\numberline {6.2.4.4}Power management system}{32}{subsubsection.6.2.4.4}
+\contentsline {paragraph}{}{32}{section*.59}
+\contentsline {paragraph}{}{33}{section*.60}
+\contentsline {subsubsection}{\numberline {6.2.4.5}Batteries}{33}{subsubsection.6.2.4.5}
+\contentsline {paragraph}{}{33}{section*.61}
+\contentsline {paragraph}{}{33}{section*.62}
+\contentsline {paragraph}{}{33}{section*.63}
+\contentsline {subsubsection}{\numberline {6.2.4.6}Options chosen for the EPS}{33}{subsubsection.6.2.4.6}
+\contentsline {paragraph}{}{33}{section*.64}
+\contentsline {subsection}{\numberline {6.2.5}Propulsion Systems}{34}{subsection.6.2.5}
+\contentsline {paragraph}{}{34}{section*.65}
+\contentsline {paragraph}{}{34}{section*.66}
+\contentsline {paragraph}{}{34}{section*.67}
+\contentsline {paragraph}{}{34}{section*.68}
+\contentsline {subsection}{\numberline {6.2.6}Attitude and Orbital Control Systems}{34}{subsection.6.2.6}
+\contentsline {paragraph}{}{34}{section*.69}
+\contentsline {paragraph}{}{35}{section*.70}
+\contentsline {paragraph}{}{35}{section*.71}
+\contentsline {subsubsection}{\numberline {6.2.6.1}Orbital Control}{35}{subsubsection.6.2.6.1}
+\contentsline {paragraph}{}{35}{section*.72}
+\contentsline {paragraph}{}{35}{section*.73}
+\contentsline {paragraph}{}{35}{section*.74}
+\contentsline {subsection}{\numberline {6.2.7}Payload}{36}{subsection.6.2.7}
+\contentsline {paragraph}{}{36}{section*.75}
+\contentsline {paragraph}{}{36}{section*.76}
+\contentsline {paragraph}{}{36}{section*.77}
+\contentsline {subsubsection}{\numberline {6.2.7.1}Antennas}{36}{subsubsection.6.2.7.1}
+\contentsline {paragraph}{}{36}{section*.78}
+\contentsline {paragraph}{}{37}{section*.79}
+\contentsline {paragraph}{}{37}{section*.80}
+\contentsline {subsubsection}{\numberline {6.2.7.2}Payload Data Handling Systems}{37}{subsubsection.6.2.7.2}
+\contentsline {paragraph}{}{37}{section*.81}
+\contentsline {paragraph}{}{37}{section*.82}
+\contentsline {paragraph}{}{37}{section*.83}
+\contentsline {paragraph}{}{37}{section*.84}
+\contentsline {paragraph}{}{38}{section*.85}
+\contentsline {paragraph}{}{38}{section*.86}
+\contentsline {subsubsection}{\numberline {6.2.7.3}Options chosen for the payload module}{38}{subsubsection.6.2.7.3}
+\contentsline {paragraph}{}{38}{section*.87}
+\contentsline {subsection}{\numberline {6.2.8}Communication module}{38}{subsection.6.2.8}
+\contentsline {paragraph}{}{38}{section*.88}
+\contentsline {paragraph}{}{38}{section*.89}
+\contentsline {paragraph}{}{39}{section*.90}
+\contentsline {subsection}{\numberline {6.2.9}Astrea satellite final configuration}{39}{subsection.6.2.9}
+\contentsline {paragraph}{}{39}{section*.91}
+\contentsline {subsection}{\numberline {6.2.10}Budget}{39}{subsection.6.2.10}
+\contentsline {paragraph}{}{40}{section*.92}
+\contentsline {paragraph}{}{40}{section*.93}
+\contentsline {paragraph}{}{41}{section*.94}
+\contentsline {section}{\numberline {6.3}Ground Segment Systems}{41}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Introduction}{41}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Localization of the Ground Stations}{42}{subsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.2.1}Method}{42}{subsubsection.6.3.2.1}
+\contentsline {subsubsection}{\numberline {6.3.2.2}Conclusion}{43}{subsubsection.6.3.2.2}
+\contentsline {subsection}{\numberline {6.3.3}Legislation}{43}{subsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.3.1}United Kingdom Ground Station}{44}{subsubsection.6.3.3.1}
+\contentsline {subsubsection}{\numberline {6.3.3.2}Canada Ground Station}{44}{subsubsection.6.3.3.2}
+\contentsline {subsection}{\numberline {6.3.4}Annual costs}{45}{subsection.6.3.4}
+\contentsline {subsubsection}{\numberline {6.3.4.1}Annual costs of the Ground Stations and the Mission Control Centre}{45}{subsubsection.6.3.4.1}
+\contentsline {subsection}{\numberline {6.3.5}Initial investment}{45}{subsection.6.3.5}
+\contentsline {subsubsection}{\numberline {6.3.5.1}Description of the systems}{45}{subsubsection.6.3.5.1}
+\contentsline {subsubsection}{\numberline {6.3.5.2}Investment}{46}{subsubsection.6.3.5.2}
+\contentsline {subsection}{\numberline {6.3.6}Renting of a Ground Station}{46}{subsection.6.3.6}
+\contentsline {subsubsection}{\numberline {6.3.6.1}Contact with GS companies}{46}{subsubsection.6.3.6.1}
+\contentsline {subsubsection}{\numberline {6.3.6.2}LeafSpace}{47}{subsubsection.6.3.6.2}
+\contentsline {paragraph}{Antenna}{47}{section*.98}
+\contentsline {paragraph}{Pricing}{47}{section*.99}
+\contentsline {paragraph}{Boost Performance}{47}{section*.100}
+\contentsline {paragraph}{Way of use}{48}{section*.101}
+\contentsline {paragraph}{Services}{48}{section*.102}
+\contentsline {paragraph}{Map}{48}{section*.103}
+\contentsline {paragraph}{Operation}{48}{section*.105}
+\contentsline {subsection}{\numberline {6.3.7}Decision taking}{48}{subsection.6.3.7}
+\contentsline {subsubsection}{\numberline {6.3.7.1}Decision}{49}{subsubsection.6.3.7.1}
+\contentsline {section}{\numberline {6.4}Protocol Stack}{49}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Space Segment}{49}{subsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.1.1}Introduction}{49}{subsubsection.6.4.1.1}
+\contentsline {paragraph}{}{50}{section*.108}
+\contentsline {subsubsection}{\numberline {6.4.1.2}Layer 2: Data Link}{52}{subsubsection.6.4.1.2}
+\contentsline {subsubsection}{\numberline {6.4.1.3}Layer 3: The Network}{54}{subsubsection.6.4.1.3}
+\contentsline {paragraph}{}{54}{section*.110}
+\contentsline {paragraph}{}{55}{section*.111}
+\contentsline {paragraph}{}{55}{section*.112}
+\contentsline {paragraph}{}{55}{section*.113}
+\contentsline {paragraph}{}{56}{section*.114}
+\contentsline {subsubsection}{\numberline {6.4.1.4}Layer 4: Transport and Session}{56}{subsubsection.6.4.1.4}
+\contentsline {subsection}{\numberline {6.4.2}Ground Segment Protocols}{57}{subsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.2.1}Introduction}{57}{subsubsection.6.4.2.1}
+\contentsline {subsubsection}{\numberline {6.4.2.2}Protocols}{57}{subsubsection.6.4.2.2}
+\contentsline {subsubsection}{\numberline {6.4.2.3}Delivery of the data method}{57}{subsubsection.6.4.2.3}
+\contentsline {section}{\numberline {6.5}Launcher and Deployer}{58}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Launching System}{58}{subsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.1.1}Launch site and vehicle analysis}{58}{subsubsection.6.5.1.1}
+\contentsline {subsection}{\numberline {6.5.2}Deployer}{61}{subsection.6.5.2}
+\contentsline {section}{\numberline {6.6}Lifecycle Strategies}{62}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}First Placement}{62}{subsection.6.6.1}
+\contentsline {subsubsubsection}{\numberline {6.6.1.0.1}First Placement logistics}{62}{subsubsubsection.6.6.1.0.1}
+\contentsline {subsubsection}{\numberline {6.6.1.1}1st Placement Maneuver}{63}{subsubsection.6.6.1.1}
+\contentsline {subsubsection}{\numberline {6.6.1.2}In-Orbit Injection}{63}{subsubsection.6.6.1.2}
+\contentsline {subsection}{\numberline {6.6.2}Replacement Strategy}{65}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Spare Strategy}{65}{subsection.6.6.3}
+\contentsline {subsubsection}{\numberline {6.6.3.1}Introduction}{65}{subsubsection.6.6.3.1}
+\contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{66}{subsubsection.6.6.3.2}
+\contentsline {subsection}{\numberline {6.6.4}Major failure deffinition}{68}{subsection.6.6.4}
+\contentsline {paragraph}{}{68}{section*.119}
+\contentsline {subsubsection}{\numberline {6.6.4.1}Decision}{68}{subsubsection.6.6.4.1}
+\contentsline {paragraph}{}{68}{section*.120}
+\contentsline {paragraph}{}{69}{section*.121}
+\contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{69}{subsection.6.6.5}
+\contentsline {chapter}{\numberline {7}Financial Study}{70}{chapter.7}
+\contentsline {chapter}{\numberline {8}Environmental Impact Study}{74}{chapter.8}
+\contentsline {chapter}{\numberline {9}Social and security considerations}{75}{chapter.9}
+\contentsline {chapter}{\numberline {10}Organization and Planning}{77}{chapter.10}
+\contentsline {section}{\numberline {10.1}Internal Structure}{78}{section.10.1}
+\contentsline {section}{\numberline {10.2}Documents organisation}{79}{section.10.2}
+\contentsline {section}{\numberline {10.3}Planning}{80}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Tasks identification from work breakdown structure (WBS)}{80}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{82}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Scheduling}{83}{section.10.4}
+\contentsline {chapter}{\numberline {11}Bibliography}{84}{chapter.11}
