@@ -1,7 +1,7 @@
 \subsection{Ground Segment Protocols}
 \subsubsection{Introduction}
 In the previous chapter the space protocols have been selected, so in this one the focus will be on the ground segment protocols. The information will be transmitted to the client using the Internet, so a part of the protocol is already established by the system. However, a secure protocol has to be defined above the Internet protocol to assure confidenciality to the client. The protocol used in the Internet is the TCP/IP protocol suite, that provides an end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received.
-In the following lines the characteristics of the different available protocols that can be adapted to the needs of the project are presented. More information about the suitability of them can be consulted in Annex II 8.2.
+In the following lines the characteristics of the different available protocols that can be adapted to the needs of the project are presented. More information about the suitability of them can be consulted in [REFERENCE TO Annex II 8.2].
 \subsubsection{Protocols}
 The protocols are the following ones:
 \begin{itemize}
@@ -13,15 +13,15 @@ The protocols are the following ones:
 \item Hypertext Transfer Protocol Secure (HTTPS)
 \end{itemize} 
 \subsubsection{Delivery of the data method} 
-At first, it has to be take in account that this layer provides the plataform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
+At first, it has to be take into account that this layer provides the plataform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
 
-Analazyng the previous protocols, avoiding the techincal details of each one, there are considered this 3 ways of working, with its advantages and drawbacks. In the following page the systems proposed are shown toguether with the decision, but in Annex II 8.3 the advantages and drawbacks of each method is extensively explained.
+Analazyng the previous protocols, avoiding the techincal details of each one, there are considered 3 ways of working, with its advantages and drawbacks. In the following page the systems proposed are shown toguether with the decision, but in [REFERENCE TO Annex II 8.3] the advantages and drawbacks of each method are discussed in order to take the decision.
 \begin{itemize}
-\item \textbf{Web.} This system would be based in HTTP an implemented with the corrseponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where he/she wolud sign in with an account. When the user is verified, the client could request to download informaton of his satellite. 
-\item \textbf{Mail}. This method would be implemented over a SMTP with the corresponding security protocols. If the client wants to download data of his satellite, he/she would have to send a mail specifing the request. Then the client will receive an email with the information.
-\item \textbf{Application}.  The idea is that the cient would operate in his computer with this software, and when he/she want to upload or download something, the program would use a secure internet channel to transfer the information. This system wolud be implemented over a FTP or a SSH. For using this method it has to be implemented a plataform for the client use.
+\item \textbf{Web.} This system would be based in HTTP and implemented with the corresponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where they would sign in with an account. When the user is verified, the client could request to download information of their satellite. 
+\item \textbf{Mail}. This method would be implemented over a SMTP with the corresponding security protocols. If the client wants to download data of his satellite, they would have to send a mail specifing the request. Then the client will receive an email with the information.
+\item \textbf{Application}.  The idea is that the cient would operate in his computer with this software, and when they want to upload or download something, the program would use a secure internet channel to transfer the information. This system wolud be implemented over a FTP or a SSH. 
 \end{itemize}
 
-The chosen method to deliver the data is using an application that would be instaled in the client's computer and where data could be extracted. This is a secure, efficient and user-friendly solution. The application will ensure a high security of the data and a robust access to it. Moreover, for the point of view of the Astrea team, the efforts in mainting a computer application are less than in other cases such as the Mail, where automatization is more difficult to implement.
+The chosen method to deliver the data is an application that would be instaled in the client's computer and where data could be extracted. This is a secure, efficient and user-friendly solution. The application will ensure a high security of the data and a robust access to it. Moreover, for the point of view of the Astrea team, the efforts in mainting a computer application are less than in other cases such as the Mail, where automatization is more difficult to implement.
 
-This system could work with a FTP or with a SSH. Both would work properly in the system and have very similar characteristics, but SSH is more secure than FTP, so the system would be ruled by a SSH protocol.
+This system could work with a FTP or SSH. Both would work properly in the system and have very similar characteristics, but SSH is more secure than FTP, so the system would be ruled by a SSH protocol.

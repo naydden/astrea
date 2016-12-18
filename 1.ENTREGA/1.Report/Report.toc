@@ -141,38 +141,32 @@
 \contentsline {section}{\numberline {6.4}Protocol Stack}{49}{section.6.4}
 \contentsline {subsection}{\numberline {6.4.1}Space Segment}{49}{subsection.6.4.1}
 \contentsline {subsubsection}{\numberline {6.4.1.1}Introduction}{49}{subsubsection.6.4.1.1}
-\contentsline {paragraph}{}{50}{section*.106}
-\contentsline {subsubsection}{\numberline {6.4.1.2}Layer 2: Data Link}{52}{subsubsection.6.4.1.2}
+\contentsline {subsubsection}{\numberline {6.4.1.2}Layer 2: Data Link}{51}{subsubsection.6.4.1.2}
 \contentsline {subsubsection}{\numberline {6.4.1.3}Layer 3: The Network}{54}{subsubsection.6.4.1.3}
-\contentsline {paragraph}{}{54}{section*.108}
-\contentsline {paragraph}{}{55}{section*.109}
-\contentsline {paragraph}{}{55}{section*.110}
-\contentsline {paragraph}{}{55}{section*.111}
-\contentsline {paragraph}{}{56}{section*.112}
-\contentsline {subsubsection}{\numberline {6.4.1.4}Layer 4: Transport and Session}{56}{subsubsection.6.4.1.4}
-\contentsline {subsection}{\numberline {6.4.2}Ground Segment Protocols}{57}{subsection.6.4.2}
-\contentsline {subsubsection}{\numberline {6.4.2.1}Introduction}{57}{subsubsection.6.4.2.1}
+\contentsline {subsubsection}{\numberline {6.4.1.4}Layer 4: Transport and Session}{55}{subsubsection.6.4.1.4}
+\contentsline {subsection}{\numberline {6.4.2}Ground Segment Protocols}{56}{subsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.2.1}Introduction}{56}{subsubsection.6.4.2.1}
 \contentsline {subsubsection}{\numberline {6.4.2.2}Protocols}{57}{subsubsection.6.4.2.2}
 \contentsline {subsubsection}{\numberline {6.4.2.3}Delivery of the data method}{57}{subsubsection.6.4.2.3}
 \contentsline {section}{\numberline {6.5}Launcher and Deployer}{58}{section.6.5}
 \contentsline {subsection}{\numberline {6.5.1}Launching System}{58}{subsection.6.5.1}
 \contentsline {subsubsection}{\numberline {6.5.1.1}Launch site and vehicle analysis}{58}{subsubsection.6.5.1.1}
-\contentsline {subsection}{\numberline {6.5.2}Deployer}{61}{subsection.6.5.2}
-\contentsline {section}{\numberline {6.6}Lifecycle Strategies}{62}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}First Placement}{62}{subsection.6.6.1}
-\contentsline {subsubsubsection}{\numberline {6.6.1.0.1}First Placement logistics}{62}{subsubsubsection.6.6.1.0.1}
+\contentsline {subsection}{\numberline {6.5.2}Deployer}{60}{subsection.6.5.2}
+\contentsline {section}{\numberline {6.6}Lifecycle Strategies}{61}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}First Placement}{61}{subsection.6.6.1}
+\contentsline {subsubsubsection}{\numberline {6.6.1.0.1}First Placement logistics}{61}{subsubsubsection.6.6.1.0.1}
 \contentsline {subsubsection}{\numberline {6.6.1.1}1st Placement Maneuver}{63}{subsubsection.6.6.1.1}
 \contentsline {subsubsection}{\numberline {6.6.1.2}In-Orbit Injection}{63}{subsubsection.6.6.1.2}
-\contentsline {subsection}{\numberline {6.6.2}Replacement Strategy}{65}{subsection.6.6.2}
-\contentsline {subsection}{\numberline {6.6.3}Spare Strategy}{65}{subsection.6.6.3}
-\contentsline {subsubsection}{\numberline {6.6.3.1}Introduction}{65}{subsubsection.6.6.3.1}
-\contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{66}{subsubsection.6.6.3.2}
+\contentsline {subsection}{\numberline {6.6.2}Replacement Strategy}{64}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Spare Strategy}{66}{subsection.6.6.3}
+\contentsline {subsubsection}{\numberline {6.6.3.1}Introduction}{66}{subsubsection.6.6.3.1}
+\contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{67}{subsubsection.6.6.3.2}
 \contentsline {subsection}{\numberline {6.6.4}Major failure deffinition}{68}{subsection.6.6.4}
-\contentsline {paragraph}{}{68}{section*.117}
+\contentsline {paragraph}{}{68}{section*.111}
 \contentsline {subsubsection}{\numberline {6.6.4.1}Decision}{68}{subsubsection.6.6.4.1}
-\contentsline {paragraph}{}{68}{section*.118}
-\contentsline {paragraph}{}{69}{section*.119}
-\contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{69}{subsection.6.6.5}
+\contentsline {paragraph}{}{68}{section*.112}
+\contentsline {paragraph}{}{68}{section*.113}
+\contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{68}{subsection.6.6.5}
 \contentsline {chapter}{\numberline {7}Financial Study}{70}{chapter.7}
 \contentsline {chapter}{\numberline {8}Environmental Impact Study}{74}{chapter.8}
 \contentsline {chapter}{\numberline {9}Social and security considerations}{75}{chapter.9}
