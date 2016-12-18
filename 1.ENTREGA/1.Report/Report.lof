@@ -27,22 +27,22 @@
 \contentsline {figure}{\numberline {6.1.20}{\ignorespaces Candidate 7. Full Walker-Delta constellation configuration.h= 542km; in=72; Np=9; Npp=21; Tsat= 189\relax }}{26}{figure.caption.38}
 \contentsline {figure}{\numberline {6.1.21}{\ignorespaces Length of the passes on the example GS.\relax }}{28}{figure.caption.41}
 \contentsline {figure}{\numberline {6.1.22}{\ignorespaces Astrea Constellation Final Configuration.\relax }}{30}{figure.caption.44}
-\contentsline {figure}{\numberline {6.3.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{43}{figure.caption.93}
-\contentsline {figure}{\numberline {6.3.2}{\ignorespaces S-band Equipment}}{45}{figure.caption.94}
-\contentsline {figure}{\numberline {6.3.3}{\ignorespaces X-band Equipment}}{46}{figure.caption.95}
-\contentsline {figure}{\numberline {6.3.4}{\ignorespaces LeafSpace Ground Stations}}{48}{figure.caption.102}
-\contentsline {figure}{\numberline {6.4.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{50}{figure.caption.104}
-\contentsline {figure}{\numberline {6.4.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{51}{figure.caption.105}
-\contentsline {figure}{\numberline {6.6.1}{\ignorespaces Old Constellation\relax }}{65}{figure.caption.108}
-\contentsline {figure}{\numberline {6.6.2}{\ignorespaces Old and New Constellations\relax }}{66}{figure.caption.109}
-\contentsline {figure}{\numberline {6.6.3}{\ignorespaces New Constellation\relax }}{67}{figure.caption.110}
+\contentsline {figure}{\numberline {6.7.1}{\ignorespaces Options for placing the 3 Ground Stations.\relax }}{43}{figure.caption.93}
+\contentsline {figure}{\numberline {6.7.2}{\ignorespaces S-band Equipment}}{46}{figure.caption.94}
+\contentsline {figure}{\numberline {6.7.3}{\ignorespaces X-band Equipment}}{46}{figure.caption.95}
+\contentsline {figure}{\numberline {6.7.4}{\ignorespaces LeafSpace Ground Stations}}{49}{figure.caption.102}
+\contentsline {figure}{\numberline {6.8.1}{\ignorespaces Protocols recommended by the CCSDS, classified in their respective OSI layer. Extracted from \cite {CCSDSOverview}\relax }}{51}{figure.caption.104}
+\contentsline {figure}{\numberline {6.8.2}{\ignorespaces Possible combinations of the CCSDS recommended protocols. Extracted from \cite {CCSDSOverview}\relax }}{51}{figure.caption.105}
+\contentsline {figure}{\numberline {6.10.1}{\ignorespaces Old Constellation\relax }}{66}{figure.caption.108}
+\contentsline {figure}{\numberline {6.10.2}{\ignorespaces Old and New Constellations\relax }}{67}{figure.caption.109}
+\contentsline {figure}{\numberline {6.10.3}{\ignorespaces New Constellation\relax }}{68}{figure.caption.110}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Roles and Responsabilities\relax }}{78}{figure.caption.115}
-\contentsline {figure}{\numberline {10.2.1}{\ignorespaces BSCW\relax }}{80}{figure.caption.116}
-\contentsline {figure}{\numberline {10.2.2}{\ignorespaces Git commits, viewed with Gitk\relax }}{80}{figure.caption.116}
-\contentsline {figure}{\numberline {10.2.3}{\ignorespaces Texmaker, Latex.\relax }}{80}{figure.caption.117}
-\contentsline {figure}{\numberline {10.2.4}{\ignorespaces Slack\relax }}{80}{figure.caption.117}
+\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Roles and Responsabilities\relax }}{77}{figure.caption.115}
+\contentsline {figure}{\numberline {10.2.1}{\ignorespaces BSCW\relax }}{79}{figure.caption.116}
+\contentsline {figure}{\numberline {10.2.2}{\ignorespaces Git commits, viewed with Gitk\relax }}{79}{figure.caption.116}
+\contentsline {figure}{\numberline {10.2.3}{\ignorespaces Texmaker, Latex.\relax }}{79}{figure.caption.117}
+\contentsline {figure}{\numberline {10.2.4}{\ignorespaces Slack\relax }}{79}{figure.caption.117}
 \addvspace {10\p@ }
