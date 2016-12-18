@@ -2,7 +2,7 @@ The place where the Ground Stations would be placed has to be studied in order t
 
 Given the constellation topology, the coverage of a Ground Station depending on its longitude and latitude will be studied. The aim of this analysis is to show where a Ground Station would have more coverage and give a first approximation and proposal of the 3 Ground Station placement.
 
-\subsection{Method}
+\subsubsection{Method}
 For the purpose above explained, a Matlab algorithm is developed. This algorithm calculates, on a given moment, how many satellites can be seen from a Ground Station. This calculation will be done several times in order to obtain results along time. In order to elaborate the algorithm the steps showed below are followed:
 \begin{enumerate}
 \item Calculate where the satellites are refereed to an inertial Cartesian coordinates system, with the origin at the center of the Earth. This state analysis is done for several time periods with an adequate time-step. 
@@ -12,7 +12,7 @@ For the purpose above explained, a Matlab algorithm is developed. This algorithm
 
 Once the algorithm is tested and verified, the links during the day for several longitudes and latitudes and how this parameters affect to the coverage of the station are studied. The code used can be found in [{REF TO ANNEX VI. Section 14}], while the study of localization can be found in [{REF TO ANNEX III. Chapter 9. Section 1}].
 
-\subsection{Conclusion}
+\subsubsection{Conclusion}
 To summarize the results of the analysis, for an optimum performance of every Ground Station, they should be located at latitudes between -62.5º and -57.5º or between +57.5º and +62.5º. For a better performance of the system every Ground Station should be 120º of longitude away of the other GSs if they are at the same latitude or 60º of longitude away if they are at the opposite latitude. Taking in account the topography of the Earth, the following options are proposed (every color represent the options for one Ground Station):
 \begin{figure}[H]
 \begin{center}

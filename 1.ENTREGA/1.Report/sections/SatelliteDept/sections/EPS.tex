@@ -1,31 +1,31 @@
-\section{Electrical Power System}
+\subsubsection{Electrical Power System}
 
 \paragraph{}The Electrical Power System (EPS) of the satellite must provide and manage the energy generated efficiently in order to have all the systems operating under typical conditions during the lifetime of the mission. The role of this system is to control and distribute a continuous power to the Cubesat, to protect the satellite against electrical bus failiures and to monitor and communicate the status of the EPS to the on-board computer. The EPS of the Cubesat is, probably, the most fundamental requirement of the satellite, since its failure would result in a mission failure.
 
-\subsection{Estimation of the power required}
+\subsubsection{Estimation of the power required}
 \paragraph{}To select the adequate electrical power systems it is essential that the power consumed by the CubeSat is known \textit{a priori}. Thus, to select the solar arrays and the batteries, as well as the power management system, an estimation of the power consumed has to be made.
 
 \paragraph{}The total power required is 52W and it has been estimated considering that all the subsystems are working under typical working conditions.
 
-\subsection{Solar arrays}
+\subsubsection{Solar arrays}
 \paragraph{}Given that the space of a 3U CubeSat is very limited, the primary source of electrical power has to be photovoltaic cells. The photovoltaic cells will collect and convert the energy of the sun into electrical energy and they have to be fully efficient for at least four years (this is: it has to be ensured that the missions does not run out of power for at least four years). 
 
 \paragraph{}Every cubesat will come with at least 4 deployable solar panels (manufactured by \textbf{EXA-Agencia Espacial Civil Ecuatoriana} providing it with 67.2W of power, approximately, to supply peak demands. Note that these 4 deployable solar panels are a basic requirement. If more space is available on the faces of the satellite, additional panels can be placed providing extra power.
 
-\subsection{Power management system}
+\subsubsection{Power management system}
 \paragraph{}The role of the power management system is to distribute the power and supply the energy to the different systems used in the CubeSat. Since these systems have different power and energy needs, the power management system has to be highly compatible and must have a high enough number of buses to supply the different voltage and intensity required to the systems.
 
 \paragraph{}The selected option for the mission is the \textbf{NanoPower P60} by \textbf{Gomspace}, a high-power EPS for small satellites that comes with 1 motherboard, 1 ACU module (Array Conditioning Unit) and 1 PDU (Power Distribution Unit), allowing multiple configurations in just one motherboard and saving a lot of space.
 
 
-\subsection{Batteries}
+\subsubsection{Batteries}
 \paragraph{}	The role of the batteries is to provide the subsystems of the satellite with the power needed when the solar arrays are working less efficiently or not properly. Astrea is looking for decent capacity batteries that provide a \textit{slightly higher} than typical energy and power supply, since all the systems will not usually operate under peak conditions. 
 
 \paragraph{}Astrea has chosen the \textbf{BA01/D} batteries manufactured by \textbf{EXA-Agencia Espacial Civil Ecuatoriana}. The CubeSat will have two of these batteries, with a total capacity of 28800mAh or 106.4Wh.
 
 \paragraph{}Through the lifetime of the mission, the solar arrays will face an important unfavorable condition; in the worst case scenario, the satellite will be in the dark during half of the period of the orbit. So, it is clear that the batteries are a critical system. If the satellite was in the dark during half of the period of the orbit, the estimated energy that it would need would be ~50Wh. Thereby, the capacity of the batteries is more than enough to supply the energy required in the worst case scenario. Furthermore, they will supply energy when the energy demand of the CubeSat is higher than the energy collected by the solar cells. And logically, they will store the energy collected by the solar arrays when the energy demand of the systems is lower than the energy collected.
 
-\subsection{Options chosen for the EPS}
+\subsubsection{Options chosen for the EPS}
 \paragraph{}Finally, the options chosen are presented in the table \ref{epsfinal}.
 
 \begin{longtable}{| l | r | r | r | }

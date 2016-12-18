@@ -1,4 +1,4 @@
-\section{Payload}
+\subsection{Payload}
 \paragraph{}The payload needs to provide a radio link with the client's satellite(s) for real time data relay with no less than 25MB/s of data rate. For achieving its purpose, the payload will consist on a pack of arrays of antennas and data handling computers.
 
 \paragraph{}The CubeSat will have three types of radio links for transmitting in every condition the data received from the clients:
@@ -10,29 +10,29 @@
 \paragraph{}The radio frequencies used to establish the previous described links are regulated in \cite{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015} by frequency, bandwidth and type of communication . So, for the \textbf{Space to Ground link} frequencies from \textbf{70MHz} to \textbf{240GHz} will be used; for \textbf{Inter-satellite Space to Space link} plus data relay type of communication, frequencies are \textbf{2-2.4GHz}, \textbf{4-4,4GHz} and \textbf{22-240GHz}. Finally, \textbf{Client Space to Space link}, they exist to cases; on the one hand, the client points towards the Earth like a standard satellite, we capture its signal and make the data relay, since it is like a Space to Ground communication and also like a inter-satellite communication, we can combine the two previous restrictions. On the other hand, if the client satellite is below our constellation, we only had inter-satellite communication, therefore \textbf{Inter-satellite Space to Space link} rules are applied.
 
 
-\subsection{Antennas}
+\subsubsection{Antennas}
 \paragraph{}The antennas are essential in this mission, since their role is to transmit and receive the data from other satellites as well as the ground stations. In order to provide fast and reliable communication, several options have been studied and information about their main parameters is presented below.
 
-\subsubsection{Patch antenna}
+\subsubsubsection*{Patch antenna}
 \paragraph{}A \textbf{patch antenna} is a type of radio antenna with a low profile, which can be mounted on a flat surface, It consists of a flat rectangular sheet or "patch" of metal, mounted over a larger sheet of metal called a ground plane. They are the original type of microstrip antenna described by Howell in 1972. \cite[wikipedia]{patch}
 
 \paragraph{}The antenna that will be equipped in the CubeSat is the patch antenna manufactured by \textbf{AntDevCov}. The satellite will come with 8 of this type of antenna; 4 of them will be placed on each side face of the CubeSat and they will occupy a 1U face and the other 4 of them will be placed on the top and the bottom.
 
-\subsection{Payload Data Handling Systems}
+\subsubsection{Payload Data Handling Systems}
 \paragraph{} Every satellite will act as a router to transmit client data to the ground. This initial raw data, should be temporally stored into the satellite in order to process it, if necessary. Since, to down-link the data, first the satellites need to establish connection, data can not be directly retransmitted to other sources (Ground Station nor satellite) as it enters to the satellite. Furthermore, non loss compression algorithms can be applied to reduce the data size load and achieve higher data transmission velocities.
 
 \paragraph{}To sum up, Payload Data Handling System (PDHS) will be able to receive, process and send the client data, using the integrated transceivers (transmitter + receiver )  for sending the data and the PDHS computer to process it. PDHS have a hard disk associated which will temporally store the client data.
 
 \paragraph{}The PDHS selected for the mission is the \textbf{Nanomind Z7000} because of its two 667MHz processor can handle a high data payloads and processit at a high velocity velocities, reducing in last term delay between communications. 
 
-\subsubsection{Transceivers}
+\subsubsubsection*{Transceivers}
 \paragraph{} A transceiver is a device comprising both a transmitter and a receiver that are combined and share common circuitry or a single housing. For the preliminary design, because we know that they should satisfy all the connectivity options, we are restricted to the S, K or higher bands for \textbf{Inter-satellite communication} and not restriction virtually at all for \textbf{Space to Ground} communication. Nevertheless, together with the communications department, X band is chosen as the frequency to talk to the floor because several factors: the use in 
 
 \paragraph{}The \textbf{NanoCom TR-600} by \textbf{GOMspace} has has been selected as the inner-satellite tranceiver since its manufacturer offers it in combination with the \textbf{NanoMind Z7000}. Both integrated on a board able to hold three TR-600 transceivers and one computer. The low dimensions, high bandwidth (associated to high data rates) and low mass of TR-600 makes it a great choice for Inter-Satellite communication.
 
 \paragraph{}The \textbf{SWIFT-XTS} has been selected as the space-to-ground transceiver. Its high bandwidth will make possible higher communication data rates.
 
-\subsection{Options chosen for the payload module}
+\subsubsection{Options chosen for the payload module}
 
 \paragraph{}Finally, with the aim to clarify all the information of this section, the chosen systems and components are presented in the table \ref{payloadchosen}.
 

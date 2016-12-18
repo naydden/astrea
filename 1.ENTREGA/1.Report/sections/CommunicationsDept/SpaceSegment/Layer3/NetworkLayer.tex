@@ -30,7 +30,7 @@
 %
 %\chapter{Network Layer}
 
-\subsection{Functions of the Network Layer}
+\subsubsubsection*{Functions of the Network Layer}
 The Network layer provides the following functions\footnote{Explained in Annex II 7.2.1}
 \begin{itemize}
 \item \textbf{Routing}
@@ -40,7 +40,7 @@ The Network layer provides the following functions\footnote{Explained in Annex I
 \item \textbf{Message forwarding}
 \end{itemize}
 
-\subsection{Protocols}
+\subsubsubsection*{Protocols}
 \paragraph{}According to the CCSDS the protocols to use can be divided into three different protocols\footnote{They are explained ad Annex II 7.2.2} 
 \begin{itemize}
 \item Main protocol
@@ -53,15 +53,15 @@ The possible protocols are:
 \item Routing protocol: Enhanced Interior Gateway Routing Protocol (EIGRP), Open Shortest Path First (OSPF) and Routing Information Protocol (RIP).
 \item Auxiliary protocols: Encapsulation service, IP over CCSDS (IPvC), Internet Control Message Protocol (ICMP), Internet Control Message Protocol version 6(ICMPv6), Internet Group Management Protocol (IGMP), Internet Protocol Security (IPsec) and Protocol Independent Multicast (PIM).
 \end{itemize}
-\subsection{Protocol Selection}
-\subsubsection{Choice of the main protocol}
+\subsubsubsection*{Protocol Selection}
+\textbf{Choice of the main protocol}
 \paragraph{}The choice of the main protocol will be between SPP, IPv4 and IPv6. To make the choice, it is important to take into account that the Astrea constellation is a network that can be of more than two hundred satelites, which will communicate point-to-point. Each node can be the source ,the destination or an intermediate node of a communication route.
 For this reason, the SPP has to be discharged, because it requires a Path ID. In Astrea constellation there are 29800 possible routes while the Path ID parameter only has 11 bits, that means that could work in a network with a maximum of 2048 routes. Between IPv4 and IPv6, is logical to choose IPv6 for its amplified benefits. Then, IPv6 will be the main protocol of the network layer. More details about this decision can be found in Annex 7.2.3.1. 
-\subsubsection{Choice of routing protocol}
+\textbf{Choice of routing protocol}
 First of all, RIP will be discharged because it has poor scalability and needs more time to converge. Then, the decision remains between EIGRP and OSPF. The difference between these two protocols is the way they update the routing table. With the EIGRP, 2000 entries are updated frequently while with OSPF, only 205 entries are needed to be updated. For this reason, OSPF is chosen. From more details about this selection, see Annex 7.2.3.2.
-\subsubsection{Choice of complementary protocols}
+\textbf{Choice of complementary protocols}
 \paragraph{}The choice of which protocols include will depend on the main protocol of the network layer and the degree of services featured by the communication process.
 \paragraph{}Since IPv6 has been chosen, IP over CCSDS and Encapsulation Service are necessary. Additionally, ICMPv6 greatly expand the features of IPv6 such as flow control. Security features are already provided in the Data Link layer and, therefore, IPsec is not necessary. Also, no multicast features are required, so no multicast protocols will not be used.
 
-\subsubsection{Conclusion}
+\textbf{Conclusion}
 \paragraph{}It has been decided that IPv6 will be the network layer protocol, complemented with IPoC, Encapsulation Service and ICMPv6, and with OSPF as the routing protocol. In Annex II 7.2.4 the headers of the different protocols are shown. 

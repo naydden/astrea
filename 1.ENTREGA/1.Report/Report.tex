@@ -19,6 +19,17 @@
 \usepackage{tocloft}
 
 
+
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+
+
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{avant}
 \begin{document}
 
 \input{./doc_config/cover} % COVER
@@ -28,7 +39,7 @@
 \pagenumbering{roman}
 
 % TABLE OF CONTENTS
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{2}
 \tableofcontents
 \pagebreak
 
@@ -75,34 +86,18 @@
 % PLANNING AND SCHEDULING FOR THE FOLLOW-UP
 % CONCLUSIONS, RECOMMENDATIONS AND PERSONAL LESSON
 % BIBLIOGRAPHY AND REGULATIONS
-\chapter{Introduction}
 \import{sections/}{Aim}
 \import{sections/}{Scope}
 \import{sections/}{Requirements}
 \import{sections/Background/}{Background}
-\part{Orbit Design}
-\import{sections/OrbitDesign/}{Ch2-OrbitalCoverage}
-\import{sections/OrbitDesign/}{Ch3-ConstConfig}
-\import{sections/OrbitDesign/}{Ch4-OrbitPerturbations}
-\import{sections/OrbitDesign/}{Ch5-Decision}
+\import{sections/}{state-of-art}
 
-\part{Constellation Deployment}
-\import{sections/Constellation_Deployment/}{CD_Report}
+\import{sections/}{alternatives}
 
-\part{Communications}
-\import{sections/CommunicationsDept/}{Ch1-SpaceSegment}
-\import{sections/CommunicationsDept/}{Ch2-GroundSegment}
-\import{sections/CommunicationsDept/}{Ch3-GroundSegmentDesign}
 
-\part{Satellite design}
-\import{sections/SatelliteDept/}{SatDesign}
-
-\part{Financial and Other Considerations}
 \import{sections/FinancialDept/}{Ch1-FinancialStudy}
 \import{sections/FinancialDept/}{Ch2-Environmental}
 \import{sections/FinancialDept/}{Ch3-Social}
-
-\part{Organization, Planning and Scheduling}
 \import{sections/Organization/}{organization} 
 
 
