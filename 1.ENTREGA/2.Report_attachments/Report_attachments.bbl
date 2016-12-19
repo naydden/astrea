@@ -152,9 +152,10 @@ H~Holbrook, B~Cain, and B~Haberman.
 \newblock 2006.
 
 \bibitem{IPsec}
-S~Kent and K~Seo.
-\newblock {Security Architecture for the Internet Protocol}.
-\newblock pages 1--101, 2005.
+Anirban Chakrabarti and Manimaran Govindarasu.
+\newblock {IP Security (IPSec)}.
+\newblock {\em Network Security: Current Status and Future Directions}, pages
+  65--82, 2006.
 
 \bibitem{PIMSM}
 B~Fenner, M~Handley, H~Holbrook, I~Kouvelas, R~Parekh, Z~Zhang, and L~Zheng.
@@ -199,18 +200,18 @@ G~Malkin and R~Minnear.
   http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml.
 
 \bibitem{FTP}
-{CAP{\{}{\'{I}}{\}}TULO 12 : FTP : Transferencia de archivos}.
+{CAP{\'{I}}TULO 12 : FTP : Transferencia de archivos}.
 
 \bibitem{SSH}
 Javier Smaldone.
-\newblock {Introducci{\{}{\'{o}}{\}}n a Secure Shell}.
+\newblock {Introducci{\'{o}}n a Secure Shell}.
 \newblock 0.2:1--15, 2004.
 
 \bibitem{SMTP}
 E~L Sistema, D~E~Correo Electr{\'{o}}nico, and Smtp~Y Pop.
-\newblock {Estructura y protocolos del correo electr{\{}{\'{o}}{\}}nico
-  Estructura general del sistema de correo electr{\{}{\'{o}}{\}}nico SMTP (
-  SIMPLE MAIL TRANSFER PROTOCOL )}.
+\newblock {Estructura y protocolos del correo electr{\'{o}}nico Estructura
+  general del sistema de correo electr{\'{o}}nico SMTP ( SIMPLE MAIL TRANSFER
+  PROTOCOL )}.
 \newblock 1984.
 
 \bibitem{HTTPS}
@@ -250,6 +251,14 @@ LimpiezasSIL.
 \newblock {Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias (CNAF) revisado
   2015}.
 \newblock pages 3--110, 2015.
+
+\bibitem{UCSUSA}
+UCSUSA.
+\newblock {UCS Satellite Database}.
+
+\bibitem{GomSpace2016}
+GomSpace.
+\newblock {NanoCom Communication Modules}, 2016.
 
 \bibitem{UN}
 UN.
