@@ -55,7 +55,7 @@ In order to study the possible demand of Mbits, an estimation of the possible un
 	Africa & 12\\
 	\end{tabular}
 	\end{center}
-	\caption{Table. List of Universities with Aerospace Degrees}
+	\caption{List of Universities with Aerospace Degrees}
 	\end{table} 	
 
 By analyzing this information, it can be determined that the continents with countries with higher PIB have more colleges interested in the space field. It is noticed that Asia is the continent with more colleges because, even if it is mostly poor, it is so big that it has rich countries such as Japan, Korea or China and the United Arab Emirates. Moreover, Europe and North America are not so extensive but have a higher aerospace culture and interest. 
@@ -156,7 +156,9 @@ The engineering hours, which were specified in the Project Charter, are again sy
 	\rowcolor[gray]{0.65}
 	TOTAL & 1975 & 39500 \\
 	\bottomrule
+\caption[Engineering Hours]{Break down of the manpower costs (engineering hours)}
 \end{longtable}
+
 
 \subsubsection{Administrarion costs}
 It has to be taken in account that administrating the company will require resources and manpower. To budged this costs there have been considered the following factors:
@@ -211,7 +213,7 @@ The cost of the insurance is around a 20\% of cubesat value, which is 297000 \eu
   \hline
   	\textbf{Cost per year} & 2245320 \euro \\
   \hline
-
+\caption[Insurance costs]{Insurance costs}
 \end{longtable}
 
 \subsection{Economic feasibility study}
@@ -229,7 +231,11 @@ Some conclusions might be extracted from the previous table, by determining the 
 \subsection{Pay Back Time (PBT)}
 The Cumulative Cash Flow can be plotted as follows:
 
-\includegraphics{CCF.png}
+\begin{figure}
+	\centering
+	\includegraphics{CCF.png}
+	\caption[Cumulative Cash Flow]{Cumulative Cash Flow (for 12 years)}
+\end{figure}
 
 From the shown graphic and also from the table, it can be seen that between years 2 and 3, the Cumulative Cash Flow goes from a negative value to a positive one. Therefore, the Pay Back Time is between those two years. This gives a rough approximation of when will the investment be recouped. To be more precise about it, it can be linearly interpolated:
 
@@ -251,7 +257,14 @@ The value of the first PBT (2.59 years) found seems reasonably acceptable, takin
 \subsection{Updated Pay Back Time (UPBT)}
 Again, the Discounted Cumulative Cash Flow can be plotted as follows:
 
-\includegraphics{DCCF.png}
+
+
+\begin{figure}
+	\centering
+	\includegraphics{DCCF.png}
+	\caption[Discounted Cumulative Cash Flow]{Discounted Cumulative Cash Flow (for 12 years, with discount rate of 6\%)}
+\end{figure}
+
 
 The discount rate that has been considered is of a 6\% anual. It can be seen that between years 2 and 3, this value goes from a negative value to a positive one. Thus, the Updated Pay Back Time is between those two years. It can be linearly interpolated to gain some precision:
 
