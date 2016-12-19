@@ -1,6 +1,6 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.0.1}{\ignorespaces Geocentric-equatorial frame. Extracted from \cite {Howard}.\relax }}{2}{figure.caption.4}
-\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Geocentric-equatorial frame and the Classical Orbital Elements. Extracted from \cite {Howard}.\relax }}{4}{figure.caption.7}
+\contentsline {figure}{\numberline {1.0.1}{\ignorespaces Geocentric-equatorial frame. Extracted from \cite {Curtis2010}\relax }}{2}{figure.caption.4}
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Geocentric-equatorial frame and the Classical Orbital Elements. Extracted from \cite {Curtis2010}\relax }}{4}{figure.caption.7}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1.1}{\ignorespaces Single satellite coverage geometry\relax }}{7}{figure.caption.9}
 \contentsline {figure}{\numberline {2.2.1}{\ignorespaces Elevation angle cone. Source: NOAA\relax }}{8}{figure.caption.11}
@@ -8,7 +8,7 @@
 \contentsline {figure}{\numberline {2.3.1}{\ignorespaces Minimum Inclination to provide coverage at different latitude for different orbit apogees.\relax }}{14}{figure.caption.19}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1.1}{\ignorespaces Distribution of the expanded 24-slot GPS constellation.\cite {GPS}\relax }}{18}{figure.caption.22}
-\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Distribution of the 66 Iridium constellation satellites. Generated using \cite {SaVi}\relax }}{19}{figure.caption.23}
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Distribution of the 66 Iridium constellation satellites. Generated using \cite {Wood2011}\relax }}{19}{figure.caption.23}
 \contentsline {figure}{\numberline {3.3.1}{\ignorespaces Single plain street of coverage. The footprints of the satellites superpose leading to a street.\cite {ccar}\relax }}{20}{figure.caption.25}
 \contentsline {figure}{\numberline {3.3.2}{\ignorespaces Two plains streets of coverage. An optimum phasing needs to be obtained.\cite {ccar}\relax }}{21}{figure.caption.26}
 \contentsline {figure}{\numberline {3.3.3}{\ignorespaces Variation of number of satellites for different heights and elevation angles\relax }}{22}{figure.caption.27}
