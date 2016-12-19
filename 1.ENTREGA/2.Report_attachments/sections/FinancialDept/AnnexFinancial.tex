@@ -59,29 +59,29 @@ In order to study the possible demand of Mbits, an estimation of the possible un
 	\end{table} 	
 
 By analyzing this information, it can be determined that the continents with countries with higher PIB have more colleges interested in the space field. It is noticed that Asia is the continent with more colleges because, even if it is mostly poor, it is so big that it has rich countries such as Japan, Korea or China and the United Arab Emirates. Moreover, Europe and North America are not so extensive but have a higher aerospace culture and interest. 
-\newline
-\newline
-On the basis the service is affordable for many prestigious colleges and it permits to provide their students with the chance to improve their knowledge by doing their own experiments, it has been estimated that about 50 universities could end up contracting Astrea's service in the next years. If it is assumed that each university would be interested in sending or receiving a total of 19710000 Mbits anually, therefore the number of Mbits for universities, anually, will be of 98550000 Mbits.
+
+On the basis the service is affordable for many prestigious colleges and it permits to provide their students with the chance to improve their knowledge by doing their own experiments, it has been estimated that about 25 universities could end up contracting Astrea's service in the next years.
 
 \subsubsection{Particular customers}
 Another extremely important sector of clients are the private ones. It is harder to make an assumption on the number of Mbits consumed by this sector. Nevertheless, some figures are needed in order to perform a good feasibility study. 
 
-According to the Union of Concerned Scientists of the United States of America, right now there are about 1500 LEO satellites orbiting around the Earth. But every day space technology is more affordable and feasible, which leads to think that in the next years a good figure of satellites would be of roughly 2000. Therefore, there are two big groups of potencial clients, the ones already orbiting and the ones who will be doing it soon enough.
+According to the Union of Concerned Scientists of the United States of America (\cite{UPSUSA}), right now there are about 800 LEO satellites orbiting around the Earth. But every day space technology is more affordable and feasible, which leads to think that in the next years a good figure of LEO satellites would be of roughly 1300. Therefore, there are two big groups of potencial clients, the ones already orbiting and the ones who will be doing it soon enough.
 
-Of the 1500 already existing satellites, it must be taken into account that they already have their own communication system. Astrea provides them a way of communicating with the satellites almost in real time, which is a great improvement, but as they already have their own method of communciating, they might not find so attractive this new company. Therefore, the demand is that of those 1500 satellites, about 50 would really be interested in using Astrea to send and receive data in real time, because they would really take good profit of it.
+Of the 800 already existing satellites, it must be taken into account that they already have their own communication system. Astrea provides them a way of communicating with the satellites almost in real time, which is a great improvement, but as they already have their own method of communciating, they might not find so attractive this new company. Therefore, the demand is that of those 800 satellites, about 25 would really be interested in using Astrea to send and receive data in real time, because they would really take good profit of it.
 
-Of the 500 which are forecasted to be, it is easier that they are interested in Astrea, because they still have not determined the communication system of their satellite, and therefore they would really find interesting Astrea's service. As Astrea provides a very competitive price, it seems reasonable to think that a good percentage of those satellites would be interested. In order to be conservative, a 50\% of those would be potencial clients. This means that 250 full operating satellites would use Astrea, and assuming also than the average amount of data that those satellites would either send or receive anually is of 1971000 Mbits, the number of Mbits for particular clients, anually, will be of 492750000 Mbits.
-
-It can be checked that the sum of the amounts of Mbits for universities and for particular clients, which is of 591300000
-Mbits, is lower than the maximum amount of Mbits due to the 3 Ground Stations, which is of 2365200000 Mbits. There will not be problem of demand over capacity. 
+Of the 500 which are forecasted to be in the next years, it is easier that they are interested in Astrea, because they still have not determined the communication system of their satellite, and therefore they would really find interesting Astrea's service. As Astrea provides a very competitive price, it seems reasonable to think that a good percentage of those satellites would be interested. In order to be conservative, a 50\% of those would be potencial clients. This means that 250 full operating satellites would use Astrea.
 
 \subsubsection{Demand}
-Taking into account both the universities and the particular clients, and making a conservative assumption, the estimation of the demand, in Mbits, is of a fourth of the maximum capacity of Astrea, this is, 591300000 Mbits anually. Also, in order to simulate the unceirtainty of the company during the first years (as years pass, the company gets reputation and therefore its amount of clients also enlarges), a percentage is applied during the first years. This means that first year only a 75\% of the potential customers exposed before will be achieved, the second year a 80\%, and so on, until the sixth year, in which a 100\% is achieved. 
+
+
+Taking into account both the universities and the particular clients, it has been estimated that about 300 satellites would be using Astrea, due to its competitive price. Now it is time to estimate the number of Mbits that every satellite consumes.
+
+According to \cite{GOM1}, a typical rate of communication for a satellite could be of 1 Mbit/s. Nevertheless, the cubesat is not full-time sending or receiving data. Let's assume that it will use the 0.625\% of its total capacity, which is pretty conservative. With this capacity, the amount of data handled by a satellite is of 1·0.00625·365·24·60·60=197100 Mbits. This can also be expressed as 24.6 GB (gigabytes). Therefore, the main assumption for this analysis is that every satellite will be handling, on avergae, roughly 25 GB of data, which is the result of assuming that they will be working at the 0.625\% of its maximum capacity. 
+
+Moreover, it can be immediately checked that this amount of Mbits is much smaller than the maximum capacity of Astrea. Therefore, there is the possibility of expanding the company by increasing the number of clients.  
 
 \subsection{Pricing the service}
-The determination of the price is made upon the feasibility study, in order to get a reasonable Pay Back Time and benefit. Nevertheless, it is a fact that the fare of Astrea service must fulfill a condition: it has to be competitive. 
-
-Comparing with some others similar services, in order to provide a competitive fare, it seems reasonable a price per Mbit of no more than 0.5 \euro per Mbit, as an upper tape.  
+The determination of the price of Astrea's service is made upon the feasibility study, in order to get a reasonable and feasible situation. Nevertheless, it is a fact that the fare of Astrea service must fulfill a condition: it has to be competitive. 
 
 
 \section{Economic Feasibility Report}
@@ -278,7 +278,7 @@ The Break Even Point is the point at which total cost and total revenue are equa
 
 In Astrea's case, the Break Even Point is the number of Mbits sold the first year so that the Cash Flow of that year is just 0 (or approximately). 
 
-By changing manually the parameter "Number of Mbits hired" of first year, it is found that the Break Even Point is of 49500000 Mbits (with this value of Mbits hired the first year, the Cash Flow is approximately 0). This means that under no account there can be less Mbits hired, otherwise, the Cash Flow would be negative and the Cumulative Cash Flow, negative at beginning since first year is fully just invest, would never reach a positive value, generating losses. 
+By changing manually the parameter "Number of Mbits hired" of first year, it is found that the Break Even Point is of 3708000 Mbits (with this value of Mbits hired the first year, the Cash Flow is approximately 0). This means that under no account there can be less Mbits hired, otherwise, the Cash Flow would be negative and the Cumulative Cash Flow, negative at beginning since first year is fully just invest, would never reach a positive value, generating losses. 
 
 From the assumptions of demand already explained, it can be seen that having a greater demand than the BEP is very likely to happen. Thus, the cash flow will be positive and consequently there will be a time in which there is benefit.
 

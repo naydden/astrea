@@ -101,16 +101,16 @@
 \contentsline {figure}{\numberline {9.1.10}{\ignorespaces Links vs time for longitudes from 0\IeC {\textordmasculine } to 270\IeC {\textordmasculine }}}{147}{figure.caption.208}
 \contentsline {figure}{\numberline {9.1.11}{\ignorespaces Links vs time for longitudes from 0\IeC {\textordmasculine } to 240\IeC {\textordmasculine }}}{148}{figure.caption.209}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat\relax }}{164}{figure.caption.224}
-\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS\relax }}{166}{figure.caption.232}
-\contentsline {figure}{\numberline {10.7.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{185}{figure.caption.298}
-\contentsline {figure}{\numberline {10.7.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{187}{figure.caption.303}
-\contentsline {figure}{\numberline {10.7.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{189}{figure.caption.306}
-\contentsline {figure}{\numberline {10.7.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{190}{figure.caption.307}
-\contentsline {figure}{\numberline {10.7.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{193}{figure.caption.318}
+\contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat. Source \cite {cubesatdimensions}\relax }}{163}{figure.caption.221}
+\contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS. Source \cite {epsbasics}\relax }}{166}{figure.caption.231}
+\contentsline {figure}{\numberline {10.6.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{181}{figure.caption.283}
+\contentsline {figure}{\numberline {10.6.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{184}{figure.caption.288}
+\contentsline {figure}{\numberline {10.6.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{186}{figure.caption.291}
+\contentsline {figure}{\numberline {10.6.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{186}{figure.caption.292}
+\contentsline {figure}{\numberline {10.6.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{189}{figure.caption.303}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{224}{figure.caption.331}
+\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{217}{figure.caption.311}
 \addvspace {10\p@ }
