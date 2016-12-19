@@ -43,7 +43,7 @@
 \contentsline {subsubsection}{\numberline {3.5.0.2}Procedure of Testing Method}{28}{subsubsection.3.5.0.2}
 \contentsline {chapter}{\numberline {4}Orbit Perturbations}{31}{chapter.4}
 \contentsline {section}{\numberline {4.1}Sources of Perturbation}{31}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Introduction to Orbit Perturbations\cite {DavidA.Vallado1998}}{31}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.1}Introduction to Orbit Perturbations \cite {Vallado2007}}{31}{subsection.4.1.1}
 \contentsline {paragraph}{The Approach of the Perturbations Study}{31}{section*.39}
 \contentsline {subsection}{\numberline {4.1.2}Gravity Potential of Earth}{31}{subsection.4.1.2}
 \contentsline {subsection}{\numberline {4.1.3}Atmospheric Drag}{32}{subsection.4.1.3}

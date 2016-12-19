@@ -1,12 +1,3 @@
-\documentclass{article}
-
-\usepackage{graphicx}
-\usepackage{tabularx}
-
-
-
-\begin{document}
-
 \section{Orbital Decay}
 
 \subsection{Solar Cycles}
@@ -31,6 +22,7 @@ Different studies have been made throughout the 20th century cycles. In order to
 
 At 550 km:
 
+\begin{table}
 \begin{center}
  \begin{tabular}{||c| c| c||} 
  \hline\hline
@@ -48,6 +40,7 @@ Year & D/N & Density at 550km [g/cc]\\ [1ex]
 \end{tabular}
 \caption{Density values at solar maximum and minimum of the cycle}
 \end{center}
+\end{table}
 
 These values referring to day and night are the densities of the upper atmosphere at 550 km of altitude respect to the surface of the Earth. The upper atmosphere densities rise during the day following the increase of temperature caused by the radiation of the Sun whereas these values are reduced at night. The orbital decay is on the order of several years whereas these deviations appear every few hours. Thus, in order to compute the orbital decay we will not be taking into account these daily deviations but rather a main value. Therefore the mean density for 1958 will be of 1.85E-14 g/cc and the solar minimum's density of 1964 will be of 8.4E-16 g/cc. \\
 
@@ -57,7 +50,7 @@ In order to analyse how these values may apply to our constellation we first mus
 \includegraphics[width=14cm]{24solar}
 \centering
 \caption{Measured intensities of the 23rd and 24th solar cycles. Source: NOAA}
-\label{figure4}
+\label{fig:solar}
 \end{figure}
 
 We must now adjust the mean constant density defined initially to the conditions that this 24th cycle imposes. It is important to note that our satellites will be launched in 2017, and that the 24th cycle is currently decreasing its intensity. Thus, our calculations will be near the conditions of solar minimum, meaning that the drag of our satellite will be smaller than first considered. \\
@@ -65,11 +58,4 @@ We must now adjust the mean constant density defined initially to the conditions
 Our new approach to the density of the atmosphere at 550 km is near the first approximation, but will consider that we are now entering the solar minimum which will remain more or less constant until 2022. As discussed before, the solar minimum represents a singularity with a minimum density of 8.4E-16 g/cc. The approximation taken will be the resulting constant value which represents the mean smoothed densities between 2017 and 2022. \\
 
 The final density at 550 km considering the solar minimum during 2017 to 2022 will be of 2.0E-15 g/cc. 
-
-
-
-
-
-
-\end{document}
 
