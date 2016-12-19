@@ -1,37 +1,6 @@
-%\documentclass[12pt,a4paper]{report}
-%
-%\usepackage[utf8]{inputenc}
-%\usepackage[english]{babel}
-%\usepackage{amsmath}
-%\usepackage{amsfonts}
-%\usepackage{amssymb}
-%\usepackage{graphicx}
-%\usepackage{eurosym}
-%\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-%\usepackage{wrapfig}
-%\usepackage{mathdots}
-%\usepackage{caption}
-%\usepackage{cite}
-%\usepackage{mathrsfs}
-%\usepackage{float}
-%\usepackage{hyperref}
-%
-%\author{Josep Maria Serra Moncunill}
-%\title{Network Layer Protocols}
-%\date{\today}
-%
-%
-%\begin{document}
-%
-%\maketitle
-%\tableofcontents
-%\listoffigures
-%\listoftables
-%
-%\chapter{Network Layer}
-
 \subsubsubsection*{Functions of the Network Layer}
 The Network layer provides the following functions\footnote{Explained in [REFERENCE TO Annex II 7.2.1]}
+
 \begin{itemize}
 \item \textbf{Routing}
 \item \textbf{Network flow control}
@@ -42,17 +11,21 @@ The Network layer provides the following functions\footnote{Explained in [REFERE
 
 \subsubsubsection*{Protocols}
 According to the CCSDS the protocols to use can be divided into three different protocols\footnote{They are explained at [REFERENCE TO Annex II 7.2.2]} 
+
 \begin{itemize}
 \item Main protocol
 \item Routing protocol
 \item Auxiliary protocols
 \end{itemize}
+
 The possible protocols are:
+
 \begin{itemize}
 \item Main protocol: Space Packet Protocol (SPP), Internet Protocol version 4(IPv4) and Internet Protocol version 6(IPv6).
 \item Routing protocol: Enhanced Interior Gateway Routing Protocol (EIGRP), Open Shortest Path First (OSPF) and Routing Information Protocol (RIP).
 \item Auxiliary protocols: Encapsulation service, IP over CCSDS (IPvC), Internet Control Message Protocol (ICMP), Internet Control Message Protocol version 6(ICMPv6), Internet Group Management Protocol (IGMP), Internet Protocol Security (IPsec) and Protocol Independent Multicast (PIM).
 \end{itemize}
+
 \subsubsubsection*{Protocol Selection}
 \begin{itemize}
 \item \textbf{Choice of the main protocol}
@@ -64,5 +37,6 @@ First of all, RIP will be discarded because it has poor scalability and needs mo
 The choice of which protocols will be included will depend on the main protocol of the network layer and the degree of services featured by the communication process.
 Since IPv6 has been chosen, IP over CCSDS and Encapsulation Service are necessary. Additionally, ICMPv6 greatly expand the features of IPv6 such as flow control. Security features are already provided in the Data Link layer and, therefore, IPsec is not necessary. Also, no multicast features are required, so no multicast protocols will not be used.
 \end{itemize}
+
 \textbf{Conclusion}
 It has been decided that IPv6 will be the network layer protocol, complemented with IPoC, Encapsulation Service and ICMPv6, and with OSPF as the routing protocol. In [REFERENCE TO Annex II 7.2.4] the headers of the different protocols are shown. 
