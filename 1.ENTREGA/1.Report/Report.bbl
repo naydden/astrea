@@ -1,137 +1,111 @@
 \begin{thebibliography}{10}
 
 \bibitem{nanosats}
-Erik Kulu.
-\newblock {Nanosatellite and CubeSat Database}, 2016.
+E.~Kulu, ``{Nanosatellite and CubeSat Database},'' 2016.
 
 \bibitem{ISC}
-Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
-  Rodriguez-Osorio, Frank Pinto, and Scott Burleigh.
-\newblock {Survey of Inter-satellite Communication for Small Satellite Systems:
-  An OSI Framework Approach}.
-\newblock {\em IEEE Communications Surveys {\&} Tutorials}, (c):1--51, 2016.
+R.~Radhakrishnan, W.~Edmonson, F.~Afghah, R.~Rodriguez-Osorio, F.~Pinto, and
+  S.~Burleigh, ``{Survey of Inter-satellite Communication for Small Satellite
+  Systems: An OSI Framework Approach},'' {\em IEEE Communications Surveys {\&}
+  Tutorials}, no.~c, pp.~1--51, 2016.
 
 \bibitem{Howard}
-Howard~D. Curtis.
-\newblock {\em {Orbital Mechanics for Engineering Students}}.
+H.~D. Curtis, {\em {Orbital Mechanics for Engineering Students}}.
 \newblock Elsevier.
 
 \bibitem{Walker1971}
-J.G. Walker.
-\newblock {Some Circular Orbit Pattern Providing Continuous Whole Earth
-  Coverage}.
-\newblock {\em Journal of the British Interplanetary Society}, 24:369--384,
-  1971.
+J.~Walker, ``{Some Circular Orbit Pattern Providing Continuous Whole Earth
+  Coverage},'' {\em Journal of the British Interplanetary Society}, vol.~24,
+  pp.~369--384, 1971.
 
 \bibitem{Walker1977}
-J.G. Walker.
-\newblock {Continuous whole-Earth coverage by circular-orbit satellite
-  patterns}.
-\newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
+J.~Walker, ``{Continuous whole-Earth coverage by circular-orbit satellite
+  patterns},'' {\em Royal Aircraft Establishment. Technical report 77044},
+  1977.
 
 \bibitem{CCSDSOverview}
-CCSDS.
-\newblock {\em {Report Concerning Space Data System Standards - Overview of
-  Space Communications Protocols}}.
-\newblock Number CCSDS 130.0-G-3. 2014.
+CCSDS, {\em {Report Concerning Space Data System Standards - Overview of Space
+  Communications Protocols}}.
+\newblock No.~CCSDS 130.0-G-3, 2014.
 
 \bibitem{SpaceWorks}
-{E. Buchen} and {D. DePasquale}.
-\newblock {Nano/Microsatellite Market Assessment 2014}.
-\newblock pages 1--18, 2014.
+{E. Buchen} and {D. DePasquale}, ``{Nano/Microsatellite Market Assessment
+  2014},'' pp.~1--18, 2014.
 
 \bibitem{keppler}
-{Kepler Communications}, 2016.
+``{Kepler Communications},'' 2016.
 
 \bibitem{SOTA}
-NASA.
-\newblock {Small Spacecraft Technology State of the Art}.
-\newblock (August):1--197, 2016.
+NASA, ``{Small Spacecraft Technology State of the Art},'' no.~August,
+  pp.~1--197, 2016.
 
 \bibitem{Iridium}
-Satellites Iridium.
-\newblock {The Iridium System}.
+S.~Iridium, ``{The Iridium System}.''
 
 \bibitem{Chobotov2002}
-Vladimir~A Chobotov.
-\newblock {\em {Orbital Mechanics}}.
+V.~A. Chobotov, {\em {Orbital Mechanics}}.
 \newblock 2002.
 
 \bibitem{Wood2001}
-Lloyd Wood.
-\newblock {Internetworking with satellite constellations}.
-\newblock {\em Lloydia Cincinnati}, (February), 2001.
+L.~Wood, ``{Internetworking with satellite constellations},'' {\em Lloydia
+  Cincinnati}, no.~February, 2001.
 
 \bibitem{Vallado2007}
-D.A. Vallado.
-\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
-\newblock Springer-Verlag New York, 3 edition, 2007.
+D.~Vallado, {\em {Fundamentals of Astrodynamics and Applications}}.
+\newblock Springer-Verlag New York, 3~ed., 2007.
 
 \bibitem{Macdonald2014}
-Malcolm Macdonald and Viorel Badescu.
-\newblock {\em {The International Handbook of Space Technology}}.
+M.~Macdonald and V.~Badescu, {\em {The International Handbook of Space
+  Technology}}.
 \newblock 2014.
 
 \bibitem{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}
 {Secretar{\'{i}}a de Estado de telecomunicaciones y para la sociedad de la
-  informaci{\'{o}}n.}
-\newblock {Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias (CNAF) revisado
-  2015}.
-\newblock pages 3--110, 2015.
+  informaci{\'{o}}n.}, ``{Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias
+  (CNAF) revisado 2015},'' pp.~3--110, 2015.
 
 \bibitem{patch}
-{Patch antenna - Wikipedia}.
+``{Patch antenna - Wikipedia}.''
 
 \bibitem{UKForm}
-{UK Government}.
-\newblock
-  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0023/47138/ofw564.pdf.
+Ofcom, ``{Application form OfQ564: Application for the Issue of Variation of a
+  Satellite (Non-Geostationary Earth Station Licence)},'' 2016.
 
 \bibitem{UKFees}
-{UK Government}.
-\newblock
-  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0020/27461/fees.pdf.
+``{The Wireless Telegraphy (Licence Charges) Regulations 2011},'' 2011.
 
 \bibitem{UKMHzFees}
-{Government UK}.
-\newblock
-  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0038/66899/fees{\_}for{\_}grant{\_}of{\_}rsa{\_}for{\_}roes.pdf.
+U.~K. Government, ``{The wireless telegraphy (Recognised Spectrum Access
+  Charges)},'' 2015.
 
 \bibitem{UKAllocation}
-{UK Government}.
-\newblock
-  https://www.ofcom.org.uk/{\_}{\_}data/assets/pdf{\_}file/0028/44875/ofw{\_}241{\_}mar{\_}2013.pdf.
+Ofcom, ``{UK Frequency Allocations for Satellite Earth Stations},'' 2013.
 
 \bibitem{CndForm}
-{Canada Government}.
-\newblock http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf00023.html.
+{Canada Government}, ``{RSP-101: Licence Application Submission Procedure for
+  Planned Radio Stations Below 960 MHZ},'' 2008.
 
 \bibitem{CndFees}
-{Canada Government}.
-\newblock http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01027.html{\#}a4.
+{Canada Government}, ``{RIC-42: Guide for Calculating Radio Licence Fees},''
+  2014.
 
 \bibitem{SBand}
-ISISpace.
-\newblock https://www.isispace.nl/product/full-ground-station-kit-s-band/.
+ISISpace, ``{Full Ground Station Kit for S-band}.''
 
 \bibitem{SBandDatasheet}
-IQ~wireless.
-\newblock {http://www.iq-wireless.com/images/pdf/SLINK-PHY-Datasheet.pdf}.
+I.~wireless, ``{S Band Transceiver for Small Satellites.},'' 2015.
 
 \bibitem{XBand}
-Dartcom.
-\newblock {http://www.dartcom.co.uk/files/DartcomXBandEOSSystemBrochure.pdf}.
+Dartcom, ``{X-band EOS System},'' 2014.
 
 \bibitem{Secretariat2014}
-CCSDS Secretariat.
-\newblock {Overview of Space Communications Protocols}.
-\newblock (CCSDS 130.0-G-3):43, 2014.
+C.~Secretariat, ``{Overview of Space Communications Protocols},'' no.~CCSDS
+  130.0-G-3, p.~43, 2014.
 
 \bibitem{EIS}
-{Ministry for the Environment of New Zealand}.
-\newblock {\em {Proposed regulation of jettisoned material from space launch
-  vehicles under the Exclusive Economic Zone and Continental Shelf
-  (Envionmental Effects)}}.
+{Ministry for the Environment of New Zealand}, {\em {Proposed regulation of
+  jettisoned material from space launch vehicles under the Exclusive Economic
+  Zone and Continental Shelf (Envionmental Effects)}}.
 \newblock 2016.
 
 \end{thebibliography}
