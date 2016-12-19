@@ -5,93 +5,104 @@
 \BOOKMARK [0][-]{chapter.3}{Requirements of the project}{}% 5
 \BOOKMARK [0][-]{chapter.4}{Background}{}% 6
 \BOOKMARK [0][-]{chapter.5}{State of the art}{}% 7
-\BOOKMARK [0][-]{chapter.6}{Main alternatives, Decision and Development of the best one}{}% 8
-\BOOKMARK [1][-]{section.6.1}{Orbits}{chapter.6}% 9
-\BOOKMARK [2][-]{subsection.6.1.1}{Coverage}{section.6.1}% 10
-\BOOKMARK [3][-]{subsubsection.6.1.1.1}{Orbit Geometry}{subsection.6.1.1}% 11
-\BOOKMARK [3][-]{subsubsection.6.1.1.2}{Parameters of Satellite Coverage}{subsection.6.1.1}% 12
-\BOOKMARK [3][-]{subsubsection.6.1.1.3}{Market Study: Current Nanosatellites in Orbit}{subsection.6.1.1}% 13
-\BOOKMARK [2][-]{subsection.6.1.2}{Constellation Configuration}{section.6.1}% 14
-\BOOKMARK [3][-]{subsubsection.6.1.2.1}{Polar Orbit Constellation}{subsection.6.1.2}% 15
-\BOOKMARK [3][-]{subsubsection.6.1.2.2}{Walker-Delta Constellation}{subsection.6.1.2}% 16
-\BOOKMARK [3][-]{subsubsection.6.1.2.3}{Testing Method}{subsection.6.1.2}% 17
-\BOOKMARK [2][-]{subsection.6.1.3}{Perturbations}{section.6.1}% 18
-\BOOKMARK [3][-]{subsubsection.6.1.3.1}{Sources of Perturbation}{subsection.6.1.3}% 19
-\BOOKMARK [3][-]{subsubsection.6.1.3.2}{Significant Perturbations}{subsection.6.1.3}% 20
-\BOOKMARK [3][-]{subsubsection.6.1.3.3}{Orbital Station-Keeping}{subsection.6.1.3}% 21
-\BOOKMARK [2][-]{subsection.6.1.4}{Constellation Design Decision}{section.6.1}% 22
-\BOOKMARK [3][-]{subsubsection.6.1.4.1}{Considered Designs}{subsection.6.1.4}% 23
-\BOOKMARK [3][-]{subsubsection.6.1.4.2}{Constellation Performance Analysis}{subsection.6.1.4}% 24
-\BOOKMARK [3][-]{subsubsection.6.1.4.3}{Ordered Weighting Average based Decision}{subsection.6.1.4}% 25
-\BOOKMARK [1][-]{section.6.2}{Space Segment Systems. Satellite Design}{chapter.6}% 26
-\BOOKMARK [2][-]{subsection.6.2.1}{Structure and mechanics}{section.6.2}% 27
-\BOOKMARK [3][-]{subsubsection.6.2.1.1}{Structure}{subsection.6.2.1}% 28
-\BOOKMARK [3][-]{subsubsection.6.2.1.2}{Thermal protection}{subsection.6.2.1}% 29
-\BOOKMARK [3][-]{subsubsection.6.2.1.3}{Options chosen for the structure and thermal protection}{subsection.6.2.1}% 30
-\BOOKMARK [2][-]{subsection.6.2.2}{Electrical Power System}{section.6.2}% 31
-\BOOKMARK [3][-]{subsubsection.6.2.2.1}{Estimation of the power required}{subsection.6.2.2}% 32
-\BOOKMARK [3][-]{subsubsection.6.2.2.2}{Solar arrays}{subsection.6.2.2}% 33
-\BOOKMARK [3][-]{subsubsection.6.2.2.3}{Power management system}{subsection.6.2.2}% 34
-\BOOKMARK [3][-]{subsubsection.6.2.2.4}{Batteries}{subsection.6.2.2}% 35
-\BOOKMARK [3][-]{subsubsection.6.2.2.5}{Options chosen for the EPS}{subsection.6.2.2}% 36
-\BOOKMARK [2][-]{subsection.6.2.3}{Propulsion Systems}{section.6.2}% 37
-\BOOKMARK [2][-]{subsection.6.2.4}{Attitude and Orbital Control Systems}{section.6.2}% 38
-\BOOKMARK [3][-]{subsubsection.6.2.4.1}{Orbital Control}{subsection.6.2.4}% 39
-\BOOKMARK [3][-]{subsubsection.6.2.4.2}{Payload}{subsection.6.2.4}% 40
-\BOOKMARK [3][-]{subsubsection.6.2.4.3}{Communication module}{subsection.6.2.4}% 41
-\BOOKMARK [3][-]{subsubsection.6.2.4.4}{Astrea satellite final configuration}{subsection.6.2.4}% 42
-\BOOKMARK [3][-]{subsubsection.6.2.4.5}{Budget}{subsection.6.2.4}% 43
-\BOOKMARK [1][-]{section.6.3}{Ground Segment Systems}{chapter.6}% 44
-\BOOKMARK [2][-]{subsection.6.3.1}{Introduction}{section.6.3}% 45
-\BOOKMARK [2][-]{subsection.6.3.2}{Localization of the Ground Stations}{section.6.3}% 46
-\BOOKMARK [3][-]{subsubsection.6.3.2.1}{Method}{subsection.6.3.2}% 47
-\BOOKMARK [3][-]{subsubsection.6.3.2.2}{Conclusion}{subsection.6.3.2}% 48
-\BOOKMARK [2][-]{subsection.6.3.3}{Legislation}{section.6.3}% 49
-\BOOKMARK [3][-]{subsubsection.6.3.3.1}{United Kingdom Ground Station}{subsection.6.3.3}% 50
-\BOOKMARK [3][-]{subsubsection.6.3.3.2}{Canada Ground Station}{subsection.6.3.3}% 51
-\BOOKMARK [2][-]{subsection.6.3.4}{Annual costs}{section.6.3}% 52
-\BOOKMARK [3][-]{subsubsection.6.3.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{subsection.6.3.4}% 53
-\BOOKMARK [2][-]{subsection.6.3.5}{Initial investment}{section.6.3}% 54
-\BOOKMARK [3][-]{subsubsection.6.3.5.1}{Description of the systems}{subsection.6.3.5}% 55
-\BOOKMARK [3][-]{subsubsection.6.3.5.2}{Investment}{subsection.6.3.5}% 56
-\BOOKMARK [2][-]{subsection.6.3.6}{Renting of a Ground Station}{section.6.3}% 57
-\BOOKMARK [3][-]{subsubsection.6.3.6.1}{Contact with GS companies}{subsection.6.3.6}% 58
-\BOOKMARK [3][-]{subsubsection.6.3.6.2}{LeafSpace}{subsection.6.3.6}% 59
-\BOOKMARK [2][-]{subsection.6.3.7}{Decision taking}{section.6.3}% 60
-\BOOKMARK [3][-]{subsubsection.6.3.7.1}{Decision}{subsection.6.3.7}% 61
-\BOOKMARK [1][-]{section.6.4}{Protocol Stack}{chapter.6}% 62
-\BOOKMARK [2][-]{subsection.6.4.1}{Space Segment}{section.6.4}% 63
-\BOOKMARK [3][-]{subsubsection.6.4.1.1}{Introduction}{subsection.6.4.1}% 64
-\BOOKMARK [3][-]{subsubsection.6.4.1.2}{Layer 2: Data Link}{subsection.6.4.1}% 65
-\BOOKMARK [3][-]{subsubsection.6.4.1.3}{Layer 3: The Network}{subsection.6.4.1}% 66
-\BOOKMARK [3][-]{subsubsection.6.4.1.4}{Layer 4: Transport and Session}{subsection.6.4.1}% 67
-\BOOKMARK [2][-]{subsection.6.4.2}{Ground Segment Protocols}{section.6.4}% 68
-\BOOKMARK [3][-]{subsubsection.6.4.2.1}{Introduction}{subsection.6.4.2}% 69
-\BOOKMARK [3][-]{subsubsection.6.4.2.2}{Protocols}{subsection.6.4.2}% 70
-\BOOKMARK [3][-]{subsubsection.6.4.2.3}{Delivery of the data method}{subsection.6.4.2}% 71
-\BOOKMARK [1][-]{section.6.5}{Launcher and Deployer}{chapter.6}% 72
-\BOOKMARK [2][-]{subsection.6.5.1}{Launching System}{section.6.5}% 73
-\BOOKMARK [3][-]{subsubsection.6.5.1.1}{Launch site and vehicle analysis}{subsection.6.5.1}% 74
-\BOOKMARK [2][-]{subsection.6.5.2}{Deployer}{section.6.5}% 75
-\BOOKMARK [1][-]{section.6.6}{Lifecycle Strategies}{chapter.6}% 76
-\BOOKMARK [2][-]{subsection.6.6.1}{First Placement}{section.6.6}% 77
-\BOOKMARK [3][-]{subsubsection.6.6.1.1}{1st Placement Maneuver}{subsection.6.6.1}% 78
-\BOOKMARK [3][-]{subsubsection.6.6.1.2}{In-Orbit Injection}{subsection.6.6.1}% 79
-\BOOKMARK [2][-]{subsection.6.6.2}{Replacement Strategy}{section.6.6}% 80
-\BOOKMARK [2][-]{subsection.6.6.3}{Spare Strategy}{section.6.6}% 81
-\BOOKMARK [3][-]{subsubsection.6.6.3.1}{Introduction}{subsection.6.6.3}% 82
-\BOOKMARK [3][-]{subsubsection.6.6.3.2}{Spare Strategy Selection}{subsection.6.6.3}% 83
-\BOOKMARK [2][-]{subsection.6.6.4}{Major failure deffinition}{section.6.6}% 84
-\BOOKMARK [3][-]{subsubsection.6.6.4.1}{Decision}{subsection.6.6.4}% 85
-\BOOKMARK [2][-]{subsection.6.6.5}{End-of-Life Strategy}{section.6.6}% 86
-\BOOKMARK [0][-]{chapter.7}{Financial Study}{}% 87
-\BOOKMARK [0][-]{chapter.8}{Environmental Impact Study}{}% 88
-\BOOKMARK [0][-]{chapter.9}{Social and security considerations}{}% 89
-\BOOKMARK [0][-]{chapter.10}{Organization and Planning}{}% 90
-\BOOKMARK [1][-]{section.10.1}{Internal Structure}{chapter.10}% 91
-\BOOKMARK [1][-]{section.10.2}{Documents organisation}{chapter.10}% 92
-\BOOKMARK [1][-]{section.10.3}{Planning}{chapter.10}% 93
-\BOOKMARK [2][-]{subsection.10.3.1}{Tasks identification from work breakdown structure \(WBS\)}{section.10.3}% 94
-\BOOKMARK [2][-]{subsection.10.3.2}{Interdepency relationships, human resources and level of effort}{section.10.3}% 95
-\BOOKMARK [1][-]{section.10.4}{Scheduling}{chapter.10}% 96
-\BOOKMARK [0][-]{chapter.11}{Bibliography}{}% 97
+\BOOKMARK [1][-]{section.5.1}{Integrated Spacecraft Platforms}{chapter.5}% 8
+\BOOKMARK [1][-]{section.5.2}{Power}{chapter.5}% 9
+\BOOKMARK [1][-]{section.5.3}{Propulsion}{chapter.5}% 10
+\BOOKMARK [1][-]{section.5.4}{Guidance, Navigation and Control}{chapter.5}% 11
+\BOOKMARK [1][-]{section.5.5}{Structures, Materials and Mechanisms}{chapter.5}% 12
+\BOOKMARK [1][-]{section.5.6}{Thermal Control System}{chapter.5}% 13
+\BOOKMARK [1][-]{section.5.7}{Command and Data Handling}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.8}{Communications}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.9}{Integration, Launch and Deployment}{chapter.5}% 16
+\BOOKMARK [1][-]{section.5.10}{Ground Data Systems and Mission Operations}{chapter.5}% 17
+\BOOKMARK [1][-]{section.5.11}{Passive Deorbit Systems}{chapter.5}% 18
+\BOOKMARK [0][-]{chapter.6}{Main alternatives, Decision and Development of the best one}{}% 19
+\BOOKMARK [1][-]{section.6.1}{Orbits}{chapter.6}% 20
+\BOOKMARK [2][-]{subsection.6.1.1}{Coverage}{section.6.1}% 21
+\BOOKMARK [3][-]{subsubsection.6.1.1.1}{Orbit Geometry}{subsection.6.1.1}% 22
+\BOOKMARK [3][-]{subsubsection.6.1.1.2}{Parameters of Satellite Coverage}{subsection.6.1.1}% 23
+\BOOKMARK [3][-]{subsubsection.6.1.1.3}{Market Study: Current Nanosatellites in Orbit}{subsection.6.1.1}% 24
+\BOOKMARK [2][-]{subsection.6.1.2}{Constellation Configuration}{section.6.1}% 25
+\BOOKMARK [3][-]{subsubsection.6.1.2.1}{Polar Orbit Constellation}{subsection.6.1.2}% 26
+\BOOKMARK [3][-]{subsubsection.6.1.2.2}{Walker-Delta Constellation}{subsection.6.1.2}% 27
+\BOOKMARK [3][-]{subsubsection.6.1.2.3}{Testing Method}{subsection.6.1.2}% 28
+\BOOKMARK [2][-]{subsection.6.1.3}{Perturbations}{section.6.1}% 29
+\BOOKMARK [3][-]{subsubsection.6.1.3.1}{Sources of Perturbation}{subsection.6.1.3}% 30
+\BOOKMARK [3][-]{subsubsection.6.1.3.2}{Significant Perturbations}{subsection.6.1.3}% 31
+\BOOKMARK [3][-]{subsubsection.6.1.3.3}{Orbital Station-Keeping}{subsection.6.1.3}% 32
+\BOOKMARK [2][-]{subsection.6.1.4}{Constellation Design Decision}{section.6.1}% 33
+\BOOKMARK [3][-]{subsubsection.6.1.4.1}{Considered Designs}{subsection.6.1.4}% 34
+\BOOKMARK [3][-]{subsubsection.6.1.4.2}{Constellation Performance Analysis}{subsection.6.1.4}% 35
+\BOOKMARK [3][-]{subsubsection.6.1.4.3}{Ordered Weighting Average based Decision}{subsection.6.1.4}% 36
+\BOOKMARK [1][-]{section.6.2}{Space Segment Systems. Satellite Design}{chapter.6}% 37
+\BOOKMARK [2][-]{subsection.6.2.1}{Structure and mechanics}{section.6.2}% 38
+\BOOKMARK [3][-]{subsubsection.6.2.1.1}{Structure}{subsection.6.2.1}% 39
+\BOOKMARK [3][-]{subsubsection.6.2.1.2}{Thermal protection}{subsection.6.2.1}% 40
+\BOOKMARK [3][-]{subsubsection.6.2.1.3}{Options chosen for the structure and thermal protection}{subsection.6.2.1}% 41
+\BOOKMARK [2][-]{subsection.6.2.2}{Electrical Power System}{section.6.2}% 42
+\BOOKMARK [3][-]{subsubsection.6.2.2.1}{Estimation of the power required}{subsection.6.2.2}% 43
+\BOOKMARK [3][-]{subsubsection.6.2.2.2}{Solar arrays}{subsection.6.2.2}% 44
+\BOOKMARK [3][-]{subsubsection.6.2.2.3}{Power management system}{subsection.6.2.2}% 45
+\BOOKMARK [3][-]{subsubsection.6.2.2.4}{Batteries}{subsection.6.2.2}% 46
+\BOOKMARK [3][-]{subsubsection.6.2.2.5}{Options chosen for the EPS}{subsection.6.2.2}% 47
+\BOOKMARK [2][-]{subsection.6.2.3}{Propulsion Systems}{section.6.2}% 48
+\BOOKMARK [2][-]{subsection.6.2.4}{Attitude and Orbital Control Systems}{section.6.2}% 49
+\BOOKMARK [3][-]{subsubsection.6.2.4.1}{Orbital Control}{subsection.6.2.4}% 50
+\BOOKMARK [3][-]{subsubsection.6.2.4.2}{Payload}{subsection.6.2.4}% 51
+\BOOKMARK [3][-]{subsubsection.6.2.4.3}{Communication module}{subsection.6.2.4}% 52
+\BOOKMARK [3][-]{subsubsection.6.2.4.4}{Astrea satellite final configuration}{subsection.6.2.4}% 53
+\BOOKMARK [3][-]{subsubsection.6.2.4.5}{Budget}{subsection.6.2.4}% 54
+\BOOKMARK [1][-]{section.6.3}{Ground Segment Systems}{chapter.6}% 55
+\BOOKMARK [2][-]{subsection.6.3.1}{Introduction}{section.6.3}% 56
+\BOOKMARK [2][-]{subsection.6.3.2}{Localization of the Ground Stations}{section.6.3}% 57
+\BOOKMARK [3][-]{subsubsection.6.3.2.1}{Method}{subsection.6.3.2}% 58
+\BOOKMARK [3][-]{subsubsection.6.3.2.2}{Conclusion}{subsection.6.3.2}% 59
+\BOOKMARK [2][-]{subsection.6.3.3}{Legislation}{section.6.3}% 60
+\BOOKMARK [3][-]{subsubsection.6.3.3.1}{United Kingdom Ground Station}{subsection.6.3.3}% 61
+\BOOKMARK [3][-]{subsubsection.6.3.3.2}{Canada Ground Station}{subsection.6.3.3}% 62
+\BOOKMARK [2][-]{subsection.6.3.4}{Annual costs}{section.6.3}% 63
+\BOOKMARK [3][-]{subsubsection.6.3.4.1}{Annual costs of the Ground Stations and the Mission Control Centre}{subsection.6.3.4}% 64
+\BOOKMARK [2][-]{subsection.6.3.5}{Initial investment}{section.6.3}% 65
+\BOOKMARK [3][-]{subsubsection.6.3.5.1}{Description of the systems}{subsection.6.3.5}% 66
+\BOOKMARK [3][-]{subsubsection.6.3.5.2}{Investment}{subsection.6.3.5}% 67
+\BOOKMARK [2][-]{subsection.6.3.6}{Renting of a Ground Station}{section.6.3}% 68
+\BOOKMARK [3][-]{subsubsection.6.3.6.1}{Contact with GS companies}{subsection.6.3.6}% 69
+\BOOKMARK [3][-]{subsubsection.6.3.6.2}{LeafSpace}{subsection.6.3.6}% 70
+\BOOKMARK [2][-]{subsection.6.3.7}{Decision taking}{section.6.3}% 71
+\BOOKMARK [3][-]{subsubsection.6.3.7.1}{Decision}{subsection.6.3.7}% 72
+\BOOKMARK [1][-]{section.6.4}{Protocol Stack}{chapter.6}% 73
+\BOOKMARK [2][-]{subsection.6.4.1}{Space Segment}{section.6.4}% 74
+\BOOKMARK [3][-]{subsubsection.6.4.1.1}{Introduction}{subsection.6.4.1}% 75
+\BOOKMARK [3][-]{subsubsection.6.4.1.2}{Layer 2: Data Link}{subsection.6.4.1}% 76
+\BOOKMARK [3][-]{subsubsection.6.4.1.3}{Layer 3: The Network}{subsection.6.4.1}% 77
+\BOOKMARK [3][-]{subsubsection.6.4.1.4}{Layer 4: Transport and Session}{subsection.6.4.1}% 78
+\BOOKMARK [2][-]{subsection.6.4.2}{Ground Segment Protocols}{section.6.4}% 79
+\BOOKMARK [3][-]{subsubsection.6.4.2.1}{Introduction}{subsection.6.4.2}% 80
+\BOOKMARK [3][-]{subsubsection.6.4.2.2}{Protocols}{subsection.6.4.2}% 81
+\BOOKMARK [3][-]{subsubsection.6.4.2.3}{Delivery of the data method}{subsection.6.4.2}% 82
+\BOOKMARK [1][-]{section.6.5}{Launcher and Deployer}{chapter.6}% 83
+\BOOKMARK [2][-]{subsection.6.5.1}{Launching System}{section.6.5}% 84
+\BOOKMARK [3][-]{subsubsection.6.5.1.1}{Launch site and vehicle analysis}{subsection.6.5.1}% 85
+\BOOKMARK [2][-]{subsection.6.5.2}{Deployer}{section.6.5}% 86
+\BOOKMARK [1][-]{section.6.6}{Lifecycle Strategies}{chapter.6}% 87
+\BOOKMARK [2][-]{subsection.6.6.1}{First Placement}{section.6.6}% 88
+\BOOKMARK [3][-]{subsubsection.6.6.1.1}{1st Placement Maneuver}{subsection.6.6.1}% 89
+\BOOKMARK [3][-]{subsubsection.6.6.1.2}{In-Orbit Injection}{subsection.6.6.1}% 90
+\BOOKMARK [2][-]{subsection.6.6.2}{Replacement Strategy}{section.6.6}% 91
+\BOOKMARK [2][-]{subsection.6.6.3}{Spare Strategy}{section.6.6}% 92
+\BOOKMARK [3][-]{subsubsection.6.6.3.1}{Introduction}{subsection.6.6.3}% 93
+\BOOKMARK [3][-]{subsubsection.6.6.3.2}{Spare Strategy Selection}{subsection.6.6.3}% 94
+\BOOKMARK [2][-]{subsection.6.6.4}{Major failure deffinition}{section.6.6}% 95
+\BOOKMARK [3][-]{subsubsection.6.6.4.1}{Decision}{subsection.6.6.4}% 96
+\BOOKMARK [2][-]{subsection.6.6.5}{End-of-Life Strategy}{section.6.6}% 97
+\BOOKMARK [0][-]{chapter.7}{Financial Study}{}% 98
+\BOOKMARK [0][-]{chapter.8}{Environmental Impact Study}{}% 99
+\BOOKMARK [0][-]{chapter.9}{Social and security considerations}{}% 100
+\BOOKMARK [0][-]{chapter.10}{Organization and Planning}{}% 101
+\BOOKMARK [1][-]{section.10.1}{Internal Structure}{chapter.10}% 102
+\BOOKMARK [1][-]{section.10.2}{Documents organisation}{chapter.10}% 103
+\BOOKMARK [1][-]{section.10.3}{Planning}{chapter.10}% 104
+\BOOKMARK [2][-]{subsection.10.3.1}{Tasks identification from work breakdown structure \(WBS\)}{section.10.3}% 105
+\BOOKMARK [2][-]{subsection.10.3.2}{Interdepency relationships, human resources and level of effort}{section.10.3}% 106
+\BOOKMARK [1][-]{section.10.4}{Scheduling}{chapter.10}% 107
+\BOOKMARK [0][-]{chapter.11}{Bibliography}{}% 108
