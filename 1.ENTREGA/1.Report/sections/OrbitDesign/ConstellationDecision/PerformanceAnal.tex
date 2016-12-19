@@ -1,15 +1,13 @@
 Even though the design requirements are included in the computation of the different configurations, it is necessary to evaluate how does the constellation perform when deployed. With this purpose, another MATLAB routine was developed. 
 
-\textbf{Time factor\\}
-It is important to remark that the design methods used so far did not consider coverage in a certain period of time, but the coverage at a given instant. This section summarizes a method to compute this variation.
+\paragraph{Time factor}It is important to remark that the design methods used so far did not consider coverage in a certain period of time, but the coverage at a given instant. This section summarizes a method to compute this variation.
 
-\textbf{Quality Time\\}
-Another factor that was not considered in the design process was the pass times of the satellites. If a pass is too short the contact with the satellite cannot be produced. 
+\paragraph{Quality Time}Another factor that was not considered in the design process was the pass times of the satellites. If a pass is too short the contact with the satellite cannot be produced. 
 
-\textbf{Performance Evaluation\\}
-In order to determine if the performance of the Constellation is good enough and to compare different constellations, the following parameters that are to be used in the weighted ordered average decision\ref{OWA-Constellation} are defined.\\
-\newline
+\paragraph{Performance Evaluation}In order to determine if the performance of the Constellation is good enough and to compare different constellations, the following parameters that are to be used in the weighted ordered average decision\ref{OWA-Constellation} are defined.
+
 Simulation parameters important to clarify:
+
 \begin{itemize}
 \item Simulation time: 25h. This time is enough to observe the motion of the whole constellation on Earth considering its rotation and the rotation of the plains due to the Earth's oblateness.
 \item Minimum contact time: 3 minutes. Time enough to download data, tracking and Telecommanding the satellite.
@@ -17,6 +15,7 @@ Simulation parameters important to clarify:
 \end{itemize}
 
 The computed parameters:\label{PerfAnal}
+
 \begin{itemize}
 \item Fraction of time with flybys on the GS: Ratio between the time in which there is any satellite in the field of view of the Ground Station and the total simulation time. (Referred in table \ref{OWA-Constellation} as \% Coverage)
 \item Mean number of links with the satellite
@@ -52,7 +51,6 @@ GS Longitude & $ \phi=0º $ \\ \hline
 
 \begin{table}[H]
 \centering
-
 \begin{tabular}{|l|c|}
 \hline
 Pass Time Ratio & $77.53\% $ \\ \hline
