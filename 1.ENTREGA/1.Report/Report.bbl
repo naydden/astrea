@@ -1,13 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{SpaceWorks}
-{E. Buchen} and {D. DePasquale}.
-\newblock {Nano/Microsatellite Market Assessment 2014}.
-\newblock pages 1--18, 2014.
-
-\bibitem{keppler}
-{Kepler Communications}, 2016.
-
 \bibitem{nanosats}
 Erik Kulu.
 \newblock {Nanosatellite and CubeSat Database}, 2016.
@@ -18,6 +10,38 @@ Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
 \newblock {Survey of Inter-satellite Communication for Small Satellite Systems:
   An OSI Framework Approach}.
 \newblock {\em IEEE Communications Surveys {\&} Tutorials}, (c):1--51, 2016.
+
+\bibitem{Howard}
+Howard~D. Curtis.
+\newblock {\em {Orbital Mechanics for Engineering Students}}.
+\newblock Elsevier.
+
+\bibitem{Walker1971}
+J.G. Walker.
+\newblock {Some Circular Orbit Pattern Providing Continuous Whole Earth
+  Coverage}.
+\newblock {\em Journal of the British Interplanetary Society}, 24:369--384,
+  1971.
+
+\bibitem{Walker1977}
+J.G. Walker.
+\newblock {Continuous whole-Earth coverage by circular-orbit satellite
+  patterns}.
+\newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
+
+\bibitem{CCSDSOverview}
+CCSDS.
+\newblock {\em {Report Concerning Space Data System Standards - Overview of
+  Space Communications Protocols}}.
+\newblock Number CCSDS 130.0-G-3. 2014.
+
+\bibitem{SpaceWorks}
+{E. Buchen} and {D. DePasquale}.
+\newblock {Nano/Microsatellite Market Assessment 2014}.
+\newblock pages 1--18, 2014.
+
+\bibitem{keppler}
+{Kepler Communications}, 2016.
 
 \bibitem{SOTA}
 NASA.
@@ -33,18 +57,10 @@ Vladimir~A Chobotov.
 \newblock {\em {Orbital Mechanics}}.
 \newblock 2002.
 
-\bibitem{Walker1971}
-J.G. Walker.
-\newblock {Some Circular Orbit Pattern Providing Continuous Whole Earth
-  Coverage}.
-\newblock {\em Journal of the British Interplanetary Society}, 24:369--384,
-  1971.
-
-\bibitem{Walker1977}
-J.G. Walker.
-\newblock {Continuous whole-Earth coverage by circular-orbit satellite
-  patterns}.
-\newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
+\bibitem{Wood2001}
+Lloyd Wood.
+\newblock {Internetworking with satellite constellations}.
+\newblock {\em Lloydia Cincinnati}, (February), 2001.
 
 \bibitem{Vallado2007}
 D.A. Vallado.
@@ -105,12 +121,6 @@ IQ~wireless.
 \bibitem{XBand}
 Dartcom.
 \newblock {http://www.dartcom.co.uk/files/DartcomXBandEOSSystemBrochure.pdf}.
-
-\bibitem{CCSDSOverview}
-CCSDS.
-\newblock {\em {Report Concerning Space Data System Standards - Overview of
-  Space Communications Protocols}}.
-\newblock Number CCSDS 130.0-G-3. 2014.
 
 \bibitem{Secretariat2014}
 CCSDS Secretariat.
