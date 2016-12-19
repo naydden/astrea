@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{GPS}
+U.S. Air~Force GPS.
+\newblock {Global Positioning System: Space Segment}.
+
+\bibitem{ccar}
+Bob~Jayne Ccar.
+\newblock {Effects of Satellite Constellation Deployment on Communication
+  Networks}.
+
+\bibitem{Chobotov2002}
+Vladimir~A Chobotov.
+\newblock {\em {Orbital Mechanics}}.
+\newblock 2002.
+
+\bibitem{Iridium}
+Satellites Iridium.
+\newblock {The Iridium System}.
+
+\bibitem{Walker1977}
+J.G. Walker.
+\newblock {Continuous whole-Earth coverage by circular-orbit satellite
+  patterns}.
+\newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
+
+\bibitem{Vallado2007}
+D.A. Vallado.
+\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
+\newblock Springer-Verlag New York, 3 edition, 2007.
+
+\bibitem{Bate1971}
+R.R. Bate, D.D. Mueller, and J.E. White.
+\newblock {\em {Fundamentals of Astrodynamics}}.
+\newblock 1971.
+
+\bibitem{Junkins}
+John~L Junkins.
+\newblock {Integration of Perturbed Motion}.
+\newblock 2006.
+
+\end{thebibliography}

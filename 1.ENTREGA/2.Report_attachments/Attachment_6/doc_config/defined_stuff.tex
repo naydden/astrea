@@ -1,0 +1,21 @@
+%-----------------------------------------------------------------------------
+%	USER DEFINED ENVIRONMENTS
+%-----------------------------------------------------------------------------
+
+% Itemize with reduced vertyical space between items
+\newenvironment{itemize_rvs}
+{ \begin{itemize}
+    \setlength{\itemsep}{0pt}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0pt}     }
+{ \end{itemize}                  }
+
+% Standard names
+
+% Titles and sections structures
+\newcommand{\subpart}[1]{\mbox{ }\\\noindent\textbf{#1}}
+\newcommand{\subsubpart}[1]{\mbox{ }\\\indent\underline{#1}}
+\newcommand{\subsubsubpart}[1]{\mbox{ }\\\indent\indent\textit{#1}}
+
+% Figure/table source
+\newcommand{\source}[1]{\caption*{\hfill Source: {#1}} }

@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{section*.1}{List of Tables}{}% 1
+\BOOKMARK [0][-]{section*.2}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Satellite design}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Structure and thermal protection}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{Structure}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.2}{Thermal protection}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Electrical Power Systems}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{EPS Scheme}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Estimation of the power required}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.3}{Solar arrays}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.4}{Power management system}{section.1.2}% 11
+\BOOKMARK [2][-]{subsection.1.2.5}{Batteries}{section.1.2}% 12
+\BOOKMARK [1][-]{section.1.3}{Propulsion}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.4}{AOCS}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.5}{Payload}{chapter.1}% 15
+\BOOKMARK [2][-]{subsection.1.5.1}{Antennas}{section.1.5}% 16
+\BOOKMARK [2][-]{subsection.1.5.2}{Antenna selection}{section.1.5}% 17
+\BOOKMARK [2][-]{subsection.1.5.3}{Payload Data Handling Systems}{section.1.5}% 18
+\BOOKMARK [2][-]{subsection.1.5.4}{Study of the commercial available options and options chosen}{section.1.5}% 19
+\BOOKMARK [1][-]{section.1.6}{Link Budget}{chapter.1}% 20
+\BOOKMARK [2][-]{subsection.1.6.1}{Communications Basics}{section.1.6}% 21
+\BOOKMARK [2][-]{subsection.1.6.2}{Propagation losses}{section.1.6}% 22
+\BOOKMARK [3][-]{subsubsection.1.6.2.1}{Free Space Losses}{subsection.1.6.2}% 23
+\BOOKMARK [3][-]{subsubsection.1.6.2.2}{Atmospheric Losses}{subsection.1.6.2}% 24
+\BOOKMARK [3][-]{subsubsection.1.6.2.3}{Pointing Losses}{subsection.1.6.2}% 25
+\BOOKMARK [3][-]{subsubsection.1.6.2.4}{Multipath and Fade Margin}{subsection.1.6.2}% 26
+\BOOKMARK [2][-]{subsection.1.6.3}{Local Losses}{section.1.6}% 27
+\BOOKMARK [3][-]{subsubsection.1.6.3.1}{Equipament Losses}{subsection.1.6.3}% 28
+\BOOKMARK [3][-]{subsubsection.1.6.3.2}{Environment Losses}{subsection.1.6.3}% 29
+\BOOKMARK [2][-]{subsection.1.6.4}{Modulation Technique}{section.1.6}% 30
+\BOOKMARK [2][-]{subsection.1.6.5}{System Noise}{section.1.6}% 31
+\BOOKMARK [0][-]{chapter.2}{Bibliography}{}% 32

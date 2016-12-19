@@ -1,0 +1,73 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% LaTeX Template
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{doc_config/doc_config} % Document Configurations
+
+\input{doc_config/doc_info} % Document information
+
+\input{doc_config/headers_and_footers} % Headers and footers
+
+\input{doc_config/defined_stuff} % User defined environments
+
+% Paragraph formatting
+\setlength{\parindent}{0pt}
+
+\usepackage{epigraph}
+\usepackage{tocloft}
+\usepackage{listings}
+\usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}
+
+\begin{document}
+
+\input{./doc_config/cover} % COVER
+\newpage\thispagestyle{EmptyPage}
+\mbox{}\newpage
+
+\pagenumbering{roman}
+
+% TABLE OF CONTENTS
+\setcounter{tocdepth}{3}
+\tableofcontents
+\pagebreak
+
+%\mbox{}\newpage
+\renewcommand{\cfttabnumwidth}{4em}
+\listoftables
+\pagebreak
+
+%\mbox{}\newpage
+\renewcommand{\cftfignumwidth}{4em}
+\listoffigures
+
+
+% DOCUMENT SECTIONS
+
+\newpage
+\pagenumbering{arabic}
+
+\newpage
+\setlength{\parskip}{1em}
+
+
+\import{sections/Constellation_Deployment/}{CD_Report}
+
+
+% BIBLIOGRAPHY
+
+% styles:
+%	abbrv   : [#] Initial. Surname (pages and vol. abbrev.)
+% 	acm     : [#] Surname, Initial. (sc)
+%	alpha   : [Abrev.yy] Name Surname
+%	apalike : [Surname, yyyy] Surname, Initial 
+%	ieeetr  : [#] Initial. Surname (pages and vol. ext.)
+%	plain   : [#] Name Surname
+%	siam    : [#] Initial. Surname (sc)
+%	unsrt   : [#] Name Surname
+
+\bibliographystyle{unsrt}
+\bibliography{library} 
+
+\end{document}
