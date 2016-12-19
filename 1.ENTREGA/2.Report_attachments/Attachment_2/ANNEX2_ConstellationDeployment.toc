@@ -1,33 +1,32 @@
 \contentsline {chapter}{List of Tables}{ii}{section*.1}
 \contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Constellation Deployment}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Constellation Deployment Department}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}First Placement}{6}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}First Placement logistics}{6}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}1st Placement In-Orbit Injection Maneuver}{7}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Orbit Parameters Calculation}{10}{subsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.3.1}Plane Order}{11}{subsubsection.1.2.3.1}
-\contentsline {section}{\numberline {1.3}Replacement Strategy}{13}{section.1.3}
-\contentsline {section}{\numberline {1.4}Spare Strategy}{16}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Spare Strategy Alternatives}{16}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Major failure deffinition}{17}{subsection.1.4.2}
-\contentsline {paragraph}{}{17}{section*.18}
-\contentsline {paragraph}{}{17}{section*.19}
-\contentsline {subsection}{\numberline {1.4.3}Major failure}{18}{subsection.1.4.3}
-\contentsline {paragraph}{}{18}{section*.20}
-\contentsline {subsubsection}{\numberline {1.4.3.1}Satellite in range failure}{18}{subsubsection.1.4.3.1}
-\contentsline {paragraph}{}{18}{section*.21}
-\contentsline {paragraph}{}{18}{section*.23}
-\contentsline {paragraph}{}{19}{section*.24}
-\contentsline {paragraph}{}{19}{section*.27}
-\contentsline {subsubsection}{\numberline {1.4.3.2}Ground station failure}{20}{subsubsection.1.4.3.2}
-\contentsline {paragraph}{}{20}{section*.28}
-\contentsline {paragraph}{}{20}{section*.29}
-\contentsline {subsubsection}{\numberline {1.4.3.3}Transmitting time failure}{20}{subsubsection.1.4.3.3}
-\contentsline {paragraph}{}{20}{section*.30}
-\contentsline {paragraph}{}{20}{section*.31}
-\contentsline {paragraph}{}{21}{section*.32}
-\contentsline {subsection}{\numberline {1.4.4}Space Debris}{22}{subsection.1.4.4}
-\contentsline {subsection}{\numberline {1.4.5}End-of-Life Types and Analysis}{23}{subsection.1.4.5}
-\contentsline {section}{\numberline {1.5}Conclusions}{25}{section.1.5}
-\contentsline {chapter}{\numberline {2}Bibliography}{26}{chapter.2}
+\contentsline {section}{\numberline {1.1}Launching System}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}First Placement}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}First Placement logistics}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}1st Placement In-Orbit Injection Maneuver}{6}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Orbit Parameters Calculation}{9}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Plane Order}{10}{subsubsection.1.2.3.1}
+\contentsline {section}{\numberline {1.3}Replacement Strategy}{12}{section.1.3}
+\contentsline {section}{\numberline {1.4}Spare Strategy}{15}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Spare Strategy Alternatives}{15}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Major failure deffinition}{16}{subsection.1.4.2}
+\contentsline {paragraph}{}{16}{section*.18}
+\contentsline {paragraph}{}{16}{section*.19}
+\contentsline {subsection}{\numberline {1.4.3}Major failure}{17}{subsection.1.4.3}
+\contentsline {paragraph}{}{17}{section*.20}
+\contentsline {subsubsection}{\numberline {1.4.3.1}Satellite in range failure}{17}{subsubsection.1.4.3.1}
+\contentsline {paragraph}{}{17}{section*.21}
+\contentsline {paragraph}{}{17}{section*.23}
+\contentsline {paragraph}{}{18}{section*.24}
+\contentsline {paragraph}{}{18}{section*.27}
+\contentsline {subsubsection}{\numberline {1.4.3.2}Ground station failure}{19}{subsubsection.1.4.3.2}
+\contentsline {paragraph}{}{19}{section*.28}
+\contentsline {paragraph}{}{19}{section*.29}
+\contentsline {subsubsection}{\numberline {1.4.3.3}Transmitting time failure}{19}{subsubsection.1.4.3.3}
+\contentsline {paragraph}{}{19}{section*.30}
+\contentsline {paragraph}{}{19}{section*.31}
+\contentsline {paragraph}{}{20}{section*.32}
+\contentsline {subsection}{\numberline {1.4.4}Space Debris}{21}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}End-of-Life Types and Analysis}{22}{subsection.1.4.5}
+\contentsline {chapter}{\numberline {2}Bibliography}{24}{chapter.2}
