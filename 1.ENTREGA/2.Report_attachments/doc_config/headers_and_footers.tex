@@ -12,7 +12,8 @@
 	\pagestyle{fancy} % Headers and footers -> "fancy" style.
 	
 	% Obtain the name of the section:
-	\renewcommand{\sectionmark}[1]{\markright{Section \thesection : #1}} 
+	\renewcommand{\sectionmark}[1]{\markright{Section \thesection : #1}}
+	\renewcommand{\chaptermark}[1]{\markleft{Chapter \thechapter : #1}} 
 
 	\fancyhf{} % Clear all headers and footers fields
 
@@ -48,6 +49,25 @@
 	\renewcommand{\chaptermark}[1]{%
 \markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}}
+
+
+%-----------------------------------------------
+% Headers and footers for pages where chapter starts:
+%-----------------------------------------------
+\fancypagestyle{plain}{
+	%Headers
+	\fancyhead[LO]{\textbf{\leftmark}} % Section mark
+	\fancyhead[RO]{\includegraphics[height=35pt]{./doc_config/images/logo}}
+	\fancyhead[LE]{\textbf{\leftmark}}
+	\fancyhead[RE]{\includegraphics[height=35pt]{./doc_config/images/logo}}
+	%Footers
+	\fancyfoot[CE]{\precPage{} - \thepage}
+	\fancyfoot[CO]{\precPage{} - \thepage}
+	\fancyfoot[LO,RE]{\textbf{\ProjectName}}
+	
+	\renewcommand{\headrulewidth}{0.5pt} % Header decorative line
+	\renewcommand{\footrulewidth}{0.5pt} % Footer decorative line
+}
 
 
 %-----------------------------------------------

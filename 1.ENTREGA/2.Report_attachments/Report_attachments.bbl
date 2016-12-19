@@ -4,39 +4,19 @@
 U.S. Air~Force GPS.
 \newblock {Global Positioning System: Space Segment}.
 
-\bibitem{ccar}
-Bob~Jayne Ccar.
-\newblock {Effects of Satellite Constellation Deployment on Communication
-  Networks}.
+\bibitem{Iridium}
+Satellites Iridium.
+\newblock {The Iridium System}.
 
 \bibitem{Chobotov2002}
 Vladimir~A Chobotov.
 \newblock {\em {Orbital Mechanics}}.
 \newblock 2002.
 
-\bibitem{CalPoly2014}
-CalPoly.
-\newblock {Cubesat design specification (CDS)}.
-\newblock page~42, 2014.
-
-\bibitem{epsbasics}
-Robert Burt.
-\newblock {Distributed Electrical Power System in Cubesat Applications}.
-\newblock pages 2--3, 2011.
-
-\bibitem{Jorge2012}
-Carlos Jorge and Rodrigues Capela.
-\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
-\newblock (April), 2012.
-
-\bibitem{Note1998}
-Application Note.
-\newblock {Tutorial on Basic Link Budget Analysis}.
-\newblock {\em Intersil}, (June 1998):1--8, 1998.
-
-\bibitem{Iridium}
-Satellites Iridium.
-\newblock {The Iridium System}.
+\bibitem{ccar}
+Bob~Jayne Ccar.
+\newblock {Effects of Satellite Constellation Deployment on Communication
+  Networks}.
 
 \bibitem{Walker1977}
 J.G. Walker.
@@ -246,6 +226,16 @@ LimpiezasSIL.
 {OVO Energy}.
 \newblock {Average electricity prices around the world}.
 
+\bibitem{CalPoly2014}
+CalPoly.
+\newblock {Cubesat design specification (CDS)}.
+\newblock page~42, 2014.
+
+\bibitem{epsbasics}
+Robert Burt.
+\newblock {Distributed Electrical Power System in Cubesat Applications}.
+\newblock pages 2--3, 2011.
+
 \bibitem{collisionLEO}
 {IADC Space Debris Mitigation Guidelines}.
 \newblock 2007.
@@ -259,6 +249,16 @@ LimpiezasSIL.
 
 \bibitem{patch}
 {Patch antenna - Wikipedia}.
+
+\bibitem{Note1998}
+Application Note.
+\newblock {Tutorial on Basic Link Budget Analysis}.
+\newblock {\em Intersil}, (June 1998):1--8, 1998.
+
+\bibitem{Jorge2012}
+Carlos Jorge and Rodrigues Capela.
+\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
+\newblock (April), 2012.
 
 \bibitem{Macdonald2014}
 Malcolm Macdonald and Viorel Badescu.
