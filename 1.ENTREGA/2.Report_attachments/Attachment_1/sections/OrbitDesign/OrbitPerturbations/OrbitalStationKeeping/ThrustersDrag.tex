@@ -1,33 +1,39 @@
 As mentioned in the report, the calculations in the variation of height are made considering that a Hohmann maneuver is applied. The main characteristics of this maneuver are explained on the following sections.
+
 \subsubsection{Energy equation}
 The deduction of the equations needed to solve the Hohmann maneuver begins with the energy equation:
+
 \begin{equation}
 \frac{V^2}{2}-\frac{\mu}{r}=-\frac{\mu}{2a}
 \end{equation}
 where $V$ is the orbital velocity of the satellite, $r$ is the distance from the focus, $a$ the semimajor axis of the orbit and $\mu$ the gravitational constant of the attracting body, in this case, the Earth. This expression shows that the total energy of the satellite equals the sum of its kinetic  and potential energy (per mass unit).
-\paragraph{}
+
 This equation can be arranged to obtain the velocity of the satellite. In the case of a circular orbit, the radius is constant, and equal to the semimajor axis. Replacing $a=r$ in the energy equation and after some operations, the expression of the velocity of a circular orbit is obtained:
 \begin{equation}
 V_{c}=\sqrt{\frac{\mu}{r}}
 \end{equation}
-\paragraph{}
+
 As it can be deduced from the energy equation, a change in orbital velocity leads to a change in the value of the semimajor axis. This property is used in satellites to change their orbit through a velocity increment $\Delta V$. This process is called an orbital maneuver.
 
 \subsubsection{Delta-V}
 If the velocity increment $\Delta V$ is done instantaneously, the maneuver is called an impulsive maneuver. The Hohmann transfer is a two-impulse transfer between coplanar circular orbits. From an inicial circular orbit, a tangential velocity increment $\Delta V_{1}$ is applied to change the orbit to an ellipse. This ellipse is the transfer orbit, in which the perigee radius is the radius of the initial circular orbit and the apogee radius equals the radius of the final circular orbit. When the satellite reaches the apogee, a second velocity increment $\Delta V_{2}$ is applied, so that the satellite reaches the final circular orbit with the apogee radius. If this second velocity is not applied, the satellite will remain in the elliptic orbit.
+
 \begin{figure}
 \centerline{\includegraphics[scale=0.7]{Hohmann.png}}
 \caption{Hohmann transfer. Extracted from \cite{Chobotov2002}}
 \end{figure}
 
 With the energy equation defined above, it is easy to determine the velocity of the satellite in each orbit. The first orbit and the final ones are circular:
+
 \begin{equation}
 V_{1}=\sqrt{\frac{\mu}{r_{1}}}
 \end{equation}
 \begin{equation}
 V_{f}=\sqrt{\frac{\mu}{r_{f}}}
 \end{equation}
+
 The velocity in the transfer orbit can be easily calculated with the energy equation applying the definition of the semimajor axis of an ellipse:
+
 \begin{equation}
 a=\frac{r_{1}+r_{f}}{2}
 \end{equation}

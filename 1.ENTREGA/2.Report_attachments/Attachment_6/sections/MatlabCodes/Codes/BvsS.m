@@ -1,6 +1,6 @@
-%----ASTREA CONSTELLATION----
+%ASTREA CONSTELLATION
 %PROJECTS - 220028
-%Aerospace Engineering Barchelor's Degree
+%Aerospace Engineering Barchelors Degree
 %ESEIAAT - UPC
 %Autumn 2016-2017
 
@@ -12,7 +12,7 @@ This matlab routine calculates the Bandwidth to received signal Strength
 correlation.
 %}
 clc; clear; close all;
-%¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬ 
+% 
 %% Sband calculus
 C = 25*8*1e6 ; %bits/s
 B = 100; %Hz

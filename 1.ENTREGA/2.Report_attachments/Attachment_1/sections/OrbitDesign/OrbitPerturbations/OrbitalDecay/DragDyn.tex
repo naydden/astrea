@@ -1,17 +1,17 @@
 \subsubsection{Introduction}
 %LET'S GO TEAM!!! ONE LESS SECTION
 %We are unstoppppable --> DAB DAB DAB
-\paragraph{}In this part of the chapter the orbital is studied using the model of special perturbations, which as previously defined, is the one that uses a numerical step-by-step integration. There are three manly used methods to study the dynamic propagation of an orbit, which are:\\
+In this part of the chapter the orbital is studied using the model of special perturbations, which as previously defined, is the one that uses a numerical step-by-step integration. There are three manly used methods to study the dynamic propagation of an orbit, which are:\\
 
-\textbf{Cowell's method:} This is the simplest method since it does not require any assumption or approximation. It is based on quantifying the accelerations produced by the perturbations and adding them to the dynamic equation of a Keplerian orbit (see Orbit Design: Chapter 1 equation 1.2.3) leading to:
+\paragraph{Cowell's method} This is the simplest method since it does not require any assumption or approximation. It is based on quantifying the accelerations produced by the perturbations and adding them to the dynamic equation of a Keplerian orbit (see Orbit Design: Chapter 1 equation 1.2.3) leading to:
 
 \begin{equation}\label{eq:ode}
 \frac{d^2 \vec{r}}{d t^2}=-\frac{\mu}{r^3}\vec{r}+\vec{a}_p
 \end{equation}
 
-Where $\vec{a}_p$ is the acceleration produced by the perturbations. This second order differential equation is the one that must be integrated in order to propagate the orbit. Although the formulas and application of this method are simple, this does not imply that it lacks robustness or precision. Its results are as good as any of the following two methods but the major drawback of \textit{Cowell's method} is that it requires smaller time-steps being therefore slower (in terms of computation speed).\\
+Where $\vec{a}_p$ is the acceleration produced by the perturbations. This second order differential equation is the one that must be integrated in order to propagate the orbit. Although the formulas and application of this method are simple, this does not imply that it lacks robustness or precision. Its results are as good as any of the following two methods but the major drawback of \textit{Cowell's method} is that it requires smaller time-steps being therefore slower (in terms of computation speed).
 
-\textbf{Encke's Method:} This method is based on correcting the defects of the previous method. Encke uses a schema based on what is called \textit{predictor-corrector}. First, it evaluates the orbit as if it were a Keplerian orbit (i.e. without perturbations) and then it integrates only the perturbations to correct the deviation caused by considering the unperturbed orbit. Its advantage over Cowell's method is clear, since it only integrates perturbations, and since these vary less over time than the position itself, we can relax the integration by increasing the time step. In short, this scheme is faster but also more complex to program than the one proposed by Cowell.\\
+\textbf{Encke's Method:} This method is based on correcting the defects of the previous method. Encke uses a schema based on what is called \textit{predictor-corrector}. First, it evaluates the orbit as if it were a Keplerian orbit (i.e. without perturbations) and then it integrates only the perturbations to correct the deviation caused by considering the unperturbed orbit. Its advantage over Cowell's method is clear, since it only integrates perturbations, and since these vary less over time than the position itself, we can relax the integration by increasing the time step. In short, this scheme is faster but also more complex to program than the one proposed by Cowell.
 
 \textbf{Variation of the parameters:} This method, developed by Lagrange, is based on considering the orbit as a succession of Keplerian orbits, each of them being tangent to the satellite orbit at a certain point. Thus we can obtain differential equations that model the variation of the orbital parameters as a function of time.
 
@@ -26,6 +26,7 @@ For the purposes of this study, implementing the simplest method is enough. As i
 \end{figure}
 
 The disturbances that the routine includes are:
+
 \begin{itemize}
 \item The potential field of the earth.
 \item The Atmospheric drag.
@@ -83,7 +84,7 @@ To integrate this system, you can use the \emph{Matlab} built-in function \textb
 Also, the \textbf{juliandate.m} function (included in the Matlab Aerospace module) have been used. It calculates the Julian Date,that is the number of days since noon Universal Time on January 1, 4713 ECB ( On the Julian calendar).
 
 \subsubsection{Results}
-\paragraph{}A simulation has been executed with the same parameters as in the previous section. After 932 seconds of computation, the results obtained are shown below:
+A simulation has been executed with the same parameters as in the previous section. After 932 seconds of computation, the results obtained are shown below:
 
 \begin{figure}[H]
 \centering

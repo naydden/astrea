@@ -4,7 +4,6 @@
 
 %\section{Introduction}
 \section*{}
-\paragraph{}
 Throughout this chapter, the bases of orbital geometry will be explained in order to correctly understand the parameters that will later be exposed when dealing with the constellation orbits (or the position of the satellites in them). However, long theoretical explanations will be avoided so as not to distract the reader from the main objective of the project.
 
 To understand the movement in space is enough to apply the Newton's laws. These, however, need an inertial non-rotating frame to be correctly described. When dealing with Earth-orbiting, one usually chooses a reference system called \textit{geocentric-equatorial system} which is shown in the figure~\ref{fig:eqframe} As can be seen, the XY plane coincides with the plane Equatorial with the X axis pointing in the direction of the vernal equinox \footnote{an imaginary line found by drawing a line from the Earth to the Sun on the first day of spring}. The Z axis correspond the axis of rotation of the earth and points to the north (following the right-hand rule).
@@ -12,15 +11,15 @@ To understand the movement in space is enough to apply the Newton's laws. These,
 \begin{figure}[H]
 \centering
 \includegraphics[scale=.55]{./Geometry/fig-Ch1-Geometry/eqframe.png}
-\caption{Geocentric-equatorial frame. Extracted from \cite{Curtis2010}}
+\caption[Geocentric-equatorial frame]{Geocentric-equatorial frame. Extracted from \cite{Curtis2010}}
 \label{fig:eqframe}
 \end{figure}
 
 By defining this system, any point in the space can be depicted by its position vector $r$ and we can study its movement by the velocity vector $\dot{r}$. These elements are useful especially for computational work but they nearly do not provide information about the orbit. For these reason, the orbital elements were developed.
 
 \section{Keplerian Geometry}
-\paragraph{}
 The \textit{Classical Orbital elements}, also known as the \textit{Keplerian elements} as an attribution to Johannes Kepler, are six independent quantities which re sufficient to describe the size, shape and orientation of an orbit. This set of elements are shown in the figure~\ref{fig:COE} and are defined as follows:
+
 \begin{itemize}
 \item\textbf{Semi-major axis} ($a$): It is related to the size of the orbit and its defined by the sum of the apogee (furthest point) and the perigee (closest point) divided by two.
 \item\textbf{Eccentricity} ($e$): It defines the shape of the orbit with respect to that of a circle. Thus, the eccentricity of a circular orbit is null while hyperbolic orbits have an eccentricity greater than one.
@@ -57,7 +56,6 @@ M=E-e\sin E
 \end{figure}
 
 \section{Dynamic equations}
-\paragraph{}
 As aforementioned, the motion of an object in the space can be described using the Newton's laws. The basic idea developed by Newton is to study the Cubesat and the Earth as a spherical bodies in mutual gravitational attraction and neglect the gravitational forces caused by other objects (this is called the \textit{two body} problem). The forces balance is simple since we only have the Earth gravitational attraction, which must compensate the centripetal acceleration of the satellite. Thus, using the law of universal gravitation,
 
 \begin{equation}

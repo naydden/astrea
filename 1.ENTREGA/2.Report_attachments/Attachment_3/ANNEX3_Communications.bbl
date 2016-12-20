@@ -79,10 +79,9 @@ S~Deering and R~Hinden.
 \newblock http://sanaregistry.org/r/ipe{\_}header/ipe{\_}header.html.
 
 \bibitem{ICMP}
-The Icmpv, Internet Control, Message Protocol, Internet Con, Internet Group,
-  Membership Protocol, Address~Resolution Protocol, and Neighbor Discovery.
-\newblock {Chapter 5}.
-\newblock pages 83--102.
+J~Postel.
+\newblock {Internet Control Message Protocol}.
+\newblock pages 1--21, 1981.
 
 \bibitem{ICMPv6}
 A~Conta, S~Deering, and M~Gupta.
@@ -98,9 +97,10 @@ H~Holbrook, B~Cain, and B~Haberman.
 \newblock 2006.
 
 \bibitem{IPsec}
-S~Kent and K~Seo.
-\newblock {Security Architecture for the Internet Protocol}.
-\newblock pages 1--101, 2005.
+Anirban Chakrabarti and Manimaran Govindarasu.
+\newblock {IP Security (IPSec)}.
+\newblock {\em Network Security: Current Status and Future Directions}, pages
+  65--82, 2006.
 
 \bibitem{PIMSM}
 B~Fenner, M~Handley, H~Holbrook, I~Kouvelas, R~Parekh, Z~Zhang, and L~Zheng.

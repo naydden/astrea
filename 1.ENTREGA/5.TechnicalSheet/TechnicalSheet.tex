@@ -12,7 +12,6 @@
 
 \input{doc_config/defined_stuff} % User defined environments
 
-
 % Paragraph formatting
 \setlength{\parindent}{0pt}
 
@@ -39,13 +38,17 @@
 \pagenumbering{roman}
 
 % TABLE OF CONTENTS
+\setcounter{tocdepth}{3}
 \tableofcontents
 
-%\mbox{}\newpage
+\mbox{}\newpage
+\renewcommand{\cfttabnumwidth}{4em}
 \listoftables
 
-%\mbox{}\newpage
+\mbox{}\newpage
+\renewcommand{\cftfignumwidth}{4em}
 \listoffigures
+
 
 
 % DOCUMENT SECTIONS
