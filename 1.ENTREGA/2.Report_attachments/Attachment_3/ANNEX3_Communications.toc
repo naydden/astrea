@@ -73,7 +73,7 @@
 \contentsline {paragraph}{}{35}{section*.78}
 \contentsline {paragraph}{}{35}{section*.79}
 \contentsline {paragraph}{}{35}{section*.80}
-\contentsline {paragraph}{}{36}{section*.81}
+\contentsline {paragraph}{}{35}{section*.81}
 \contentsline {subsubsection}{\numberline {1.2.3.3}Choice of complementary protocols}{36}{subsubsection.1.2.3.3}
 \contentsline {paragraph}{}{36}{section*.82}
 \contentsline {paragraph}{}{36}{section*.83}
@@ -85,7 +85,7 @@
 \contentsline {paragraph}{}{37}{section*.87}
 \contentsline {paragraph}{}{37}{section*.88}
 \contentsline {paragraph}{}{37}{section*.89}
-\contentsline {section}{\numberline {1.3}Layer 4: Transport and Session}{38}{section.1.3}
+\contentsline {section}{\numberline {1.3}Layer 4: Transport and Session}{37}{section.1.3}
 \contentsline {paragraph}{}{38}{section*.90}
 \contentsline {paragraph}{}{38}{section*.91}
 \contentsline {subsection}{\numberline {1.3.1}User Datagram Protocol (UDP)}{38}{subsection.1.3.1}
@@ -102,8 +102,8 @@
 \contentsline {paragraph}{}{45}{section*.96}
 \contentsline {chapter}{\numberline {2}Ground Segment Protocols}{46}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{46}{section.2.1}
-\contentsline {section}{\numberline {2.2}Ground Segment protocols}{47}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}File Transfer Protocol (FTP)}{47}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.2}Ground Segment protocols}{46}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}File Transfer Protocol (FTP)}{46}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Secure Shell (SSH)}{47}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}Simple Mail Transfer Protocol (SMTP)}{47}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {2.2.4}Hypertext Transfer Protocol (HTTP)}{48}{subsection.2.2.4}

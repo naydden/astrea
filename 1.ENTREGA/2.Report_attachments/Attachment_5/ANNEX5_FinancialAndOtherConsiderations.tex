@@ -17,8 +17,17 @@
 
 \usepackage{epigraph}
 \usepackage{tocloft}
-\usepackage{listings}
-\usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}
+
+
+
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+
+\renewcommand{\familydefault}{\sfdefault}
 
 \begin{document}
 
