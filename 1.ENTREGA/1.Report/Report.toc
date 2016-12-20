@@ -37,13 +37,13 @@
 \contentsline {subsubsection}{\numberline {6.2.2.3}Power management system}{35}{subsubsection.6.2.2.3}
 \contentsline {subsubsection}{\numberline {6.2.2.4}Batteries}{35}{subsubsection.6.2.2.4}
 \contentsline {subsubsection}{\numberline {6.2.2.5}Options chosen for the EPS}{36}{subsubsection.6.2.2.5}
-\contentsline {subsection}{\numberline {6.2.3}Propulsion Systems}{36}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.3}Propulsion system}{36}{subsection.6.2.3}
 \contentsline {subsection}{\numberline {6.2.4}Attitude and Orbital Control Systems}{37}{subsection.6.2.4}
 \contentsline {subsubsection}{\numberline {6.2.4.1}Orbital Control}{37}{subsubsection.6.2.4.1}
 \contentsline {subsection}{\numberline {6.2.5}Payload}{38}{subsection.6.2.5}
-\contentsline {subsubsubsection}{\numberline {6.2.5.0.1}Antennas}{38}{subsubsubsection.6.2.5.0.1}
-\contentsline {subsubsubsection}{\numberline {6.2.5.0.2}Payload Data Handling Systems}{39}{subsubsubsection.6.2.5.0.2}
-\contentsline {subsubsubsection}{\numberline {6.2.5.0.3}Options chosen for the payload module}{40}{subsubsubsection.6.2.5.0.3}
+\contentsline {subsubsection}{\numberline {6.2.5.1}Antennas}{38}{subsubsection.6.2.5.1}
+\contentsline {subsubsection}{\numberline {6.2.5.2}Payload Data Handling Systems}{39}{subsubsection.6.2.5.2}
+\contentsline {subsubsection}{\numberline {6.2.5.3}Options chosen for the payload module}{40}{subsubsection.6.2.5.3}
 \contentsline {subsection}{\numberline {6.2.6}Communication module}{40}{subsection.6.2.6}
 \contentsline {subsection}{\numberline {6.2.7}Astrea satellite final configuration}{40}{subsection.6.2.7}
 \contentsline {paragraph}{}{41}{section*.35}
@@ -63,12 +63,12 @@
 \contentsline {subsubsection}{\numberline {6.3.5.2}Investment}{48}{subsubsection.6.3.5.2}
 \contentsline {subsection}{\numberline {6.3.6}Renting of a Ground Station}{48}{subsection.6.3.6}
 \contentsline {subsubsection}{\numberline {6.3.6.1}Contact with GS companies}{48}{subsubsection.6.3.6.1}
-\contentsline {subsubsection}{\numberline {6.3.6.2}LeafSpace}{49}{subsubsection.6.3.6.2}
+\contentsline {subsubsection}{\numberline {6.3.6.2}LeafSpace}{48}{subsubsection.6.3.6.2}
 \contentsline {paragraph}{Antenna}{49}{section*.39}
 \contentsline {paragraph}{Pricing}{49}{section*.40}
 \contentsline {paragraph}{Boost Performance}{49}{section*.41}
-\contentsline {paragraph}{Way of use}{50}{section*.42}
-\contentsline {paragraph}{Services}{50}{section*.43}
+\contentsline {paragraph}{Way of use}{49}{section*.42}
+\contentsline {paragraph}{Services}{49}{section*.43}
 \contentsline {paragraph}{Map}{50}{section*.44}
 \contentsline {paragraph}{Operation}{50}{section*.46}
 \contentsline {subsection}{\numberline {6.3.7}Decision taking}{50}{subsection.6.3.7}
