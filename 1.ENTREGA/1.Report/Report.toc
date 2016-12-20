@@ -96,9 +96,9 @@
 \contentsline {subsection}{\numberline {6.6.3}Spare Strategy}{69}{subsection.6.6.3}
 \contentsline {subsubsection}{\numberline {6.6.3.1}Introduction}{69}{subsubsection.6.6.3.1}
 \contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{70}{subsubsection.6.6.3.2}
-\contentsline {subsection}{\numberline {6.6.4}Major failure deffinition}{71}{subsection.6.6.4}
+\contentsline {subsection}{\numberline {6.6.4}Major failure definition}{71}{subsection.6.6.4}
 \contentsline {subsubsection}{\numberline {6.6.4.1}Decision}{71}{subsubsection.6.6.4.1}
-\contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{71}{subsection.6.6.5}
+\contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{72}{subsection.6.6.5}
 \contentsline {chapter}{\numberline {7}Financial Study}{73}{chapter.7}
 \contentsline {chapter}{\numberline {8}Environmental Impact Study}{77}{chapter.8}
 \contentsline {chapter}{\numberline {9}Social and security considerations}{78}{chapter.9}

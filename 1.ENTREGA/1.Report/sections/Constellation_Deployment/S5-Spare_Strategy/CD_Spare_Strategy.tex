@@ -17,12 +17,12 @@ From all those alternatives explained in the annex[{REF TO ANNEX 6. Section 6}],
 
 The second is not available in the \textit{Astrea Constellation} case. On the one hand, the main parking in orbit will be the ISS which is at an altitude of 400km above the earth and the constellation is situated at among 550km above the earth. Knowing that, this option is immediately discarded. On the other hand, the Electron the rocket that will accomplish the mission to put the satellites in orbit cannot stay in parking orbit before arriving to its final destination. Definitely, the service cannot rely on this option.
 
-Two possible spare strategies remain: pare satellites in the constellation or on ground. In spite deciding if both ones are useful or only one of them is, a feasibility study is done. The objective is analise the diferent kind of failure that have to be covered and determine how the constellation will collapse. Only after that the most suitable strategy method can be designed having as reference the alternatives presented above. 
+Two possible spare strategies remain: spare satellites in the constellation or on ground. In spite deciding if both ones are useful or only one of them is, a feasibility study is done. The objective is analyse the different kind of failure that have to be covered and determine how the constellation will collapse. Only after that the most suitable strategy method can be designed having as reference the alternatives presented above. 
 
-\subsection{Major failure deffinition}
+\subsection{Major failure definition}
 It can be stated that a major failure can happen due to various factors:
 \begin{itemize}
-\item The failure of at one satellites.
+\item The failure of all satellites in range of the client satellite. It is assumed a minimum of three.
 \item The failure of all ground stations. It would be at least 3 ground stations.
 \item The failure of at least two satellites in a communication route in less than 3 minutes.
 \newline\newline
@@ -30,6 +30,10 @@ For more information about the major failure definition see [{REF TO ANNEX 6. Se
 \end{itemize}
 
 \subsubsection{Decision}
-Having studied all the possibilities of failure and taking into account that the porformance of the satellite is guaranteed for four years the conclusion is that there are no spare satellites needed in-orbit because of the fact that the constellation is dimensioned in order to have the capacity to assume some minor expected failures that will not affect the performance of the entire constellation.
+After deeply considering the many spare strategies, it has been concluded that none of them are required since the network is dimensioned in order to have the capacity to assume some minor expected failures that will not affect the performance of the entire constellation.Simply, the cost is not justified enough.
 
-However, there has to be always spares on ground for at least two planes so that in case of a major failure there can be a fast reaction to replace the planes afected. Besides, these satellites will not suppose a great increase in the cost of the constellation because if they are not used as spares they can be used for to following replacement.
+Regarding the fatal failures that have been mentioned in \cite[Chaper 1. Section 1.4]{annex2}, it is concluded that they are completely unusual and, therefore, won't be used for the design point.
+
+A special situation will be addressed though. As it has been mentioned in the attachments, it is not desirable for a satellite to fail since it will eventually leave a ground station isolated. Therefore, this has to be addressed. 
+
+That is a strong reason for requesting the satellites to have a propulsion system with enough $\Delta$V. Since they do, a manoeuvring can be done in case one of the nodes of a plane fail. The aim would be to reorganize the functional satellites in the plane so that they become equally spaced again, obviating the failed one. This manoeuvre would improve the global performance of the network compared to the case of not restitution after a failure. That is due to the fact that there are just some short gaps produced above the Ground Station instead of a single but a long one.
