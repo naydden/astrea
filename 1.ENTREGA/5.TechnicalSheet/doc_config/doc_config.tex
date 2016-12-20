@@ -4,10 +4,10 @@
 
 % DOCUMENT
 %   - Properties
-\documentclass[a4paper,12pt]{report} % Sets a two-sided A4 sized paper.
+\documentclass[a4paper,11pt]{report} % Sets a two-sided A4 sized paper.
                                          % (Two-sided for LaTeX to distinguish between odd/even
                                          % pages while using headers and footers.)
-\linespread{1.2}                         % Default space between lines
+\linespread{1.15}                         % Default space between lines
                                     % Margin sizes defined in headers_and_footers file.
 \usepackage[nottoc,numbib]{tocbibind}    % Makes References section appear in the Table of contents (nottoc). Conuts the References like section.
 \usepackage{lastpage}                    % To get the total number of pages.
@@ -149,33 +149,7 @@
 
 \usepackage{import}
 
-%ASTRO STUFF
-\usepackage{pdfpages}
-% GRAPHICS, TABLES AND OTHERS
-\usepackage{graphicx}               % Required for the inclusion of images.
-\usepackage{float}                  % Required for some float properties.
-\usepackage{pdfpages}               % Required for the inclusion of PDF files.
-\usepackage{multirow,longtable,array,booktabs,tabularx} % More features for tables.
-\usepackage{enumerate}              % Gives the enumerate environment an optional argument which
-% determines the style in which the counter is printed.
-\usepackage{enumitem}               % Extra options for "enumerate" lists
-\usepackage{color}                  % Use some color options.
-\usepackage{colortbl}               % Use some other color options.
-\definecolor{UPC_blue}{RGB}{67,142,197}
-\definecolor{lightgrey}{RGB}{166,166,166}
-\usepackage{hyperref}               % Provides LeTeX the hability to create hyperlinks.
-
-\usepackage{inputenc}         % It makes possible to use roman numbers for the pages before the first chapter and arabic for the rest of the document
-
-\usepackage{booktabs}
-\usepackage{xcolor,colortbl}
-\usepackage{pstricks}
-\usepackage{blindtext}
-\usepackage{transparent}
-\usepackage{etoolbox}
-\usepackage{lscape}
 \usepackage{makecell}
-
 
 %   - NOTES
 % (1) LaTeX implements a style that doesn't indent the first paragraph after a section heading. There are coherent reasons for this. Some typography rules state that first indent should be suppressed only after a centered title and that all other paragraphs must be indented.

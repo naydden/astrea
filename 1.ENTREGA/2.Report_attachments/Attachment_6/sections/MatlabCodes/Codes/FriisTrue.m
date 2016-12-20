@@ -1,6 +1,6 @@
 %----ASTREA CONSTELLATION----
 %PROJECTS - 220028
-%Aerospace Engineering Barchelor's Degree
+%Aerospace Engineering Barchelors Degree
 %ESEIAAT - UPC
 %Autumn 2016-2017
 
@@ -14,7 +14,7 @@ Budget Annex. Calculus are based on Friis equation and Bandwidth-Strength
 correlation.
 %}
 clc; clear; close all;
-%¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+%
 %% Initial variables definition
 r_start = 100; %km
 r_end = 1000; %km
