@@ -9,12 +9,6 @@
 \bibitem{keppler}
 {Kepler Communications}, 2016.
 
-\bibitem{spire}
-{Rapidly Refreshed Satellite Based Data | Spire}, 2016.
-
-\bibitem{qb50}
-{The von Karman Institute for Fluid Dynamics}, 2016.
-
 \bibitem{CndForm}
 {Canada Government}.
 \newblock {RSP-101: Licence Application Submission Procedure for Planned Radio
@@ -39,7 +33,7 @@ Vladimir~A Chobotov.
 Howard~D.. Curtis.
 \newblock {\em {Orbital Mechanics for Engineering Students}}, volume 3rd
   editio.
-\newblock Elsevier, 2014.
+\newblock Elsevier, Burlington, 2 edition, 2014.
 
 \bibitem{XBand}
 Dartcom.
@@ -50,9 +44,67 @@ Dartcom.
 \newblock {Nano/Microsatellite Market Assessment 2014}.
 \newblock pages 1--18, 2014.
 
+\bibitem{annex1}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX I: Orbit Design}.
+\newblock 2016.
+
+\bibitem{annex6}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX VI: Matlab Scripts}.
+\newblock 2016.
+
+\bibitem{annex4}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX IV: Satellite Design}.
+\newblock 2016.
+
+\bibitem{annex2}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX II: Constellation Deployment}.
+\newblock 2016.
+
+\bibitem{annex3}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX III: Communications}.
+\newblock 2016.
+
+\bibitem{annex5}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX V: Financial and Other Considerations}.
+\newblock 2016.
+
 \bibitem{UKMHzFees}
 United~Kingdom Government.
 \newblock {The wireless telegraphy (Recognised Spectrum Access Charges)}, 2015.
+
+\bibitem{Iridium}
+Satellites Iridium.
+\newblock {The Iridium System}.
 
 \bibitem{SBand}
 ISISpace.
@@ -67,7 +119,7 @@ Erik Kulu.
 \newblock {BIRDS project.}, 2017.
 
 \bibitem{Macdonald2014}
-M~Macdonald and V~Badescu.
+Malcolm Macdonald and Viorel Badescu.
 \newblock {\em {The International Handbook of Space Technology}}.
 \newblock 2014.
 
@@ -94,16 +146,11 @@ Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
   An OSI Framework Approach}.
 \newblock {\em IEEE Communications Surveys {\&} Tutorials}, (c):1--51, 2016.
 
-\bibitem{Iridium}
-Iridium Satellite.
-\newblock {The IRIDIUM System}.
-\newblock $\backslash$url{\{}http://www.iridium.it/en/iridium.htm{\}}.
-
 \bibitem{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}
 {Secretar{\'{i}}a de Estado de telecomunicaciones y para la sociedad de la
   informaci{\'{o}}n.}
-\newblock {Cuadro Nacional de Atribuci{\{}{\'{o}}{\}}n de Frecuencias (CNAF)
-  revisado 2015}.
+\newblock {Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias (CNAF) revisado
+  2015}.
 \newblock pages 3--110, 2015.
 
 \bibitem{Secretariat2014}
@@ -132,10 +179,5 @@ J.G. Walker.
 \bibitem{SBandDatasheet}
 IQ~wireless.
 \newblock {S Band Transceiver for Small Satellites.}, 2015.
-
-\bibitem{Wood2001}
-Lloyd Wood.
-\newblock {Internetworking with satellite constellations}.
-\newblock {\em Lloydia Cincinnati}, (February), 2001.
 
 \end{thebibliography}
