@@ -1,80 +1,69 @@
 \contentsline {chapter}{List of Tables}{iv}{section*.1}
 \contentsline {chapter}{List of Figures}{v}{section*.2}
 \contentsline {chapter}{\numberline {1}Orbit Geometry}{1}{chapter.1}
-\contentsline {paragraph}{}{1}{section*.3}
 \contentsline {section}{\numberline {1.1}Keplerian Geometry}{2}{section.1.1}
-\contentsline {paragraph}{}{2}{section*.5}
 \contentsline {section}{\numberline {1.2}Dynamic equations}{4}{section.1.2}
-\contentsline {paragraph}{}{4}{section*.8}
 \contentsline {chapter}{\numberline {2}Orbital Coverage}{6}{chapter.2}
 \contentsline {section}{\numberline {2.1}Satellite Footprint}{6}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Introduction}{6}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Footprint Computation}{7}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}Elevation Angle}{8}{section.2.2}
-\contentsline {paragraph}{ }{8}{section*.10}
 \contentsline {subsection}{\numberline {2.2.1}Elevation angle cone}{9}{subsection.2.2.1}
-\contentsline {paragraph}{ }{9}{section*.12}
 \contentsline {subsection}{\numberline {2.2.2}Atmospheric restrictive conditions}{9}{subsection.2.2.2}
-\contentsline {paragraph}{ }{9}{section*.13}
-\contentsline {paragraph}{ }{10}{section*.14}
-\contentsline {paragraph}{}{10}{section*.15}
+\contentsline {paragraph}{Atmospheric gases}{9}{section*.8}
+\contentsline {paragraph}{Precipitations and Clouds}{9}{section*.9}
+\contentsline {paragraph}{Cross Polarization Discrimination}{9}{section*.10}
+\contentsline {paragraph}{Scintillation}{9}{section*.11}
+\contentsline {paragraph}{Radio Refracting Index}{9}{section*.12}
+\contentsline {paragraph}{D layers}{10}{section*.13}
+\contentsline {paragraph}{E layers}{10}{section*.14}
+\contentsline {paragraph}{Sporadic E layers}{10}{section*.15}
+\contentsline {paragraph}{F layers}{10}{section*.16}
 \contentsline {subsection}{\numberline {2.2.3}Elevation angle of other current constellations}{12}{subsection.2.2.3}
-\contentsline {paragraph}{}{12}{section*.16}
-\contentsline {paragraph}{}{12}{section*.17}
 \contentsline {section}{\numberline {2.3}Minimum Plane Inclination}{13}{section.2.3}
-\contentsline {paragraph}{In conclusion\\}{14}{section*.20}
 \contentsline {section}{\numberline {2.4}Satellite to Satellite Visibility}{14}{section.2.4}
-\contentsline {paragraph}{ }{14}{section*.21}
-\contentsline {chapter}{\numberline {3}Constellation Configuration}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}EXAMPLE: The Global Positioning System Example}{18}{section.3.1}
-\contentsline {section}{\numberline {3.2}EXAMPLE: The Iridium Constellation}{19}{section.3.2}
-\contentsline {section}{\numberline {3.3}The Streets of Coverage Method}{20}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Results of Streets of Coverage}{22}{subsection.3.3.1}
-\contentsline {section}{\numberline {3.4}Walker-Delta Constellation}{23}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Full Walker-Delta Constellation}{23}{subsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.1.1}Notation}{23}{subsubsection.3.4.1.1}
-\contentsline {subsubsection}{\numberline {3.4.1.2}Coverage}{24}{subsubsection.3.4.1.2}
-\contentsline {subsection}{\numberline {3.4.2}Semi Walker-Delta Constellation}{25}{subsection.3.4.2}
-\contentsline {subsubsection}{\numberline {3.4.2.1}Advantages}{25}{subsubsection.3.4.2.1}
-\contentsline {subsubsection}{\numberline {3.4.2.2}Disadvantages}{26}{subsubsection.3.4.2.2}
-\contentsline {subsubsection}{\numberline {3.4.2.3}SWDC including an additional polar orbit.}{26}{subsubsection.3.4.2.3}
-\contentsline {section}{\numberline {3.5}Testing Method}{27}{section.3.5}
-\contentsline {subsubsection}{\numberline {3.5.0.1}Global Coverage Conditions}{28}{subsubsection.3.5.0.1}
-\contentsline {subsubsection}{\numberline {3.5.0.2}Procedure of Testing Method}{28}{subsubsection.3.5.0.2}
-\contentsline {chapter}{\numberline {4}Orbit Perturbations}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}Sources of Perturbation}{31}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Introduction to Orbit Perturbations \cite {Vallado2007}}{31}{subsection.4.1.1}
-\contentsline {paragraph}{The Approach of the Perturbations Study}{31}{section*.39}
-\contentsline {subsection}{\numberline {4.1.2}Gravity Potential of Earth}{31}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Atmospheric Drag}{32}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}3rd Body Perturbations}{34}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Other Perturbations}{34}{subsection.4.1.5}
-\contentsline {section}{\numberline {4.2}Significant Perturbations}{35}{section.4.2}
-\contentsline {paragraph}{Propagation Algorithm\\}{35}{section*.42}
-\contentsline {paragraph}{In conclusion\\}{36}{section*.44}
-\contentsline {section}{\numberline {4.3}Orbit Decay}{36}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Effects on the Ascention Node}{36}{subsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.1.1}Introduction}{36}{subsubsection.4.3.1.1}
-\contentsline {subsubsection}{\numberline {4.3.1.2}Perigee Effect}{37}{subsubsection.4.3.1.2}
-\contentsline {subsubsection}{\numberline {4.3.1.3}Ascention Node}{37}{subsubsection.4.3.1.3}
-\contentsline {subsubsection}{\numberline {4.3.1.4}Conclusion}{37}{subsubsection.4.3.1.4}
+\contentsline {chapter}{\numberline {3}Constellation Configuration}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}EXAMPLE: The Global Positioning System Example}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}EXAMPLE: The Iridium Constellation}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}The Streets of Coverage Method}{19}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Results of Streets of Coverage}{20}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Walker-Delta Constellation}{22}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Full Walker-Delta Constellation}{22}{subsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.1.1}Notation}{22}{subsubsection.3.4.1.1}
+\contentsline {subsubsection}{\numberline {3.4.1.2}Coverage}{23}{subsubsection.3.4.1.2}
+\contentsline {subsection}{\numberline {3.4.2}Semi Walker-Delta Constellation}{24}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Advantages}{24}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Disadvantages}{25}{subsubsection.3.4.2.2}
+\contentsline {subsubsection}{\numberline {3.4.2.3}SWDC including an additional polar orbit.}{25}{subsubsection.3.4.2.3}
+\contentsline {section}{\numberline {3.5}Testing Method}{26}{section.3.5}
+\contentsline {subsubsection}{\numberline {3.5.0.1}Global Coverage Conditions}{27}{subsubsection.3.5.0.1}
+\contentsline {subsubsection}{\numberline {3.5.0.2}Procedure of Testing Method}{27}{subsubsection.3.5.0.2}
+\contentsline {chapter}{\numberline {4}Orbit Perturbations}{30}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sources of Perturbation}{30}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Introduction to Orbit Perturbations \cite {Vallado2007}}{30}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Gravity Potential of Earth}{30}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Atmospheric Drag}{31}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}3rd Body Perturbations}{33}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Other Perturbations}{33}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Significant Perturbations}{34}{section.4.2}
+\contentsline {section}{\numberline {4.3}Orbit Decay}{35}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Effects on the Ascention Node}{35}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Introduction}{35}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Perigee Effect}{36}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Ascention Node}{36}{subsubsection.4.3.1.3}
+\contentsline {subsubsection}{\numberline {4.3.1.4}Conclusion}{36}{subsubsection.4.3.1.4}
 \contentsline {subsection}{\numberline {4.3.2}Effects of the Solar Cicle}{37}{subsection.4.3.2}
-\contentsline {paragraph}{ }{37}{section*.46}
 \contentsline {subsection}{\numberline {4.3.3}Orbital Decay Propagation Results}{40}{subsection.4.3.3}
 \contentsline {subsubsection}{\numberline {4.3.3.1}Introduction}{40}{subsubsection.4.3.3.1}
 \contentsline {subsubsection}{\numberline {4.3.3.2}Drag Computation Algorithm}{40}{subsubsection.4.3.3.2}
-\contentsline {paragraph}{In conclusion}{41}{section*.51}
-\contentsline {subsection}{\numberline {4.3.4}Dynamic Orbit Decay Computation}{42}{subsection.4.3.4}
-\contentsline {subsubsection}{\numberline {4.3.4.1}Introduction}{42}{subsubsection.4.3.4.1}
-\contentsline {paragraph}{}{42}{section*.52}
+\contentsline {subsection}{\numberline {4.3.4}Dynamic Orbit Decay Computation}{41}{subsection.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.4.1}Introduction}{41}{subsubsection.4.3.4.1}
+\contentsline {paragraph}{Cowell's method}{41}{section*.44}
 \contentsline {subsubsection}{\numberline {4.3.4.2}Results}{44}{subsubsection.4.3.4.2}
-\contentsline {paragraph}{}{44}{section*.54}
 \contentsline {section}{\numberline {4.4}Orbital Station-Keeping}{45}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Raising the orbit height to increase Lifetime}{46}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Using Thrusters to increase Lifetime}{47}{subsection.4.4.2}
 \contentsline {subsubsection}{\numberline {4.4.2.1}Energy equation}{47}{subsubsection.4.4.2.1}
-\contentsline {paragraph}{}{47}{section*.57}
-\contentsline {paragraph}{}{47}{section*.58}
 \contentsline {subsubsection}{\numberline {4.4.2.2}Delta-V}{48}{subsubsection.4.4.2.2}
 \contentsline {subsubsection}{\numberline {4.4.2.3}Time}{49}{subsubsection.4.4.2.3}
 \contentsline {subsubsection}{\numberline {4.4.2.4}Propellant}{49}{subsubsection.4.4.2.4}
@@ -87,9 +76,9 @@
 \contentsline {subsection}{\numberline {5.1.5}Candidate 5: Walker-Delta Lat: 0-58}{52}{subsection.5.1.5}
 \contentsline {subsection}{\numberline {5.1.6}Candidate 6: Polar - Walker-Delta J2 + Rotaci\IeC {\'o}}{52}{subsection.5.1.6}
 \contentsline {subsection}{\numberline {5.1.7}Candidate 7: Walker-Delta GS Coverage 3}{53}{subsection.5.1.7}
-\contentsline {section}{\numberline {5.2}Constellation Performance Analysis}{56}{section.5.2}
-\contentsline {paragraph}{Time factor\\}{56}{section*.67}
-\contentsline {paragraph}{Quality Time\\}{56}{section*.68}
+\contentsline {section}{\numberline {5.2}Constellation Performance Analysis}{55}{section.5.2}
+\contentsline {paragraph}{Time factor}{56}{section*.56}
+\contentsline {paragraph}{Quality Time}{56}{section*.57}
 \contentsline {subsection}{\numberline {5.2.1}Performance Evaluation}{56}{subsection.5.2.1}
 \contentsline {section}{\numberline {5.3}Ordered Weighting Average based Decision}{58}{section.5.3}
 \contentsline {chapter}{\numberline {6}Bibliography}{60}{chapter.6}
