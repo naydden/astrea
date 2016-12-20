@@ -113,4 +113,5 @@
 \contentsline {subsection}{\numberline {1.6.6}Link Budget Calculation}{29}{subsection.1.6.6}
 \contentsline {subsubsection}{\numberline {1.6.6.1}Methodology}{29}{subsubsection.1.6.6.1}
 \contentsline {subsubsection}{\numberline {1.6.6.2}Range calculation}{30}{subsubsection.1.6.6.2}
-\contentsline {chapter}{\numberline {2}Bibliography}{32}{chapter.2}
+\contentsline {section}{\numberline {1.7}Budget}{32}{section.1.7}
+\contentsline {chapter}{\numberline {2}Bibliography}{34}{chapter.2}
