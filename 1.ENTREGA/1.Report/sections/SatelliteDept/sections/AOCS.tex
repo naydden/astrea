@@ -3,14 +3,14 @@ The attitude and orbital control system (AOCS) is needed to enable the satellite
 
 Attitude control for CubeSats relies on miniaturizing technology without significant performance degradation. Tumbling typically occurs as soon as a CubeSat is deployed, due to asymmetric deployment forces and bumping with other CubeSats. Some CubeSats operate normally while tumbling, but those that require pointing to a certain direction or cannot operate safely while spinning, must be detumbled. Systems that perform attitude determination and control include \textbf{reaction wheels}, \textbf{magnetorquers}, \textbf{thrusters}, \textbf{star trackers}, \textbf{Sun sensors}, \textbf{Earth sensors}, \textbf{angular rate sensors}, and \textbf{GPS receivers and antennas}. Combinations of these systems are typically seen in order to take each method's advantages and mitigate their shortcomings \cite{Macdonald2014}. 
 
-Pointing to a specific direction is necessary for Earth observation, orbital maneuvers, maximizing solar power, and some scientific instruments. \underline{Directional pointing accuracy} can be achieved by sensing Earth and its horizon, the Sun, or specific stars. \underline{Determination of a CubeSat's location} can be done through the use of on-board GPS, which is relatively expensive for a CubeSat, or by relaying radar tracking data to the craft from Earth-based tracking systems \cite{Macdonald2014}.
+Pointing to a specific direction is necessary for Earth observation, orbital maneuvers, maximizing solar power, and some scientific instruments. \textbf{Directional pointing accuracy} can be achieved by sensing Earth and its horizon, the Sun, or specific stars. \textbf{Determination of a CubeSat's location} can be done through the use of on-board GPS, which is relatively expensive for a CubeSat, or by relaying radar tracking data to the craft from Earth-based tracking systems \cite{Macdonald2014}.
 
 \subsubsection{Orbital Control}
 Orbital control will be achieved as a combination of two systems. ADCS will orient the thrust (given by the propulsion system) and the operation will be controlled by the on-board computer. Mainly, the orbit control will be necessary to mitigate orbital debris effect on every satellite.
 
-Taking into account several very restrictive variables: low power consumption, low, weight and size, high pointing accuracy and really versatile systems that can integrate multiple subsystems; \textbf{CUBE ADCS} is chosen. It has the lowest mass and power consumption, it also offers a higher attitude determination systems and integrates also and On-Board Computer (OBC). [{REF TO ANNEX IV. Section 1.1.1}]
+Taking into account several very restrictive variables: low power consumption, low weight and size, high pointing accuracy and really versatile systems that can integrate multiple subsystems; \textbf{CUBE ADCS} is chosen. It has the lowest mass and power consumption, it also offers a higher attitude determination systems and integrates also and On-Board Computer (OBC). [{REF TO ANNEX IV. Section 1.1.1}]
 
-Finally, the options chosen are presented in the table \ref{epsfinal}.
+Finally, the options chosen are presented in the table \ref{tab:eps_final}.
 
 \begin{longtable}{| l | r | r | r | }
 \hline
@@ -22,5 +22,5 @@ Finally, the options chosen are presented in the table \ref{epsfinal}.
 	\hline
 
 \caption{Options studied for the AOCDS}
-\label{epsfinal}
+\label{tab:eps_final}
 \end{longtable}
