@@ -104,8 +104,8 @@
 \contentsline {chapter}{\numberline {10}Organization and Planning}{78}{chapter.10}
 \contentsline {section}{\numberline {10.1}Internal Structure}{78}{section.10.1}
 \contentsline {section}{\numberline {10.2}Documents organisation}{79}{section.10.2}
-\contentsline {section}{\numberline {10.3}Planning}{80}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Tasks identification from work breakdown structure (WBS)}{80}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{82}{subsection.10.3.2}
-\contentsline {section}{\numberline {10.4}Scheduling}{83}{section.10.4}
-\contentsline {chapter}{\numberline {11}Bibliography}{84}{chapter.11}
+\contentsline {section}{\numberline {10.3}Planning}{81}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Tasks identification from work breakdown structure (WBS)}{81}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{83}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Scheduling}{84}{section.10.4}
+\contentsline {chapter}{\numberline {11}Bibliography}{85}{chapter.11}
