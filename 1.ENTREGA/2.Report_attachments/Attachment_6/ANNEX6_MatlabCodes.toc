@@ -13,4 +13,6 @@
 \contentsline {section}{\numberline {1.10}Thrust}{35}{section.1.10}
 \contentsline {section}{\numberline {1.11}Satellites Datasheet}{40}{section.1.11}
 \contentsline {section}{\numberline {1.12}Ground Station Localization}{42}{section.1.12}
-\contentsline {chapter}{\numberline {2}Bibliography}{46}{chapter.2}
+\contentsline {section}{\numberline {1.13}Received signal strength variation with bandwidth}{45}{section.1.13}
+\contentsline {section}{\numberline {1.14}Received signal strength for distance variation}{47}{section.1.14}
+\contentsline {chapter}{\numberline {2}Bibliography}{51}{chapter.2}
