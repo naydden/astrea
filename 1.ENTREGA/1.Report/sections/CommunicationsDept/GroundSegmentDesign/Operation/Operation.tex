@@ -1,0 +1,34 @@
+The Ground Segment will be in charge of performing the necessary tasks in order to allow communication between the client and the network and to monitor and control the performance of the satellites. The main tasks of the Ground Segment will be the following:
+
+\textbf{Satellite Control:} The GS is capable of talking to the satellite in \textbf{half-duplex and in S-band only}. So, in order to avoid taking uplink time to the clients, the housekeeping data acquiring of the satellite and the TT\&C is going to be done on GS demand. The Mission Control Center has several departments. The TT\&C Processing Department is going to be in charge of these tasks. Their operational procedure could be simplified in the following cased scenarios (all of them using the s-band system):
+
+\begin{itemize}
+
+\item \textbf{Node Failure:}
+\begin{itemize}
+\item If there is a failure in a node, the neighbouring nodes are going to be aware of that and are going to send an alert to Ground. While this happens, the system is reconfiguring its map so as to be aware of the recently generated gap.
+\item When TT\&C Processing Department receives the alert, they will reserve a Ground Station only for them and will send debugging commands to the broken node, aiming to repair it. Client data would be redirected to another GS.
+\end{itemize}
+
+\item \textbf{Periodic Checks:}
+
+\begin{itemize}
+\item Every hour, the TT\&C department is going to collect housekeeping data of the constellation in order to analyse its health. The least used GS at that time is going to be used since delay times are not critical in this case.
+\item In case that a potential problem is encountered, such as node saturation, solving and logistics measures are going to be taken in order to try to solve the issue and to prepare the network for the probable failure.
+Scheduling commands
+\end{itemize}
+
+\item \textbf{Scheduling commands}
+
+\begin{itemize}
+\item When a command is nor urgent, the typical procedure would be to wait until the satellite is above a GS and only then, send the command to it. If there is any client data to be uploaded, since they share the channel, client data is put to the queue until commands are completely sent.
+\end{itemize}
+
+\end{itemize}
+
+\textbf{Payload Control:}  The client data is a separate process. Similarly, several cases appear:
+
+\begin{itemize}
+\item If the client sends through Astrea Software a command to his/her satellite, then this command is going to be put on a queue on the closest GS to the clients satellite. If that GS is working at more than 80\% of its capacity, then the Satellite command is going to be sent to the next closer GS and will be put to its queue. All this is managed by Astrea Software. It is important to mention that the uplink is going to be done through the S-band system. 
+\item When client data is downloaded from the satellites, X-band is going to be used due to the higher achievable data rate. This channel is going to be specifically reserved for clients’ data so it will be really fast.
+\end{itemize}

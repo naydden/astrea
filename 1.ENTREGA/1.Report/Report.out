@@ -62,39 +62,40 @@
 \BOOKMARK [3][-]{subsubsection.6.3.6.2}{LeafSpace}{subsection.6.3.6}% 62
 \BOOKMARK [2][-]{subsection.6.3.7}{Decision taking}{section.6.3}% 63
 \BOOKMARK [3][-]{subsubsection.6.3.7.1}{Decision}{subsection.6.3.7}% 64
-\BOOKMARK [1][-]{section.6.4}{Protocol Stack}{chapter.6}% 65
-\BOOKMARK [2][-]{subsection.6.4.1}{Space Segment}{section.6.4}% 66
-\BOOKMARK [3][-]{subsubsection.6.4.1.1}{Introduction}{subsection.6.4.1}% 67
-\BOOKMARK [3][-]{subsubsection.6.4.1.2}{Layer 2: Data Link}{subsection.6.4.1}% 68
-\BOOKMARK [3][-]{subsubsection.6.4.1.3}{Layer 3: The Network}{subsection.6.4.1}% 69
-\BOOKMARK [3][-]{subsubsection.6.4.1.4}{Layer 4: Transport and Session}{subsection.6.4.1}% 70
-\BOOKMARK [2][-]{subsection.6.4.2}{Ground Segment Protocols}{section.6.4}% 71
-\BOOKMARK [3][-]{subsubsection.6.4.2.1}{Introduction}{subsection.6.4.2}% 72
-\BOOKMARK [3][-]{subsubsection.6.4.2.2}{Protocols}{subsection.6.4.2}% 73
-\BOOKMARK [3][-]{subsubsection.6.4.2.3}{Delivery of the data method}{subsection.6.4.2}% 74
-\BOOKMARK [1][-]{section.6.5}{Launcher and Deployer}{chapter.6}% 75
-\BOOKMARK [2][-]{subsection.6.5.1}{Launching System}{section.6.5}% 76
-\BOOKMARK [3][-]{subsubsection.6.5.1.1}{Launch site and vehicle analysis}{subsection.6.5.1}% 77
-\BOOKMARK [2][-]{subsection.6.5.2}{Deployer}{section.6.5}% 78
-\BOOKMARK [1][-]{section.6.6}{Lifecycle Strategies}{chapter.6}% 79
-\BOOKMARK [2][-]{subsection.6.6.1}{First Placement}{section.6.6}% 80
-\BOOKMARK [3][-]{subsubsection.6.6.1.1}{1st Placement Maneuver}{subsection.6.6.1}% 81
-\BOOKMARK [3][-]{subsubsection.6.6.1.2}{In-Orbit Injection}{subsection.6.6.1}% 82
-\BOOKMARK [2][-]{subsection.6.6.2}{Replacement Strategy}{section.6.6}% 83
-\BOOKMARK [2][-]{subsection.6.6.3}{Spare Strategy}{section.6.6}% 84
-\BOOKMARK [3][-]{subsubsection.6.6.3.1}{Introduction}{subsection.6.6.3}% 85
-\BOOKMARK [3][-]{subsubsection.6.6.3.2}{Spare Strategy Selection}{subsection.6.6.3}% 86
-\BOOKMARK [2][-]{subsection.6.6.4}{Major failure deffinition}{section.6.6}% 87
-\BOOKMARK [3][-]{subsubsection.6.6.4.1}{Decision}{subsection.6.6.4}% 88
-\BOOKMARK [2][-]{subsection.6.6.5}{End-of-Life Strategy}{section.6.6}% 89
-\BOOKMARK [0][-]{chapter.7}{Financial Study}{}% 90
-\BOOKMARK [0][-]{chapter.8}{Environmental Impact Study}{}% 91
-\BOOKMARK [0][-]{chapter.9}{Social and security considerations}{}% 92
-\BOOKMARK [0][-]{chapter.10}{Organization and Planning}{}% 93
-\BOOKMARK [1][-]{section.10.1}{Internal Structure}{chapter.10}% 94
-\BOOKMARK [1][-]{section.10.2}{Documents organisation}{chapter.10}% 95
-\BOOKMARK [1][-]{section.10.3}{Planning}{chapter.10}% 96
-\BOOKMARK [2][-]{subsection.10.3.1}{Tasks identification from work breakdown structure \(WBS\)}{section.10.3}% 97
-\BOOKMARK [2][-]{subsection.10.3.2}{Interdepency relationships, human resources and level of effort}{section.10.3}% 98
-\BOOKMARK [1][-]{section.10.4}{Scheduling}{chapter.10}% 99
-\BOOKMARK [0][-]{chapter.11}{Bibliography}{}% 100
+\BOOKMARK [2][-]{subsection.6.3.8}{Operation of the Ground Segment}{section.6.3}% 65
+\BOOKMARK [1][-]{section.6.4}{Protocol Stack}{chapter.6}% 66
+\BOOKMARK [2][-]{subsection.6.4.1}{Space Segment}{section.6.4}% 67
+\BOOKMARK [3][-]{subsubsection.6.4.1.1}{Introduction}{subsection.6.4.1}% 68
+\BOOKMARK [3][-]{subsubsection.6.4.1.2}{Layer 2: Data Link}{subsection.6.4.1}% 69
+\BOOKMARK [3][-]{subsubsection.6.4.1.3}{Layer 3: The Network}{subsection.6.4.1}% 70
+\BOOKMARK [3][-]{subsubsection.6.4.1.4}{Layer 4: Transport and Session}{subsection.6.4.1}% 71
+\BOOKMARK [2][-]{subsection.6.4.2}{Ground Segment Protocols}{section.6.4}% 72
+\BOOKMARK [3][-]{subsubsection.6.4.2.1}{Introduction}{subsection.6.4.2}% 73
+\BOOKMARK [3][-]{subsubsection.6.4.2.2}{Protocols}{subsection.6.4.2}% 74
+\BOOKMARK [3][-]{subsubsection.6.4.2.3}{Delivery of the data method}{subsection.6.4.2}% 75
+\BOOKMARK [1][-]{section.6.5}{Launcher and Deployer}{chapter.6}% 76
+\BOOKMARK [2][-]{subsection.6.5.1}{Launching System}{section.6.5}% 77
+\BOOKMARK [3][-]{subsubsection.6.5.1.1}{Launch site and vehicle analysis}{subsection.6.5.1}% 78
+\BOOKMARK [2][-]{subsection.6.5.2}{Deployer}{section.6.5}% 79
+\BOOKMARK [1][-]{section.6.6}{Lifecycle Strategies}{chapter.6}% 80
+\BOOKMARK [2][-]{subsection.6.6.1}{First Placement}{section.6.6}% 81
+\BOOKMARK [3][-]{subsubsection.6.6.1.1}{1st Placement Maneuver}{subsection.6.6.1}% 82
+\BOOKMARK [3][-]{subsubsection.6.6.1.2}{In-Orbit Injection}{subsection.6.6.1}% 83
+\BOOKMARK [2][-]{subsection.6.6.2}{Replacement Strategy}{section.6.6}% 84
+\BOOKMARK [2][-]{subsection.6.6.3}{Spare Strategy}{section.6.6}% 85
+\BOOKMARK [3][-]{subsubsection.6.6.3.1}{Introduction}{subsection.6.6.3}% 86
+\BOOKMARK [3][-]{subsubsection.6.6.3.2}{Spare Strategy Selection}{subsection.6.6.3}% 87
+\BOOKMARK [2][-]{subsection.6.6.4}{Major failure deffinition}{section.6.6}% 88
+\BOOKMARK [3][-]{subsubsection.6.6.4.1}{Decision}{subsection.6.6.4}% 89
+\BOOKMARK [2][-]{subsection.6.6.5}{End-of-Life Strategy}{section.6.6}% 90
+\BOOKMARK [0][-]{chapter.7}{Financial Study}{}% 91
+\BOOKMARK [0][-]{chapter.8}{Environmental Impact Study}{}% 92
+\BOOKMARK [0][-]{chapter.9}{Social and security considerations}{}% 93
+\BOOKMARK [0][-]{chapter.10}{Organization and Planning}{}% 94
+\BOOKMARK [1][-]{section.10.1}{Internal Structure}{chapter.10}% 95
+\BOOKMARK [1][-]{section.10.2}{Documents organisation}{chapter.10}% 96
+\BOOKMARK [1][-]{section.10.3}{Planning}{chapter.10}% 97
+\BOOKMARK [2][-]{subsection.10.3.1}{Tasks identification from work breakdown structure \(WBS\)}{section.10.3}% 98
+\BOOKMARK [2][-]{subsection.10.3.2}{Interdepency relationships, human resources and level of effort}{section.10.3}% 99
+\BOOKMARK [1][-]{section.10.4}{Scheduling}{chapter.10}% 100
+\BOOKMARK [0][-]{chapter.11}{Bibliography}{}% 101
