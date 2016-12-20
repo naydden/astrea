@@ -10,16 +10,6 @@ Robert Burt.
 \newblock {Distributed Electrical Power System in Cubesat Applications}.
 \newblock pages 2--3, 2011.
 
-\bibitem{Jorge2012}
-Carlos Jorge and Rodrigues Capela.
-\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
-\newblock (April), 2012.
-
-\bibitem{Note1998}
-Application Note.
-\newblock {Tutorial on Basic Link Budget Analysis}.
-\newblock {\em Intersil}, (June 1998):1--8, 1998.
-
 \bibitem{collisionLEO}
 {IADC Space Debris Mitigation Guidelines}.
 \newblock 2007.
@@ -33,6 +23,16 @@ Application Note.
 
 \bibitem{patch}
 {Patch antenna - Wikipedia}.
+
+\bibitem{Note1998}
+Application Note.
+\newblock {Tutorial on Basic Link Budget Analysis}.
+\newblock {\em Intersil}, (June 1998):1--8, 1998.
+
+\bibitem{Jorge2012}
+Carlos Jorge and Rodrigues Capela.
+\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
+\newblock (April), 2012.
 
 \bibitem{Macdonald2014}
 Malcolm Macdonald and Viorel Badescu.

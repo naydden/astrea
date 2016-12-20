@@ -98,10 +98,9 @@ H~Holbrook, B~Cain, and B~Haberman.
 \newblock 2006.
 
 \bibitem{IPsec}
-Anirban Chakrabarti and Manimaran Govindarasu.
-\newblock {IP Security (IPSec)}.
-\newblock {\em Network Security: Current Status and Future Directions}, pages
-  65--82, 2006.
+S~Kent and K~Seo.
+\newblock {Security Architecture for the Internet Protocol}.
+\newblock pages 1--101, 2005.
 
 \bibitem{PIMSM}
 B~Fenner, M~Handley, H~Holbrook, I~Kouvelas, R~Parekh, Z~Zhang, and L~Zheng.
@@ -146,7 +145,9 @@ G~Malkin and R~Minnear.
   http://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml.
 
 \bibitem{FTP}
-{CAP{\'{I}}TULO 12 : FTP : Transferencia de archivos}.
+Carolina Quirod{\'{o}}z.
+\newblock {Protocolo FTP}.
+\newblock {\em Dr. Max}, pages 2--7.
 
 \bibitem{SSH}
 Javier Smaldone.

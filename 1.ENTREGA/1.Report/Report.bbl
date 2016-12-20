@@ -1,5 +1,12 @@
 \begin{thebibliography}{10}
 
+\bibitem{SpaceWorks}
+{E. Buchen} and {D. DePasquale}, ``{Nano/Microsatellite Market Assessment
+  2014},'' pp.~1--18, 2014.
+
+\bibitem{keppler}
+``{Kepler Communications},'' 2016.
+
 \bibitem{nanosats}
 E.~Kulu, ``{Nanosatellite and CubeSat Database},'' 2016.
 
@@ -9,9 +16,20 @@ R.~Radhakrishnan, W.~Edmonson, F.~Afghah, R.~Rodriguez-Osorio, F.~Pinto, and
   Systems: An OSI Framework Approach},'' {\em IEEE Communications Surveys {\&}
   Tutorials}, no.~c, pp.~1--51, 2016.
 
+\bibitem{SOTA}
+NASA, ``{Small Spacecraft Technology State of the Art},'' no.~August,
+  pp.~1--197, 2016.
+
 \bibitem{Howard}
 H.~D. Curtis, {\em {Orbital Mechanics for Engineering Students}}.
 \newblock Elsevier.
+
+\bibitem{Iridium}
+S.~Iridium, ``{The Iridium System}.''
+
+\bibitem{Chobotov2002}
+V.~A. Chobotov, {\em {Orbital Mechanics}}.
+\newblock 2002.
 
 \bibitem{Walker1971}
 J.~Walker, ``{Some Circular Orbit Pattern Providing Continuous Whole Earth
@@ -22,38 +40,6 @@ J.~Walker, ``{Some Circular Orbit Pattern Providing Continuous Whole Earth
 J.~Walker, ``{Continuous whole-Earth coverage by circular-orbit satellite
   patterns},'' {\em Royal Aircraft Establishment. Technical report 77044},
   1977.
-
-\bibitem{CCSDSOverview}
-CCSDS, {\em {Report Concerning Space Data System Standards - Overview of Space
-  Communications Protocols}}.
-\newblock No.~CCSDS 130.0-G-3, 2014.
-
-\bibitem{SpaceWorks}
-{E. Buchen} and {D. DePasquale}, ``{Nano/Microsatellite Market Assessment
-  2014},'' pp.~1--18, 2014.
-
-\bibitem{keppler}
-``{Kepler Communications},'' 2016.
-
-\bibitem{SOTA}
-NASA, ``{Small Spacecraft Technology State of the Art},'' no.~August,
-  pp.~1--197, 2016.
-
-\bibitem{qb50}
-``{The von Karman Institute for Fluid Dynamics},'' 2016.
-
-\bibitem{KyushuInstituteofTechnology2017}
-{Kyushu Institute of Technology}, ``{BIRDS project.},'' 2017.
-
-\bibitem{spire}
-``{Rapidly Refreshed Satellite Based Data | Spire},'' 2016.
-
-\bibitem{Iridium}
-S.~Iridium, ``{The Iridium System}.''
-
-\bibitem{Chobotov2002}
-V.~A. Chobotov, {\em {Orbital Mechanics}}.
-\newblock 2002.
 
 \bibitem{Wood2001}
 L.~Wood, ``{Internetworking with satellite constellations},'' {\em Lloydia
@@ -106,6 +92,11 @@ I.~wireless, ``{S Band Transceiver for Small Satellites.},'' 2015.
 
 \bibitem{XBand}
 Dartcom, ``{X-band EOS System},'' 2014.
+
+\bibitem{CCSDSOverview}
+CCSDS, {\em {Report Concerning Space Data System Standards - Overview of Space
+  Communications Protocols}}.
+\newblock No.~CCSDS 130.0-G-3, 2014.
 
 \bibitem{Secretariat2014}
 C.~Secretariat, ``{Overview of Space Communications Protocols},'' no.~CCSDS
