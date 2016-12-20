@@ -1,13 +1,19 @@
 \begin{thebibliography}{10}
 
-\bibitem{patch}
-{Patch antenna - Wikipedia}.
-
 \bibitem{UKFees}
-{The Wireless Telegraphy (Licence Charges) Regulations 2011}, 2011.
+{The Wireless Telegraphy (Licence Charges) Regulations}, 2011.
 
 \bibitem{keppler}
 {Kepler Communications}, 2016.
+
+\bibitem{patch}
+{Patch antenna}, 2016.
+
+\bibitem{spire}
+{Rapidly Refreshed Satellite Based Data | Spire}, 2016.
+
+\bibitem{qb50}
+{The von Karman Institute for Fluid Dynamics}, 2016.
 
 \bibitem{CndForm}
 {Canada Government}.
@@ -41,8 +47,7 @@ Dartcom.
 
 \bibitem{SpaceWorks}
 {E. Buchen} and {D. DePasquale}.
-\newblock {Nano/Microsatellite Market Assessment 2014}.
-\newblock pages 1--18, 2014.
+\newblock {Nano/Microsatellite Market Assessment 2014}, 2014.
 
 \bibitem{annex1}
 Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
