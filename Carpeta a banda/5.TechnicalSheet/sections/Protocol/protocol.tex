@@ -1,0 +1,47 @@
+\definecolor{blue}{rgb}{0.2,0.5,0.8}
+\section{Communication Protocols}
+In order to accomplish the requirements of the communications protocols, the standards of the Consultative Committee for Space Data Systems (CCSDS) have been followed, toguether with the ISO model. Regarding the protocols of the Ground Segment, security has been the most important requirement to decide the protocol. The chosen protocols are exposed in the following table.
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|l|l|l|}
+\hline
+\rowcolor{blue} \multicolumn{3}{|c|}{\textbf{Space segment: CCSDS Standards}}\\
+\hline
+Transport Layer&\multicolumn{2}{|l|}{Space communication protocol specification transmission protocol: SCSP-TP}\\
+\hline
+\multirow{3}{*}{Network layer}&Main protocol&Internet Protocol version 6 (IPv6)\\
+&Routing protocol&Open Shortest Path First (OSPF)\\
+&Complementary protocols&IP over CCSDS\\
+\hline
+\multirow{2}{*}{Data Link Layer}&Data Link Protocol Sublayer&TC Space Data Link Protocol\\
+&Sync and Channel Coding Sublayer&TC Sync and Channel Coding\\
+\hline
+\rowcolor{blue} \multicolumn{3}{|c|}{\textbf{Ground segment}}\\
+\hline
+\multicolumn{2}{|l|}{Presentation of the data to the client}&Application\\
+\hline
+\multicolumn{2}{|l|}{Protocol}&Secure Shell (SSH)\\
+\hline
+\end{tabular}
+\caption{Communications protocol overview}
+\end{center}
+\end{table}
+The headers in the space segment are added by each layer considering that the entire message coming from the above layer is the whole message (including above layer's header). For this reason, the total number of bits ocuppied by the headers is important. 
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\rowcolor{blue}\textbf{Layer}&\textbf{Header (octets)}&\textbf{Header (bits)}\\
+\hline
+Transport Layer&33&264\\
+\hline
+Network Layer&44&352\\
+\hline
+Data Link Layer&5&40\\
+\hline
+\cellcolor{blue}Total lenght of headers&82&656\\
+\hline
+\end{tabular}
+\caption{Headers of Space Segment Protocols}
+\end{center}
+\end{table}

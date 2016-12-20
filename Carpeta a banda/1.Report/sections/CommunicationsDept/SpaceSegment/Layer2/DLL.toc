@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}DLL}{4}
+\contentsline {section}{\numberline {1.1}Functions of the DLL}{4}
+\contentsline {section}{\numberline {1.2}Working procedure}{5}
+\contentsline {subsection}{\numberline {1.2.1}Simplest Protocol}{5}
+\contentsline {subsection}{\numberline {1.2.2}Stop-and-Wait Protocol}{5}
+\contentsline {subsection}{\numberline {1.2.3}Stop-and-Wait Automatic Repeat Request}{6}
+\contentsline {subsection}{\numberline {1.2.4}Go-Back-N Automatic Repeat Request}{7}
+\contentsline {subsection}{\numberline {1.2.5}Selective Repeat Automatic Repeat Request}{10}
+\contentsline {subsection}{\numberline {1.2.6}Bidirecional links: Piggybacking}{12}
+\contentsline {subsection}{\numberline {1.2.7}Working procedure ranking}{12}
+\contentsline {section}{\numberline {1.3}Protocols}{14}
+\contentsline {section}{\numberline {1.4}TC Space Data Link Protocol}{16}
+\contentsline {section}{\numberline {1.5}TC Sync and Channel Coding}{16}

@@ -1,0 +1,228 @@
+\section{Payload}
+\paragraph{}AstreaSAT needs to provide a radio link to the client satellites, for real time data relay with no less than 25MB/s of data rate. For achieving its purpose, the payload will consist on a pack of arrays of antennas and data handling computers.
+
+\subsection{Antennas}
+\paragraph{}The antennas are essential in this mission, since their role is to transmit and receive the data from other satellites as well as the ground stations. \\
+It has to be kept in mind that the mass of the antennas should be as low as possible given that there are already a lot of subsystems in the CubeSat and the mass limitation is about 4kg.
+Additionally, the power consumption has to be kept as low as possible given the limitations regarding to the power supply of the CubeSat. The antennas must be certified to work under space conditions (high temperature range and radiation protection shield).\\
+Preliminary, after a first satellite preliminary design, seems that patch and turnstile antennas will cover the needs of AstreaSAT.  
+
+\subsubsection{Basic parameters}
+\paragraph{}The \textbf{frequency range} is one of the most important parameters, since it is related to an effective satellite-satellite and satellite-ground station communication. The frequency range should be between 1GHz and 10GHz, which is a very demanding condition given that the CubeSat has a limited space and power supply. Those frequencies, assure the desired data rates an negligible atmosphere attenuations. \\
+For an effective communication, the signal has to be able to trespass the atmosphere without a high number of losses and interference. The high frequency range allows the signal to go through this barrier and reach the ground stations.
+
+\paragraph{}The \textbf{bandwidth} is the frequency range in which the highest power of the signal is found. It is really important to have a high bandwidth to have a great performance and avoid extremely high signal losses.
+
+\paragraph{}The \textbf{gain} of an antenna is the ratio between the power density radiated in one direction and the power density that would radiate an isotropic antenna. The best option is to have a high gain. 
+
+\paragraph{}The \textbf{polarization} of an antenna is the orientation of the electromagnetic waves when they are leaving it. There are three types of polarization: linear, circular and elliptical. For a high performance, the receiver antenna and the transmitter antenna should have the same polarization. It has been derived that the best option for the project is an antenna with circular polarization; these types of antennas are able to keep the signal constant regardless of the appearance of different adverse situations such as the relative movement of the satellites with respect to the ground station. 
+
+\subsubsection{Patch antenna}
+\paragraph{}A \textbf{patch antenna} is a type of radio antenna with a low profile, which can be mounted on a flat surface, It consists of a flat rectangular sheet or "patch" of metal, mounted over a larger sheet of metal called a ground plane. They are the original type of microstrip antenna described by Howell in 1972. \cite{patch}
+
+\begin{longtable}{| l | r |}
+
+\hline
+\rowcolor[gray]{0.60} \multicolumn{2}{|c|}{\textbf{Patch antenna AntDevCo}} \\
+%\rowcolor[gray]{0.60}	\multicolumn{2}{|l|}{\textbf{Patch antenna}} \\
+\hline
+
+\hline
+\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{Value}   \\
+\hline
+
+\cellcolor[gray]{0.85} \textbf{Bands} & L,S,C,X  \\
+\cellcolor[gray]{0.85} \textbf{Frequency range} & 1-12 GHz  \\
+\cellcolor[gray]{0.85} \textbf{Bandwidth} & 20 MHz \\
+\cellcolor[gray]{0.85} \textbf{Gain} & 6 dBi  \\
+\cellcolor[gray]{0.85} \textbf{Polarization} & Circular \\
+\cellcolor[gray]{0.85} \textbf{Maximum power consumption} & 10 W \\
+\cellcolor[gray]{0.85} \textbf{Impedance} & 50 Ohms \\
+\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -65ºC to +100ºC \\
+\cellcolor[gray]{0.85} \textbf{Mass} & <250 grams \\
+\hline
+\caption{Main features of the patch antenna}
+\label{patchantenna}
+\end{longtable}
+
+\subsubsection{Turnstile antenna}
+
+\paragraph{}A \textbf{turnstile antenna}, or crossed-dipole antenna, is a radio antenna consisting of a set of two identical dipole antennas mounted at right angles to each other and fed in phase quadrature; the two currents applied to the dipoles are $90^o$ out of phase.
+
+\pagebreak
+
+\begin{longtable}{| l | r |}
+
+\hline
+\rowcolor[gray]{0.60} \multicolumn{2}{|c|}{\textbf{Turnstile antenna ANT430}} \\
+\hline
+
+\hline
+\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{Value}   \\
+\hline
+
+\cellcolor[gray]{0.85} \textbf{Frequency range} & 400-480 MHz  \\
+\cellcolor[gray]{0.85} \textbf{Bandwidth} & 5 MHz \\
+\cellcolor[gray]{0.85} \textbf{Gain} & 1.5 dBi \\
+\cellcolor[gray]{0.85} \textbf{Polarization} & Circular \\
+\cellcolor[gray]{0.85} \textbf{Maximum power consumption} & 10 W \\
+\cellcolor[gray]{0.85} \textbf{Impedance} & 50 Ohms \\
+\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -40ºC to +85ºC \\
+\cellcolor[gray]{0.85} \textbf{Mass} & 30 grams \\
+\hline
+
+\caption{Main features of the turnstile antenna}
+\label{turnstileantenna}
+
+\end{longtable}
+
+\paragraph{}Although this antenna was considered in the first approximation to the problem, it was finally discarded since it did not fulfill the mission requirements at the same level that the patch antenna did.
+
+\subsubsection{Antenna selection}
+\paragraph{}After a market study, the antenna that has been chosen and will be equipped in the CubeSat is the patch antenna manufactured by AntDevCov. The satellite will come with 8 of this type of antenna; 4-6 of them will be placed on each side face of the CubeSat and they will occupy a 1U face and the other 2-4 of them will be placed on the top and the bottom.
+
+\paragraph{}Other antenna types, like helicoidal deployable antennas, parabolic antennas or monopole antennas, had been discarded because of their big volume and mass or because the don't accomplish the preliminary requirements stated on the project charter.  
+
+\subsection{Payload Data Handling Systems}
+\subsubsection{Transceivers}
+
+\paragraph{}A transceiver is a device comprising both a transmitter and a receiver that are combined and share common circuitry or a single housing. We are restricted to the S, K or higher bands for \textbf{Inter-satellite communication} and not restriction virtually at all for \textbf{Space to Ground} communication. Nevertheless, together with the communications department, X band is chosen as the frequency to talk to the floor because several factors.
+
+\begin{longtable}{| l | r | r |}
+	
+	\hline
+	\rowcolor[gray]{0.60} \multicolumn{3}{|c|}{\textbf{Transceivers options - Inter-satellite comm.(S band)}} \\
+	\hline
+	
+	\hline
+	\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{NanoCom TR-600} & \textbf{SWIFT-SLX} \\
+	\hline
+	
+	\cellcolor[gray]{0.85} \textbf{Band} & 70 - 6000 MHz  & 1.5 - 3.0 GHz\\
+	\cellcolor[gray]{0.85} \textbf{Bandwidth} & 0.2 - 56 MHz& 10+ MHz\\
+	\cellcolor[gray]{0.85} \textbf{Vcc} & 3.3V&6 - 36V \\
+	\cellcolor[gray]{0.85} \textbf{Max. Power consumption} & 14W& 10.8W\\
+	\cellcolor[gray]{0.85} \textbf{Dimensions} & 65 x 40 x 6.5 mm & 86 x 86 x 25-35mm\\
+	\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -40ºC to +85ºC & -35ºC to +70ºC\\
+	\cellcolor[gray]{0.85} \textbf{Mass} & 16,4 grams&250 grams \\
+	\hline
+	
+	\caption{Main inter-satellite communication transceivers features}
+	\label{TransceiversSband}
+	
+\end{longtable}
+
+\paragraph{}NanoCom TR-600 has an additional advantage, GOMspace, the supplier, offers it in combination with the NanoMind Z7000 seen in PDHS computers section. Both integrated on a board able to hold three TR-600 transceivers and one computer. The low dimensions, high bandwidth (associated to high data rates) and low mass of TR-600 versus SWIFT-SLX, makes the first, a great choice for Inter-Satellite communication.
+
+\begin{longtable}{| l | r | r |}
+	
+	\hline
+	\rowcolor[gray]{0.60} \multicolumn{3}{|c|}{\textbf{Transceivers options - Space to Ground comm.(X band)}} \\
+	\hline
+	
+	\hline
+	\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{SWIFT-XTS} & \textbf{ENDUROSAT} \\
+	\hline
+	
+	\cellcolor[gray]{0.85} \textbf{Band} & 7 - 9 GHz  & 8.025 - 8.4 GHz\\
+	\cellcolor[gray]{0.85} \textbf{Bandwidth} & 10 - >100 MHz& 10+ MHz\\
+	\cellcolor[gray]{0.85} \textbf{Vcc} & 3.3V&12V \\
+	\cellcolor[gray]{0.85} \textbf{Max. Power consumption} & 12W& 11.5W\\
+	\cellcolor[gray]{0.85} \textbf{Dimensions} & 86 x 86 x 45mm & 90 x 90 x 25mm\\
+	\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -40ºC to +85ºC & -35ºC to +70ºC\\
+	\cellcolor[gray]{0.85} \textbf{Mass} & 350 grams&250 grams \\
+	\hline
+	
+\caption{Main space to ground communication transceivers features}
+\label{TransceiversXband}
+\end{longtable}
+
+\paragraph{}SWIFT-XTS is pretty similar to ENDUROSAT, but presents some advantages. The higher Bandwidth, will make possible higher communication data rates. The higher mass respect to ENDUROSAT could be a problem, from the link budget analysis a decision will could be made, because the most important factor is the possibility to transmit with low losses to the ground.
+
+\subsubsection{PDHS computers}
+\paragraph{}PDHS computers will process and store the clients data before the data relay is done.
+\pagebreak
+
+\begin{longtable}{| l | r | r |}
+	
+	\hline
+	\rowcolor[gray]{0.60} \multicolumn{3}{|c|}{\textbf{PDHS computers options}}\\
+	\hline
+		
+	\hline
+	\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{NanoMind Z7000} & \textbf{ISIS iOBC} \\
+	\hline
+		
+	\cellcolor[gray]{0.85} \textbf{Operating System} & Linux  & FreeRTOS\\
+	\cellcolor[gray]{0.85} \textbf{Storage} & 4GB to 32 GB& 16GB\\
+	\cellcolor[gray]{0.85} \textbf{Processor} & MPCoreA9 667 MHz& ARM9 400 MHz\\
+	\cellcolor[gray]{0.85} \textbf{Vcc} & 3.3V&3.3V \\
+	\cellcolor[gray]{0.85} \textbf{Max. Power consumption} & 30W& 0.55W\\
+	\cellcolor[gray]{0.85} \textbf{Dimensions} & 65 x 40 x 6.5mm & 96 x 90 x 12.4mm\\
+	\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -40ºC to +85ºC & -25ºC to +65ºC\\
+	\cellcolor[gray]{0.85} \textbf{Mass} & 28.3 grams&94 grams \\
+	\hline
+		
+\caption{Main PDHS computers features}
+\label{computers}	
+\end{longtable}
+
+\paragraph{}The main advantage of NanoMind Z7000 over ISIS iOBC is the computing availability, because of its two 667MHz processor Z7000 can handle higher data payloads and processit at higher velocities, reducing in last term delay between communications. Also, Z7000 presents a lower mass, critical think in our mass limitation of 4kg. But the turning point is, as stated before, Z7000 comes integrated on a single board with a maximum of three NanoMind TR-600 transceivers, fact that makes it a perfect option to build a data relay module payload.
+\subsection{Study of the commercial available options and options chosen}
+\paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{payloadoptions} is presented below.
+
+\begin{longtable}{| l | c | c | }
+\hline
+\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro)}   \\
+\hline
+\endfirsthead
+
+\rowcolor[gray]{0.85} \textbf{Antennas} &  &  \\
+	   ~	Patch antenna AntDevCo & \makecell{High frequency range (L,S,C,X bands)\\ High bandwidth \\High mass (120 g)} & 18000 (7000) \\
+	   \hline
+	  ~ISIS monopole deployable antenna & \makecell{Low frequency range (10MHz) \\ Higher mass than ANT430 (100 g) \\ Deployable \\ Not occupy space} & 17000 \\
+	   \hline
+	  ~	Turnstile antenna ANT340 Gomspace & \makecell{Low frequency range (400-480 MHz) \\ Low mass (30 g) \\ Deployable \\ Not occupy space} & 9500 \\
+	   \hline
+	\hline
+
+\rowcolor[gray]{0.85} \textbf{Transceiver inter-satellite} &  &  \\
+	   ~	NanoCom TR-600 & \makecell{SDR including S band\\ High Bandwith \\ Low mass and dimensions\\Integrated with other PDHS} & 8545 \\
+	   \hline
+	   ~	SWIFT-SLX & \makecell{Low power consumption\\ High mass and dimensions\\ Narrow bandwidth} & 7800 \\
+	   \hline
+	\hline
+\rowcolor[gray]{0.85} \textbf{Transceiver space to ground} &  &  \\
+~	SWIFT-XTS & \makecell{High bandwith\\ High mass \\ Standard dimensions} & 5500 \\
+	   \hline
+~	ENDUROSAT & \makecell{Narrow bandwidth\\ Lower mass\\ Standard size} & 22500 \\
+\hline
+\hline
+\rowcolor[gray]{0.85} \textbf{PDHS Computers} &  &  \\
+~	NanoMind Z7000 & \makecell{LinuxOS\\ High processing velocity\\ High power consumption\\ Low mass and dimensions} & 5000 \\
+\hline
+~	ISIS iOBC& \makecell{FreeRTOS OS\\ Less computing velocity \\ High dimensions and mass} & 9400 \\
+\hline
+\hline
+	
+\caption{Options studied for the payload}
+\label{payloadoptions}
+\end{longtable}
+
+\paragraph{}Finally, with the aim to clarify all the information of this section, the chosen systems and components are presented in the table \ref{payloadchosen}.
+
+\begin{longtable}{| l | r | r | r |}
+	\hline
+	\rowcolor[gray]{0.80}	\textbf{System} &  \textbf{Brand and model}     & \textbf{Price per unit (\euro)} & \textbf{N. of units}  \\
+	\hline
+	\endfirsthead
+	
+	~Antenna & Patch antenna AntDevCo & 18000 (7000) & 8 \\
+	~Transceiver & NanoCom TR-600 & 8545 & 3 \\
+	~Transceiver& SWIFT-XTS & 5500 &1\\
+	~PDHS & NanoMind Z7000 & 5000 & 1 \\
+	\hline
+	
+\caption{Options chosen for the payload}
+\label{payloadchosen}
+\end{longtable}

@@ -1,0 +1,78 @@
+\subsubsubsection*{Functions of the DLL}
+The functions of the Data Link Layer are the following ones:\footnote{They are explaied in \cite[Chapter 1, Section 1]{annex3}}.
+
+\begin{itemize}
+\item \textbf{Framing}
+\item \textbf{Adressing}
+\item \textbf{Synchronization}
+\item \textbf{Flow control}
+\end{itemize}
+
+\subsubsubsection*{Working procedure}
+There are five possible working procedures:
+
+\begin{itemize}
+\item Simplest Protocol
+\item Stop-and-Wait Protocol
+\item Stop-and-Wait Automatic Repeat Request
+\item Go-Back-N Automatic Repeat Request
+\end{itemize}
+
+They are explained in an extensive manner in \cite[Chapter 1, Section 1]{annex3}. These working procedures had to be ordered according to its suitability for their application in Astrea constellation. To do so, and Ordered Weight Average (OWA) have been done. The decisive factors and its weights are: 
+
+\begin{itemize}
+\item Efficiency: 40
+\item Time: 30
+\item Error correction:60
+\end{itemize}
+
+Then, the results of the OWA are the following ones:
+
+\begin{table}[H]
+\begin{center}
+\begin{tabular}{ | c | c | c | c | c |}
+\hline
+Protocol&Efficiency&Time&Error correction&OWA\\
+\hline
+Stop-and-Wait Protocol&0&0&0&0\\
+\hline
+Stop-and-Wait ARQ&0&0&1&0,46\\
+\hline
+Go-Back-N ARQ&1&0&1&0.69\\
+\hline
+Selective Repeat ARQ&1&1&1&1\\
+\hline
+\end{tabular}
+\caption{OWA of the DLL protocols.}
+\end{center}
+\end{table} 
+
+\subsubsubsection*{Protocols}
+The standards of the CCSDS will be followed in order to allow interoperability with other satellites such as the one of the client. The CCSDS has developed four protocols for the Data Link Protocol Sublayer of the Data Link Layer\cite{Secretariat2014}:
+
+\begin{itemize}
+\item TM Space Data Link Protocol
+\item TC Space Data Link Protocol
+\item AOS Space Data Link Protocol
+\item Proximity-1 Space Link Protocol-Data Link Layer
+\end{itemize}
+
+These protocols provide the capability to send data over a single space link. TM, TC, and AOS can have secured user data into a frame using the Space Data Link Security (SDLS) Protocol.
+
+CCSDS has also developed three standards for the Synchronization and Channel Coding Sublayer of the DLL:
+\begin{itemize}
+\item TM Synchronization and Channel Coding
+\item TC Synchronization and Channel Coding
+\item Proximity-1 Space Link Protocol—Coding and Synchronization Layer
+\end{itemize}
+
+TM Synchronization and Channel Coding is used with the TM or AOS Space Data Link Protocol, TC Synchronization and Channel Coding is used with the TC Space Data Link Protocol and the Proximity-1 Space Link Protocol—Coding and Synchronization Layer is used with the Proximity-1 Space Link Protocol—Data Link Layer. 
+
+After comparing the TC and Proximity-1 Protocols (more information at \cite[Chapter 1, Section 1]{annex3}), the decision taken is to use the TC Space Data Link Protocol with the TC sync and channel coding together with the Space Data Link Security Protocol. The reasons for doing so are mainly:
+
+\begin{itemize}
+\item Security: Incorporing the SLDS authentication and confidentality is provided.
+\item More virtual channels: This feature allow more clients communicating with their satellites at the same time.
+\end{itemize}
+
+More information about the chosen protocols such as the amount of bits occupied by the header, its configuration and total lenght can be found at \cite[Chapter 1, Section 1]{annex3}.

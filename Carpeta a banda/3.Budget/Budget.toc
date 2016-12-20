@@ -1,0 +1,13 @@
+\contentsline {part}{I\hspace {1em}Astrea's Budget}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Costs}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Manpower}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Communication Costs}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Initial Investment}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Maintenance and Operation Costs}{5}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Satellites Costs}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Launching Costs}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Other costs}{7}{section.2.5}
+\contentsline {chapter}{\numberline {3}Budget}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Initial Budget}{8}{section.3.1}
+\contentsline {section}{\numberline {3.2}Periodic Budget}{8}{section.3.2}

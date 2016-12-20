@@ -1,0 +1,93 @@
+\subsection{Orbit Geometry}
+\paragraph{}As an introductory section to all the parameters and configurations we are going to deal with in the following pages, it is important to talk about how an orbit is defined and studied. There are different methods to describe an orbit, the choice of one or other will depend on the amount of information needed and the accuracy required. Two methods of evaluation will be reviewed paying special attention to their benefits and drawbacks.
+
+\subsubsection{Using the equation of motion}
+This first method is based on applying the Newton's laws. The idea would be to study the Cubesat and the Earth as a spherical bodies in mutual gravitational attraction and neglect the gravitational forces caused by other objects (this is called the two body problem). Applying the second law of motion to the satellite the only force that acts in this particular situation is the gravitational attraction towards the Earth. Thus, using the law of universal gravitation,
+
+\begin{equation}
+-G\frac{M_{E}m_{sat}}{r^3}\vec{r}=m_{sat}\vec{a}_{sat}
+\end{equation}
+
+\paragraph{}Where $G$ is the gravitational constant and $r$ represents the distance between the satellite and the Earth. From the last equation, we only want to obtain the acceleration, therefore:
+
+\begin{equation}
+-G\frac{M_{E}}{r^3}\vec{r}=\vec{a}_{sat}=\frac{d^2 \vec{r}}{d t^2}
+\end{equation}
+
+\paragraph{}For simplicity, it usual to denote $\mu=GM_{earth}$ resulting in the following equation:
+
+\begin{equation}\label{eq:a1}
+-\frac{\mu}{r^3}\vec{r}=\frac{d^2 \vec{r}}{d t^2}
+\end{equation}
+
+\paragraph{}This expression is a second order equation that models the motion of the Cubesat relative to the Earth and it can be analytically solved. The only problem is that a lot of assumptions has been made to obtain it: e.g.
+\begin{itemize}
+	\item There are more bodies attracting the satellite (Sun, Moon, Venus, etc.)
+	\item The gravitational force is not the only force involved in the problem.
+	\item The earth is not an spherical body.
+\end{itemize}
+\paragraph{}The corrections for taking into account these things are called perturbations, and they can be added to equation~\ref{eq:a1} as accelerations ($\ddot{r}=-\textstyle \frac{\mu}{r} +a_{pert}$). Astrea is a LEO constellation, this is important because it can be helpful to avoid computing spurious accelerations such as the Venus attraction and to know that it will be affected by the atmosphere producing a drag acceleration. Using this idea is easy to deduce that the perturbations which have to be taken into account (ordered by the magnitude of its effect) are:
+\begin{itemize}
+	\item The drag produced by the atmosphere.
+	\item The solar radiation pressure.
+	\item he oblateness of the Earth.
+	\item The attraction of Sun and Moon.
+\end{itemize}
+\paragraph{}The derivation of the equations to model these perturbation is not the aim of this report. However, if the reader wants to know how the expressions are derived there is a great explanation on the Chapter 6 of \cite{ashish}.
+
+\subsubsubsection{Acceleration due to atmospheric Drag}
+\paragraph{}Spacecrafts in LEO experience a significant atmospheric drag, which is proportional to the density and the square of the relative speed. Since the drag opposes the orbital motion, the acceleration produced is negative and it can be calculated using:
+
+\begin{equation}
+a_{drag}=\frac{1}{2}\rho\frac{C_DA}{m_{sat}}\dot{r}|\dot(r)|
+\end{equation}
+
+\paragraph{}Where $C_D$ is the drag coefficient (usually taken around $2\div2.5$) of satellite based in a reference area, $A$.
+
+\subsubsubsection{Acceleration due to solar radiation pressure}
+\paragraph{}The solar radiation pressure effect is a non-conservative force caused by the momentum flux from the sun. It has to be taken into account since above $600 km$ its effects exceeds the drag perturbation. It can be expressed by:
+
+\begin{equation}
+a_{SRP}=-\frac{P_{SRP}c_{SRP}A}{m}\vec{r}_{sat-Sun}
+\end{equation}
+
+\paragraph{}Where $P_{SRP}$ and $c_{SRP}$ are constant related to the solar radiation. 
+\paragraph{}However the major effect of the solar radiation is the modification of the atmosphere density and as a consequence, the drag acceleration. This effect depends on the solar cycle. This solar cycle duration is around 11 years and is  unpredictable but an average behavior can be obtained using experimental data.
+\paragraph{}In the figure~\ref{fig:f107} is shown an average of solar radiation most significant parameter.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=.55]{./fig/f107.png}
+\caption[Normalized to average cycle]{Normalized to average cycle. Extracted from \cite{estima}.}
+\label{fig:f107}
+\end{figure}
+
+\subsubsubsection{Acceleration due to Earth Oblateness}
+\paragraph{}The Earth is not spherically simmetric. It has an equatorial bulge and a flattening at the poles \cite{Tshilande}. This oblateness results in an unsymmetrical gravity potential given by the expression:
+
+\begin{equation}
+\Phi(r,\phi,\lambda)=\frac{\mu}{r}+\frac{\mu}{r}\sum_{n=1}^{\infty}C_n^0\left(\frac{R}{r}\right)^nP_n^0(u)\frac{\mu}{r}\sum_{n=1}^{\infty}\sum_{m=1}^{n}\left(\frac{R}{r}\right)^nP_n^m(u)[S_n^m\sin m\lambda+C_n^m\cos m\lambda]
+\end{equation}
+
+\paragraph{}Where $\phi$ is the geocentric latitude of the satellite, $\lambda$ is the geocentric longitude, $S$ and $C$ are harmonic coefficients of the geopotential and $P$ are the associated Legendre polynomials. The acceleration due to the oblateness is obtained as the gradient of the potential function $a=\nabla \Phi$
+
+%%%Cal afegir totes les formules%%%%
+
+\subsubsubsection{Acceleration due to the attraction of Sun and Moon}
+\paragraph{}In interplanetary missions it is important to consider the attraction of third bodies as the spacecraft travels away from Earth and the order of magnitude of the attraction of other bodies increases making it value important.When dealing with LEO orbits the most significant gravitational force is the one produced by the Earth. However, computing the acceleration originated by the Moon and the Sun (represented by pint masses) doesn't require too much computer resources and them can be easily calculated using:
+
+\begin{equation}
+a_m=-\mu_m\left(\frac{\vec{r}_{m-b}}{|\vec{r}_{m-b}|^3}+\frac{\vec{r}_{e-m}}{|\vec{r}_{e-m}|^3}\right)
+\end{equation}
+
+\begin{equation}
+a_s=-\mu_s\left(\frac{\vec{r}_{s-b}}{|\vec{r}_{s-b}|^3}+\frac{\vec{r}_{e-s}}{|\vec{r}_{e-s}|}\right)
+\end{equation}
+
+\paragraph{}Where the subscript $b$ refers to the spacecraft and $m$ and $s$ refers to the moon and the sun respectively.
+
+\subsubsubsection{Numerical integration}
+\paragraph{}The new expression obtained by the combination of \ref{eq:a1} and all the perturbations has no analytical solution and it has to be numerically solved. Two different methods are available for obtain the perturbed solution: \textbf{(a)} Cowell's method (integrates directly the full equation) or \textbf{(b)} Encke's method (computes the analytical solution of the two body problem eq.~\ref{eq:a1} and then adds the perturbation virtually).
+\paragraph{}The scheme to solve the perturbed motion is not complex and a classic integration algorithm like a 4th order Runge-Kutta can be used. The problem lies in the election of the timestep. Integrators such as Runge-Kutta needs a small timestep to be robust even if the variation of the acceleration is not "big". The span of an orbit simulation can be more than a decade and if the timestep is \textit{sufficiently small} it would require a lot of computing time.
+\subsubsection{Semi-analytical method (Keplerian Orbit)}
+\paragraph{}In fact, spending a lot of computing time in the preliminar study of the constellation is not advisable so another method to study and elaborate the constellation should be considered. This method has to provide results without nearly consuming resources. To do so, a semi-analytical method based in the orbital parameters is a reasonable election. It gives results fast but its accuracy  is limited.

@@ -1,0 +1,46 @@
+A typical delta pattern has the following characteristics:
+
+\begin{itemize}
+\item The constellation contains a total of \textit{T} satellites evenly spaced in each of the \textit{P} orbital planes. All planes have the same number of satellites, defined as \textit{S}, equally distributed on the orbit. Thus:
+\begin{equation}
+T = SP
+\end{equation}
+\begin{equation}
+\Delta\varphi=\frac{2\pi}{S}
+\end{equation}
+Where $\Delta\varphi$ is the angle between satellites in the same plane.
+
+\item All orbits have equal inclinations $\delta$ to a reference plane. If this plane is the Equator (it usually is), then the inclination $\delta$ equals the orbital parameter inclination \textit{i} \cite{Walker1971}.
+\begin{figure}[H]
+\centerline{\includegraphics[scale=0.4]{Full/Deltapattern.png}}
+\caption[Definition of the inclination $\delta$]{Definition of the inclination $\delta$. Extracted from \cite{Walker1971}}
+\label{fig:delta pattern}
+\end{figure} 
+
+\item The ascending nodes of the orbits are equally spaced across the full $2\pi$ (360$^{\circ}$ of longitude) at intervals of:
+\begin{equation}
+\Delta\Omega=\frac{2\pi}{P}
+\end{equation}
+
+\item The position of the satellites in different orbital planes is measured through the factor \textit{F}. When a satellite is at its ascending node, a satellite in the most easterly adjacent plane has covered a relative phase difference \textit{F}, and a real phase difference of:
+\begin{equation}
+\Delta\Phi=F\frac{2\pi}{P}
+\end{equation}
+In order to have the same phase difference between all orbital planes, \textit{F} is defined as an integer, which may have any value from 0 to (P-1).
+\end{itemize}
+
+\begin{figure}[H]
+\centerline{\includegraphics[scale=0.4]{Full/polarvswalker.png}}
+\caption[Comparison: polar const. and a delta pattern seen from the North Pole]{Comparison of a polar constellation and a delta pattern seen from the North Pole. Extracted from \cite{Walker1977}}
+\label{fig:delta pattern North Pole}
+\end{figure}
+
+With these characteristics, delta constellations are more complex than polar constellations. Because of the inclination of the orbits, the ascending and descending planes and the coverage of the satellites continuously overlap. This characteristic is a constraint on intersatellite networking because the relative velocities between satellites in different orbital planes are larger than in a polar constellation. Consequently, tracking requirements and Doppler shift are increased \cite{Wood2001}.
+
+\begin{figure}[H]
+\centerline{\includegraphics[scale=0.5]{Full/wdperspectiva}}
+\caption{Delta pattern 65$^{\circ}$: 30/6/1}
+\label{fig:delta pattern notation}
+\end{figure}
+
+The notation and coverage of this kind of constellations is developed in \cite[Chapter 3, Section 4]{annex1}.

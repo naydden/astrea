@@ -1,0 +1,17 @@
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
+\contentsline {chapter}{\numberline {1}Matlab Codes}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Satellite Footprint}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Minimum Plane Inclination}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Satellite Number Computation for Polar Orbits}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Orbit Parameters}{8}{section.1.4}
+\contentsline {section}{\numberline {1.5}Walker Delta Testing}{13}{section.1.5}
+\contentsline {section}{\numberline {1.6}Orbit Plotter}{14}{section.1.6}
+\contentsline {section}{\numberline {1.7}Perturbations}{21}{section.1.7}
+\contentsline {section}{\numberline {1.8}Orbit Decay}{27}{section.1.8}
+\contentsline {section}{\numberline {1.9}Performance Evaluator}{31}{section.1.9}
+\contentsline {section}{\numberline {1.10}Thrust}{35}{section.1.10}
+\contentsline {section}{\numberline {1.11}Satellites Datasheet}{40}{section.1.11}
+\contentsline {section}{\numberline {1.12}Ground Station Localization}{42}{section.1.12}
+\contentsline {section}{\numberline {1.13}Received signal strength variation with bandwidth}{45}{section.1.13}
+\contentsline {section}{\numberline {1.14}Received signal strength for distance variation}{47}{section.1.14}

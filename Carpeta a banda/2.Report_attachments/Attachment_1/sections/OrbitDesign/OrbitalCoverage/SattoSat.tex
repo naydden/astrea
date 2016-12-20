@@ -1,0 +1,15 @@
+One of the restrictive conditions that we must take into account is the visibility between satellites. Communications among different satellites is they key point of our constellation. Therefore, this has to be guaranteed considering a model which will represent the conditions of the atmosphere for LEO communications.
+
+In order to fulfill communications among satellites we must consider that a straight beam can be described between two consecutive satellites, which will then communicate with others. These two satellites will need to be at a distance such that the Earth itself doesn't interfere in this straight beam. Depending on the bandwidth of our constellation we will also have to consider that this communication beam will not interfere with a given element of the atmosphere such as the upper layers of the ionosphere. Thus, a model will be developed in order to limit the minimum altitude at which this beam is guaranteed to pass through safely.
+
+This model is a restrictive condition that we need to satisfy when designing our constellation.The highest restrictive conditions are the upper layers of the ionosphere, specifically the E layers at 150 km above the surface of the Earth. Reflections and absorptions can occur for both E layers and sporadic E layers. E layers may reflect signals of frequencies below 10 MHz whereas Sporadic E layers can be a problem up to 225 MHz. Working for S bands and X bands implies that neither of these layers will alter the signals of our constellation.
+
+Operating and computing with these conditions a maximum distance is a obtained which defines how far these satellites can be from each other. A simple equation is used to calculate this distance considering the height of the satellites and the height of the E layers in the atmosphere.
+
+\[ d = 2 \sqrt{(R+h_{sat})^2 - (R+h_{atm})^2} \]
+
+\[ h_{sat} = 550\ km\] 
+\[ h_{atm} = 150\ km\]
+\[R = 6371\ km\]
+
+The final expression for the distance between two satellites indicates that distance between two satellites has to be smaller than 4640 km approximately. For this result we conclude that this restrictive condition is actually less restrictive than the 9 planes needed for our constellation. Thus, satellite to satellite visibility is a parameter which will not affect the design of our constellation after all. 

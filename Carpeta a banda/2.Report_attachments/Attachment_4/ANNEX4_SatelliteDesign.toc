@@ -1,0 +1,116 @@
+\contentsline {chapter}{List of Tables}{iii}{section*.1}
+\contentsline {chapter}{List of Figures}{iv}{section*.2}
+\contentsline {chapter}{\numberline {1}Satellite design}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Structure and thermal protection}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Structure}{1}{subsection.1.1.1}
+\contentsline {paragraph}{}{1}{section*.3}
+\contentsline {paragraph}{}{1}{section*.5}
+\contentsline {paragraph}{}{2}{section*.6}
+\contentsline {paragraph}{}{2}{section*.7}
+\contentsline {subsection}{\numberline {1.1.2}Thermal protection}{2}{subsection.1.1.2}
+\contentsline {paragraph}{}{2}{section*.8}
+\contentsline {paragraph}{}{2}{section*.9}
+\contentsline {paragraph}{}{3}{section*.10}
+\contentsline {paragraph}{}{3}{section*.11}
+\contentsline {paragraph}{}{3}{section*.12}
+\contentsline {section}{\numberline {1.2}Electrical Power Systems}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}EPS Scheme}{4}{subsection.1.2.1}
+\contentsline {paragraph}{}{4}{section*.13}
+\contentsline {paragraph}{}{4}{section*.15}
+\contentsline {paragraph}{}{4}{section*.16}
+\contentsline {subsection}{\numberline {1.2.2}Estimation of the power required}{4}{subsection.1.2.2}
+\contentsline {paragraph}{}{4}{section*.17}
+\contentsline {paragraph}{}{5}{section*.18}
+\contentsline {subsection}{\numberline {1.2.3}Solar arrays}{5}{subsection.1.2.3}
+\contentsline {paragraph}{}{5}{section*.19}
+\contentsline {paragraph}{}{6}{section*.20}
+\contentsline {paragraph}{}{6}{section*.21}
+\contentsline {paragraph}{}{6}{section*.22}
+\contentsline {subsection}{\numberline {1.2.4}Power management system}{6}{subsection.1.2.4}
+\contentsline {paragraph}{}{6}{section*.23}
+\contentsline {paragraph}{}{6}{section*.24}
+\contentsline {paragraph}{}{7}{section*.25}
+\contentsline {paragraph}{}{7}{section*.26}
+\contentsline {paragraph}{}{7}{section*.27}
+\contentsline {paragraph}{}{7}{section*.28}
+\contentsline {paragraph}{}{8}{section*.29}
+\contentsline {subsection}{\numberline {1.2.5}Batteries}{8}{subsection.1.2.5}
+\contentsline {paragraph}{}{8}{section*.30}
+\contentsline {paragraph}{}{8}{section*.31}
+\contentsline {paragraph}{}{8}{section*.32}
+\contentsline {paragraph}{}{9}{section*.33}
+\contentsline {section}{\numberline {1.3}Propulsion}{10}{section.1.3}
+\contentsline {paragraph}{}{10}{section*.34}
+\contentsline {paragraph}{}{10}{section*.35}
+\contentsline {paragraph}{}{11}{section*.36}
+\contentsline {section}{\numberline {1.4}AOCS}{12}{section.1.4}
+\contentsline {paragraph}{}{12}{section*.37}
+\contentsline {paragraph}{}{12}{section*.38}
+\contentsline {paragraph}{}{12}{section*.39}
+\contentsline {section}{\numberline {1.5}Payload}{13}{section.1.5}
+\contentsline {paragraph}{}{13}{section*.40}
+\contentsline {subsection}{\numberline {1.5.1}Antennas}{13}{subsection.1.5.1}
+\contentsline {paragraph}{}{13}{section*.41}
+\contentsline {subsubsection}{\numberline {1.5.1.1}Basic parameters}{13}{subsubsection.1.5.1.1}
+\contentsline {paragraph}{}{13}{section*.42}
+\contentsline {paragraph}{}{13}{section*.43}
+\contentsline {paragraph}{}{13}{section*.44}
+\contentsline {paragraph}{}{14}{section*.45}
+\contentsline {subsubsection}{\numberline {1.5.1.2}Patch antenna}{14}{subsubsection.1.5.1.2}
+\contentsline {paragraph}{}{14}{section*.46}
+\contentsline {subsubsection}{\numberline {1.5.1.3}Turnstile antenna}{14}{subsubsection.1.5.1.3}
+\contentsline {paragraph}{}{14}{section*.47}
+\contentsline {paragraph}{}{15}{section*.48}
+\contentsline {subsubsection}{\numberline {1.5.1.4}Antenna selection}{15}{subsubsection.1.5.1.4}
+\contentsline {paragraph}{}{15}{section*.49}
+\contentsline {paragraph}{}{15}{section*.50}
+\contentsline {subsection}{\numberline {1.5.2}Payload Data Handling Systems}{15}{subsection.1.5.2}
+\contentsline {subsubsection}{\numberline {1.5.2.1}Transceivers}{15}{subsubsection.1.5.2.1}
+\contentsline {paragraph}{}{15}{section*.51}
+\contentsline {paragraph}{}{16}{section*.52}
+\contentsline {paragraph}{}{16}{section*.53}
+\contentsline {subsubsection}{\numberline {1.5.2.2}PDHS computers}{16}{subsubsection.1.5.2.2}
+\contentsline {paragraph}{}{16}{section*.54}
+\contentsline {paragraph}{}{17}{section*.55}
+\contentsline {subsection}{\numberline {1.5.3}Study of the commercial available options and options chosen}{17}{subsection.1.5.3}
+\contentsline {paragraph}{}{17}{section*.56}
+\contentsline {paragraph}{}{18}{section*.57}
+\contentsline {section}{\numberline {1.6}Link Budget}{19}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Communications Basics}{19}{subsection.1.6.1}
+\contentsline {paragraph}{}{19}{section*.58}
+\contentsline {paragraph}{}{20}{section*.59}
+\contentsline {paragraph}{Transmission Losses}{20}{section*.60}
+\contentsline {subsection}{\numberline {1.6.2}Propagation losses}{20}{subsection.1.6.2}
+\contentsline {subsubsection}{\numberline {1.6.2.1}Free Space Losses}{20}{subsubsection.1.6.2.1}
+\contentsline {paragraph}{Range and Path Loss}{20}{section*.62}
+\contentsline {subsubsection}{\numberline {1.6.2.2}Atmospheric Losses}{21}{subsubsection.1.6.2.2}
+\contentsline {paragraph}{\ }{21}{section*.63}
+\contentsline {paragraph}{Ionospheric Effects}{21}{section*.64}
+\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{22}{section*.65}
+\contentsline {paragraph}{}{22}{section*.67}
+\contentsline {paragraph}{}{22}{section*.68}
+\contentsline {paragraph}{AstreaSAT noise temperature}{24}{section*.71}
+\contentsline {paragraph}{Local Effects}{24}{section*.72}
+\contentsline {subsubsection}{\numberline {1.6.2.3}Pointing Losses}{24}{subsubsection.1.6.2.3}
+\contentsline {paragraph}{\ }{24}{section*.73}
+\contentsline {paragraph}{}{25}{section*.74}
+\contentsline {paragraph}{}{25}{section*.75}
+\contentsline {subsubsection}{\numberline {1.6.2.4}Multipath and Fade Margin}{25}{subsubsection.1.6.2.4}
+\contentsline {paragraph}{\ }{25}{section*.76}
+\contentsline {subsection}{\numberline {1.6.3}Local Losses}{26}{subsection.1.6.3}
+\contentsline {subsubsection}{\numberline {1.6.3.1}Equipament Losses}{26}{subsubsection.1.6.3.1}
+\contentsline {paragraph}{}{26}{section*.77}
+\contentsline {subsubsection}{\numberline {1.6.3.2}Environment Losses}{26}{subsubsection.1.6.3.2}
+\contentsline {paragraph}{}{26}{section*.78}
+\contentsline {paragraph}{}{26}{section*.79}
+\contentsline {subsection}{\numberline {1.6.4}Modulation Technique}{26}{subsection.1.6.4}
+\contentsline {paragraph}{\ }{26}{section*.80}
+\contentsline {paragraph}{}{27}{section*.82}
+\contentsline {subsection}{\numberline {1.6.5}System Noise}{27}{subsection.1.6.5}
+\contentsline {paragraph}{}{28}{section*.83}
+\contentsline {paragraph}{}{28}{section*.84}
+\contentsline {paragraph}{Channel Noise}{28}{section*.85}
+\contentsline {subsection}{\numberline {1.6.6}Link Budget Calculation}{29}{subsection.1.6.6}
+\contentsline {subsubsection}{\numberline {1.6.6.1}Methodology}{29}{subsubsection.1.6.6.1}
+\contentsline {subsubsection}{\numberline {1.6.6.2}Range calculation}{30}{subsubsection.1.6.6.2}
+\contentsline {chapter}{\numberline {2}Bibliography}{32}{chapter.2}

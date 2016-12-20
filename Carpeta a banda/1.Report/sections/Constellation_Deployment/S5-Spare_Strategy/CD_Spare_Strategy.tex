@@ -1,0 +1,38 @@
+\subsection{Spare Strategy}
+
+\subsubsection{Introduction}
+When building a satellite constellation with the target to provide global coverage communication relay between LEO satellites and between LEO satellites and the ground, it is crucial to avoid any deterioration of the service. In order to ensure that any possible fail from the satellites would not spoil the constellation operation for more than 6 hours; a spare strategy has to be done. Nowadays, four different types of spare strategies are known:
+
+\begin{itemize} 
+\item {Spare satellites in constellation}
+\item {In-orbit spare} 
+\item {Spare satellites in parking orbits} 
+\item {Spare satellites on the ground} 
+\end{itemize}
+
+Each existing spare strategy is valid. Despite, depending on the enterprise prioprities the most suitable has to be choosen. In addition, the decision taken is related to the constellation flexibility to degrade the service to a lower performance level during a certain period and to its cost. 
+
+\subsubsection{Spare Strategy Selection}
+From all those alternatives explained in \cite[Chapter 1, Section 4]{annex2}, two of them  are quickly discarded: in-orbit spares and in parking orbit spares. The first one is having a non-working satellite in orbit because not only the satellite has to be purchased, but also it has to be launched to a different orbit than the principal one. That fact will increase the cost of the launch or even worst it could create the necessity of an extra launch. Although, the satellites needs to reach the operative orbit and it is known that cubesats propulsion is not really powerful. Furthermore, this satellites might never be needed. So it is highly probable this investment to be a waist of money and sources and this are the main reasons why it has benn discarded.
+
+The second is not available in the \textit{Astrea Constellation} case. On the one hand, the main parking in orbit will be the ISS which is at an altitude of 400km above the earth and the constellation is situated at among 550km above the earth. Knowing that, this option is immediately discarded. On the other hand, the Electron the rocket that will accomplish the mission to put the satellites in orbit cannot stay in parking orbit before arriving to its final destination. Definitely, the service cannot rely on this option.
+
+Two possible spare strategies remain: spare satellites in the constellation or on ground. In spite deciding if both ones are useful or only one of them is, a feasibility study is done. The objective is analyse the different kind of failure that have to be covered and determine how the constellation will collapse. Only after that the most suitable strategy method can be designed having as reference the alternatives presented above. 
+
+\subsection{Major failure definition}
+It can be stated that a major failure can happen due to various factors:
+\begin{itemize}
+\item The failure of all satellites in range of the client satellite. It is assumed a minimum of three.
+\item The failure of all ground stations. It would be at least 3 ground stations.
+\item The failure of at least two satellites in a communication route in less than 3 minutes.
+\end{itemize}
+For more information about the major failure definition see \cite[Chapter 1, Section 4]{annex2}
+
+\subsubsection{Decision}
+After deeply considering the many spare strategies, it has been concluded that none of them are required since the network is dimensioned in order to have the capacity to assume some minor expected failures that will not affect the performance of the entire constellation.Simply, the cost is not justified enough.
+
+Regarding the fatal failures that have been mentioned in \cite[Chaper 1. Section 1.4]{annex2}, it is concluded that they are completely unusual and, therefore, won't be used for the design point.
+
+A special situation will be addressed though. As it has been mentioned in the attachments, it is not desirable for a satellite to fail since it will eventually leave a ground station isolated. Therefore, this has to be addressed. 
+
+That is a strong reason for requesting the satellites to have a propulsion system with enough $\Delta$V. Since they do, a manoeuvring can be done in case one of the nodes of a plane fail. The aim would be to reorganize the functional satellites in the plane so that they become equally spaced again, obviating the failed one. This manoeuvre would improve the global performance of the network compared to the case of not restitution after a failure. That is due to the fact that there are just some short gaps produced above the Ground Station instead of a single but a long one.
