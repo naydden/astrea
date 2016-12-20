@@ -57,7 +57,7 @@
 \contentsline {subsubsection}{\numberline {6.3.3.1}United Kingdom Ground Station}{46}{subsubsection.6.3.3.1}
 \contentsline {subsubsection}{\numberline {6.3.3.2}Canada Ground Station}{46}{subsubsection.6.3.3.2}
 \contentsline {subsection}{\numberline {6.3.4}Annual costs}{47}{subsection.6.3.4}
-\contentsline {subsubsection}{\numberline {6.3.4.1}Annual costs of the Ground Stations and the Mission Control Centre}{47}{subsubsection.6.3.4.1}
+\contentsline {subsubsection}{\numberline {6.3.4.1}Annual costs: Ground Stations and Mission Control Center}{47}{subsubsection.6.3.4.1}
 \contentsline {subsection}{\numberline {6.3.5}Initial investment}{47}{subsection.6.3.5}
 \contentsline {subsubsection}{\numberline {6.3.5.1}Description of the systems}{47}{subsubsection.6.3.5.1}
 \contentsline {subsubsection}{\numberline {6.3.5.2}Investment}{48}{subsubsection.6.3.5.2}

@@ -58,7 +58,7 @@ a_{SRP}=-\frac{P_{SRP}c_{SRP}A}{m}\vec{r}_{sat-Sun}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=.55]{./fig/f107.png}
-\caption{F10.7 normalized to average cycle. Extracted from \cite{estima}.}
+\caption[Normalized to average cycle]{Normalized to average cycle. Extracted from \cite{estima}.}
 \label{fig:f107}
 \end{figure}
 
