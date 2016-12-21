@@ -1,3 +1,5 @@
+\contentsline {chapter}{List of Tables}{ii}{section*.1}
+\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Matlab Codes}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Satellite Footprint}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Minimum Plane Inclination}{3}{section.1.2}

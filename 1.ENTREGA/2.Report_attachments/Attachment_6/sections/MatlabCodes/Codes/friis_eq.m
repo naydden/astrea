@@ -1,4 +1,4 @@
-function [Pr,radius,FSL]=friis_eq(Gt, Gr, f, Pw, r_start, r_end, n,Lprop)
+function [ Pr,radius, FSL] = friis_eq( Gt, Gr, f, Pw, r_start, r_end, n,Lprop)
 %FRIIS_EQ: Calculate the received on ground power in dBm.
 %   Gt, Gr in dBi
 %   f in Mhz
