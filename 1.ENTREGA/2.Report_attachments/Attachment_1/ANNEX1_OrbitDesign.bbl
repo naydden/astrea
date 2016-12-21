@@ -14,24 +14,24 @@ Howard~D. Curtis.
 U.S. Air~Force GPS.
 \newblock {Global Positioning System: Space Segment}.
 
+\bibitem{Iridium}
+Satellites Iridium.
+\newblock {The Iridium System}.
+
 \bibitem{Wood2011}
 SaVi and L.~Wood.
 \newblock {SaVi: satellite constellation visualization,}.
 \newblock {\em First Anual CCSR Research Symposium (CRS 2011)}, 2011.
-
-\bibitem{ccar}
-Bob~Jayne Ccar.
-\newblock {Effects of Satellite Constellation Deployment on Communication
-  Networks}.
 
 \bibitem{Chobotov2002}
 Vladimir~A Chobotov.
 \newblock {\em {Orbital Mechanics}}.
 \newblock 2002.
 
-\bibitem{Iridium}
-Satellites Iridium.
-\newblock {The Iridium System}.
+\bibitem{ccar}
+Bob~Jayne Ccar.
+\newblock {Effects of Satellite Constellation Deployment on Communication
+  Networks}.
 
 \bibitem{Walker1977}
 J.G. Walker.
