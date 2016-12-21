@@ -46,10 +46,8 @@
 \contentsline {subsubsection}{\numberline {6.2.5.3}Options chosen for the payload module}{38}{subsubsection.6.2.5.3}
 \contentsline {subsection}{\numberline {6.2.6}Communication module}{38}{subsection.6.2.6}
 \contentsline {subsection}{\numberline {6.2.7}Astrea satellite final configuration}{38}{subsection.6.2.7}
-\contentsline {paragraph}{}{39}{section*.35}
-\contentsline {paragraph}{}{39}{section*.36}
-\contentsline {section}{\numberline {6.3}Ground Segment Systems}{40}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Introduction}{40}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.3}Ground Segment Systems}{39}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Introduction}{39}{subsection.6.3.1}
 \contentsline {subsection}{\numberline {6.3.2}Localization of the Ground Stations}{40}{subsection.6.3.2}
 \contentsline {subsubsection}{\numberline {6.3.2.1}Method}{41}{subsubsection.6.3.2.1}
 \contentsline {subsubsection}{\numberline {6.3.2.2}Conclusion}{41}{subsubsection.6.3.2.2}
@@ -64,13 +62,13 @@
 \contentsline {subsection}{\numberline {6.3.6}Renting of a Ground Station}{45}{subsection.6.3.6}
 \contentsline {subsubsection}{\numberline {6.3.6.1}Contact with GS companies}{45}{subsubsection.6.3.6.1}
 \contentsline {subsubsection}{\numberline {6.3.6.2}LeafSpace}{45}{subsubsection.6.3.6.2}
-\contentsline {paragraph}{Antenna}{46}{section*.40}
-\contentsline {paragraph}{Pricing}{46}{section*.41}
-\contentsline {paragraph}{Boost Performance}{46}{section*.42}
-\contentsline {paragraph}{Way of use}{46}{section*.43}
-\contentsline {paragraph}{Services}{46}{section*.44}
-\contentsline {paragraph}{Map}{47}{section*.45}
-\contentsline {paragraph}{Operation}{47}{section*.47}
+\contentsline {paragraph}{Antenna}{46}{section*.38}
+\contentsline {paragraph}{Pricing}{46}{section*.39}
+\contentsline {paragraph}{Boost Performance}{46}{section*.40}
+\contentsline {paragraph}{Way of use}{46}{section*.41}
+\contentsline {paragraph}{Services}{46}{section*.42}
+\contentsline {paragraph}{Map}{47}{section*.43}
+\contentsline {paragraph}{Operation}{47}{section*.45}
 \contentsline {subsection}{\numberline {6.3.7}Decision taking}{47}{subsection.6.3.7}
 \contentsline {subsubsection}{\numberline {6.3.7.1}Decision}{48}{subsubsection.6.3.7.1}
 \contentsline {subsection}{\numberline {6.3.8}Operation of the Ground Segment}{48}{subsection.6.3.8}
@@ -98,7 +96,7 @@
 \contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{67}{subsubsection.6.6.3.2}
 \contentsline {subsection}{\numberline {6.6.4}Major failure definition}{68}{subsection.6.6.4}
 \contentsline {subsubsection}{\numberline {6.6.4.1}Decision}{68}{subsubsection.6.6.4.1}
-\contentsline {paragraph}{}{68}{section*.55}
+\contentsline {paragraph}{}{68}{section*.53}
 \contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{69}{subsection.6.6.5}
 \contentsline {chapter}{\numberline {7}Financial Study}{70}{chapter.7}
 \contentsline {chapter}{\numberline {8}Environmental Impact Study}{74}{chapter.8}
