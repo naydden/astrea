@@ -37,6 +37,7 @@ HTTP functions as a request–response protocol in the client–server computing
 Transport Layer Security (TLS)is a cryptographic protocol that provides communications security over a computer network. Several versions of the protocol find widespread use in applications such as web browsing, email, Internet faxing, instant messaging, and voice-over-IP (VoIP). Major websites use TLS to secure all communications between their servers and web browsers.
 
 The Transport Layer Security protocol aims primarily to provide privacy and data integrity between two communicating computer applications. When secured by TLS, connections between a client  and a server have one or more of the following properties:
+
 \begin{itemize}
 \item The connection is private (or secure) because symmetric cryptography is used to encrypt the data transmitted. The keys for this symmetric encryption are generated uniquely for each connection and are based on a shared secret negotiated at the start of the session. The server and client negotiate the details of which encryption algorithm and cryptographic keys to use before the first byte of data is transmitted . The negotiation of a shared secret is both secure (the negotiated secret is unavailable to eavesdroppers and cannot be obtained, even by an attacker who places themselves in the middle of the connection) and reliable (no attacker can modify the communications during the negotiation without being detected).
 \item The identity of the communicating parties can be authenticated using public-key cryptography. This authentication can be made optional, but is generally required for at least one of the parties (typically the server).
@@ -53,7 +54,8 @@ At first, it has to be take in account that this layer provides the plataform in
 
 Analazyng the previous protocols, avoiding the techincal details of each one, there are considered tthis 3 ways of working, with its advantages and drawbacks:
 \begin{itemize}
-\item \textbf{Web.} This system would be based in HTTP an implemented with the corrseponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where he/she wolud sign in with an account. When the user is verified, the client could request to download informaton of his satellite. 
+\item \textbf{Web.} This system would be based in HTTP an implemented with the corrseponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where he/she wolud sign in with an account. When the user is verified, the client could request to download informaton of his satellite.
+
 \begin{itemize}
 \item Advantages: 
 \begin{itemize}

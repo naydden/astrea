@@ -3,7 +3,7 @@
 \contentsline {chapter}{\numberline {1}Space Segment Protocol Stack}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Layer 2: Data Link}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Functions of the DLL}{1}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Working procedure}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.2}Working procedure}{1}{subsection.1.1.2}
 \contentsline {subsubsection}{\numberline {1.1.2.1}Simplest Protocol}{2}{subsubsection.1.1.2.1}
 \contentsline {subsubsection}{\numberline {1.1.2.2}Stop-and-Wait Protocol}{3}{subsubsection.1.1.2.2}
 \contentsline {subsubsection}{\numberline {1.1.2.3}Stop-and-Wait Automatic Repeat Request}{4}{subsubsection.1.1.2.3}
@@ -17,130 +17,64 @@
 \contentsline {section}{\numberline {1.2}Layer 3: The Network}{18}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Functions of the Network Layer}{18}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Protocols}{19}{subsection.1.2.2}
-\contentsline {paragraph}{}{19}{section*.24}
-\contentsline {paragraph}{}{19}{section*.25}
-\contentsline {paragraph}{}{21}{section*.28}
-\contentsline {paragraph}{}{21}{section*.29}
 \contentsline {subsubsection}{\numberline {1.2.2.1}Main protocols}{22}{subsubsection.1.2.2.1}
-\contentsline {paragraph}{}{22}{section*.30}
-\contentsline {paragraph}{}{22}{section*.31}
-\contentsline {paragraph}{}{22}{section*.32}
-\contentsline {paragraph}{}{23}{section*.33}
-\contentsline {paragraph}{}{23}{section*.34}
-\contentsline {paragraph}{}{23}{section*.36}
-\contentsline {paragraph}{}{23}{section*.37}
-\contentsline {paragraph}{}{24}{section*.39}
-\contentsline {paragraph}{}{24}{section*.41}
-\contentsline {paragraph}{}{24}{section*.42}
 \contentsline {subsubsection}{\numberline {1.2.2.2}Auxiliary protocols}{25}{subsubsection.1.2.2.2}
-\contentsline {paragraph}{}{25}{section*.44}
-\contentsline {paragraph}{}{26}{section*.45}
-\contentsline {paragraph}{}{26}{section*.46}
-\contentsline {paragraph}{}{26}{section*.47}
-\contentsline {paragraph}{}{26}{section*.49}
-\contentsline {paragraph}{}{27}{section*.50}
-\contentsline {paragraph}{}{27}{section*.51}
-\contentsline {paragraph}{}{27}{section*.52}
-\contentsline {paragraph}{}{27}{section*.53}
-\contentsline {paragraph}{}{28}{section*.54}
-\contentsline {paragraph}{}{28}{section*.55}
-\contentsline {paragraph}{}{28}{section*.56}
-\contentsline {paragraph}{}{29}{section*.57}
-\contentsline {paragraph}{}{29}{section*.58}
-\contentsline {paragraph}{}{29}{section*.59}
-\contentsline {subsubsection}{\numberline {1.2.2.3}Routing protocols}{30}{subsubsection.1.2.2.3}
-\contentsline {paragraph}{}{30}{section*.60}
-\contentsline {paragraph}{}{30}{section*.61}
-\contentsline {paragraph}{}{30}{section*.62}
-\contentsline {paragraph}{}{30}{section*.63}
-\contentsline {paragraph}{}{31}{section*.64}
-\contentsline {paragraph}{}{31}{section*.65}
-\contentsline {paragraph}{}{31}{section*.66}
-\contentsline {paragraph}{}{32}{section*.67}
-\contentsline {paragraph}{}{33}{section*.68}
-\contentsline {paragraph}{}{33}{section*.69}
-\contentsline {paragraph}{}{33}{section*.70}
-\contentsline {subsection}{\numberline {1.2.3}Protocol Selection}{34}{subsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.3.1}Choice of the main protocol}{34}{subsubsection.1.2.3.1}
-\contentsline {paragraph}{}{34}{section*.71}
-\contentsline {paragraph}{}{34}{section*.72}
-\contentsline {paragraph}{}{34}{section*.73}
-\contentsline {paragraph}{}{34}{section*.74}
-\contentsline {paragraph}{}{35}{section*.75}
-\contentsline {subsubsection}{\numberline {1.2.3.2}Choice of routing protocol}{35}{subsubsection.1.2.3.2}
-\contentsline {paragraph}{}{35}{section*.76}
-\contentsline {paragraph}{}{35}{section*.77}
-\contentsline {paragraph}{}{35}{section*.78}
-\contentsline {paragraph}{}{35}{section*.79}
-\contentsline {paragraph}{}{35}{section*.80}
-\contentsline {paragraph}{}{35}{section*.81}
-\contentsline {subsubsection}{\numberline {1.2.3.3}Choice of complementary protocols}{36}{subsubsection.1.2.3.3}
-\contentsline {paragraph}{}{36}{section*.82}
-\contentsline {paragraph}{}{36}{section*.83}
-\contentsline {subsubsection}{\numberline {1.2.3.4}Conclusion}{36}{subsubsection.1.2.3.4}
-\contentsline {paragraph}{}{36}{section*.84}
-\contentsline {subsection}{\numberline {1.2.4}Final structure}{36}{subsection.1.2.4}
-\contentsline {paragraph}{}{36}{section*.85}
-\contentsline {paragraph}{}{36}{section*.86}
-\contentsline {paragraph}{}{37}{section*.87}
-\contentsline {paragraph}{}{37}{section*.88}
-\contentsline {paragraph}{}{37}{section*.89}
-\contentsline {section}{\numberline {1.3}Layer 4: Transport and Session}{37}{section.1.3}
-\contentsline {paragraph}{}{38}{section*.90}
-\contentsline {paragraph}{}{38}{section*.91}
-\contentsline {subsection}{\numberline {1.3.1}User Datagram Protocol (UDP)}{38}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Stream Control Transmission Protocol (SCTP)}{39}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3} Transmission Control Protocol (TCP)}{39}{subsection.1.3.3}
-\contentsline {subsubsection}{\numberline {1.3.3.1}TCP Services}{39}{subsubsection.1.3.3.1}
-\contentsline {paragraph}{}{40}{section*.92}
-\contentsline {paragraph}{}{40}{section*.93}
-\contentsline {paragraph}{}{40}{section*.94}
-\contentsline {paragraph}{}{41}{section*.95}
-\contentsline {subsubsection}{\numberline {1.3.3.2}TCP features}{41}{subsubsection.1.3.3.2}
-\contentsline {subsection}{\numberline {1.3.4}Choice of protocol for the transport layer}{45}{subsection.1.3.4}
-\contentsline {section}{\numberline {1.4}Global Overview}{45}{section.1.4}
-\contentsline {paragraph}{}{45}{section*.96}
-\contentsline {chapter}{\numberline {2}Ground Segment Protocols}{46}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction}{46}{section.2.1}
-\contentsline {section}{\numberline {2.2}Ground Segment protocols}{46}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}File Transfer Protocol (FTP)}{46}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Secure Shell (SSH)}{47}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Simple Mail Transfer Protocol (SMTP)}{47}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Hypertext Transfer Protocol (HTTP)}{48}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Transport Layer Security (TLS)}{48}{subsection.2.2.5}
-\contentsline {subsection}{\numberline {2.2.6}Hypertext Transfer Protocol Secure (HTTPS)}{49}{subsection.2.2.6}
-\contentsline {section}{\numberline {2.3}Conclusions}{49}{section.2.3}
-\contentsline {chapter}{\numberline {3}Design of the Ground Segment}{52}{chapter.3}
-\contentsline {section}{\numberline {3.1}Study of localization of Ground Stations}{52}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Latitude analysis}{52}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Longitude analysis}{59}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Study of annual costs}{61}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Energy and Maintenance}{61}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}Mission Control Center}{61}{subsubsection.3.2.1.1}
-\contentsline {subsubsection}{\numberline {3.2.1.2}Ground Stations}{62}{subsubsection.3.2.1.2}
-\contentsline {paragraph}{Canada}{63}{section*.110}
-\contentsline {paragraph}{United Kingdom and Falkland Islands}{63}{section*.111}
-\contentsline {paragraph}{Total annual cost}{63}{section*.112}
-\contentsline {subsection}{\numberline {3.2.2}Salaries}{63}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Study of initial investment}{65}{section.3.3}
-\contentsline {section}{\numberline {3.4}List of existing Ground Stations}{65}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}ESA Ground Stations}{65}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}KSAT Ground Stations}{67}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}NASA Ground Stations}{68}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}SSC Ground Stations}{69}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}Other Ground Stations}{70}{subsection.3.4.5}
-\contentsline {section}{\numberline {3.5}Decision taking}{71}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Availability}{71}{subsection.3.5.1}
-\contentsline {subsubsection}{\numberline {3.5.1.1}Building a ground station}{71}{subsubsection.3.5.1.1}
-\contentsline {subsubsection}{\numberline {3.5.1.2}Renting a ground station}{71}{subsubsection.3.5.1.2}
-\contentsline {subsection}{\numberline {3.5.2}Cost}{71}{subsection.3.5.2}
-\contentsline {subsubsection}{\numberline {3.5.2.1}Building a ground station}{71}{subsubsection.3.5.2.1}
-\contentsline {subsubsection}{\numberline {3.5.2.2}Renting a ground station}{72}{subsubsection.3.5.2.2}
-\contentsline {subsection}{\numberline {3.5.3}Position}{72}{subsection.3.5.3}
-\contentsline {subsubsection}{\numberline {3.5.3.1}Building a ground station}{72}{subsubsection.3.5.3.1}
-\contentsline {subsubsection}{\numberline {3.5.3.2}Renting a ground station}{72}{subsubsection.3.5.3.2}
-\contentsline {subsection}{\numberline {3.5.4}Ease to improve}{72}{subsection.3.5.4}
-\contentsline {subsubsection}{\numberline {3.5.4.1}Building a ground station}{72}{subsubsection.3.5.4.1}
-\contentsline {subsubsection}{\numberline {3.5.4.2}Renting a ground station}{73}{subsubsection.3.5.4.2}
-\contentsline {subsection}{\numberline {3.5.5}Decision}{73}{subsection.3.5.5}
-\contentsline {chapter}{\numberline {4}Bibliography}{74}{chapter.4}
+\contentsline {subsubsection}{\numberline {1.2.2.3}Routing protocols}{29}{subsubsection.1.2.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Protocol Selection}{33}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Choice of the main protocol}{33}{subsubsection.1.2.3.1}
+\contentsline {subsubsection}{\numberline {1.2.3.2}Choice of routing protocol}{34}{subsubsection.1.2.3.2}
+\contentsline {subsubsection}{\numberline {1.2.3.3}Choice of complementary protocols}{35}{subsubsection.1.2.3.3}
+\contentsline {subsubsection}{\numberline {1.2.3.4}Conclusion}{35}{subsubsection.1.2.3.4}
+\contentsline {subsection}{\numberline {1.2.4}Final structure}{35}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Layer 4: Transport and Session}{36}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}User Datagram Protocol (UDP)}{37}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Stream Control Transmission Protocol (SCTP)}{38}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3} Transmission Control Protocol (TCP)}{38}{subsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.3.1}TCP Services}{38}{subsubsection.1.3.3.1}
+\contentsline {subsubsection}{\numberline {1.3.3.2}TCP features}{40}{subsubsection.1.3.3.2}
+\contentsline {subsection}{\numberline {1.3.4}Choice of protocol for the transport layer}{44}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}Global Overview}{44}{section.1.4}
+\contentsline {chapter}{\numberline {2}Ground Segment Protocols}{45}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{45}{section.2.1}
+\contentsline {section}{\numberline {2.2}Ground Segment protocols}{45}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}File Transfer Protocol (FTP)}{45}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Secure Shell (SSH)}{46}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Simple Mail Transfer Protocol (SMTP)}{46}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Hypertext Transfer Protocol (HTTP)}{47}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Transport Layer Security (TLS)}{47}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Hypertext Transfer Protocol Secure (HTTPS)}{48}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}Conclusions}{48}{section.2.3}
+\contentsline {chapter}{\numberline {3}Design of the Ground Segment}{51}{chapter.3}
+\contentsline {section}{\numberline {3.1}Study of localization of Ground Stations}{51}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Latitude analysis}{51}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Longitude analysis}{58}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Study of annual costs}{60}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Energy and Maintenance}{60}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Mission Control Center}{60}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Ground Stations}{61}{subsubsection.3.2.1.2}
+\contentsline {paragraph}{Canada}{62}{section*.47}
+\contentsline {paragraph}{United Kingdom and Falkland Islands}{62}{section*.48}
+\contentsline {paragraph}{Total annual cost}{62}{section*.49}
+\contentsline {subsection}{\numberline {3.2.2}Salaries}{62}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Study of initial investment}{64}{section.3.3}
+\contentsline {section}{\numberline {3.4}List of existing Ground Stations}{64}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}ESA Ground Stations}{64}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}KSAT Ground Stations}{66}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}NASA Ground Stations}{67}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}SSC Ground Stations}{68}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Other Ground Stations}{69}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}Decision taking}{70}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Availability}{70}{subsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1.1}Building a ground station}{70}{subsubsection.3.5.1.1}
+\contentsline {subsubsection}{\numberline {3.5.1.2}Renting a ground station}{70}{subsubsection.3.5.1.2}
+\contentsline {subsection}{\numberline {3.5.2}Cost}{70}{subsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2.1}Building a ground station}{70}{subsubsection.3.5.2.1}
+\contentsline {subsubsection}{\numberline {3.5.2.2}Renting a ground station}{71}{subsubsection.3.5.2.2}
+\contentsline {subsection}{\numberline {3.5.3}Position}{71}{subsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.3.1}Building a ground station}{71}{subsubsection.3.5.3.1}
+\contentsline {subsubsection}{\numberline {3.5.3.2}Renting a ground station}{71}{subsubsection.3.5.3.2}
+\contentsline {subsection}{\numberline {3.5.4}Ease to improve}{71}{subsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.4.1}Building a ground station}{71}{subsubsection.3.5.4.1}
+\contentsline {subsubsection}{\numberline {3.5.4.2}Renting a ground station}{72}{subsubsection.3.5.4.2}
+\contentsline {subsection}{\numberline {3.5.5}Decision}{72}{subsection.3.5.5}
+\contentsline {chapter}{\numberline {4}Bibliography}{73}{chapter.4}
