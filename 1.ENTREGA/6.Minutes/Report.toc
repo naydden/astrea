@@ -1,2 +1,0 @@
-\contentsline {chapter}{\numberline {1}Agendas}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Minutes}{31}{chapter.2}
