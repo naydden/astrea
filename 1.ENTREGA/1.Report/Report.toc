@@ -100,7 +100,7 @@
 \contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{69}{subsection.6.6.5}
 \contentsline {chapter}{\numberline {7}Financial Study}{70}{chapter.7}
 \contentsline {chapter}{\numberline {8}Environmental Impact Study}{74}{chapter.8}
-\contentsline {chapter}{\numberline {9}Social and security considerations}{75}{chapter.9}
+\contentsline {chapter}{\numberline {9}Social and safety considerations}{75}{chapter.9}
 \contentsline {chapter}{\numberline {10}Organization and Planning}{76}{chapter.10}
 \contentsline {section}{\numberline {10.1}Internal Structure}{76}{section.10.1}
 \contentsline {section}{\numberline {10.2}Documents organisation}{77}{section.10.2}
@@ -108,6 +108,7 @@
 \contentsline {subsection}{\numberline {10.3.1}Tasks identification from work breakdown structure (WBS)}{79}{subsection.10.3.1}
 \contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{81}{subsection.10.3.2}
 \contentsline {section}{\numberline {10.4}Scheduling}{82}{section.10.4}
-\contentsline {chapter}{\numberline {11}Conclusions and Recommendations}{83}{chapter.11}
-\contentsline {section}{\numberline {11.1}Lesson Learnt}{83}{section.11.1}
-\contentsline {chapter}{\numberline {12}Bibliography}{85}{chapter.12}
+\contentsline {chapter}{\numberline {11}Conclusions}{83}{chapter.11}
+\contentsline {section}{\numberline {11.1}Recommendations}{83}{section.11.1}
+\contentsline {section}{\numberline {11.2}Lesson Learnt}{84}{section.11.2}
+\contentsline {chapter}{\numberline {12}Bibliography}{86}{chapter.12}
