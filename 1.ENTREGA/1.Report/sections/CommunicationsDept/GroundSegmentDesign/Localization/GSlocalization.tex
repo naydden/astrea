@@ -1,12 +1,12 @@
-The place where the Ground Stations would be placed has to be studied in order to obtain maximum performance of them. This decision will depend mainly of the constellation characteristics, the earth topography and the country legislation and resources. In this chapter the analysis and procedures for arriving to the final decision of where the Ground Stations would be placed are exposed.
+The place where the Ground Stations will be placed has to be studied in order to obtain maximum performance of them. This decision will depend mainly on the characteristics of the constellation, the earth topography and the country legislation and resources. In this chapter the analysis and procedures for arriving to the final decision of where the Ground Stations would be placed are exposed.
 
 Given the constellation topology, the coverage of a Ground Station depending on its longitude and latitude will be studied. The aim of this analysis is to show where a Ground Station would have more coverage and give a first approximation and proposal of the 3 Ground Station placement.
 
 \subsubsection{Method}
 For the purpose above explained, a Matlab algorithm is developed. This algorithm calculates, on a given moment, how many satellites can be seen from a Ground Station. This calculation will be done several times in order to obtain results along time. In order to elaborate the algorithm the steps showed below are followed:
 \begin{enumerate}
-\item Calculate where the satellites are refereed to an inertial Cartesian coordinates system, with the origin at the center of the Earth. This state analysis is done for several time periods with an adequate time-step. 
-\item Calculate the Ground Station position refereed to the mentioned system. Since the system is inertial, the Ground Station will describe a circle in the rotational plane of the Earth relative to this system. This trajectory depend on the latitude and longitude of the place. This position is calculated for the same time period used before.
+\item Calculate where the satellites are referred, using an inertial Cartesian coordinates system, with the origin at the center of the Earth. This state analysis is done for several time periods with an adequate time-step. 
+\item Calculate the Ground Station position referred to the mentioned system. Since the system is inertial, the Ground Station will describe a circle in the rotational plane of the Earth relative to this system. This trajectory depends on the latitude and longitude of where the GS is placed and is calculated for the same time period used before.
 \item Calculate, for each time step, how many links can the GS establish. It will depend on the angle between the station and every satellite, and also on the minimum elevation angle. 
 \end{enumerate}
 
