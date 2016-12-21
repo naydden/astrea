@@ -110,4 +110,6 @@
 \contentsline {subsection}{\numberline {10.3.1}Tasks identification from work breakdown structure (WBS)}{81}{subsection.10.3.1}
 \contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{83}{subsection.10.3.2}
 \contentsline {section}{\numberline {10.4}Scheduling}{84}{section.10.4}
-\contentsline {chapter}{\numberline {11}Bibliography}{85}{chapter.11}
+\contentsline {chapter}{\numberline {11}Conclusions and Recommendations}{85}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson Learnt}{85}{section.11.1}
+\contentsline {chapter}{\numberline {12}Bibliography}{87}{chapter.12}
