@@ -11,9 +11,9 @@
 % - - - - - - - - PART JOAN - - - - - - - - - 
 %%%%%%%%%%%%%%%%%%%%
 \section{First Placement}
-The aim of this part is to explain the first placement of the constellation. It is divided in two parts, the first one is intended to give a first approach to the logistics involved in the first placement. The second one is focused on the maneuver required so as to deploy the satellites into orbit. 
+The aim of this part is to explain the first placement of the constellation. It is divided in two parts. The first one is intended to give a first approach to the logistics involved in the first placement, whereas the second one is focused on the maneuver required so as to deploy the satellites into orbit. 
 \subsection{First Placement logistics}
-Gantt diagrams provided by Rocketlab USA:
+Gantt charts provided by Rocketlab USA:
 
 \begin{figure}[h!]
 \centering 
@@ -53,10 +53,10 @@ In a more schematic way, the procedure goes as follows:
 \begin{enumerate}
 \item The rocket goes through the procedure designed by Rocketlab USA to get to the destination orbit. The approximate trajectory during this stage is represented in \ref{orbit1}.Right after entering into the destination orbit, the first satellite is deployed into it as seen in \ref{orbit1} represented with a red dot.
 \item Once the latter is completed, the rocket's engine gives it the necessary $\Delta V$ in order to get to the elliptical spacing orbit. In \ref{orbit2} half a revolution of the rocket is represented along with the orbit of the first deployed satellite at the same point in time.
-\item After one full revolution of the rocket in the elliptical orbit, the first satellite will have left the right phase spacing with respect to the rocket. At this point the rocket's engine gives the same $\Delta V$ as in 2 but negative. This will cause it to enter again into the circular orbit of the satellites. At this point the rocket deploys the second satellite as shown in \ref{orbit3}. Right after this deployment the rocket enters into the elliptical orbit again.
+\item After one full revolution of the rocket in the elliptical orbit, the first satellite will have left the right phase spacing with respect to the rocket. At this point the rocket's engine gives the same $\Delta V$ as in step 2 but negative. This will cause it to enter again into the circular orbit of the satellites. At this point the rocket deploys the second satellite as shown in \ref{orbit3}. Right after this deployment the rocket enters into the elliptical orbit again.
 \item \ref{orbit4} represents again half a revolution of the rocket in the elliptical orbit along with the deployed satellites so far.
 \item Finally, the rocket reduces its velocity again to enter into the circular destination orbit in order to deploy the third satellite (\ref{orbit5}).
-\item The procedure is iterated until the orbital plane is full.
+\item This aforementioned procedure is iterated until the orbital plane is full.
 \newline\newline
 \end{enumerate}
 \begin{figure}[H]
@@ -85,7 +85,7 @@ In a more schematic way, the procedure goes as follows:
 \begin{center}
 $V_s = \sqrt{\frac{GM_t}{R_t\,+\,h}} $
 \newline\newline
-$T_s = \frac{2\pi*(R_t\,+\,h)}{V_s}$\newline
+$T_s = \frac{2\pi(R_t\,+\,h)}{V_s}$\newline
 \end{center}
 
 Where $R_t$ and h are Earth's radius and height above Earth's surface respectively. For $h = 542 \,km$, the values obtained are $V_s = 7,589.6 \,m/s$ and $T_s = 5,723.1 \,s$. Let's call the spacing between satellites $\theta = \frac{360^\circ}{21} = 17.14^\circ$ and $R = R_t \,+ \,h$. Using these values it is possible to compute the period of the elliptical orbit, $T_r$, along with the rest of the parameters:
@@ -113,7 +113,7 @@ On the one hand, when using the first way the satellites from each plane could c
 \newline\newline
 On the other hand, when using the second described way, the satellites can't communicate with other satellites from neighbour planes but the time of inactivity for customer's satellites would be less as a gap between planes is left for future ones. Nevertheless, this kind of configuration has a huge drawback and it's that when a satellite communicates with one given plane, this one can only communicate with other satellites that are in the range of signal emission of that given plane. This is due to the fact that as neighbour planes are further apart they can't communicate with each other and therefore the range of communication is affected.
 \newline\newline.
-Having pointed out all of the advantages and drawbacks of each configuration it is time to choose and it all comes down to Astrea's preferences. The configuration that fulfils these preferences for the most part is the consecutive .It allows the satellites to communicate in a broader range as the constellation grows and progressively conquer the sky.
+Having pointed out all of the advantages and drawbacks of each configuration it is time to choose and it all comes down to Astrea's preferences. The configuration that fulfills these preferences for the most part is the consecutive one. It allows the satellites to communicate in a broader range as the constellation grows and progressively conquer the sky.
 
 
 
