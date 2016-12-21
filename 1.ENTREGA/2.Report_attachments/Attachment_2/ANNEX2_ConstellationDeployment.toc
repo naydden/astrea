@@ -1,20 +1,19 @@
 \contentsline {chapter}{List of Tables}{ii}{section*.1}
 \contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Constellation Deployment}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Launching System}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}First Placement}{6}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}First Placement logistics}{6}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}1st Placement In-Orbit Injection Maneuver}{7}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Orbit Parameters Calculation}{10}{subsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.3.1}Plane Order}{11}{subsubsection.1.2.3.1}
-\contentsline {section}{\numberline {1.3}Replacement Strategy}{12}{section.1.3}
-\contentsline {section}{\numberline {1.4}Spare Strategy}{15}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Spare Strategy Alternatives}{15}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Major failure deffinition}{16}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Major failure}{17}{subsection.1.4.3}
-\contentsline {subsubsection}{\numberline {1.4.3.1}Satellite in range failure}{17}{subsubsection.1.4.3.1}
-\contentsline {subsubsection}{\numberline {1.4.3.2}Ground station failure}{19}{subsubsection.1.4.3.2}
-\contentsline {subsubsection}{\numberline {1.4.3.3}Transmitting time failure}{19}{subsubsection.1.4.3.3}
-\contentsline {subsection}{\numberline {1.4.4}Space Debris}{21}{subsection.1.4.4}
-\contentsline {subsection}{\numberline {1.4.5}End-of-Life Types and Analysis}{22}{subsection.1.4.5}
-\contentsline {chapter}{\numberline {2}Bibliography}{24}{chapter.2}
+\contentsline {section}{\numberline {1.1}Launching System}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}First Placement}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}First Placement logistics}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}1st Placement In-Orbit Injection Maneuver}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Orbit Parameters Calculation}{8}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Plane Order}{9}{subsubsection.1.2.3.1}
+\contentsline {section}{\numberline {1.3}Replacement Strategy}{10}{section.1.3}
+\contentsline {section}{\numberline {1.4}Spare Strategy}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Spare Strategy Alternatives}{12}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Major failure deffinition}{14}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Major failure}{14}{subsection.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3.1}Satellite in range failure}{15}{subsubsection.1.4.3.1}
+\contentsline {subsubsection}{\numberline {1.4.3.2}Ground station failure}{16}{subsubsection.1.4.3.2}
+\contentsline {subsubsection}{\numberline {1.4.3.3}Transmitting time failure}{17}{subsubsection.1.4.3.3}
+\contentsline {subsection}{\numberline {1.4.4}Space Debris}{17}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}End-of-Life Types and Analysis}{19}{subsection.1.4.5}
