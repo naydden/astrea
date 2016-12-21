@@ -1,24 +1,26 @@
 \section{Payload}
-\paragraph{}AstreaSAT needs to provide a radio link to the client satellites, for real time data relay with no less than 25MB/s of data rate. For achieving its purpose, the payload will consist on a pack of arrays of antennas and data handling computers.
+AstreaSAT needs to provide a radio link to the client satellites, for real time data relay with no less than 25MB/s of data rate. For achieving its purpose, the payload will consist on a pack of arrays of antennas and data handling computers.
 
 \subsection{Antennas}
-\paragraph{}The antennas are essential in this mission, since their role is to transmit and receive the data from other satellites as well as the ground stations. \\
-It has to be kept in mind that the mass of the antennas should be as low as possible given that there are already a lot of subsystems in the CubeSat and the mass limitation is about 4kg.
-Additionally, the power consumption has to be kept as low as possible given the limitations regarding to the power supply of the CubeSat. The antennas must be certified to work under space conditions (high temperature range and radiation protection shield).\\
+The antennas are essential in this mission, since their role is to transmit and receive the data from other satellites as well as the ground stations.
+
+It has to be kept in mind that the mass of the antennas should be as low as possible given that there are already a lot of subsystems in the CubeSat and the mass limitation is about 4kg. Additionally, the power consumption has to be kept as low as possible given the limitations regarding to the power supply of the CubeSat. The antennas must be certified to work under space conditions (high temperature range and radiation protection shield).
+
 Preliminary, after a first satellite preliminary design, seems that patch and turnstile antennas will cover the needs of AstreaSAT.  
 
 \subsubsection{Basic parameters}
-\paragraph{}The \textbf{frequency range} is one of the most important parameters, since it is related to an effective satellite-satellite and satellite-ground station communication. The frequency range should be between 1GHz and 10GHz, which is a very demanding condition given that the CubeSat has a limited space and power supply. Those frequencies, assure the desired data rates an negligible atmosphere attenuations. \\
+The \textbf{frequency range} is one of the most important parameters, since it is related to an effective satellite-satellite and satellite-ground station communication. The frequency range should be between 1GHz and 10GHz, which is a very demanding condition given that the CubeSat has a limited space and power supply. Those frequencies, assure the desired data rates an negligible atmosphere attenuations.
+
 For an effective communication, the signal has to be able to trespass the atmosphere without a high number of losses and interference. The high frequency range allows the signal to go through this barrier and reach the ground stations.
 
-\paragraph{}The \textbf{bandwidth} is the frequency range in which the highest power of the signal is found. It is really important to have a high bandwidth to have a great performance and avoid extremely high signal losses.
+The \textbf{bandwidth} is the frequency range in which the highest power of the signal is found. It is really important to have a high bandwidth to have a great performance and avoid extremely high signal losses.
 
-\paragraph{}The \textbf{gain} of an antenna is the ratio between the power density radiated in one direction and the power density that would radiate an isotropic antenna. The best option is to have a high gain. 
+The \textbf{gain} of an antenna is the ratio between the power density radiated in one direction and the power density that would radiate an isotropic antenna. The best option is to have a high gain. 
 
-\paragraph{}The \textbf{polarization} of an antenna is the orientation of the electromagnetic waves when they are leaving it. There are three types of polarization: linear, circular and elliptical. For a high performance, the receiver antenna and the transmitter antenna should have the same polarization. It has been derived that the best option for the project is an antenna with circular polarization; these types of antennas are able to keep the signal constant regardless of the appearance of different adverse situations such as the relative movement of the satellites with respect to the ground station. 
+The \textbf{polarization} of an antenna is the orientation of the electromagnetic waves when they are leaving it. There are three types of polarization: linear, circular and elliptical. For a high performance, the receiver antenna and the transmitter antenna should have the same polarization. It has been derived that the best option for the project is an antenna with circular polarization; these types of antennas are able to keep the signal constant regardless of the appearance of different adverse situations such as the relative movement of the satellites with respect to the ground station. 
 
 \subsubsection{Patch antenna}
-\paragraph{}A \textbf{patch antenna} is a type of radio antenna with a low profile, which can be mounted on a flat surface, It consists of a flat rectangular sheet or "patch" of metal, mounted over a larger sheet of metal called a ground plane. They are the original type of microstrip antenna described by Howell in 1972. \cite{patch}
+A \textbf{patch antenna} is a type of radio antenna with a low profile, which can be mounted on a flat surface, It consists of a flat rectangular sheet or "patch" of metal, mounted over a larger sheet of metal called a ground plane. They are the original type of microstrip antenna described by Howell in 1972. \cite{patch}
 
 \begin{longtable}{| l | r |}
 
@@ -47,10 +49,9 @@ For an effective communication, the signal has to be able to trespass the atmosp
 
 \subsubsection{Turnstile antenna}
 
-\paragraph{}A \textbf{turnstile antenna}, or crossed-dipole antenna, is a radio antenna consisting of a set of two identical dipole antennas mounted at right angles to each other and fed in phase quadrature; the two currents applied to the dipoles are $90^o$ out of phase.
+A \textbf{turnstile antenna}, or crossed-dipole antenna, is a radio antenna consisting of a set of two identical dipole antennas mounted at right angles to each other and fed in phase quadrature; the two currents applied to the dipoles are $90^o$ out of phase.
 
 \pagebreak
-
 \begin{longtable}{| l | r |}
 
 \hline
@@ -76,18 +77,19 @@ For an effective communication, the signal has to be able to trespass the atmosp
 
 \end{longtable}
 
-\paragraph{}Although this antenna was considered in the first approximation to the problem, it was finally discarded since it did not fulfill the mission requirements at the same level that the patch antenna did.
+Although this antenna was considered in the first approximation to the problem, it was finally discarded since it did not fulfill the mission requirements at the same level that the patch antenna did.
 
 \subsubsection{Antenna selection}
-\paragraph{}After a market study, the antenna that has been chosen and will be equipped in the CubeSat is the patch antenna manufactured by AntDevCov. The satellite will come with 8 of this type of antenna; 4-6 of them will be placed on each side face of the CubeSat and they will occupy a 1U face and the other 2-4 of them will be placed on the top and the bottom.
+After a market study, the antenna that has been chosen and will be equipped in the CubeSat is the patch antenna manufactured by AntDevCov. The satellite will come with 8 of this type of antenna; 4-6 of them will be placed on each side face of the CubeSat and they will occupy a 1U face and the other 2-4 of them will be placed on the top and the bottom.
 
-\paragraph{}Other antenna types, like helicoidal deployable antennas, parabolic antennas or monopole antennas, had been discarded because of their big volume and mass or because the don't accomplish the preliminary requirements stated on the project charter.  
+Other antenna types, like helicoidal deployable antennas, parabolic antennas or monopole antennas, had been discarded because of their big volume and mass or because the don't accomplish the preliminary requirements stated on the project charter.  
 
 \subsection{Payload Data Handling Systems}
 \subsubsection{Transceivers}
 
-\paragraph{}A transceiver is a device comprising both a transmitter and a receiver that are combined and share common circuitry or a single housing. We are restricted to the S, K or higher bands for \textbf{Inter-satellite communication} and not restriction virtually at all for \textbf{Space to Ground} communication. Nevertheless, together with the communications department, X band is chosen as the frequency to talk to the floor because several factors.
+A transceiver is a device comprising both a transmitter and a receiver that are combined and share common circuitry or a single housing. We are restricted to the S, K or higher bands for \textbf{Inter-satellite communication} and not restriction virtually at all for \textbf{Space to Ground} communication. Nevertheless, together with the communications department, X band is chosen as the frequency to talk to the floor because several factors.
 
+\pagebreak
 \begin{longtable}{| l | r | r |}
 	
 	\hline
@@ -112,7 +114,7 @@ For an effective communication, the signal has to be able to trespass the atmosp
 	
 \end{longtable}
 
-\paragraph{}NanoCom TR-600 has an additional advantage, GOMspace, the supplier, offers it in combination with the NanoMind Z7000 seen in PDHS computers section. Both integrated on a board able to hold three TR-600 transceivers and one computer. The low dimensions, high bandwidth (associated to high data rates) and low mass of TR-600 versus SWIFT-SLX, makes the first, a great choice for Inter-Satellite communication.
+NanoCom TR-600 has an additional advantage, GOMspace, the supplier, offers it in combination with the NanoMind Z7000 seen in PDHS computers section. Both integrated on a board able to hold three TR-600 transceivers and one computer. The low dimensions, high bandwidth (associated to high data rates) and low mass of TR-600 versus SWIFT-SLX, makes the first, a great choice for Inter-Satellite communication.
 
 \begin{longtable}{| l | r | r |}
 	
@@ -137,12 +139,12 @@ For an effective communication, the signal has to be able to trespass the atmosp
 \label{TransceiversXband}
 \end{longtable}
 
-\paragraph{}SWIFT-XTS is pretty similar to ENDUROSAT, but presents some advantages. The higher Bandwidth, will make possible higher communication data rates. The higher mass respect to ENDUROSAT could be a problem, from the link budget analysis a decision will could be made, because the most important factor is the possibility to transmit with low losses to the ground.
+SWIFT-XTS is pretty similar to ENDUROSAT, but presents some advantages. The higher Bandwidth, will make possible higher communication data rates. The higher mass respect to ENDUROSAT could be a problem, from the link budget analysis a decision will could be made, because the most important factor is the possibility to transmit with low losses to the ground.
 
 \subsubsection{PDHS computers}
-\paragraph{}PDHS computers will process and store the clients data before the data relay is done.
-\pagebreak
+PDHS computers will process and store the clients data before the data relay is done.
 
+\pagebreak
 \begin{longtable}{| l | r | r |}
 	
 	\hline
@@ -167,10 +169,12 @@ For an effective communication, the signal has to be able to trespass the atmosp
 \label{computers}	
 \end{longtable}
 
-\paragraph{}The main advantage of NanoMind Z7000 over ISIS iOBC is the computing availability, because of its two 667MHz processor Z7000 can handle higher data payloads and processit at higher velocities, reducing in last term delay between communications. Also, Z7000 presents a lower mass, critical think in our mass limitation of 4kg. But the turning point is, as stated before, Z7000 comes integrated on a single board with a maximum of three NanoMind TR-600 transceivers, fact that makes it a perfect option to build a data relay module payload.
-\subsection{Study of the commercial available options and options chosen}
-\paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{payloadoptions} is presented below.
+The main advantage of NanoMind Z7000 over ISIS iOBC is the computing availability, because of its two 667MHz processor Z7000 can handle higher data payloads and processit at higher velocities, reducing in last term delay between communications. Also, Z7000 presents a lower mass, critical think in our mass limitation of 4kg. But the turning point is, as stated before, Z7000 comes integrated on a single board with a maximum of three NanoMind TR-600 transceivers, fact that makes it a perfect option to build a data relay module payload.
 
+\subsection{Study of the commercial available options and options chosen}
+A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{payloadoptions} is presented below.
+
+\pagebreak
 \begin{longtable}{| l | c | c | }
 \hline
 \rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro)}   \\
@@ -209,7 +213,7 @@ For an effective communication, the signal has to be able to trespass the atmosp
 \label{payloadoptions}
 \end{longtable}
 
-\paragraph{}Finally, with the aim to clarify all the information of this section, the chosen systems and components are presented in the table \ref{payloadchosen}.
+Finally, with the aim to clarify all the information of this section, the chosen systems and components are presented in the table \ref{payloadchosen}.
 
 \begin{longtable}{| l | r | r | r |}
 	\hline
