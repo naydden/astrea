@@ -1,4 +1,4 @@
-\section{Link Budget} \label{Appendix:LinkBudget}
+\section{Link Budget}
 
 Astrea constellation main satellite must be able to stablish three different telecommunications link: 
 \begin{itemize}
@@ -258,8 +258,8 @@ From the expected requirements fixed on the Project Charter, general radio syste
 
 The most important concern on AstreaSAT link Budget is how far every satellite can emit on the desired frequencies. This is a key factor to know the utility of the modules selected. At least, Project Charter communication requirements must be accomplish.
  
-To verify communication system chosen options, let's start calculating the minim required sensitivity for receiving strong enough signal. With this value, it is possible to know how far the satellite can listen to information.
-Applying equation \ref{Appendix:Structure} and equation \ref{Appendix:Structure} on a simple Matlab routine:
+To verify communication system chosen options, let's start calculating the minimum required sensitivity for receiving strong enough signal. With this value, it is possible to know how far the satellite can listen to information.
+Applying equation \ref{channelCapacity} and equation \ref{noise} on a simple Matlab routine:
 
 \begin{figure}[H]
 \includegraphics[scale=0.9]{./sections/SatelliteDept/sections/images/SvsB}
@@ -300,4 +300,4 @@ On Fig.\ref{friis} earth atmosphere and multiple losses (described previously) a
 \subsubsubsection*{X band range}
 In this case, X band, because its high frequency is more affected by atmospheric losses. Is it possible to appreciate it on Fig.\ref{friis}. Link between satellites is stronger that the one with the ground. Finally remark a fact, despite higher frequencies should have weaker links, in this case, the high antenna gains for X band, confer stronger links to the X band.
 
-In order to use satellite communications, will be necessary to use Fig.\ref{Appendix:Structure} and \ref{friis}. From \ref{friis}, given a determinate altitude a power sensibility can be extract. Then, on \ref{Appendix:Structure}, taking the previous sensibility calculated, a Bandwidth for operation can be stated. The procedure works on both sites.
+In order to use satellite communications, will be necessary to use Fig.\ref{SvsB} and \ref{friis}. From \ref{friis}, given a determinate altitude a power sensibility can be extract. Then, on \ref{SvsB}, taking the previous sensibility calculated, a Bandwidth for operation can be stated. The procedure works on both sites.
