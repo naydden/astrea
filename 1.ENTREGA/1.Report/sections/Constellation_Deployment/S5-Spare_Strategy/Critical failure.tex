@@ -42,9 +42,7 @@ As it can be seen, the critical failure depends on the communication range of th
 \subsubsection{Ground station failure}
 Since any satellite in the network is able to communicate with any ground station, in order to have a critical failure due to a ground station failure, all ground stations must fail. It will not be considered a failure the loss of connection to a ground station caused by bad weather conditions or radio-fequency interference, since it is not a failure in the network but an anomaly in the medium.
 
-Therefore, for a fatal\footnote{ A failure that causes the total inoperativity of the network.} failure caused by ground station failures to happen, all ground stations must fail. Since at least three ground stations will be used, the three of them must fail. As the previous case, the time of failure dones not matter, but the fact that they remain unoperative at a given time.
-
-Another situation, less critical, would be a failure of a single satellite, which when passing above a Ground Station, that has only one link available at that specific moment, would cause the isolation of that Ground Station. Astrea constellation can cope with this situation. However, it is undesirable since it can grow and, eventually become a fatal failure.
+Therefore, for a critical failure caused by ground station failures to happen, all ground stations must fail. Since at least three ground stations will be used, the three of them must fail. As the previous case, the time of failure dones not matter, but the fact that they remain unoperative at a given time.
 
 \subsubsection{Transmitting time failure}
 In the following lines, a major failure due to a delay supperior to 5 minutes originated by a failure will be evaluated. First of all, it is needed to evaluate the transmission time. The minimmum data rate that will handle the satellites is 25 Mbit/s. Therefore, it will be considered 25 Mbit/s as the data rate of the satellites, since it is the most restrictive. The protocols chosen, by deffault, cannot handle data units of more than 62,500 bytes, aproximately. This is 500.000 bits. With the data rate chosen, the time to transmit this information is 0.02 seconds. For a path of 20 nodes, and considering that a satellites recives the entire packet before sending it again, the transmission time will be 0.4 seconds. The transmission is done using electromagnetic waves, which move at the speed of light. For this short distances, it can be considered to be instantaneously. The time used to process each data packet has to be taken into account. If each node needs 1 second to process the packet, the total processing time will be 20 seconds. 
@@ -56,7 +54,7 @@ Therefore, for a critical failure to happen because of a delay of more than 5 mi
 \subsubsection{Conclusion}
 It can be concluded that a major failure can happen due to various factors:
 \begin{itemize}
-\item The failure of all satellites in range of the client satellite. It is assumed a minimum of three.
+\item The failure of at one satellites.
 \item The failure of all ground stations. It would be at least 3 ground stations.
 \item The failure of at least two satellites in a communication route in less than 3 minutes.
 \end{itemize}
