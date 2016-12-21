@@ -28,7 +28,7 @@ f=2228; %MHz
 Pw=2;
 L_cables = 2; Labs=0.58; Laml=1; Lph=20;
 Lprop = L_cables+Labs+Laml+Lph;
-[ PrS,radiusS, FSL_S] = friis_eq( Gt, Gr, f, Pw,r_start, r_end, n,Lprop);
+[ PrS,radiusS, FSL_S]=friis_eq( Gt, Gr, f, Pw,r_start, r_end, n,Lprop);
 
 %% Sband intersatellite
 Gt=10; %dBi
@@ -37,14 +37,14 @@ f=2228; %MHz
 Pw=2;
 %L_cables = 2; Labs=0.58; Laml=1; Lph=20;
 Lprop = 0;%L_cables+Labs+Laml+Lph;
-[ PrSi,radiusSi, FSL_Si] = friis_eq( Gt, Gr, f, Pw,r_start, r_end, n,Lprop);
+[PrSi,radiusSi, FSL_Si]=friis_eq( Gt, Gr, f, Pw,r_start, r_end, n,Lprop);
 
 %% Xband signal strength between satellites calculation
 Gt=16.5; %dB
 Gr=16.5; %dB
 f=9e3; %MHz
 Pw=12; %W
-[ PrX1,radiusX1, FSL_X1] = friis_eq( Gt, Gr, f, Pw,r_start, r_end, n,Lprop);
+[PrX1,radiusX1, FSL_X1]=friis_eq( Gt, Gr, f, Pw,r_start, r_end, n,Lprop);
 
 %% Xband between sat to ground
 r_start = 100; %km
@@ -56,7 +56,7 @@ f=10e3; %MHz
 Pw=12; %W
 L_cables = 2; Labs=0.58; Laml=1; Lph=20;
 Lprop = L_cables+Labs+Laml+Lph;
-[ PrX2,radiusX2, FSL_X2] = friis_eq( Gt, Gr, f, Pw,r_start, r_end, n, Lprop);
+[PrX2,radiusX2, FSL_X2]=friis_eq( Gt, Gr, f, Pw,r_start, r_end, n, Lprop);
 
 %% PLOT results
 X1=radiusS;
@@ -68,5 +68,6 @@ llegenda4='Xband Sat to GND';
 eixX='Distance [Km]';
 eixY='Power [dB]';
 titol='Change in received power';
-createfigure(X1, YMatrix1,llegenda1,llegenda2,llegenda3,llegenda4, titol,eixX, eixY)
+createfigure(X1,YMatrix1,llegenda1,llegenda2,...
+    llegenda3,llegenda4,titol,eixX,eixY)
 legend(llegenda1,llegenda2,llegenda3,llegenda4)
