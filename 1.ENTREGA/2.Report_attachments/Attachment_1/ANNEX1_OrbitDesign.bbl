@@ -1,10 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{Vallado2007}
-D.A. Vallado.
-\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
-\newblock Springer-Verlag New York, 3 edition, 2007.
-
 \bibitem{Curtis2010}
 Howard~D. Curtis.
 \newblock {\em {Orbital Mechanics for Engineering Students}}.
@@ -38,6 +33,11 @@ J.G. Walker.
 \newblock {Continuous whole-Earth coverage by circular-orbit satellite
   patterns}.
 \newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
+
+\bibitem{Vallado2007}
+D.A. Vallado.
+\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
+\newblock Springer-Verlag New York, 3 edition, 2007.
 
 \bibitem{Bate1971}
 R.R. Bate, D.D. Mueller, and J.E. White.
