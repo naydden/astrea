@@ -3,9 +3,7 @@
 \contentsline {section}{\numberline {0.1}Communication Protocols}{1}{section.0.1}
 \contentsline {section}{\numberline {0.2}Ground segment}{1}{section.0.2}
 \contentsline {section}{\numberline {0.3}Satellite Configuration}{3}{section.0.3}
-\contentsline {paragraph}{}{7}{section*.7}
 \contentsline {subsubsection}{\numberline {0.3.0.1}Subsystems conceptual relations}{9}{subsubsection.0.3.0.1}
 \contentsline {section}{\numberline {0.4}Constellation Orbital Parameters}{12}{section.0.4}
-\contentsline {paragraph}{Planes distribution of the Astrea Constellation \\}{13}{section*.14}
 \contentsline {section}{\numberline {0.5}Satellites Orbits Table}{14}{section.0.5}
 \contentsline {section}{\numberline {0.6}Launch and Deployment}{19}{section.0.6}
