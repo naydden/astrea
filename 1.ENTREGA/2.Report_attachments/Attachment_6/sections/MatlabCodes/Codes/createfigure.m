@@ -1,4 +1,6 @@
-function createfigure(X1, YMatrix1,llegenda1,llegenda2,llegenda3,llegenda4, titol,eixX, eixY)
+function createfigure(X1,YMatrix1,llegenda1,llegenda2,llegenda3,...
+    llegenda4,titol,eixX, eixY)
+
 %CREATEFIGURE(X1, YMATRIX1)
 %  X1:  vector of x data
 %  YMATRIX1:  matrix of y data
