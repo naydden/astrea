@@ -16,11 +16,17 @@ t=0:At:60*24; t=t*60; % Time array in seconds
 
 i=72*pi/180;
 
+pfail=3;
+sfail=10;
+
 p=9;
 spp=21;
 N=p*spp;
 %f=floor(0.25*spp);
 f=0;
+
+Afail=spp*(pfail-1)+sfail;
+
 fprintf('\ni=%gdeg, p=%g, spp=%g, N=%g\n',i*180/pi,p,spp,N);
 
 latGS=57.5*pi/180;
@@ -85,8 +91,10 @@ for n=1:length(t)
         for k = 1:spp
             % True anomalies of the s satellites
             A = spp*(j-1)+k; % Number of the satellite
-            nu(k,j) = 2*pi*(k-1)/spp+angle(j);
-            X(:,A) = cartesian(h,0,i,Omegat(j),0,nu(k,j)+nu_t);
+            if A~=Afail
+                nu(k,j) = 2*pi*(k-1)/spp+angle(j);
+                X(:,A) = cartesian(h,0,i,Omegat(j),0,nu(k,j)+nu_t);
+            end
         end
     end
     
