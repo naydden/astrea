@@ -1,4 +1,4 @@
-The TCP/IP protocol suite provides end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received. This functionality is organized into four abstraction layers which are used to sort all related protocols according to the scope of networking involved. From lowest to highest:
+The TCP/IP protocol suite provides end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received. This functionality is organised into four abstraction layers which are used to sort all related protocols according to the scope of networking involved. From lowest to highest:
 \begin{list}{}{}
 \item 1. Link layer
 \item 2. Internet layer
@@ -23,12 +23,12 @@ See more in \cite{Ethernet}
 \subsubsection{IEEE 802.11}
 IEEE 802.11 is a set of media access control (MAC) and physical layer (PHY) specifications for implementing wireless local area network (WLAN) computer communication in the 900 MHz and 2.4, 3.6, 5, and 60 GHz frequency bands. 
 
-With this connection the client would have a range of arround 60 m and  a data rate that can arriive to 5 Gbit/s.
+With this connection the client would have a range of around 60 m and  a data rate that can arrive to 5 Gbit/s.
 
 See more in \cite{80211}
 
 \subsubsection{Frame Relay}
-Frame Relay is a standardized wide area network technology that specifies the physical and data link layers of digital telecommunications channels using a packet switching methodology. Originally designed for transport across Integrated Services Digital Network (ISDN) infrastructure, it may be used today in the context of many other network interfaces.
+Frame Relay is a standardised wide area network technology that specifies the physical and data link layers of digital telecommunications channels using a packet switching methodology. Originally designed for transport across Integrated Services Digital Network (ISDN) infrastructure, it may be used today in the context of many other network interfaces.
 
 This system requires an economical hardware, but it provides to the user a data rate in the order of 500 Mbit/s.
 
@@ -39,7 +39,7 @@ Asynchronous Transfer Mode (ATM) is a telecommunications concept for carriage of
 
 ATM provides functionality that is similar to both circuit switching and packet switching networks: ATM uses asynchronous time-division multiplexing, and encodes data into small, fixed-sized packets (ISO-OSI frames) called cells. This differs from approaches such as the Internet Protocol or Ethernet that use variable sized packets and frames. ATM uses a connection-oriented model in which a virtual circuit must be established between two endpoints before the actual data exchange begins.
 
-The ATM system can work i data ates between 1 and 50 Mbit/s.
+The ATM system can work i data rates between 1 and 50 Mbit/s.
 
 See more in \cite{ATM}
 
@@ -49,7 +49,7 @@ The better option for the Astrea system will be that the clients could enter the
 For the Ground Station nodes the better option will be to use Ethernet system because it is the system which allows a higher performance in terms of data rate.
 
 \subsection{Internet Layer}
-The internet layer is a group of internetworking methods, protocols, and specifications in the Internet protocol suite that are used to transport datagrams (packets) from the originating host across network boundaries, if necessary, to the destination host specified by a network address (IP address) which is defined for this purpose by the Internet Protocol (IP). 
+The internet layer is a group of internet working methods, protocols, and specifications in the Internet protocol suite that are used to transport datagrams (packets) from the originating host across network boundaries, if necessary, to the destination host specified by a network address (IP address) which is defined for this purpose by the Internet Protocol (IP). 
 
 The internet layer has three basic functions:
 \begin{itemize}
@@ -71,7 +71,7 @@ While increasing the pool of addresses is one of the most often-talked about ben
 \item - Better multicast routing
 \item - Simpler header format
 \item - Simplified, more efficient routing
-\item - True quality of service (QoS), also called "flow labeling"
+\item - True quality of service (QoS), also called "flow labelling"
 \item - Built-in authentication and privacy support
 \item - Flexible options and extensions
 \item - Easier administration 
@@ -94,10 +94,10 @@ ICMPv6 is an integral part of IPv6 and performs error reporting and diagnostic f
 See more in \cite{ICMP}
 
 \subsubsection{NDP}
-The Neighbor Discovery Protocol (NDP) is a protocol in the Internet protocol suite used with Internet Protocol Version 6 (IPv6). It is responsible for address autoconfiguration of nodes, discovery of other nodes on the link, determining the addresses of other nodes, duplicate address detection, finding available routers and Domain Name System (DNS) servers, address prefix discovery, and maintaining reachability information of other active neighbor nodes.
+The Neighbour Discovery Protocol (NDP) is a protocol in the Internet protocol suite used with Internet Protocol Version 6 (IPv6). It is responsible for address auto-configuration of nodes, discovery of other nodes on the link, determining the addresses of other nodes, duplicate address detection, finding available routers and Domain Name System (DNS) servers, address prefix discovery, and maintaining reachability information of other active neighbour nodes.
 
 \subsubsection{SEND}
-The Secure Neighbor Discovery (SEND) protocol is a security extension of the Neighbor Discovery Protocol (NDP) in IPv6. NDP is insecure and susceptible to malicious interference. It is the intent of SEND to provide an alternate mechanism for securing NDP with a cryptographic method that is independent of IPsec, the original and inherent method of securing IPv6 communications.
+The Secure Neighbour Discovery (SEND) protocol is a security extension of the Neighbour Discovery Protocol (NDP) in IPv6. NDP is insecure and susceptible to malicious interference. It is the intent of SEND to provide an alternate mechanism for securing NDP with a cryptographic method that is independent of IPsec, the original and inherent method of securing IPv6 communications.
 
 See more about NDP and SEND in \cite{NDP_SEND}
 
@@ -161,14 +161,14 @@ DCCP is useful for applications with timing constraints on the delivery of data.
 See more about DCCP in \cite{DCCP}
 
 \subsubsection{Conclusion}
-UDP and DCCP are protocols which prioritize the time for transmitting over the quality of the data received. That involves a significant lost of information. It has to be ensured the integrity of the messages sent. Taking this restriction, it is assumed a increasing of the latency, which does not mean that it could not be ensured an adequate one.
+UDP and DCCP are protocols which prioritise the time for transmitting over the quality of the data received. That involves a significant lost of information. It has to be ensured the integrity of the messages sent. Taking this restriction, it is assumed a increasing of the latency, which does not mean that it could not be ensured an adequate one.
 
-The performance of TCP and SCTP are simlar and comparable. In \cite{SCTP_TCP} it is seen an experimental comparative between these 2 protocols. The results shows that SCTP ensures a lower latency and a better throughput from same conditions. Also, it has to be taken in account that TCP is more vulnerable against Denial of Service attacks than SCTP. On the other hand, SCTP use redundant paths, and it involves a bigger structure. It means that probably contracting a SCTP system will be more expensive than a TCP one. 
+The performance of TCP and SCTP are simllar and comparable. In \cite{SCTP_TCP} it is seen an experimental comparative between these 2 protocols. The results shows that SCTP ensures a lower latency and a better throughput from same conditions. Also, it has to be taken in account that TCP is more vulnerable against Denial of Service attacks than SCTP. On the other hand, SCTP use redundant paths, and it involves a bigger structure. It means that probably contracting a SCTP system will be more expensive than a TCP one. 
 
 It is concluded that both systems (TCP and SCTM) will be adequate for the porpoise. It will depend on the offers of the providers for using one or the other. It has to be put on a balance the cost and the technical performance.
 
 \subsection{Application layer}
-An application layer is an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communications network. In TCP/IP, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardizes communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client-server or peer-to-peer networking model. 
+An application layer is an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communications network. In TCP/IP, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardises communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client-server or peer-to-peer networking model. 
 
 There were analysed the following existing protocols.
 
@@ -198,7 +198,7 @@ See more about SCTP in \cite{SMTP}
 \subsubsection{HTTP}
 The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 
-HTTP functions as a requestâ€“response protocol in the clientâ€“server computing model. A web browser, for example, may be the client and an application running on a computer hosting a website may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
+HTTP functions as a request response protocol in the client €“server computing model. A web browser, for example, may be the client and an application running on a computer hosting a website may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
 
 \subsubsection{TLS}
 Transport Layer Security (TLS)is a cryptographic protocol that provides communications security over a computer network. Several versions of the protocol find widespread use in applications such as web browsing, email, Internet faxing, instant messaging, and voice-over-IP (VoIP). Major websites use TLS to secure all communications between their servers and web browsers.
@@ -218,13 +218,13 @@ See more about HTTP and HTTPS in \cite{HTTPS}
 
 \subsubsection{Conclusions}
 
-At first, it has to be take in account that this layer provides the plataform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
+At first, it has to be take in account that this layer provides the platform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
 
-Analazyng the previous protocols, avoiding the techincal details of each one, there are considered tthis 3 ways of working:
+Analizing the previous protocols, avoiding the technical details of each one, there are considered this 3 ways of working:
 \begin{itemize}
-\item \textbf{Web.} This system would be based in HTTP an implemented with the corrseponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where he/she wolud sign in with an account. When the user is verified, the client could request to download informaton of his satellite. 
-\item \textbf{Mail}. This method would be implemented over a SMTP with the corresponding security protocols. If the client wants to download data of his satellite, he/she would have to send a mail specifing the request. Then the client will receive an email with the information.
-\item \textbf{Application}.  The idea is that the cient would operate in his computer with this software, and when he/she want to upload or download something, the program would use a secure internet channel to transfer the information. This system wolud be implemented over a FTP or a SSH. For using this method it has to be implemented a plataform for the client use.
+\item \textbf{Web.} This system would be based in HTTP an implemented with the corresponding security protocols in order to ensure the privacy of the data. In this case the client would entry with its computer a https address where he/she would sign in with an account. When the user is verified, the client could request to download information of his satellite. 
+\item \textbf{Mail}. This method would be implemented over a SMTP with the corresponding security protocols. If the client wants to download data of his satellite, he/she would have to send a mail specifying the request. Then the client will receive an email with the information.
+\item \textbf{Application}.  The idea is that the client would operate in his computer with this software, and when he/she want to upload or download something, the program would use a secure internet channel to transfer the information. This system would be implemented over a FTP or a SSH. For using this method it has to be implemented a platform for the client use.
 \end{itemize}
 
 \paragraph{WEB}
@@ -254,7 +254,7 @@ Analazyng the previous protocols, avoiding the techincal details of each one, th
 \end{itemize}
 \paragraph{Disadvantages}
 \begin{itemize}
-\item It could not be automatized, and it make it inefficient
+\item It could not be automatised, and it make it inefficient
 \item It is not very friendly to use for a client.
 \item If there is some information is missed in the request the client would have to wait for an answer and then complete the information. 
 \end{itemize}
@@ -276,6 +276,6 @@ Analazyng the previous protocols, avoiding the techincal details of each one, th
 \item It would be need to design and implement the software
 \end{itemize}
 
-Taking in account the advantages and disadvantages of each method it is concluded that an application is the method with the better security, efficiency and frindly-use relationship. The application will ensure a high security of the data, a robust access to it, and a friendly interface for the user. More over the communication protocol that will be implemented, this system will involve the design, implementation and maintenance of the app. 
+Taking in account the advantages and disadvantages of each method it is concluded that an application is the method with the better security, efficiency and friendly-use relationship. The application will ensure a high security of the data, a robust access to it, and a friendly interface for the user. More over the communication protocol that will be implemented, this system will involve the design, implementation and maintenance of the app. 
 
 This system could work with a FTP or with a SSH. Both would work properly in the system and have very similar characteristics, but SSH is more secure than FTP, so the system would be ruled by a SSH protocol.
