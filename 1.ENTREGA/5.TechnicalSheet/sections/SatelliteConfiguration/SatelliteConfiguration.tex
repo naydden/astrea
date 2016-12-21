@@ -1,3 +1,4 @@
+\clearpage
 \section{Satellite Configuration}
 %\definecolor{blue}{rgb}{0.2,0.5,0.8}
 
@@ -49,6 +50,7 @@
 	
 	
 \end{longtable} 
+\clearpage
 
 \textbf{STRUCTURE}
 \begin{longtable}{| l | c  }
@@ -88,7 +90,7 @@
 	\caption{Electric Power System}
 	\label{epsoptions}
 \end{longtable}
-
+\clearpage
 \textbf{Propulsion System}
 \begin{longtable}{| l | r |}
 	
@@ -137,6 +139,7 @@
 	\label{ADACS}
 	
 \end{longtable}
+\clearpage
 \textbf{Payload}
 \begin{longtable}{| l | r |}
 	
@@ -208,7 +211,7 @@
 	\label{TransceiversXband}
 	
 \end{longtable}
-
+\clearpage
 \begin{longtable}{| l | r | r |}
 	
 	\hline
@@ -242,15 +245,30 @@
 	\caption{Sensibility change along Bandwidth variation}
 	\label{SvsB}
 \end{figure}
+\clearpage
 \begin{figure}[h]
-	\includegraphics[scale=0.9]{./sections/SatelliteConfiguration/friisCases}
+	\includegraphics[scale=1.2]{./sections/SatelliteConfiguration/friisCases}
 	\centering
 	\caption{Received power with distance variation}
 	\label{friis}
 \end{figure}
-\newpage
+\clearpage
 \subsubsection{Subsystems conceptual relations}
-%adjuntar-ho en imatge
-\includepdf{./sections/SatelliteConfiguration/ESQUEMA_ASTREASAT}
-\includepdf{./sections/SatelliteConfiguration/Payload_detail}
+%IMPORTANT
+%si es vol que quedi la pagina recte i només la imatge girada al PDF cal cambiar el package \usepackage{pdflscape} per \usepackage{lscape}
+\begin{landscape}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[scale=0.8]{./sections/SatelliteConfiguration/ESQUEMA_ASTREASAT}
+		\caption{AstreaSAT main connections between systems}
+	\end{figure}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[scale=0.8]{./sections/SatelliteConfiguration/Payload_detail}
+		\caption{AstreaSAT Payload components connections}
+	\end{figure}
+\end{landscape}
+\clearpage
+%\includepdf[pagecommand={\thispagestyle{headers}}]{./sections/SatelliteConfiguration/ESQUEMA_ASTREASAT}
+%\includepdf[pagecommand={\thispagestyle{headers}}]{./sections/SatelliteConfiguration/Payload_detail}
 
