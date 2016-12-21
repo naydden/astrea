@@ -5,9 +5,9 @@ In order to accomplish the requirements of the communications protocols, the sta
 \begin{center}
 \begin{tabular}{|l|l|l|}
 \hline
-\rowcolor{blue} \multicolumn{3}{|c|}{\textbf{Space segment: CCSDS Standards}}\\
+\rowcolor[gray]{0.80} \multicolumn{3}{|c|}{\textbf{Space segment: CCSDS Standards}}\\
 \hline
-Transport Layer&\multicolumn{2}{|l|}{Space communication protocol specification transmission protocol: SCSP-TP}\\
+Transport Layer&\multicolumn{2}{|l|}{Space Communication Protocol Specification Transport Protocol: SCPS-TP}\\
 \hline
 \multirow{3}{*}{Network layer}&Main protocol&Internet Protocol version 6 (IPv6)\\
 &Routing protocol&Open Shortest Path First (OSPF)\\
@@ -16,7 +16,7 @@ Transport Layer&\multicolumn{2}{|l|}{Space communication protocol specification 
 \multirow{2}{*}{Data Link Layer}&Data Link Protocol Sublayer&TC Space Data Link Protocol\\
 &Sync and Channel Coding Sublayer&TC Sync and Channel Coding\\
 \hline
-\rowcolor{blue} \multicolumn{3}{|c|}{\textbf{Ground segment}}\\
+\rowcolor[gray]{0.80} \multicolumn{3}{|c|}{\textbf{Ground segment}}\\
 \hline
 \multicolumn{2}{|l|}{Presentation of the data to the client}&Application\\
 \hline
@@ -31,7 +31,7 @@ The headers in the space segment are added by each layer considering that the en
 \begin{center}
 \begin{tabular}{|c|c|c|}
 \hline
-\rowcolor{blue}\textbf{Layer}&\textbf{Header (octets)}&\textbf{Header (bits)}\\
+\rowcolor[gray]{0.80}\textbf{Layer}&\textbf{Header (octets)}&\textbf{Header (bits)}\\
 \hline
 Transport Layer&33&264\\
 \hline
@@ -39,7 +39,7 @@ Network Layer&44&352\\
 \hline
 Data Link Layer&5&40\\
 \hline
-\cellcolor{blue}Total lenght of headers&82&656\\
+\cellcolor[gray]{0.85}Total lenght of headers&82&656\\
 \hline
 \end{tabular}
 \caption{Headers of Space Segment Protocols}
