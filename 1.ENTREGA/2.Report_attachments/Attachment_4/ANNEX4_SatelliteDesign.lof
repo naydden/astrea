@@ -1,11 +1,11 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Dimensions of a 1U CubeSat. Source \cite {CalPoly2014}\relax }}{1}{figure.caption.3}
-\contentsline {figure}{\numberline {1.2.1}{\ignorespaces Basic schematics of the EPS. Source \cite {epsbasics}\relax }}{4}{figure.caption.4}
-\contentsline {figure}{\numberline {1.6.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{18}{figure.caption.5}
-\contentsline {figure}{\numberline {1.6.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{21}{figure.caption.9}
-\contentsline {figure}{\numberline {1.6.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{22}{figure.caption.12}
-\contentsline {figure}{\numberline {1.6.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{23}{figure.caption.13}
-\contentsline {figure}{\numberline {1.6.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{25}{figure.caption.17}
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Dimensions of a 1U CubeSat}}{1}{figure.caption.3}
+\contentsline {figure}{\numberline {1.2.1}{\ignorespaces Basic schematics of the EPS}}{4}{figure.caption.4}
+\contentsline {figure}{\numberline {1.6.1}{\ignorespaces Principal losses in the received signal}}{18}{figure.caption.5}
+\contentsline {figure}{\numberline {1.6.2}{\ignorespaces Specific attenuation for different frequencies}}{21}{figure.caption.9}
+\contentsline {figure}{\numberline {1.6.3}{\ignorespaces Galaxy noise influence in noise temperature}}{22}{figure.caption.12}
+\contentsline {figure}{\numberline {1.6.4}{\ignorespaces Noise temperature variation with frequency}}{23}{figure.caption.13}
+\contentsline {figure}{\numberline {1.6.5}{\ignorespaces Probability of bit error for common modulation methods}}{25}{figure.caption.17}
 \contentsline {figure}{\numberline {1.6.6}{\ignorespaces Sensibility change along Bandwidth variation\relax }}{28}{figure.caption.19}
 \contentsline {figure}{\numberline {1.6.7}{\ignorespaces Received power with distance variation\relax }}{29}{figure.caption.20}
 \addvspace {10\p@ }
