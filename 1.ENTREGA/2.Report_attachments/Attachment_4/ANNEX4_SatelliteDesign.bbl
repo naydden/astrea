@@ -1,10 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{Jorge2012}
-Carlos Jorge and Rodrigues Capela.
-\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
-\newblock (April), 2012.
-
 \bibitem{CalPoly2014}
 CalPoly.
 \newblock {Cubesat design specification (CDS)}.
@@ -33,6 +28,11 @@ Application Note.
 \newblock {Cuadro Nacional de Atribuci{\'{o}}n de Frecuencias (CNAF) revisado
   2015}.
 \newblock pages 3--110, 2015.
+
+\bibitem{Jorge2012}
+Carlos Jorge and Rodrigues Capela.
+\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
+\newblock (April), 2012.
 
 \bibitem{Macdonald2014}
 Malcolm Macdonald and Viorel Badescu.

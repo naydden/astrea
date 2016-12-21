@@ -24,12 +24,12 @@
 \contentsline {subsection}{\numberline {1.5.3}Study of the commercial available options and options chosen}{15}{subsection.1.5.3}
 \contentsline {section}{\numberline {1.6}Link Budget}{17}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Communications Basics}{17}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Propagation losses}{19}{subsection.1.6.2}
-\contentsline {subsubsection}{\numberline {1.6.2.1}Free Space Losses}{19}{subsubsection.1.6.2.1}
+\contentsline {subsection}{\numberline {1.6.2}Propagation losses}{18}{subsection.1.6.2}
+\contentsline {subsubsection}{\numberline {1.6.2.1}Free Space Losses}{18}{subsubsection.1.6.2.1}
 \contentsline {subsubsection}{\numberline {1.6.2.2}Atmospheric Losses}{19}{subsubsection.1.6.2.2}
 \contentsline {paragraph}{Attenuation}{20}{section*.6}
 \contentsline {paragraph}{Rain attenuation}{20}{section*.7}
-\contentsline {paragraph}{Gas absorption}{21}{section*.8}
+\contentsline {paragraph}{Gas absorption}{20}{section*.8}
 \contentsline {paragraph}{Polarization}{22}{section*.10}
 \contentsline {paragraph}{Sky noise}{22}{section*.11}
 \contentsline {paragraph}{AstreaSAT noise temperature}{23}{section*.14}
@@ -37,7 +37,7 @@
 \contentsline {subsubsection}{\numberline {1.6.2.3}Pointing Losses}{23}{subsubsection.1.6.2.3}
 \contentsline {subsubsection}{\numberline {1.6.2.4}Multipath and Fade Margin}{24}{subsubsection.1.6.2.4}
 \contentsline {subsection}{\numberline {1.6.3}Local Losses}{24}{subsection.1.6.3}
-\contentsline {subsubsection}{\numberline {1.6.3.1}Equipament Losses}{24}{subsubsection.1.6.3.1}
+\contentsline {subsubsection}{\numberline {1.6.3.1}Equipment Losses}{24}{subsubsection.1.6.3.1}
 \contentsline {paragraph}{Feeder Losses}{24}{section*.16}
 \contentsline {subsubsection}{\numberline {1.6.3.2}Environment Losses}{24}{subsubsection.1.6.3.2}
 \contentsline {subsection}{\numberline {1.6.4}Modulation Technique}{24}{subsection.1.6.4}
