@@ -1,9 +1,23 @@
 \begin{thebibliography}{10}
 
+\bibitem{Vallado2007}
+D.A. Vallado.
+\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
+\newblock Springer-Verlag New York, 3 edition, 2007.
+
 \bibitem{Curtis2010}
 Howard~D. Curtis.
 \newblock {\em {Orbital Mechanics for Engineering Students}}.
 \newblock Butterworth-Heinemann, Burlington, 2 edition, 2010.
+
+\bibitem{annex6}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX VI: Matlab Scripts}.
+\newblock 2016.
 
 \bibitem{GPS}
 U.S. Air~Force GPS.
@@ -33,11 +47,6 @@ J.G. Walker.
 \newblock {Continuous whole-Earth coverage by circular-orbit satellite
   patterns}.
 \newblock {\em Royal Aircraft Establishment. Technical report 77044}, 1977.
-
-\bibitem{Vallado2007}
-D.A. Vallado.
-\newblock {\em {Fundamentals of Astrodynamics and Applications}}.
-\newblock Springer-Verlag New York, 3 edition, 2007.
 
 \bibitem{Bate1971}
 R.R. Bate, D.D. Mueller, and J.E. White.
