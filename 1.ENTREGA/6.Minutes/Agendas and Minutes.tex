@@ -1,0 +1,106 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% LaTeX Template
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{doc_config/doc_config} % Document Configurations
+
+\input{doc_config/doc_info} % Document information
+
+\input{doc_config/headers_and_footers} % Headers and footers
+
+\input{doc_config/defined_stuff} % User defined environments
+
+% Paragraph formatting
+\setlength{\parindent}{0pt}
+
+\usepackage{epigraph}
+\usepackage{tocloft}
+
+
+\usepackage{multicol}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\input{./doc_config/cover} % COVER
+\newpage\thispagestyle{EmptyPage}
+\mbox{}\newpage
+
+\pagenumbering{roman}
+
+% TABLE OF CONTENTS
+\setcounter{tocdepth}{3}
+\tableofcontents
+\pagebreak
+
+%%\mbox{}\newpage
+%\renewcommand{\cfttabnumwidth}{4em}
+%\listoftables
+%\pagebreak
+%
+%%\mbox{}\newpage
+%\renewcommand{\cftfignumwidth}{4em}
+%\listoffigures
+
+
+% DOCUMENT SECTIONS
+
+\newpage
+\pagenumbering{arabic}
+
+\newpage
+\setlength{\parskip}{1em}
+
+% AIM
+% SCOPE
+% REQUIREMENTS
+% BACKGROUND
+%% ORBITS
+	% STATE OF THE ART
+	% MAIN ALTERNATIVES AND DECISION OF THE BEST ONE
+	% DEVELOPMENT OF THE CHOSEN SOLUTION
+%% COMMS
+	% STATE OF THE ART
+	% MAIN ALTERNATIVES AND DECISION OF THE BEST ONE
+	% DEVELOPMENT OF THE CHOSEN SOLUTION
+%% SATELLITE
+	% STATE OF THE ART
+	% MAIN ALTERNATIVES AND DECISION OF THE BEST ONE
+	% DEVELOPMENT OF THE CHOSEN SOLUTION
+%% CONSTELLATION DEPLOYMENT, REPLACEMENT AND CRITICAL FAILURE
+	% STATE OF THE ART
+	% MAIN ALTERNATIVES AND DECISION OF THE BEST ONE
+	% DEVELOPMENT OF THE CHOSEN SOLUTION	
+% ECONOMICAL FEASIBILITY STUDY
+% SOCIAL AND SECURITY CONSIDERATIONS
+% PLANNING AND SCHEDULING FOR THE FOLLOW-UP
+% CONCLUSIONS, RECOMMENDATIONS AND PERSONAL LESSON
+% BIBLIOGRAPHY AND REGULATIONS
+\chapter{Agendas}
+\includepdf[pages={1-}]{Agendas.pdf}
+\chapter{Minutes}
+\includepdf[pages={1-}]{Minutes.pdf}
+
+% BIBLIOGRAPHY
+
+% styles:
+%	abbrv   : [#] Initial. Surname (pages and vol. abbrev.)
+% 	acm     : [#] Surname, Initial. (sc)
+%	alpha   : [Abrev.yy] Name Surname
+%	apalike : [Surname, yyyy] Surname, Initial 
+%	ieeetr  : [#] Initial. Surname (pages and vol. ext.)
+%	plain   : [#] Name Surname
+%	siam    : [#] Initial. Surname (sc)
+%	unsrt   : [#] Name Surname
+
+
+\end{document}
