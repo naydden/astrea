@@ -2,11 +2,11 @@
 
 The first step to build a satellite network with global coverage is to compute a single satellite footprint.
 
-The footprint of a satellite is defined as the region of Earth where a single satellite can be seen. This Earth coverage surface provided is spherical and depens on some orbital paramaeters such as:
+The footprint of a satellite is defined as the region of Earth where a single satellite can be seen. This Earth coverage surface provided is spherical and depends on some orbital parameters such as:
 
 \begin{itemize}
 \item \textbf{Height}. When increasing height the footprint of a satellite grows.
-\item \textbf{Elevation angle}. When increasing the elevation angle, which is the angle between the satellite and the horizontal plane of an arbitrari point of the Eartg, the surface seen by the satellites descreases. (This parameter will be later studied in detail)
+\item \textbf{Elevation angle}. When increasing the elevation angle, which is the angle between the satellite and the horizontal plane of an arbitrary point of the Earth, the surface seen by the satellites decreases. (This parameter will be later studied in detail)
 \end{itemize}
 
 \subsection{Footprint Computation}
@@ -18,7 +18,7 @@ The footprint of a satellite is defined as the region of Earth where a single sa
 	\label{fig:AngleSSatFoot}
 \end{figure}
 
-In order to compute the coverage area we must solve the triangle depicted in figure~\ref{fig:AngleSSatFoot} where the basic geometry of a satellite footprint is shown. The MATLAB routine that does this calculation is found in [{REF TO ANNEX VII. Satellite Footprint}]
+In order to compute the coverage area we must solve the triangle depicted in figure~\ref{fig:AngleSSatFoot} where the basic geometry of a satellite footprint is shown. The MATLAB routine that does this calculation is found in \cite[Chapter 1, Section 1]{annex6}
 
 The most needed parameters are the distance from a random point on Earth (where we can suppose our ground station to be) to the satellite denoted by $d$ and the central angle, denoted with a $\beta$ .
  
@@ -50,7 +50,7 @@ d cos\epsilon=\left(R_{earth}+h\right)sin\beta \\
 \label{eq:solvb}
 \end{equation}
 
-Once the central angle $\beta$ has been computed we are able to obtain the footprint satellite's are using the equetion below:
+Once the central angle $\beta$ has been computed we are able to obtain the footprint satellite's are using the equation below:
 
 \begin{equation}
 \begin{gathered}

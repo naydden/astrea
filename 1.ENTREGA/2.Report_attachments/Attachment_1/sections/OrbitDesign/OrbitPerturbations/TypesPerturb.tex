@@ -3,17 +3,17 @@
 %We are unstoppppable --> DAB DAB DAB
 \label{TypesPerturb}
 
-All the perturbations can be deeply studied.  Consequently, analytical solutions are very hard to find, and even they were found, they do not show clealy a meaning or are not really useful. Instead, there are two mainly used approaches:
+All the perturbations can be deeply studied.  Consequently, analytical solutions are very hard to find, and even they were found, they do not show clearly a meaning or are not really useful. Instead, there are two mainly used approaches:
 \begin{itemize}
-\item Special Perturbacion: Step-by-step numerical integration of the motion equations with perturbation.
+\item Special Perturbations: Step-by-step numerical integration of the motion equations with perturbation.
 \item General Perturbation: Through analytical expansion and integration of the equations of variation of orbit parameters.
 \end{itemize}
 
 \subsubsubsection*{The Approach of the Perturbations Study}
-For the purposes of these study the different approaches will be assessed. The first analysis will discuss which of the peturbations are the most significant to the study. This analysis will be done considering General Perturbation Techniques. In a deeper second analysis, the two approaches for the perturbations will be assessed and compared considering only the most significant perturbation sources.
+For the purposes of these study the different approaches will be assessed. The first analysis will discuss which of the perturbations are the most significant to the study. This analysis will be done considering General Perturbation Techniques. In a deeper second analysis, the two approaches for the perturbations will be assessed and compared considering only the most significant perturbation sources.
 
 \subsection{Gravity Potential of Earth}
-Earth's aspherical shape can be modelled as a sum of terms corresponding to the Legendre polynomials. These polynomials can be empirically measured and consider radial symmetry. If one would like to compute also variations in longitude, then should use associated Legendre polynomials.
+Earth's spherical shape can be modelled as a sum of terms corresponding to the Legendre polynomials. These polynomials can be empirically measured and consider radial symmetry. If one would like to compute also variations in longitude, then should use associated Legendre polynomials.
 
 \begin{equation}
 V(r,\delta,\lambda) = -\frac{\mu}{r} \left [\sum_{n=1}^{\infty }\left  ( \frac{R_{e}}{r} \right ) ^{n} \sum_{m=0}^{n}P_{nm} cos(\delta )(C_{nm}cos m\lambda + S_{nm}sin m\lambda)  \right ]
@@ -34,15 +34,15 @@ $J_{2} = 0.00108263$
 $J_{3} = -0.00000254$
 $J_{4} = -0.00000161$
 
-Given this distribution, the only sognificant term $J_{2}$.
+Given this distribution, the only significant term $J_{2}$.
 
 \begin{equation}
 V(r,\delta) = -\frac{\mu}{r} \left [1-\frac{1}{2}   J_{2}\left( \frac{R_{e}}{r}\right) ^{2} (1-3sin^2\delta  \right ]
 \end{equation}
 
-Aproximated Gravitational Potential
+Approximated Gravitational Potential
 
-If we integrate the force that derives from this potential we can afterwards compute the effect of $J_{2}$ On the different orbtial elements:
+If we integrate the force that derives from this potential we can afterwards compute the effect of $J_{2}$ On the different orbital elements:
 
 \begin{itemize}
 \item $\Delta a = 0$
@@ -68,7 +68,7 @@ In order to compute the effect of the remaining atmosphere we use the typical de
 The \textbf{ballistic coefficient $B_{c}$} is defined as $\frac{m}{C_{d}A}$, characterizing the behaviour of the satellite against atmospheric drag.
 
 \subsubsubsection*{Modelling the Atmosphere}
-There are several modells for the atmosphere. For instance, the most commonly used, the exponential model:
+There are several models for the atmosphere. For instance, the most commonly used, the exponential model:
 
 \begin{equation}
 \rho = \rho_{0} e^{-\frac{h-h_{0}}{H}}
@@ -121,7 +121,7 @@ Again, if we integrate this force in a period of time, considering the orbit nea
 \end{equation}
 
 \subsection{3rd Body Perturbations}
-The effects of this extra bodies in the system can be computed considering the motion equations. However, some aproximations can be found in the reference as:
+The effects of this extra bodies in the system can be computed considering the motion equations. However, some approximations can be found in the reference as:
 
 \begin{equation}
 \dot{\Omega} = \frac{A_{m}+A_{s}}{n} cos \,i \;[º/day]

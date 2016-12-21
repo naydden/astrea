@@ -1,11 +1,11 @@
-In order to maintain the configuration of the constellation for a longer time, a thruster is installed in each satellite to correct the decrease in altitude due to the orbit decay. To maintain the altitude the thruster will apply a velocity increment to the satellite to change its orbit and, consequently, its altitude. This is a maneuver. It can be an impulsive maneuver, in which the velocity increment is added instantaneously, or non-impulsive, in which $\Delta$V is applied during a significant amount of time. The optimal maneuver is an impulsive one, the Hohmann transfer, a single-impulse maneuver. Hohmann has the best relation between propellant consumed and time required to do the maneuver. However, non-impulsive maneuvers like low-thrust maneuver require lower velocity increments and are less propellant-consuming.
+In order to maintain the configuration of the constellation for a longer time, a thruster is installed in each satellite to correct the decrease in altitude due to the orbit decay. To maintain the altitude the thruster will apply a velocity increment to the satellite to change its orbit and, consequently, its altitude. This is a manoeuvre. It can be an impulsive manoeuvre, in which the velocity increment is added instantaneously, or non-impulsive, in which $\Delta$V is applied during a significant amount of time. The optimal manoeuvre is an impulsive one, the Hohmann transfer, a single-impulse manoeuvre. Hohmann has the best relation between propellant consumed and time required to do the manoeuvre. However, non-impulsive manoeuvres like low-thrust manoeuvres require lower velocity increments and are less propellant-consuming.
 
-To maintain the altitude, Astrea satellites will compute a low-thrust maneuver. However, since this is a preliminar study, the calculations will be computed for a Hohmann transfer maneuver, which is simpler and requires more propellant and greater increases of velocity. That is, by computing the velocity and propellant needed for a Hohmann maneuver, the results will be safe for a low-trust maneuver, because the late one requires less energy.
+To maintain the altitude, Astrea satellites will compute a low-thrust manoeuvre. However, since this is a preliminary study, the calculations will be computed for a Hohmann transfer manoeuvre, which is simpler and requires more propellant and greater increases of velocity. That is, by computing the velocity and propellant needed for a Hohmann manoeuvre, the results will be safe for a low-trust manoeuvre, because the late one requires less energy.
 
 \subsubsubsection*{Orbit maintenance}
-The method proposed begins when the satellite is deployed at a given height. This height will decrease due to the orbit decay, reaching a critical value, a limit altitude. Once this critical altitude is achieved, the satellite is put once again at its initial height through a Hohmann maneuver. The process is repeated several times until the satellite runs out of propellant or until it reaches its desired lifetime. All the calculations needed are developed in \cite[Chapter 4, Section 3]{annex1}.
+The method proposed begins when the satellite is deployed at a given height. This height will decrease due to the orbit decay, reaching a critical value, a limit altitude. Once this critical altitude is achieved, the satellite is put once again at its initial height through a Hohmann manoeuvre. The process is repeated several times until the satellite runs out of propellant or until it reaches its desired lifetime. All the calculations needed are developed in \cite[Chapter 4, Section 3]{annex1}.
 
-As mentioned before, in reality the satellite will perform a low-thrust maneuver, which is more practical for an electric thruster. In this non-impulsive maneuver, the thruster is constantly providing a velocity increment to the satellite, but it is so small that the whole transfer maneuver requires a lot of time. This means that it is not necessary to wait until the satellite reaches the critical altitude. The maneuver will start when the satellite is deployed or when it reaches a given altitude (higher than the critical altitude) so that it counteracts the effect of the orbital decay.
+As mentioned before, in reality the satellite will perform a low-thrust manoeuvre, which is more practical for an electric thruster. In this non-impulsive manoeuvre, the thruster is constantly providing a velocity increment to the satellite, but it is so small that the whole transfer manoeuvre requires a lot of time. This means that it is not necessary to wait until the satellite reaches the critical altitude. The manoeuvre will start when the satellite is deployed or when it reaches a given altitude, so that it counteracts the effect of the orbital decay.
 
 \subsubsubsection*{Results}
 The results are computed for a 3U CubeSat with an ion thruster. The characteristics of the thruster are the ones shown on table \ref{thrustspimpulse}. For more information on the thruster refer to section \ref{ch:PropulsionSystems}.
@@ -24,9 +24,9 @@ Specific Impulse & 2150 s \\
 \end{center}
 \end{table}
 
-The first parameters to be defined are the maximum and minimum height of the orbit, mesured from the surface of the Earth. The maximum height is the altitude at which the satellite is deployed, and minimum height is the altitude at which the Hohmann transfer maneuver is applied.
+The first parameters to be defined are the maximum and minimum height of the orbit, measured from the surface of the Earth. The maximum height is the altitude at which the satellite is deployed, and minimum height is the altitude at which the Hohmann transfer manoeuvre is applied.
 
-Figure \ref{fig:hohmann3km} is an example of the height variation of the satellite using the Hohmann maneuver to reach the maximum height once the satellite is in the minimum height. The results of this maneuver are:
+Figure \ref{fig:hohmann3km} is an example of the height variation of the satellite using the Hohmann manoeuvre to reach the maximum height once the satellite is in the minimum height. The results of this manoeuvre are:
 
 \begin{minipage}{\textwidth}
 \begin{minipage}[b]{0.49\textwidth}
@@ -45,7 +45,7 @@ Maximum height & 545 km \\
 \hline
 Minimum height & 542 km \\
 \hline
-Number of Hohmann Maneuvers & 32 \\
+Number of Hohmann manoeuvres & 32 \\
 \hline
 Maximum $\Delta$V\textsubscript{1} & 0,8237 m/s \\
 \hline
@@ -63,9 +63,9 @@ Lifetime of the satellite & 33,3288 years \\
 }
 \end{minipage}
 
-Since the thruster used is an ion thruster, the specific impulse is big, and the mass propellant is very low. In this case, the variation of height due to the orbit decay is approximately 3 km per year, so the thruster needs to do a Hohmann maneuver per year. With only 10 g of propellant, the lifetime of the satellite is over 30 years.
+Since the thruster used is an ion thruster, the specific impulse is big, and the mass of propellant used is very low. In this case, the variation of height due to the orbit decay is approximately 3 km per year, so the thruster needs to do a Hohmann manoeuvre per year. With only 10 g of propellant, the lifetime of the satellite is over 30 years.
 
-Figure \ref{fig:hohmann80m} is another example of the Hohmann maneuver with the same amount of propellant but with a more restrictive range of operational heights, only 80 m. It should have the same shape as Figure \ref{fig:hohmann3km}, but since a lot of maneuvers are applied, the lines have overlapped. The characteristics of this maneuver are:
+Figure \ref{fig:hohmann80m} is another example of the Hohmann manoeuvre with the same amount of propellant but with a more restrictive range of operational heights, only 80 m. It should have the same shape as figure \ref{fig:hohmann3km}, but since a lot of manoeuvres are applied, the lines have overlapped. The characteristics of this manoeuvre are:
 
 \begin{minipage}{\textwidth}
 \begin{minipage}[b]{0.49\textwidth}
@@ -84,7 +84,7 @@ Maximum height & 545 km \\
 \hline
 Minimum height & 544,92 km \\
 \hline
-Number of Hohmann Maneuvers & 1200 \\
+Number of Hohmann manoeuvres & 1200 \\
 \hline
 Maximum $\Delta$V\textsubscript{1} & 0,0221 m/s \\
 \hline
@@ -102,6 +102,6 @@ Lifetime of the satellite & 34,5726 years \\
 }
 \end{minipage}
 
-Comparing these results with the previous ones, it can be seen that with a more restrictive range of heights, the lifetime of the satellite is practically the same. The velocity increments are lower because the difference in the heights is extremely low, but at the same time, the satellite reaches before the minimum height and the number of maneuvers needed to maintain the satellite in this range are many more than on the other case. Since the $\Delta$V budget is practically the same in both cases, it can be assured that the only difference between them is the number of maneuvers computed.
+Comparing these results with the previous ones, it can be seen that with a more restrictive range of heights, the lifetime of the satellite is practically the same. The velocity increments are lower because the difference in the heights is extremely low, but at the same time, the satellite reaches before the minimum height and the number of manoeuvres needed to maintain the satellite in this range are many more than on the other case. Since the $\Delta$V budget is practically the same in both cases, it can be assured that the only difference between them is the number of manoeuvres computed.
 
-As mentioned earlier, the results obtained are for a Hohmann maneuver when in reality the satellite will compute a low-thrust maneuver, that requires less velocity increments and less propellant. In conclusion, taking into account these results, it can be stated that the lifetime of the satellite will not be determined by its orbit decay but for the failure of its systems or other external causes. It can also be assured that the satellite is capable of carrying enough propellant to maintain its altitude and to compute other maneuvers if necessary.
+As mentioned earlier, the results obtained are for a Hohmann manoeuvre when in reality the satellite will compute a low-thrust manoeuvre, that requires less velocity increments and less propellant. In conclusion, taking into account these results, it can be stated that the lifetime of the satellite will not be determined by its orbit decay but for the failure of its systems or other external causes. It can also be assured that the satellite is capable of carrying enough propellant to maintain its altitude and to compute other manoeuvres if necessary.

@@ -8,10 +8,10 @@
 \contentsline {subsubsection}{\numberline {1.1.1.3}Demand}{3}{subsubsection.1.1.1.3}
 \contentsline {subsection}{\numberline {1.1.2}Pricing the service}{4}{subsection.1.1.2}
 \contentsline {section}{\numberline {1.2}Economic Feasibility Report}{4}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Previous costs}{4}{subsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.1.1}Engineering hours}{4}{subsubsection.1.2.1.1}
+\contentsline {subsection}{\numberline {1.2.1}Previous costs}{5}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Engineering hours}{5}{subsubsection.1.2.1.1}
 \contentsline {subsubsection}{\numberline {1.2.1.2}Administration costs}{6}{subsubsection.1.2.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1.3}Taxes}{6}{subsubsection.1.2.1.3}
+\contentsline {subsubsection}{\numberline {1.2.1.3}Taxes}{7}{subsubsection.1.2.1.3}
 \contentsline {subsubsection}{\numberline {1.2.1.4}Insurance}{7}{subsubsection.1.2.1.4}
 \contentsline {subsection}{\numberline {1.2.2}Economic feasibility study}{8}{subsection.1.2.2}
 \contentsline {section}{\numberline {1.3}Conclusions of the financial study}{10}{section.1.3}

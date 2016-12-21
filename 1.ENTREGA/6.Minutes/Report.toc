@@ -1,4 +1,2 @@
-\contentsline {chapter}{List of Tables}{ii}{section*.1}
-\contentsline {chapter}{List of Figures}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Agendas}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Minutes}{25}{chapter.2}
+\contentsline {chapter}{\numberline {2}Minutes}{31}{chapter.2}

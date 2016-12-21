@@ -169,6 +169,15 @@ David Naylor, Alessandro Finamore, Ilias Leontiadis, Yan Grunenberger, Marco
 \newblock {\em Proceedings of the 10th ACM International on Conference on
   Emerging Networking Experiments and Technologies}, pages 133--140, 2014.
 
+\bibitem{annex6}
+Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
+  Fraixedas, Boyan Naydenov, Morata Carranza, Marina Pons, Josep~Maria Serra,
+  Eva~Mar{\'{i}}a Urbano, Joan Cebri{\'{a}}n, Oscar Fuentes, Fernando
+  Herr{\'{a}}n, V{\'{i}}ctor Mart{\'{i}}nez, S{\'{i}}lvia Gonz{\'{a}}lez, David
+  Morata, and Xavier Ti{\'{o}}.
+\newblock {ANNEX VI: Matlab Scripts}.
+\newblock 2016.
+
 \bibitem{EUI}
 {Energy Star}.
 \newblock {US Energy Use Intensity by Property Type}, 2016.

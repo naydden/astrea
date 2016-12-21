@@ -35,7 +35,7 @@ $n_{p}$            & Number of Planes                          \\ \hline
 $N_{pp}$           & Number of Satellites per plane            \\ \hline
 $$S$$              & Separation between satellites of the same plane \\ \hline
 $$D$$              & General space between planes {[}º{]}      \\ \hline
-$D_{0}$            & Space between antiparallel planes {[}º{]} \\ \hline
+$D_{0}$            & Space between anti parallel planes {[}º{]} \\ \hline
 $\varepsilon$      & Elevation angle {[}º{]}                   \\ \hline
 $\lambda_{street}$ & Street of coverage Width {[}º{]}          \\ \hline
 $\lambda_{max}$    & Maximum footprint Radius {[}º{]}          \\ \hline
@@ -65,7 +65,7 @@ $$cos(\lambda_{street}) = cos(\lambda_{street})/cos(S/2)$$
 From this point of view, in general:
 $$D = \lambda_{street} + \lambda_{max}$$
 n
-For the antiparallel planes:
+For the anti parallel planes:
 $$D_{0} = 2\lambda_{street}$$
 
 And the overall relationship between planes sums:
@@ -95,6 +95,7 @@ A MATLAB routine has been designed to compute the previously described algorithm
 
 %\subsubsubsection*{General Solution}
 %The program in runned in a broad range of parameters to see the evolution of the number of satellites. As it can be predicted, as the height increases the number of satellites is reduced. The reason is that the footprint of the satellites increases with the height. In addition, as the minimum elevation over the horizon to contact the satellites is reduced, the number of satellites is also reduced for the same reason.
+
 
 %\begin{figure}[H]
 %\begin{center}

@@ -1,9 +1,9 @@
-In the following lines, a study of the location of the Ground Sations will be carried in order to know the optinal location for them. As it has been stated in the report, the study has been done using a Matlab code that can be found in [{REF TO ANNEX VI. Section 14}].
+In the following lines, a study of the location of the Ground Stations will be carried in order to know the optimal location for them. As it has been stated in the report, the study has been done using a Matlab code that can be found in \cite[Chanel 1, Section 12]{annex6}.
 
 The code evaluates the visibility of a ground stations over time. For a given time, it computes the number of satellites that it has in sight. This analysis is done for a significant period of time in invertavals of a fixed time step.
 
 \subsection{Latitude analysis}
-Is easy to see that the effect of changing the latitude is practically independent for the longitude. For this reason, the links during the day for a given longitude are studied independently of the latitude and viceversa. Doing the analysis for latitudes between 0º and 90º during 2 days, with 5 minutes time-step, this are the results:
+Is easy to see that the effect of changing the latitude is practically independent for the longitude. For this reason, the links during the day for a given longitude are studied independently of the latitude and vice versa. Doing the analysis for latitudes between 0º and 90º during 2 days, with 5 minutes time-step, this are the results:
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{0_30_90_lat.jpg}
@@ -57,7 +57,7 @@ The better performance is registered around 60º and 65º. Figure \ref{fig:lat5}
 \label{fig:lat6}
 \end{center}
 \end{figure}
-In Figure \ref{fig:lat6} there is no problem with the coverage. For ensuring the results and to avoid possible loses of links locally in time, the same ragne of latitudes is analyze with a smaller time-step.
+In Figure \ref{fig:lat6} there is no problem with the coverage. For ensuring the results and to avoid possible loses of links locally in time, the same range of latitudes is analysed with a smaller time-step.
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{575_25_675_(30s)_lat.jpg}
@@ -89,7 +89,7 @@ It is intuitive to think that the effect of changing the longitude is delaying t
 \label{fig:long1}
 \end{center}
 \end{figure}
-As it is seen in Figure \ref{fig:long1} the delay has a reason of 3 hours for every 45º of longitude. This effect can be used in order to optimize the performance of the Ground Stations. During the day every station will have a peak and a valley in the coverage. Placing the stations with a relative longitude of 120º would ensure that when one is at the valley another one is at the peak:
+As it is seen in Figure \ref{fig:long1} the delay has a reason of 3 hours for every 45º of longitude. This effect can be used in order to optimise the performance of the Ground Stations. During the day every station will have a peak and a valley in the coverage. Placing the stations with a relative longitude of 120º would ensure that when one is at the valley another one is at the peak:
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.30]{0_120_240_long.jpg}
