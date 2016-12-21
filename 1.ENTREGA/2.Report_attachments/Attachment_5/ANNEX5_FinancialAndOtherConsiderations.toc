@@ -38,6 +38,5 @@
 \contentsline {section}{\numberline {3.4}Launch system}{20}{section.3.4}
 \contentsline {chapter}{\numberline {4}Social and Security Considerations}{22}{chapter.4}
 \contentsline {section}{\numberline {4.1}Social and security considerations}{22}{section.4.1}
-\contentsline {paragraph}{}{24}{section*.8}
-\contentsline {section}{\numberline {4.2}Legislation}{24}{section.4.2}
+\contentsline {section}{\numberline {4.2}Legislation}{23}{section.4.2}
 \contentsline {chapter}{\numberline {5}Bibliography}{26}{chapter.5}
