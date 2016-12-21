@@ -1,7 +1,7 @@
 \chapter{Ground Segment Protocols}
 
 \section{Introduction}
-In the previous chapter the space protocols have been selected, so in this one the focus will be on the ground segment protocols. The information will be transmitted to the client using the Internet, so a part of the protocol is already established by the system. However, a secure protocol has to be defined above the Internet protocol to assure confidenciality to the client. The protocol used in the Internet is the TCP/IP protocol suite, that provides an end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received. The layer of this protocol that can be adjusted to our needs is the application layer. The application layer is an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communications network. In TCP/IP, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardizes communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client-server or peer-to-peer networking model. That means that the application layer is very important in Astrea project because it will define how the information is received by the client.\\
+In the previous chapter the space protocols have been selected, so in this one the focus will be on the ground segment protocols. The information will be transmitted to the client using the Internet, so a part of the protocol is already established by the system. However, a secure protocol has to be defined above the Internet protocol to assure confidentiality to the client. The protocol used in the Internet is the TCP/IP protocol suite, that provides an end-to-end data communication specifying how data should be packeted, addressed, transmitted, routed and received. The layer of this protocol that can be adjusted to our needs is the application layer. The application layer is an abstraction layer that specifies the shared protocols and interface methods used by hosts in a communications network. In TCP/IP, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardises communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client-server or peer-to-peer networking model. That means that the application layer is very important in Astrea project because it will define how the information is received by the client.\\
 In the following lines the different available protocols for the application layer depending on the presentation of data are explained.
 
 \section{Ground Segment protocols}
@@ -31,7 +31,7 @@ See more about SCTP in \cite{SMTP}
 \subsection{Hypertext Transfer Protocol (HTTP)} 
 The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 
-HTTP functions as a requestâ€“response protocol in the clientâ€“server computing model. A web browser, for example, may be the client and an application running on a computer hosting a website may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
+HTTP functions as a request-response protocol in the client-€“server computing model. A web browser, for example, may be the client and an application running on a computer hosting a website may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
 
 \subsection{Transport Layer Security (TLS)} 
 Transport Layer Security (TLS)is a cryptographic protocol that provides communications security over a computer network. Several versions of the protocol find widespread use in applications such as web browsing, email, Internet faxing, instant messaging, and voice-over-IP (VoIP). Major websites use TLS to secure all communications between their servers and web browsers.
@@ -50,11 +50,11 @@ HTTPS is a protocol for secure communication over a computer network which is wi
 See more about HTTP and HTTPS in \cite{HTTPS}
 
 \section{Conclusions} 
-At first, it has to be take in account that this layer provides the plataform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
+At first, it has to be take in account that this layer provides the platform in which the client will make contact with the service. At this point, not only the technical criteria should be considered, but also how do the service is presented. It has to be found a friendly use method for the client keeping the technical efficiency.
 
-Analazyng the previous protocols, avoiding the techincal details of each one, there are considered tthis 3 ways of working, with its advantages and drawbacks:
+Analazyng the previous protocols, avoiding the technical details of each one, there are considered this 3 ways of working, with its advantages and drawbacks:
 \begin{itemize}
-\item \textbf{Web.} This system would be based in HTTP an implemented with the corrseponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https adress where he/she wolud sign in with an account. When the user is verified, the client could request to download informaton of his satellite.
+\item \textbf{Web.} This system would be based in HTTP an implemented with the corresponding security protocols in order to ensure the privacy of the data. In this case the client wolud entry with its computer a https address where he/she would sign in with an account. When the user is verified, the client could request to download informaton of his satellite.
 
 \begin{itemize}
 \item Advantages: 
@@ -67,7 +67,7 @@ Analazyng the previous protocols, avoiding the techincal details of each one, th
 \end{itemize}
 \item Disadvantages:
 \begin{itemize}
-\item The web would be vulnerable to some type of attacks or problems that would compromise the data. This could aviod the communication between the user and the network.
+\item The web would be vulnerable to some type of attacks or problems that would compromise the data. This could avoid the communication between the user and the network.
 \item It would need several maintenance.
 \item There would be some type of data, like videos and photos, which the client would want to download as a file. So the web would have to be complemented with a file transfer protocol.
 \item The web would have to be designed.
@@ -84,12 +84,12 @@ Analazyng the previous protocols, avoiding the techincal details of each one, th
 \end{itemize}
 \item Disadvantages: 
 \begin{itemize}
-\item It could not be automatized, and this make it inefficient.
+\item It could not be automatised, and this make it inefficient.
 \item It is not very friendly to use for a client.
 \item If there is some information missing in the request the client would have to wait for an answer and then complete the information. 
 \end{itemize}
 \end{itemize}
-\item \textbf{Application}.  The idea is that the cient would operate in his computer with this software, and when he/she want to upload or download something, the program would use a secure internet channel to transfer the information. This system wolud be implemented over a FTP or a SSH. For using this method it has to be implemented a plataform for the client use.
+\item \textbf{Application}.  The idea is that the client would operate in his computer with this software, and when he/she want to upload or download something, the program would use a secure internet channel to transfer the information. This system would be implemented over a FTP or a SSH. For using this method it has to be implemented a platform for the client use.
 \begin{itemize}
 \item Advantages:
 \begin{itemize}
