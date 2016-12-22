@@ -1,9 +1,10 @@
 \contentsline {chapter}{List of Tables}{ii}{section*.1}
 \contentsline {chapter}{List of Figures}{iii}{section*.2}
-\contentsline {section}{\numberline {0.1}Communication Protocols}{1}{section.0.1}
-\contentsline {section}{\numberline {0.2}Ground segment}{1}{section.0.2}
-\contentsline {section}{\numberline {0.3}Satellite Configuration}{3}{section.0.3}
-\contentsline {subsubsection}{\numberline {0.3.0.1}Subsystems conceptual relations}{9}{subsubsection.0.3.0.1}
-\contentsline {section}{\numberline {0.4}Constellation Orbital Parameters}{12}{section.0.4}
-\contentsline {section}{\numberline {0.5}Satellites Orbits Table}{14}{section.0.5}
-\contentsline {section}{\numberline {0.6}Launch and Deployment}{19}{section.0.6}
+\contentsline {chapter}{\numberline {1}Communication Protocols}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Ground segment}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}Satellite Configuration}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Systems}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Subsystems conceptual relations}{10}{section.3.2}
+\contentsline {chapter}{\numberline {4}Constellation Orbital Parameters}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Satellites Orbits Table}{16}{section.4.1}
+\contentsline {chapter}{\numberline {5}Launch and Deployment}{22}{chapter.5}

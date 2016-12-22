@@ -1,9 +1,10 @@
 \BOOKMARK [0][-]{section*.1}{List of Tables}{}% 1
 \BOOKMARK [0][-]{section*.2}{List of Figures}{}% 2
-\BOOKMARK [1][-]{section.0.1}{Communication Protocols}{section*.2}% 3
-\BOOKMARK [1][-]{section.0.2}{Ground segment}{section*.2}% 4
-\BOOKMARK [1][-]{section.0.3}{Satellite Configuration}{section*.2}% 5
-\BOOKMARK [2][-]{subsubsection.0.3.0.1}{Subsystems conceptual relations}{section.0.3}% 6
-\BOOKMARK [1][-]{section.0.4}{Constellation Orbital Parameters}{section*.2}% 7
-\BOOKMARK [1][-]{section.0.5}{Satellites Orbits Table}{section*.2}% 8
-\BOOKMARK [1][-]{section.0.6}{Launch and Deployment}{section*.2}% 9
+\BOOKMARK [0][-]{chapter.1}{Communication Protocols}{}% 3
+\BOOKMARK [0][-]{chapter.2}{Ground segment}{}% 4
+\BOOKMARK [0][-]{chapter.3}{Satellite Configuration}{}% 5
+\BOOKMARK [1][-]{section.3.1}{Systems}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.2}{Subsystems conceptual relations}{chapter.3}% 7
+\BOOKMARK [0][-]{chapter.4}{Constellation Orbital Parameters}{}% 8
+\BOOKMARK [1][-]{section.4.1}{Satellites Orbits Table}{chapter.4}% 9
+\BOOKMARK [0][-]{chapter.5}{Launch and Deployment}{}% 10
