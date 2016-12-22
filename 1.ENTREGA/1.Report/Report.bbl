@@ -1,19 +1,30 @@
 \begin{thebibliography}{10}
 
-\bibitem{UKFees}
-{The Wireless Telegraphy (Licence Charges) Regulations}, 2011.
-
 \bibitem{keppler}
-{Kepler Communications}, 2016.
+{Kepler Communications}.
+\newblock \url{http://www.keplercommunications.com}.
+\newblock [Electronic] [Accessed: 2016-10-03].
 
 \bibitem{patch}
-{Patch antenna}, 2016.
+{Patch antenna}.
+\newblock \url{https://en.wikipedia.org/wiki/Patch{\_}antenna}.
+\newblock [Electronic] [Accessed: 2016-10-23].
 
 \bibitem{spire}
-{Rapidly Refreshed Satellite Based Data | Spire}, 2016.
+{Rapidly Refreshed Satellite Based Data | Spire}.
+\newblock \url{https://spire.com/}.
+\newblock [Electronic] [Accessed: 2016-11-03].
 
 \bibitem{qb50}
-{The von Karman Institute for Fluid Dynamics}, 2016.
+{The von Karman Institute for Fluid Dynamics}.
+\newblock \url{https://www.qb50.eu/}.
+\newblock [Electronic] [Accessed: 2016-10-20].
+
+\bibitem{UKFees}
+{The Wireless Telegraphy (Licence Charges) Regulations}.
+\newblock
+  \url{https://www.ofcom.org.uk/consultations-and-statements/category-3/telegraphy2005}.
+\newblock [Electronic] [Accessed: 2016-11-07].
 
 \bibitem{CndForm}
 {Canada Government}.
@@ -33,7 +44,7 @@ CCSDS.
 \bibitem{Chobotov2002}
 Vladimir~A Chobotov.
 \newblock {\em {Orbital Mechanics}}.
-\newblock 2002.
+\newblock AIAA education series, third edition, 2002.
 
 \bibitem{Howard}
 Howard~D.. Curtis.
@@ -43,7 +54,9 @@ Howard~D.. Curtis.
 
 \bibitem{XBand}
 Dartcom.
-\newblock {X-band EOS System}, 2014.
+\newblock {X-band EOS System}.
+\newblock \url{http://www.dartcom.co.uk/products/x-band-eos-system/overview}.
+\newblock [Electronic] [Accessed: 2016-11-13].
 
 \bibitem{SpaceWorks}
 {E. Buchen} and {D. DePasquale}.
@@ -105,28 +118,40 @@ Llu{\'{i}}s Foreman, Laura Pla, Josep Puig, Sergi Tarroc, Pol Fontanes, Roger
 
 \bibitem{UKMHzFees}
 United~Kingdom Government.
-\newblock {The wireless telegraphy (Recognised Spectrum Access Charges)}, 2015.
-
-\bibitem{Guide2016}
-Payload~User Guide.
-\newblock {Payload User's Guide}.
-\newblock (December), 2016.
+\newblock {The wireless telegraphy (Recognised Spectrum Access Charges)}.
+\newblock \url{http://www.legislation.gov.uk/uksi/2011/2762/introduction/made}.
+\newblock [Electronic] [Accessed: 2016-12-10].
 
 \bibitem{Iridium}
 Satellites Iridium.
 \newblock {The Iridium System}.
+\newblock \url{http://www.iridium.it/en/iridium.htm}.
+\newblock [Electronic] [Accessed: 2016-11-11].
 
 \bibitem{SBand}
 ISISpace.
 \newblock {Full Ground Station Kit for S-band}.
+\newblock
+  \url{https://www.isispace.nl/product/full-ground-station-kit-s-band/}.
+\newblock [Electronic] [Accessed: 2016-11-13].
 
 \bibitem{nanosats}
 Erik Kulu.
-\newblock {Nanosatellite and CubeSat Database}, 2016.
+\newblock {Nanosatellite and CubeSat Database}.
+\newblock \url{http://www.nanosats.eu/}.
+\newblock [Electronic] [Accessed: 2016-10-08].
 
 \bibitem{KyushuInstituteofTechnology2017}
 {Kyushu Institute of Technology}.
-\newblock {BIRDS project.}, 2017.
+\newblock {BIRDS project.}
+\newblock \url{http://birds.ele.kyutech.ac.jp/}.
+\newblock [Electronic] [Accessed: 2016-10-18].
+
+\bibitem{Guide2016}
+Rocket Lab.
+\newblock {Electron Rocket Payload User's Guide}.
+\newblock \url{https://www.rocketlabusa.com/electron/}.
+\newblock [Electronic] [Accessed: 2016-11-13].
 
 \bibitem{Macdonald2014}
 Malcolm Macdonald and Viorel Badescu.
@@ -145,21 +170,20 @@ NASA.
 \newblock {Small Spacecraft Technology State of the Art}.
 \newblock (August):1--197, 2016.
 
-\bibitem{UKAllocation}
-Ofcom.
-\newblock {UK Frequency Allocations for Satellite Earth Stations}, 2013.
-
 \bibitem{UKForm}
 Ofcom.
 \newblock {Application form OfQ564: Application for the Issue of Variation of a
-  Satellite (Non-Geostationary Earth Station Licence)}, 2016.
+  Satellite (Non-Geostationary Earth Station Licence)}.
+\newblock
+  \url{https://www.ofcom.org.uk/__data/assets/pdf_file/0023/8384/ofw103.pdf}.
+\newblock [Electronic] [Accessed: 2016-11-02].
 
-\bibitem{ISC}
-Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
-  Rodriguez-Osorio, Frank Pinto, and Scott Burleigh.
-\newblock {Survey of Inter-satellite Communication for Small Satellite Systems:
-  An OSI Framework Approach}.
-\newblock {\em IEEE Communications Surveys {\&} Tutorials}, (c):1--51, 2016.
+\bibitem{UKAllocation}
+Ofcom.
+\newblock {UK Frequency Allocations for Satellite Earth Stations}.
+\newblock
+  \url{https://www.ofcom.org.uk/manage-your-licence/radiocommunication-licences/satellite-earth/earth-stations}.
+\newblock [Electronic] [Accessed: 2016-11-02].
 
 \bibitem{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}
 {Secretar{\'{i}}a de Estado de telecomunicaciones y para la sociedad de la
@@ -171,7 +195,8 @@ Radhika Radhakrishnan, William Edmonson, Fatemeh Afghah, Ramon
 \bibitem{Secretariat2014}
 CCSDS Secretariat.
 \newblock {Overview of Space Communications Protocols}.
-\newblock (CCSDS 130.0-G-3):43, 2014.
+\newblock (CCSDS 130.0-G-3):43.
+\newblock [Electronic] [Accessed: 2016-12-18].
 
 \bibitem{Vallado2007}
 D.A. Vallado.
@@ -193,7 +218,10 @@ J.G. Walker.
 
 \bibitem{SBandDatasheet}
 IQ~wireless.
-\newblock {S Band Transceiver for Small Satellites.}, 2015.
+\newblock {S Band Transceiver for Small Satellites.}
+\newblock
+  \url{https://www.isispace.nl/product/full-ground-station-kit-s-band/}.
+\newblock [Electronic] [Accessed: 2016-10-08].
 
 \bibitem{Wood2003}
 Lloyd Wood.

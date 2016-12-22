@@ -96,7 +96,6 @@
 \contentsline {subsubsection}{\numberline {6.6.3.2}Spare Strategy Selection}{67}{subsubsection.6.6.3.2}
 \contentsline {subsection}{\numberline {6.6.4}Major failure definition}{68}{subsection.6.6.4}
 \contentsline {subsubsection}{\numberline {6.6.4.1}Decision}{68}{subsubsection.6.6.4.1}
-\contentsline {paragraph}{}{68}{section*.53}
 \contentsline {subsection}{\numberline {6.6.5}End-of-Life Strategy}{69}{subsection.6.6.5}
 \contentsline {chapter}{\numberline {7}Financial Study}{70}{chapter.7}
 \contentsline {chapter}{\numberline {8}Environmental Impact Study}{74}{chapter.8}
@@ -109,6 +108,6 @@
 \contentsline {subsection}{\numberline {10.3.2}Interdepency relationships, human resources and level of effort}{81}{subsection.10.3.2}
 \contentsline {section}{\numberline {10.4}Scheduling}{82}{section.10.4}
 \contentsline {chapter}{\numberline {11}Conclusions}{83}{chapter.11}
-\contentsline {section}{\numberline {11.1}Recommendations}{83}{section.11.1}
+\contentsline {section}{\numberline {11.1}Recommendations}{84}{section.11.1}
 \contentsline {section}{\numberline {11.2}Lesson Learnt}{84}{section.11.2}
 \contentsline {chapter}{\numberline {12}Bibliography}{86}{chapter.12}
